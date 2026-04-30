@@ -1,0 +1,149 @@
+/* Primary Elements */ 
+
+:root {
+    --primary-background: #FFFFFF;
+    --primary-text: #000000; 
+    --primary-accent: #FF2DAA; 
+    --secondary-accent: #1F2A8A;  
+}
+
+*, *::before, *::after {
+    box-sizing: border-box; 
+    margin: 0; 
+    padding: 0; 
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    color: var(--primary-text);
+    margin: 0;
+    display: grid; 
+    grid-template-rows: auto 1fr;
+}
+
+/* Header styling */ 
+
+header { 
+    height: 60px;
+    padding: 10px; 
+    display: flex; 
+    flex-direction: row; 
+    align-items: center;
+    justify-content: space-between; 
+    border-bottom: 2px solid black; 
+}
+
+header img {
+    max-height: 40px; 
+}
+
+header nav ul {
+    display: flex; 
+    flex-direction: row; 
+    gap: 20px; 
+    list-style-type: none; 
+}
+
+/* Button Handling */ 
+header nav ul li {
+    font-size: 1.2em;
+    cursor: pointer; 
+    border: 1px solid var(--secondary-accent);
+    padding: 5px; 
+    border-radius: 8px; 
+}
+
+header nav ul button {
+    cursor: pointer; 
+    padding: 5px; 
+    border-radius: 8px; 
+    font-size: 1.1em; 
+}
+
+header nav ul *:hover {
+    transition: 0.3s ease-out; 
+    transform: scale(1.1);
+    background-color: var(--primary-accent);
+}
+
+/* Main Styling */
+main {
+    overflow: hidden;
+}
+
+/* Map Styling */ 
+#map {
+    height: calc(100vh - 60px); 
+    width: 100%; 
+}
+
+/* Aside Styling */ 
+aside {
+    width: 300px; 
+    z-index: 1000;
+    position: fixed;   
+    left: -300px; 
+ 
+    transition: left 0.5s ease-out; 
+}
+
+/* Collapsible Aside */ 
+
+aside.open {
+    left: 0; 
+}
+
+.toggle-button {
+    position: absolute; 
+    right: -30px;  
+    top: 20px; 
+    border: none; 
+    color: white; 
+    background: var(--secondary-accent);
+    cursor: pointer; 
+    border-radius: 0 8px 8px 0;
+    font-size: 2em; 
+}
+
+.open .arrow {
+    display: inline-block; 
+    transform: rotate(180deg); 
+    transition: transform 0.5s; 
+}
+
+/* Collapsible Filters Styling */
+
+.reveal {
+    padding: 10px; 
+    border-radius: 8px; 
+    width: 100%;
+    color: var(--primary-text); 
+    background-color: white; 
+    border: 2px solid var(--secondary-accent);
+    cursor: pointer; 
+    text-align: left; 
+    outline: none; 
+    font-size: 15px; 
+}
+
+.active, .reveal:hover {
+    background-color: var(--primary-accent); 
+    transition: 0.3s ease; 
+}
+
+.reveal:active {
+    transform: scale(0.9); 
+}
+
+.content {
+    padding: 0 18px; 
+    margin: 0 0 10px; 
+    max-height: 0; 
+    overflow: hidden; 
+    background-color: white; 
+    text-align: left; 
+    transition: max-height 0.3s ease-out; 
+}

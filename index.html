@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="./styles.css" rel="stylesheet" type="text/css">
+<!-- Leaflet API CSS and JavaScript connection-->
+    <link 
+    rel="stylesheet" 
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin=""
+    />
+
+    <script 
+    src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin="">
+    </script>
+
+    <title>Radio Map</title>
+</head>
+<body>
+    <header>
+        <a href="https://p48marketing.com/">
+            <img src="./images/P48_Logo.png" />
+        </a>
+        <nav class="navbar">
+            <ul>
+                <li>About</li>
+                <li>Something</li>
+                <li>Something</li>
+                <button class="login">
+                    <a href="../index.html">Go BACK</a>
+                </button>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <aside id="filter-bar">
+            <button id="filter-toggle" class="toggle-button">
+                <span class="arrow">▶</span>
+            </button>
+            <!-- Radio Station Selection-->
+            <section class="section-reveal">
+                <button class="reveal">Radio Station</button>
+
+                <div class="content">
+                    <p>some text</p>
+                    <p>lorem is </p>
+                </div>
+            </section>
+
+            <!-- Location Selection-->
+            <section class="section-reveal">
+                <button class="reveal">Location</button>
+                
+                <div class="content">
+                    <p>some text</p>
+                    <p>lorem is </p>
+                </div>
+            <!-- -->
+            </section>
+            <section class="section-reveal">
+                <button class="reveal">Something</button>
+
+                <div class="content">
+                    <p>some text</p>
+                    <p>lorem is </p>
+                </div>
+            </section>
+            <section class="section-reveal">
+                <button class="reveal">Something else</button>
+
+                <div class="content">
+                    <p>some text</p>
+                    <p>lorem is </p>
+                </div>
+            </section>
+        </aside>
+        
+        <div id="map"></div>
+
+    </main>
+
+    <script src="index.js"></script>
+</body>
+</html>
