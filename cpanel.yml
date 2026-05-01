@@ -1,0 +1,7 @@
+---
+deployment: 
+  tasks: 
+    - export FRONTEND=/home/stamfor1/public_html/
+    - export BACKEND=/home/stamfor1/backend/
+    - /bin/cp index.html $FRONTEND
+    - /bin/cp index.css $FRONTEND

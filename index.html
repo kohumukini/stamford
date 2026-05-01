@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="./styles.css" rel="stylesheet" type="text/css">
+    <link rel="icon" type="image/png" href="./images/favicon_io/favicon.ico" >  
 <!-- Leaflet API CSS and JavaScript connection-->
     <link 
     rel="stylesheet" 
@@ -30,9 +31,7 @@
                 <li>About</li>
                 <li>Something</li>
                 <li>Something</li>
-                <button class="login">
-                    <a href="../index.html">Go BACK</a>
-                </button>
+                <li>Something</li>
             </ul>
         </nav>
     </header>
@@ -43,12 +42,33 @@
                 <span class="arrow">▶</span>
             </button>
             <!-- Radio Station Selection-->
-            <section class="section-reveal">
+            <section class="section-reveal" id="radio-station">
                 <button class="reveal">Radio Station</button>
 
                 <div class="content">
-                    <p>some text</p>
-                    <p>lorem is </p>
+                    <label for="station-search" >Search Stations</label>
+                    <input type="text" id="station-search" class="search" placeholder="Search stations..." autocomplete="off" />
+                    <ul id="station-list" class="hidden dropdown-list">
+                        </ul>
+
+                    <label for="genre-search">Search Genres</label>
+                    <input type="text" id="genre-search" class="search" placeholder="E.x. Top 40... " autocomplete="off" />
+                    <ul id="genre-list" class="hidden dropdown-list">
+                        </ul>
+
+                    <!-- Radio Broadcasting Type -->
+                    <fieldset>
+                        <legend>Choose Broadcasting Type</legend>
+                        <input type="radio" id="radio-am" name="broadcast-select"/>
+                        <label for="radio-am" >AM</label>
+
+                        <input type="radio" id="radio-pm" name="broadcast-select"/>
+                        <label for="radio-pm" >PM</label>
+
+                        <input type="radio" id="radio-both" name="broadcast-select"/>
+                        <label for="radio-both" >Both</label>
+                    </fieldset>
+
                 </div>
             </section>
 
