@@ -111,11 +111,11 @@ function showLocations() {
     locationMarkersLayer.clearLayers(); 
 
     const signalStyles = {
-        "very strong": { opacity: 0.5, color: '#e91e63' },
-        "strong":      { opacity: 0.3, color: '#e91e63' },
-        "moderate":    { opacity: 0.15, color: '#e91e63' },
-        "weak":        { opacity: 0.08, color: '#666666' }, 
-        "very weak":   {opacity: 0.05, color: '#777777'}
+        "very strong": { opacity: 0.6, color: '#e91e63' },
+        "strong":      { opacity: 0.4, color: '#e91e63' },
+        "moderate":    { opacity: 0.20, color: '#e91e63' },
+        "weak":        { opacity: 0.10, color: '#666666' }, 
+        "very weak":   {opacity: 0.08, color: '#777777'}
     };
 
     stations.forEach(station => {
@@ -136,7 +136,7 @@ function showLocations() {
             activeCircle = L.circle(station.coordinates, {
                 radius: rad, 
                 color: signalStrength.color, 
-                fillOpacity: signalStrength.opacity
+                opacity: signalStrength.opacity
             }).addTo(map); 
 
             map.flyTo(station.coordinates, 8); 
