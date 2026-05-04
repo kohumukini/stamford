@@ -90,3 +90,18 @@ document.addEventListener('click', (target) => {
         list.classList.add('hidden'); 
     }
 })
+
+/* Leaflet markers*/ 
+
+
+function showLocations() {
+    const locationsMap = new Map();
+    locationsMap.set("Seattle", [47.54, -122.11]); 
+    locationsMap.set("Spokane", [47.69, -117.34]); 
+    locationsMap.set("Tri-Cities", [45.99, -118.18]);
+
+    for (let [city, coordinates] of locationsMap) {
+        console.log(`${city} resides at lat/long ${coordinates}`); 
+        const marker = L.marker(coordinates).addTo(map);
+    }
+};
