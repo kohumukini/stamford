@@ -92,22 +92,44 @@ document.addEventListener('click', (target) => {
 })
 
 /* Leaflet mark*/ 
-
-const locationsMap = new Map([
-    ["Seattle", [47.54, -122.11]],
-    ["Spokane", [47.69, -117.34]],
-    ["Tri-Cities", [45.99, -118.18]]
-]);
+/**
+ * @important Make changes here in the future. This is hard-coded information
+ */ 
+const stations = new Map([
+    { city: "Olympia", coordinates: [47.03778, -122.90069], dist: 12.4, signal: "Very Strong", frequency: 98.5, color: "rgb(0, 174, 239)" }, 
+    { city: "Seattle", coordinates: [47.60621, -122.33207], dist: 12.0, signal: "Very Strong", frequency: 104.5, color: "rgb(0, 174, 239)" }, 
+    { city: "Spokane", coordinates: [47.65889, -117.42500], dist: 3.8, signal: "Very Strong", frequency: 106.5, color: "rgb(0, 174, 239)" }, 
+    { city: "Tri-Cities", coordinates: [46.22263, -119.18307], dist: 56.6, signal: "Moderate", frequency: 93.3, color: "rgb(0, 174, 239)" }, 
+    { city: "Longview", coordinates: [46.14011, -122.93789], dist: 51.3, signal: "Moderate", frequency: 90.3, color: "rgb(0, 174, 239)" }, 
+])
 
 const locationMarkersLayer = L.layerGroup(); 
 let showMarkers = false; 
+let activeCircle = null;
 
 function showLocations() {
     locationMarkersLayer.clearLayers(); 
 
-    for (let [city, coordinates] of locationsMap) {
-        L.marker(coordinates).bindPopup(`<b>${city}</b>`).addTo(locationMarkersLayer); 
-    }
+    const signalStyles = {
+        "very strong": { opacity: 0.5, color: '#e91e63' },
+        "strong":      { opacity: 0.3, color: '#e91e63' },
+        "moderate":    { opacity: 0.15, color: '#e91e63' },
+        "weak":        { opacity: 0.08, color: '#666666' }, 
+        "very weak":   {opacity: 0.05, color: '#777777'}
+    };
+
+    stations.forEach(station => {
+        const marker = L.marker(station.coordinates).bindPopup(`
+            <b>${station.city}</b></br>
+            Status: ${station.signal.toUpperCase()}<br>
+            Tower Distance: ${station.dist} miles
+            Frequency: ${station.frequency}
+            `);
+        const signalStrength = signalStyles[station.signal.toLowerCase()] || signalStyles["strong"]; 
+        const radius = station.dist * 1609.344;
+
+        
+    })
 
     locationMarkersLayer.addTo(map); 
     showMarkers = true; 
