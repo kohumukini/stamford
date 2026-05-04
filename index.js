@@ -90,3 +90,86 @@ document.addEventListener('click', (target) => {
         list.classList.add('hidden'); 
     }
 })
+
+/* Leaflet mark*/ 
+/**
+ * @important Make changes here in the future. This is hard-coded information
+ */ 
+const stations = [
+    { city: "Olympia", coordinates: [47.03778, -122.90069], dist: 12.4, signal: "Very Strong", frequency: "98.5 FM", color: "rgb(0, 174, 239)" }, 
+    { city: "Seattle", coordinates: [47.60621, -122.33207], dist: 12.0, signal: "Very Strong", frequency: "104.5 FM", color: "rgb(0, 174, 239)" }, 
+    { city: "Spokane", coordinates: [47.65889, -117.42500], dist: 3.8, signal: "Very Strong", frequency: "106.5 FM", color: "rgb(0, 174, 239)" }, 
+    { city: "Tri-Cities", coordinates: [46.22263, -119.18307], dist: 56.6, signal: "Moderate", frequency: "93.3 FM", color: "rgb(0, 174, 239)" }, 
+    { city: "Longview", coordinates: [46.14011, -122.93789], dist: 51.3, signal: "Moderate", frequency: "90.3 FM", color: "rgb(0, 174, 239)" }, 
+];
+
+const locationMarkersLayer = L.layerGroup(); 
+let showMarkers = false; 
+let activeCircle = null;
+
+function showLocations() {
+    locationMarkersLayer.clearLayers(); 
+
+    const signalStyles = {
+        "very strong": { opacity: 0.6, color: '#e91e63' },
+        "strong":      { opacity: 0.4, color: '#e91e63' },
+        "moderate":    { opacity: 0.20, color: '#e91e63' },
+        "weak":        { opacity: 0.10, color: '#666666' }, 
+        "very weak":   {opacity: 0.08, color: '#777777'}
+    };
+
+    stations.forEach(station => {
+        const marker = L.marker(station.coordinates).bindPopup(`
+            <b>${station.city}</b></br>
+            Status: ${station.signal.toUpperCase()}<br>
+            Tower Distance: ${station.dist} miles<br>
+            Frequency: ${station.frequency}
+            `);
+        const signalStrength = signalStyles[station.signal.toLowerCase()] || signalStyles["strong"]; 
+        const rad = station.dist * 1609.344;
+
+        marker.on('click', function() {
+            if (activeCircle) {
+                map.removeLayer(activeCircle); 
+            };
+
+            activeCircle = L.circle(station.coordinates, {
+                radius: rad, 
+                color: signalStrength.color, 
+                opacity: signalStrength.opacity
+            }).addTo(map); 
+
+            map.flyTo(station.coordinates, 8); 
+        })
+
+        marker.addTo(locationMarkersLayer);
+    })
+
+    locationMarkersLayer.addTo(map); 
+    showMarkers = true; 
+}
+
+function hideMarkers() {
+    map.removeLayer(locationMarkersLayer);
+
+    if (activeCircle) {
+        map.removeLayer(activeCircle); 
+        activeCircle = null; 
+    }
+
+    map.flyTo([40, -95.46], 5);
+    showMarkers = false; 
+}
+
+/**
+ * @important Set to focus Washington state
+ */
+
+function toggleMarkers() {
+    if (showMarkers) {
+        hideMarkers(); 
+    } else {
+        showLocations(); 
+        map.flyTo([47.4, -121.5], 7);
+    }
+}
