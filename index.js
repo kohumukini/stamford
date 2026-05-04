@@ -91,17 +91,37 @@ document.addEventListener('click', (target) => {
     }
 })
 
-/* Leaflet markers*/ 
+/* Leaflet mark*/ 
 
+const locationsMap = new Map([
+    ["Seattle", [47.54, -122.11]],
+    ["Spokane", [47.69, -117.34]],
+    ["Tri-Cities", [45.99, -118.18]]
+]);
+
+const locationMarkersLayer = L.layerGroup(); 
+let showMarkers = false; 
 
 function showLocations() {
-    const locationsMap = new Map();
-    locationsMap.set("Seattle", [47.54, -122.11]); 
-    locationsMap.set("Spokane", [47.69, -117.34]); 
-    locationsMap.set("Tri-Cities", [45.99, -118.18]);
+    locationMarkersLayer.clearLayers(); 
 
     for (let [city, coordinates] of locationsMap) {
-        console.log(`${city} resides at lat/long ${coordinates}`); 
-        const marker = L.marker(coordinates).addTo(map);
+        L.marker(coordinates).bindPopup(`<b>${city}</b>`).addTo(locationMarkersLayer); 
     }
-};
+
+    locationMarkersLayer.addTo(map); 
+    showMarkers = true; 
+}
+
+function hideMarkers() {
+    map.removeLayer(locationMarkersLayer);
+    showMarkers = false; 
+}
+
+function toggleMarkers() {
+    if (showMarkers) {
+        hideMarkers(); 
+    } else {
+        showLocations(); 
+    }
+}
