@@ -1,0 +1,151 @@
+#import libraries
+import requests
+import json
+import time
+import warnings
+warnings.filterwarnings("ignore")
+
+#Define variables
+def build_urls(state):
+
+    FM_URL = f"https://transition.fcc.gov/fcc-bin/fmq?state={state}&call=&city=&freq=0.0&fre2=107.9&type=0&list=4&size=9&Nt=0&Nd=1"
+    AM_URL = f"https://transition.fcc.gov/fcc-bin/amq?state={state}&call=&city=&freq=0&fre2=1700&type=0&list=4&size=9&Nt=0&Nd=1"
+    return FM_URL, AM_URL
+
+HEADERS = {
+    "User-Agent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+}
+
+REQUEST_DELAY = 1.5
+
+#first function - fetches url
+def fetch_stations(url):
+    print(f"Fetching data from: {url}")
+    response = requests.get(url, headers=HEADERS, verify=False)
+    
+    if response.status_code == 200:
+        print("Success! Data received.")
+        print(response.text[:500])
+        return response.text
+    else:
+        print(f"Something went wrong. Status code: {response.status_code}")
+        return None
+
+#second function - parsing data
+def parse_stations(raw_text):
+    stations = []
+    lines = raw_text.strip().split("\n")
+
+    for line in lines:
+        if line.startswith("|"):
+            line = line[1:]
+        fields = line.split("|")
+        fields = [f.strip() for f in fields]
+        if len(fields) < 20:
+            continue
+        
+        try:
+            call_sign = fields[0].strip()
+            city = fields[9].strip()
+            state = fields[10].strip()
+
+            lat_dir = fields[18].strip()
+            lat_deg = float(fields[19])
+            lat_min = float(fields[20])
+            lat_sec = float(fields[21])
+
+            lon_dir = fields[22].strip()
+            lon_deg = float(fields[23])
+            lon_min = float(fields[24])
+            lon_sec = float(fields[25])
+
+            if not call_sign or not city:
+                continue
+
+            latitude = round(lat_deg + lat_min / 60 + lat_sec / 3600, 6)
+            longitude = round(-(lon_deg + lon_min / 60 + lon_sec / 3600), 6)
+
+            if lat_dir == "S":
+                latitude = -latitude
+            if lon_dir == "E":
+                longitude = -longitude
+                
+            stations.append ({
+                "call_sign": call_sign,
+                "city": city,
+                "state": state,
+                "transmitter_location": {
+                    "wgs84_lat": latitude,
+                    "wgs84_lon": longitude
+                }
+            })
+
+        except (ValueError, IndexError):
+            continue
+    
+    return stations
+
+#main fucntion - calls fetch and parse functions, combines and saves data as geoJson
+def main():
+    print("Starting FCC station scraper")
+
+    VALID_STATES = ["AL","AK","AZ","AR","CA","CO","CT","DE","FL","GA","HI","ID","IL","IN","IA","KS","KY","LA","ME","MD","MA","MI","MN","MS","MO","MT","NE","NV","NH","NJ","NM","NY","NC","ND","OH","OK","OR","PA","RI","SC","SD","TN","TX","UT","VT","VA","WA","WV","WI","WY"]
+
+    state = input("Enter state code(e.g. WA, CA, OR): ").strip().upper()
+
+    if state not in VALID_STATES:
+        print(f"'{state}' is not a valid state code. Please try again.")
+        return
+
+    FM_URL, AM_URL = build_urls(state)
+
+    fm_raw = fetch_stations(FM_URL)
+    fm_stations = []
+    if fm_raw:
+        fm_stations = parse_stations(fm_raw)
+        print(f"Found {len(fm_stations)} FM stations")
+
+    time.sleep(REQUEST_DELAY)
+
+    am_raw = fetch_stations(AM_URL)
+    am_stations = []
+    if am_raw:
+        am_stations = parse_stations(am_raw)
+        print(f"Found {len(am_stations)} AM stations")
+
+    all_stations = fm_stations + am_stations
+    print(f"Total stations found: {len(all_stations)}")
+
+    geoJson = {
+        "type": "FeatureCollection",
+        "features": []
+    }
+
+    #Build GeoJson structure
+    for station in all_stations:
+        feature = {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    station["transmitter_location"]["wgs84_lon"],
+                    station["transmitter_location"]["wgs84_lat"]
+                ]
+            },
+            "properties": {
+                "call_sign": station["call_sign"],
+                "city": station["city"],
+                "state": station["state"]
+            }
+        }
+        geoJson["features"].append(feature)
+
+    #Save to file
+    output_file = f"{state.lower()}_radio_stations.geojson"
+    with open(output_file, "w") as f:
+        json.dump(geoJson, f, indent=2)
+    
+    print(f"Done! {len(all_stations)} stations saved to {output_file}")
+
+if __name__ == "__main__":
+    main()
