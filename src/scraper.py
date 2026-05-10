@@ -8,7 +8,7 @@ from pathlib import Path
 warnings.filterwarnings("ignore")
 
 #Define variables
-current_dir = Path.cwd()
+current_dir = Path(__file__).resolve().parent
 target_directory = current_dir.parent / "radio_data"
 target_directory.mkdir(parents = True, exist_ok = True)
 
@@ -71,6 +71,8 @@ def parse_stations(raw_text):
             lon_sec = float(fields[25])
             
             owner = fields[26].strip()
+            if not owner: 
+                owner = "Unknown"
 
             if not call_sign or not city:
                 continue
@@ -102,71 +104,98 @@ def parse_stations(raw_text):
     
     return stations
 
+def clean_frequency(frequency_str): 
+    try: 
+        cleaned = "".join(c for c in frequency_str if c.isdigit() or c == ".")
+        return float(cleaned)
+    except (ValueError, TypeError): 
+        return 0.0; 
+
 #main fucntion - calls fetch and parse functions, combines and saves data as geoJson
 def main():
     print("Starting FCC station scraper")
 
     VALID_STATES = ["AL","AK","AZ","AR","CA","CO","CT","DE","FL","GA","HI","ID","IL","IN","IA","KS","KY","LA","ME","MD","MA","MI","MN","MS","MO","MT","NE","NV","NH","NJ","NM","NY","NC","ND","OH","OK","OR","PA","RI","SC","SD","TN","TX","UT","VT","VA","WA","WV","WI","WY"]
 
-    state = input("Enter state code(e.g. WA, CA, OR): ").strip().upper()
+    for index, state in enumerate(VALID_STATES): 
+        try:
+            FM_URL, AM_URL = build_urls(state)
 
-    if state not in VALID_STATES:
-        print(f"'{state}' is not a valid state code. Please try again.")
-        return
+            fm_raw = fetch_stations(FM_URL)
+            fm_stations = []
+            if fm_raw:
+                fm_stations = parse_stations(fm_raw)
+                print(f"Found {len(fm_stations)} FM stations")
 
-    FM_URL, AM_URL = build_urls(state)
+            time.sleep(REQUEST_DELAY)
 
-    fm_raw = fetch_stations(FM_URL)
-    fm_stations = []
-    if fm_raw:
-        fm_stations = parse_stations(fm_raw)
-        print(f"Found {len(fm_stations)} FM stations")
+            am_raw = fetch_stations(AM_URL)
+            am_stations = []
+            if am_raw:
+                am_stations = parse_stations(am_raw)
+                print(f"Found {len(am_stations)} AM stations")
 
-    time.sleep(REQUEST_DELAY)
+            all_stations = fm_stations + am_stations
+            print(f"Total stations found: {len(all_stations)}")
+            
+            unique_cities = set()
+            unique_owners = set()
+            unique_frequencies = set()
+            unique_services = set()
 
-    am_raw = fetch_stations(AM_URL)
-    am_stations = []
-    if am_raw:
-        am_stations = parse_stations(am_raw)
-        print(f"Found {len(am_stations)} AM stations")
-
-    all_stations = fm_stations + am_stations
-    print(f"Total stations found: {len(all_stations)}")
-
-    geoJson = {
-        "type": "FeatureCollection",
-        "features": []
-    }
-
-    #Build GeoJson structure
-    for station in all_stations:
-        feature = {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    station["transmitter_location"]["wgs84_lon"],
-                    station["transmitter_location"]["wgs84_lat"]
-                ]
-            },
-            "properties": {
-                "id": station["facility_id"],
-                "call_sign": station["call_sign"],
-                "frequency": station["frequency"],
-                "service": station["service"],
-                "owner": station["owner"],
-                "city": station["city"],
-                "state": station["state"]
+            geoJson = {
+                "type": "FeatureCollection",
+                "features": [],
+                "metadata": {},
             }
-        }
-        geoJson["features"].append(feature)
 
-    #Save to file
-    output_file = target_directory / f"{state.lower()}_radio_stations.geojson"
-    with open(output_file, "w") as f:
-        json.dump(geoJson, f, indent=2)
-    
-    print(f"Done! {len(all_stations)} stations saved to {output_file}")
+            #Build GeoJson structure
+            for station in all_stations:
+                unique_cities.add(station["city"])
+                unique_frequencies.add(station["frequency"])
+                unique_owners.add(station["owner"])
+                unique_services.add(station["service"])
+                
+                feature = {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            station["transmitter_location"]["wgs84_lon"],
+                            station["transmitter_location"]["wgs84_lat"]
+                        ]
+                    },
+                    "properties": {
+                        "id": station["facility_id"],
+                        "call_sign": station["call_sign"],
+                        "frequency": station["frequency"],
+                        "service": station["service"],
+                        "owner": station["owner"],
+                        "city": station["city"],
+                        "state": station["state"]
+                    }
+                }
+                geoJson["features"].append(feature)
+                
+            geoJson["metadata"] = {
+                "cities": sorted(list(unique_cities)), 
+                "frequencies": sorted(list(unique_frequencies), key = clean_frequency), 
+                "owners": sorted(list(unique_owners)),
+                "services": sorted(list(unique_services))
+            }
+
+            #Save to file
+            output_file = target_directory / f"{state.lower()}_radio_stations.geojson"
+            with open(output_file, "w") as f:
+                json.dump(geoJson, f, indent=2)
+            
+            print(f"Done! {len(all_stations)} stations saved to {output_file}")
+        
+            time.sleep(REQUEST_DELAY * 2)
+        except Exception as e: 
+            print(f"ERROR: {state} THROWS {e}")
+            print("Moving to next state...")
+            continue
 
 if __name__ == "__main__":
     main()

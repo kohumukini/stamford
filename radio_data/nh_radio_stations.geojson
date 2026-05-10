@@ -1,0 +1,4245 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.485889,
+          43.685611
+        ]
+      },
+      "properties": {
+        "id": "122150",
+        "call_sign": "WANH",
+        "frequency": "88.3  MHz",
+        "service": "FM",
+        "owner": "NEW HAMPSHIRE GOSPEL RADIO, INC.",
+        "city": "MEREDITH",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.480417,
+          42.749472
+        ]
+      },
+      "properties": {
+        "id": "84847",
+        "call_sign": "WEVS",
+        "frequency": "88.3  MHz",
+        "service": "FM",
+        "owner": "NEW HAMPSHIRE PUBLIC RADIO, INCORPORATED",
+        "city": "NASHUA",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.728667,
+          42.832861
+        ]
+      },
+      "properties": {
+        "id": "174551",
+        "call_sign": "WUMV",
+        "frequency": "88.7  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF MASSACHUSETTS",
+        "city": "MILFORD",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.573972,
+          43.214806
+        ]
+      },
+      "properties": {
+        "id": "48438",
+        "call_sign": "WEVO",
+        "frequency": "89.1  MHz",
+        "service": "FM",
+        "owner": "NEW HAMPSHIRE PUBLIC RADIO, INC.",
+        "city": "CONCORD",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.573944,
+          43.214778
+        ]
+      },
+      "properties": {
+        "id": "48438",
+        "call_sign": "WEVO",
+        "frequency": "89.1  MHz",
+        "service": "FS",
+        "owner": "NEW HAMPSHIRE PUBLIC RADIO, INC.",
+        "city": "CONCORD",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.868139,
+          44.219778
+        ]
+      },
+      "properties": {
+        "id": "176846",
+        "call_sign": "WSSH",
+        "frequency": "89.7  MHz",
+        "service": "FM",
+        "owner": "NOSTALGIA ONE PUBLIC RADIO, INC.",
+        "city": "LISBON",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.120611,
+          42.8995
+        ]
+      },
+      "properties": {
+        "id": "174121",
+        "call_sign": "WVKJ",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "THE KINGDOM CHRISTIAN MINISTRIES",
+        "city": "DUBLIN",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.340333,
+          44.946972
+        ]
+      },
+      "properties": {
+        "id": "173434",
+        "call_sign": "WEVF",
+        "frequency": "90.3  MHz",
+        "service": "FM",
+        "owner": "NEW HAMPSHIRE PUBLIC RADIO, INCORPORATED",
+        "city": "COLEBROOK",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.480389,
+          42.749222
+        ]
+      },
+      "properties": {
+        "id": "24802",
+        "call_sign": "W212AF",
+        "frequency": "90.3  MHz",
+        "service": "FX",
+        "owner": "NEW HAMPSHIRE PUBLIC RADIO, INCORPORATED",
+        "city": "NASHUA",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.573889,
+          43.214722
+        ]
+      },
+      "properties": {
+        "id": "62166",
+        "call_sign": "WCNH",
+        "frequency": "90.5  MHz",
+        "service": "FM",
+        "owner": "NEW HAMPSHIRE PUBLIC RADIO, INC.",
+        "city": "CONCORD",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.340056,
+          42.886194
+        ]
+      },
+      "properties": {
+        "id": "175362",
+        "call_sign": "WYDI",
+        "frequency": "90.5  MHz",
+        "service": "FM",
+        "owner": "HORIZON CHRISTIAN FELLOWSHIP",
+        "city": "DERRY",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9495,
+          42.978972
+        ]
+      },
+      "properties": {
+        "id": "68250",
+        "call_sign": "WPEA",
+        "frequency": "90.5  MHz",
+        "service": "FM",
+        "owner": "TRUSTEES OF THE PHILLIPS EXETER ACADEMY",
+        "city": "EXETER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.172861,
+          43.615639
+        ]
+      },
+      "properties": {
+        "id": "92641",
+        "call_sign": "WVFA",
+        "frequency": "90.5  MHz",
+        "service": "FM",
+        "owner": "GREEN MOUNTAIN EDUCATIONAL FELLOWSHIP, INC.",
+        "city": "LEBANON",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.367306,
+          43.033417
+        ]
+      },
+      "properties": {
+        "id": "48440",
+        "call_sign": "WEVN",
+        "frequency": "90.7  MHz",
+        "service": "FM",
+        "owner": "NEW HAMPSHIRE PUBLIC RADIO, INCORPORATED",
+        "city": "KEENE",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.589778,
+          42.983139
+        ]
+      },
+      "properties": {
+        "id": "35251",
+        "call_sign": "WLMW",
+        "frequency": "90.7  MHz",
+        "service": "FM",
+        "owner": "KNOWLEDGE FOR LIFE",
+        "city": "MANCHESTER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.975361,
+          43.411444
+        ]
+      },
+      "properties": {
+        "id": "12228",
+        "call_sign": "WSCS",
+        "frequency": "90.9  MHz",
+        "service": "FM",
+        "owner": "SUGAR RIVER FOUNDATION, INC.",
+        "city": "NEW LONDON",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.422944,
+          43.398222
+        ]
+      },
+      "properties": {
+        "id": "8698",
+        "call_sign": "WVNH",
+        "frequency": "91.1  MHz",
+        "service": "FM",
+        "owner": "NEW HAMPSHIRE GOSPEL RADIO, INC.",
+        "city": "CONCORD",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.214833,
+          43.808806
+        ]
+      },
+      "properties": {
+        "id": "171251",
+        "call_sign": "WJNH",
+        "frequency": "91.1  MHz",
+        "service": "FM",
+        "owner": "NEW HAMPSHIRE GOSPEL RADIO, INC.",
+        "city": "CONWAY",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.940056,
+          43.156472
+        ]
+      },
+      "properties": {
+        "id": "69327",
+        "call_sign": "WUNH",
+        "frequency": "91.3  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY SYSTEM OF NEW HAMPSHIRE",
+        "city": "DURHAM",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.154056,
+          43.708917
+        ]
+      },
+      "properties": {
+        "id": "48439",
+        "call_sign": "WEVH",
+        "frequency": "91.3  MHz",
+        "service": "FM",
+        "owner": "NEW HAMPSHIRE PUBLIC RADIO, INCORPORATED",
+        "city": "HANOVER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.281194,
+          42.926722
+        ]
+      },
+      "properties": {
+        "id": "6681",
+        "call_sign": "WKNH",
+        "frequency": "91.3  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY SYSTEM OF NEW HAMPSHIRE",
+        "city": "KEENE",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.73675,
+          44.352833
+        ]
+      },
+      "properties": {
+        "id": "121808",
+        "call_sign": "W217BH",
+        "frequency": "91.3  MHz",
+        "service": "FX",
+        "owner": "NEW HAMPSHIRE PUBLIC RADIO, INCORPORATED",
+        "city": "LITTLETON",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.485944,
+          43.685583
+        ]
+      },
+      "properties": {
+        "id": "768177",
+        "call_sign": "WWNH",
+        "frequency": "91.5  MHz",
+        "service": "FM",
+        "owner": "ANCHORED MISSION INC.",
+        "city": "MEREDITH",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.822278,
+          43.176167
+        ]
+      },
+      "properties": {
+        "id": "48405",
+        "call_sign": "WNEC-FM",
+        "frequency": "91.7  MHz",
+        "service": "FM",
+        "owner": "NEW ENGLAND COLLEGE",
+        "city": "HENNIKER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.157,
+          43.400333
+        ]
+      },
+      "properties": {
+        "id": "43801",
+        "call_sign": "WWPC",
+        "frequency": "91.7  MHz",
+        "service": "FM",
+        "owner": "WORD RADIO EDUCATIONAL FOUNDATION",
+        "city": "NEW DURHAM",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.689222,
+          43.757
+        ]
+      },
+      "properties": {
+        "id": "52839",
+        "call_sign": "WPCR-FM",
+        "frequency": "91.7  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY SYSTEM OF NEW HAMPSHIRE",
+        "city": "PLYMOUTH",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.737472,
+          44.353028
+        ]
+      },
+      "properties": {
+        "id": "173546",
+        "call_sign": "WEVQ",
+        "frequency": "91.9  MHz",
+        "service": "FM",
+        "owner": "NEW HAMPSHIRE PUBLIC RADIO, INCORPORATED",
+        "city": "LITTLETON",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.287694,
+          42.866389
+        ]
+      },
+      "properties": {
+        "id": "202248",
+        "call_sign": "W221EM",
+        "frequency": "92.1  MHz",
+        "service": "FX",
+        "owner": "BLOUNT COMMUNICATIONS, INC. OF NH",
+        "city": "DERRY",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.878667,
+          42.861472
+        ]
+      },
+      "properties": {
+        "id": "52399",
+        "call_sign": "WDER-FM",
+        "frequency": "92.1  MHz",
+        "service": "FM",
+        "owner": "BLOUNT COMMUNICATIONS, INC. OF NH",
+        "city": "PETERBOROUGH",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.29425,
+          43.654778
+        ]
+      },
+      "properties": {
+        "id": "56621",
+        "call_sign": "WGXL",
+        "frequency": "92.3  MHz",
+        "service": "FM",
+        "owner": "GREAT EASTERN RADIO, LLC",
+        "city": "HANOVER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.176444,
+          44.482278
+        ]
+      },
+      "properties": {
+        "id": "201383",
+        "call_sign": "W223DC",
+        "frequency": "92.5  MHz",
+        "service": "FX",
+        "owner": "WHITE MOUNTAINS BROADCASTING, LLC",
+        "city": "BERLIN",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.790056,
+          43.739222
+        ]
+      },
+      "properties": {
+        "id": "201041",
+        "call_sign": "W225CT",
+        "frequency": "92.9  MHz",
+        "service": "FX",
+        "owner": "NORTHEAST COMMUNICATIONS CORPORATION",
+        "city": "PLYMOUTH",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.605889,
+          43.473389
+        ]
+      },
+      "properties": {
+        "id": "138049",
+        "call_sign": "W225CB",
+        "frequency": "92.9  MHz",
+        "service": "FX",
+        "owner": "NORTHEAST COMMUNICATIONS CORPORATION",
+        "city": "TILTON",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.550333,
+          43.397833
+        ]
+      },
+      "properties": {
+        "id": "54908",
+        "call_sign": "WNHW",
+        "frequency": "93.3  MHz",
+        "service": "FM",
+        "owner": "WBIN MEDIA CO., INC.",
+        "city": "BELMONT",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1395,
+          43.946722
+        ]
+      },
+      "properties": {
+        "id": "49200",
+        "call_sign": "WMWV",
+        "frequency": "93.5  MHz",
+        "service": "FM",
+        "owner": "CONWAY BROADCASTING, LLC",
+        "city": "CONWAY",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.330639,
+          42.915917
+        ]
+      },
+      "properties": {
+        "id": "4910",
+        "call_sign": "WEEY",
+        "frequency": "93.5  MHz",
+        "service": "FM",
+        "owner": "GREAT EASTERN RADIO, LLC",
+        "city": "SWANZEY",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.605861,
+          43.473333
+        ]
+      },
+      "properties": {
+        "id": "49390",
+        "call_sign": "WFTN-FM",
+        "frequency": "94.1  MHz",
+        "service": "FM",
+        "owner": "NORTHEAST COMMUNICATIONS CORPORATION",
+        "city": "FRANKLIN",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.299528,
+          42.930639
+        ]
+      },
+      "properties": {
+        "id": "201996",
+        "call_sign": "W231DV",
+        "frequency": "94.1  MHz",
+        "service": "FX",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "KEENE",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.768417,
+          44.313111
+        ]
+      },
+      "properties": {
+        "id": "140105",
+        "call_sign": "W231BW",
+        "frequency": "94.1  MHz",
+        "service": "FX",
+        "owner": "CUPID BROADCASTING, LLC",
+        "city": "LITTLETON",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.467833,
+          42.99475
+        ]
+      },
+      "properties": {
+        "id": "140894",
+        "call_sign": "W231BR",
+        "frequency": "94.1  MHz",
+        "service": "FX",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "MANCHESTER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.176722,
+          44.482833
+        ]
+      },
+      "properties": {
+        "id": "190383",
+        "call_sign": "WWOX",
+        "frequency": "94.1  MHz",
+        "service": "FM",
+        "owner": "WHITE MOUNTAINS BROADCASTING, LLC",
+        "city": "MILAN",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.293972,
+          43.395889
+        ]
+      },
+      "properties": {
+        "id": "201650",
+        "call_sign": "W232DN",
+        "frequency": "94.3  MHz",
+        "service": "FX",
+        "owner": "GREAT EASTERN RADIO, LLC",
+        "city": "CLAREMONT",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.303361,
+          43.392917
+        ]
+      },
+      "properties": {
+        "id": "146333",
+        "call_sign": "W234BN",
+        "frequency": "94.7  MHz",
+        "service": "FX",
+        "owner": "SUGAR RIVER MEDIA, LLC",
+        "city": "CLAREMONT",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.567861,
+          43.211472
+        ]
+      },
+      "properties": {
+        "id": "126127",
+        "call_sign": "WNHN-LP",
+        "frequency": "94.7  MHz",
+        "service": "FL",
+        "owner": "NH NEWS, VIEWS, AND BLUES",
+        "city": "CONCORD",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.452222,
+          42.988889
+        ]
+      },
+      "properties": {
+        "id": "778283",
+        "call_sign": "WDMN-LP",
+        "frequency": "94.9  MHz",
+        "service": "FL",
+        "owner": "PORTUGUESE RADIO FOUNDATION CORPORATION",
+        "city": "MANCHESTER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.303667,
+          44.269778
+        ]
+      },
+      "properties": {
+        "id": "49687",
+        "call_sign": "WHOM",
+        "frequency": "94.9  MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "MOUNT WASHINGTON",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.303944,
+          44.270056
+        ]
+      },
+      "properties": {
+        "id": "49687",
+        "call_sign": "WHOM",
+        "frequency": "94.9  MHz",
+        "service": "FS",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "MOUNT WASHINGTON",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.303944,
+          44.269778
+        ]
+      },
+      "properties": {
+        "id": "49687",
+        "call_sign": "WHOM",
+        "frequency": "94.9  MHz",
+        "service": "FS",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "MOUNT WASHINGTON",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.614444,
+          42.940833
+        ]
+      },
+      "properties": {
+        "id": "788087",
+        "call_sign": "NEW",
+        "frequency": "95.1  MHz",
+        "service": "FL",
+        "owner": "TOWN OF BEDFORD, NEW HAMPSHIRE",
+        "city": "BEDFORD",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.327,
+          42.881861
+        ]
+      },
+      "properties": {
+        "id": "195811",
+        "call_sign": "WEVX-LP",
+        "frequency": "95.1  MHz",
+        "service": "FL",
+        "owner": "TOWN OF DERRY, NEW HAMPSHIRE",
+        "city": "DERRY",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.768417,
+          44.313111
+        ]
+      },
+      "properties": {
+        "id": "147947",
+        "call_sign": "W237CR",
+        "frequency": "95.3  MHz",
+        "service": "FX",
+        "owner": "CUPID BROADCASTING, LLC",
+        "city": "LITTLETON",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.463389,
+          42.992944
+        ]
+      },
+      "properties": {
+        "id": "192592",
+        "call_sign": "WMNH-LP",
+        "frequency": "95.3  MHz",
+        "service": "FL",
+        "owner": "MANCHESTER PUBLIC TELEVISION SERVICE",
+        "city": "MANCHESTER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.393278,
+          42.734556
+        ]
+      },
+      "properties": {
+        "id": "202373",
+        "call_sign": "W237FA",
+        "frequency": "95.3  MHz",
+        "service": "FX",
+        "owner": "BARTIS BROADCASTING, LLC",
+        "city": "NASHUA",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1395,
+          43.946722
+        ]
+      },
+      "properties": {
+        "id": "147952",
+        "call_sign": "W237BX",
+        "frequency": "95.3  MHz",
+        "service": "FX",
+        "owner": "CONWAY BROADCASTING, LLC",
+        "city": "NORTH CONWAY",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.588944,
+          42.983972
+        ]
+      },
+      "properties": {
+        "id": "58550",
+        "call_sign": "WZID",
+        "frequency": "95.7  MHz",
+        "service": "FM",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "MANCHESTER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.588944,
+          42.983972
+        ]
+      },
+      "properties": {
+        "id": "58550",
+        "call_sign": "WZID",
+        "frequency": "95.7  MHz",
+        "service": "FS",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "MANCHESTER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.841722,
+          43.636722
+        ]
+      },
+      "properties": {
+        "id": "145019",
+        "call_sign": "W240CS",
+        "frequency": "95.9  MHz",
+        "service": "FX",
+        "owner": "NEW HAMPSHIRE GOSPEL RADIO, INC.",
+        "city": "BRISTOL",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.378083,
+          43.546
+        ]
+      },
+      "properties": {
+        "id": "142346",
+        "call_sign": "W241AJ",
+        "frequency": "96.1  MHz",
+        "service": "FX",
+        "owner": "LAKES MEDIA LLC",
+        "city": "LACONIA",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.744167,
+          43.098611
+        ]
+      },
+      "properties": {
+        "id": "194496",
+        "call_sign": "WBUB-LP",
+        "frequency": "96.1  MHz",
+        "service": "FL",
+        "owner": "CULTURAL MEDIA CONNECTION",
+        "city": "PORTSMOUTH",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.432583,
+          43.137278
+        ]
+      },
+      "properties": {
+        "id": "23307",
+        "call_sign": "WFYX",
+        "frequency": "96.3  MHz",
+        "service": "FM",
+        "owner": "GREAT EASTERN RADIO, LLC",
+        "city": "WALPOLE",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.588944,
+          42.983972
+        ]
+      },
+      "properties": {
+        "id": "17278",
+        "call_sign": "WMLL",
+        "frequency": "96.5  MHz",
+        "service": "FM",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "BEDFORD",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.546167,
+          43.717139
+        ]
+      },
+      "properties": {
+        "id": "140560",
+        "call_sign": "W243DE",
+        "frequency": "96.5  MHz",
+        "service": "FX",
+        "owner": "NEW HAMPSHIRE PUBLIC RADIO, INCORPORATED",
+        "city": "HOLDERNESS",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.868139,
+          44.219778
+        ]
+      },
+      "properties": {
+        "id": "53636",
+        "call_sign": "WLTN-FM",
+        "frequency": "96.7  MHz",
+        "service": "FM",
+        "owner": "PROFILE BROADCASTING, LLC",
+        "city": "LISBON",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.946444,
+          43.287306
+        ]
+      },
+      "properties": {
+        "id": "53388",
+        "call_sign": "WQSO",
+        "frequency": "96.7  MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "ROCHESTER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.716444,
+          43.687278
+        ]
+      },
+      "properties": {
+        "id": "86079",
+        "call_sign": "W245AF",
+        "frequency": "96.9  MHz",
+        "service": "FX",
+        "owner": "NEW HAMPSHIRE GOSPEL RADIO, INC.",
+        "city": "PLYMOUTH",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.480889,
+          44.879861
+        ]
+      },
+      "properties": {
+        "id": "170980",
+        "call_sign": "WOXX",
+        "frequency": "97.1  MHz",
+        "service": "FM",
+        "owner": "WHITE MOUNTAINS BROADCASTING LLC",
+        "city": "COLEBROOK",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.880306,
+          43.027306
+        ]
+      },
+      "properties": {
+        "id": "150134",
+        "call_sign": "W246BP",
+        "frequency": "97.1  MHz",
+        "service": "FX",
+        "owner": "K-LOVE, INC.",
+        "city": "EXETER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.214833,
+          43.808806
+        ]
+      },
+      "properties": {
+        "id": "145595",
+        "call_sign": "W246DI",
+        "frequency": "97.1  MHz",
+        "service": "FX",
+        "owner": "LAKES MEDIA, LLC",
+        "city": "WOLFEBORO",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.389111,
+          44.364861
+        ]
+      },
+      "properties": {
+        "id": "762191",
+        "call_sign": "WCGY-FM",
+        "frequency": "97.3  MHz",
+        "service": "FM",
+        "owner": "LAKES MEDIA, LLC",
+        "city": "JEFFERSON",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.333028,
+          44.273778
+        ]
+      },
+      "properties": {
+        "id": "762191",
+        "call_sign": "WCGY-FM",
+        "frequency": "97.3  MHz",
+        "service": "FM",
+        "owner": "LAKES MEDIA, LLC",
+        "city": "JEFFERSON",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.690333,
+          43.756722
+        ]
+      },
+      "properties": {
+        "id": "140565",
+        "call_sign": "W247AO",
+        "frequency": "97.3  MHz",
+        "service": "FX",
+        "owner": "NEW HAMPSHIRE PUBLIC RADIO, INCORPORATED",
+        "city": "PLYMOUTH",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.971167,
+          43.223944
+        ]
+      },
+      "properties": {
+        "id": "22887",
+        "call_sign": "WOKQ",
+        "frequency": "97.5  MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "DOVER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.330917,
+          42.915917
+        ]
+      },
+      "properties": {
+        "id": "9795",
+        "call_sign": "WSNI",
+        "frequency": "97.7  MHz",
+        "service": "FM",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "KEENE",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.48,
+          43.016111
+        ]
+      },
+      "properties": {
+        "id": "22889",
+        "call_sign": "W250AB",
+        "frequency": "97.9  MHz",
+        "service": "FX",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "MANCHESTER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.181722,
+          44.505333
+        ]
+      },
+      "properties": {
+        "id": "141693",
+        "call_sign": "W251BD",
+        "frequency": "98.1  MHz",
+        "service": "FX",
+        "owner": "ANDROSCOGGIN VALLEY CHAMBER OF COMMERCE",
+        "city": "BERLIN",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.893111,
+          43.236472
+        ]
+      },
+      "properties": {
+        "id": "138295",
+        "call_sign": "W251CF",
+        "frequency": "98.1  MHz",
+        "service": "FX",
+        "owner": "WBIN MEDIA CO., INC.",
+        "city": "DOVER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.648611,
+          42.835778
+        ]
+      },
+      "properties": {
+        "id": "778199",
+        "call_sign": "WGTM-LP",
+        "frequency": "98.1  MHz",
+        "service": "FL",
+        "owner": "TOWN OF MILFORD, NEW HAMPSHIRE",
+        "city": "MILFORD",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.368694,
+          43.517028
+        ]
+      },
+      "properties": {
+        "id": "73215",
+        "call_sign": "WLNH-FM",
+        "frequency": "98.3  MHz",
+        "service": "FM",
+        "owner": "WBIN MEDIA CO., INC.",
+        "city": "LACONIA",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.768417,
+          44.313111
+        ]
+      },
+      "properties": {
+        "id": "140110",
+        "call_sign": "W253AY",
+        "frequency": "98.5  MHz",
+        "service": "FX",
+        "owner": "CUPID BROADCASTING, LLC",
+        "city": "LITTLETON",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.893111,
+          43.236472
+        ]
+      },
+      "properties": {
+        "id": "23253",
+        "call_sign": "WBYY",
+        "frequency": "98.7  MHz",
+        "service": "FM",
+        "owner": "WBIN MEDIA CO., INC.",
+        "city": "SOMERSWORTH",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.330917,
+          42.915917
+        ]
+      },
+      "properties": {
+        "id": "57228",
+        "call_sign": "WINQ-FM",
+        "frequency": "98.7  MHz",
+        "service": "FM",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "WINCHESTER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.269778,
+          42.81675
+        ]
+      },
+      "properties": {
+        "id": "26367",
+        "call_sign": "W255DA",
+        "frequency": "98.9  MHz",
+        "service": "FX",
+        "owner": "COSTA-EAGLE RADIO VENTURES LIMITED PARTNERSHIP",
+        "city": "SALEM",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.294694,
+          43.654444
+        ]
+      },
+      "properties": {
+        "id": "148946",
+        "call_sign": "W255CF",
+        "frequency": "98.9  MHz",
+        "service": "FX",
+        "owner": "SUGAR RIVER MEDIA, LLC",
+        "city": "WEST LEBANON",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.688111,
+          43.213667
+        ]
+      },
+      "properties": {
+        "id": "11664",
+        "call_sign": "WNNH",
+        "frequency": "99.1  MHz",
+        "service": "FM",
+        "owner": "WBIN MEDIA CO., INC.",
+        "city": "HENNIKER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.299528,
+          42.930639
+        ]
+      },
+      "properties": {
+        "id": "140905",
+        "call_sign": "W256BJ",
+        "frequency": "99.1  MHz",
+        "service": "FX",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "KEENE",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.737028,
+          44.352833
+        ]
+      },
+      "properties": {
+        "id": "165997",
+        "call_sign": "WYKC",
+        "frequency": "99.1  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "WHITEFIELD",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.176722,
+          44.482833
+        ]
+      },
+      "properties": {
+        "id": "155261",
+        "call_sign": "W257CP",
+        "frequency": "99.3  MHz",
+        "service": "FX",
+        "owner": "CUPID BROADCASTING, LLC",
+        "city": "BERLIN",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.295139,
+          43.653972
+        ]
+      },
+      "properties": {
+        "id": "68281",
+        "call_sign": "WFRD",
+        "frequency": "99.3  MHz",
+        "service": "FM",
+        "owner": "SUGAR RIVER MEDIA, LLC",
+        "city": "HANOVER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.168111,
+          44.175056
+        ]
+      },
+      "properties": {
+        "id": "84239",
+        "call_sign": "WEVJ",
+        "frequency": "99.5  MHz",
+        "service": "FM",
+        "owner": "NEW HAMPSHIRE PUBLIC RADIO, INCORPORATED",
+        "city": "JACKSON",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.168111,
+          44.175056
+        ]
+      },
+      "properties": {
+        "id": "84239",
+        "call_sign": "WEVJ",
+        "frequency": "99.5  MHz",
+        "service": "FM",
+        "owner": "NEW HAMPSHIRE PUBLIC RADIO, INCORPORATED",
+        "city": "JACKSON",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.033972,
+          43.448417
+        ]
+      },
+      "properties": {
+        "id": "35407",
+        "call_sign": "WNTK-FM",
+        "frequency": "99.7  MHz",
+        "service": "FM",
+        "owner": "SUGAR RIVER MEDIA, LLC",
+        "city": "NEW LONDON",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.690194,
+          44.28
+        ]
+      },
+      "properties": {
+        "id": "195474",
+        "call_sign": "WZNC-LP",
+        "frequency": "99.9  MHz",
+        "service": "FL",
+        "owner": "FRIENDS OF THE COLONIAL",
+        "city": "BETHLEHEM",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.035222,
+          43.019083
+        ]
+      },
+      "properties": {
+        "id": "787859",
+        "call_sign": "WNHQ-LP",
+        "frequency": "99.9  MHz",
+        "service": "FL",
+        "owner": "NEW HAMPSHIRE COMMUNITY MEDIA INC",
+        "city": "EPPING",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.588944,
+          42.983972
+        ]
+      },
+      "properties": {
+        "id": "154234",
+        "call_sign": "W260CF",
+        "frequency": "99.9  MHz",
+        "service": "FX",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "MANCHESTER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.476444,
+          42.759528
+        ]
+      },
+      "properties": {
+        "id": "83187",
+        "call_sign": "W260DB",
+        "frequency": "99.9  MHz",
+        "service": "FX",
+        "owner": "ABSOLUTE BROADCASTING, LLC",
+        "city": "NASHUA",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.790333,
+          43.739222
+        ]
+      },
+      "properties": {
+        "id": "52127",
+        "call_sign": "WPNH-FM",
+        "frequency": "100.1 MHz",
+        "service": "FM",
+        "owner": "NORTHEAST COMMUNICATIONS CORPORATION",
+        "city": "PLYMOUTH",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.76725,
+          43.053139
+        ]
+      },
+      "properties": {
+        "id": "35219",
+        "call_sign": "WHEB",
+        "frequency": "100.3 MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "PORTSMOUTH",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.767278,
+          43.053139
+        ]
+      },
+      "properties": {
+        "id": "35219",
+        "call_sign": "WHEB",
+        "frequency": "100.3 MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "PORTSMOUTH",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.294528,
+          43.655056
+        ]
+      },
+      "properties": {
+        "id": "54790",
+        "call_sign": "WXXK",
+        "frequency": "100.5 MHz",
+        "service": "FM",
+        "owner": "GREAT EASTERN RADIO, LLC",
+        "city": "LEBANON",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.588667,
+          42.98175
+        ]
+      },
+      "properties": {
+        "id": "35240",
+        "call_sign": "WGIR-FM",
+        "frequency": "101.1 MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "MANCHESTER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.981194,
+          44.113667
+        ]
+      },
+      "properties": {
+        "id": "53866",
+        "call_sign": "WYKR-FM",
+        "frequency": "101.3 MHz",
+        "service": "FM",
+        "owner": "YANKEE KINGDOM MEDIA CORP",
+        "city": "HAVERHILL",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.28925,
+          42.963278
+        ]
+      },
+      "properties": {
+        "id": "201489",
+        "call_sign": "W268DO",
+        "frequency": "101.5 MHz",
+        "service": "FX",
+        "owner": "K-LOVE, INC.",
+        "city": "CHESTER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.498111,
+          43.596167
+        ]
+      },
+      "properties": {
+        "id": "73216",
+        "call_sign": "WWLK-FM",
+        "frequency": "101.5 MHz",
+        "service": "FM",
+        "owner": "LAKES MEDIA, LLC",
+        "city": "MEREDITH",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.378083,
+          43.546
+        ]
+      },
+      "properties": {
+        "id": "73216",
+        "call_sign": "WWLK-FM",
+        "frequency": "101.5 MHz",
+        "service": "FS",
+        "owner": "LAKES MEDIA, LLC",
+        "city": "MEREDITH",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.779167,
+          43.174167
+        ]
+      },
+      "properties": {
+        "id": "787697",
+        "call_sign": "WOJZ-LP",
+        "frequency": "101.5 MHz",
+        "service": "FL",
+        "owner": "PISCATAQUA RADIO",
+        "city": "PORTSMOUTH",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.293972,
+          43.395889
+        ]
+      },
+      "properties": {
+        "id": "46339",
+        "call_sign": "W269DI",
+        "frequency": "101.7 MHz",
+        "service": "FX",
+        "owner": "GREAT EASTERN RADIO, LLC",
+        "city": "CLAREMONT",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.588778,
+          42.981861
+        ]
+      },
+      "properties": {
+        "id": "202530",
+        "call_sign": "W270DS",
+        "frequency": "101.9 MHz",
+        "service": "FX",
+        "owner": "NEW HAMPSHIRE FAMILY RADIO LLC",
+        "city": "CONCORD",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.883389,
+          42.897583
+        ]
+      },
+      "properties": {
+        "id": "12155",
+        "call_sign": "WSAK",
+        "frequency": "102.1 MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "HAMPTON",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.574611,
+          43.216083
+        ]
+      },
+      "properties": {
+        "id": "8683",
+        "call_sign": "WAKC",
+        "frequency": "102.3 MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "CONCORD",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.330917,
+          42.915917
+        ]
+      },
+      "properties": {
+        "id": "201372",
+        "call_sign": "W272DZ",
+        "frequency": "102.3 MHz",
+        "service": "FX",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "KEENE",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.655083,
+          44.394222
+        ]
+      },
+      "properties": {
+        "id": "77920",
+        "call_sign": "WXXS",
+        "frequency": "102.3 MHz",
+        "service": "FM",
+        "owner": "RADIO NEW ENGLAND BROADCASTING, LLC",
+        "city": "LANCASTER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.160833,
+          43.786667
+        ]
+      },
+      "properties": {
+        "id": "788054",
+        "call_sign": "WGGG-LP",
+        "frequency": "102.3 MHz",
+        "service": "FL",
+        "owner": "OSSIPEE PUBLIC MEDIA, INC.",
+        "city": "OSSIPEE",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.574639,
+          43.216028
+        ]
+      },
+      "properties": {
+        "id": "191758",
+        "call_sign": "WICX-LP",
+        "frequency": "102.7 MHz",
+        "service": "FL",
+        "owner": "NEW HAMPSHIRE CATHOLIC COMMUNITY RADIO",
+        "city": "CONCORD",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.494722,
+          42.866667
+        ]
+      },
+      "properties": {
+        "id": "125532",
+        "call_sign": "WMZK-LP",
+        "frequency": "102.9 MHz",
+        "service": "FL",
+        "owner": "TOWN OF MERRIMACK, NEW HAMPSHIRE",
+        "city": "MERRIMACK",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.548944,
+          43.119222
+        ]
+      },
+      "properties": {
+        "id": "140927",
+        "call_sign": "W276BJ",
+        "frequency": "103.1 MHz",
+        "service": "FX",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "CONCORD",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.299528,
+          42.930639
+        ]
+      },
+      "properties": {
+        "id": "81840",
+        "call_sign": "W276CB",
+        "frequency": "103.1 MHz",
+        "service": "FX",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "KEENE",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.768417,
+          44.313111
+        ]
+      },
+      "properties": {
+        "id": "196819",
+        "call_sign": "WNHZ-LP",
+        "frequency": "103.1 MHz",
+        "service": "FL",
+        "owner": "RADIO AMERICA MEDIA, CORP.",
+        "city": "LITTLETON",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.378083,
+          43.546
+        ]
+      },
+      "properties": {
+        "id": "200128",
+        "call_sign": "W277DJ",
+        "frequency": "103.3 MHz",
+        "service": "FX",
+        "owner": "COSTA-EAGLE RADIO VENTURES LIMITED PARTNERSHIP",
+        "city": "LACONIA",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.779194,
+          43.17425
+        ]
+      },
+      "properties": {
+        "id": "126947",
+        "call_sign": "WXGR-LP",
+        "frequency": "103.5 MHz",
+        "service": "FL",
+        "owner": "SEACOAST COMMUNITY RADIO",
+        "city": "DOVER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.503611,
+          43.010556
+        ]
+      },
+      "properties": {
+        "id": "138757",
+        "call_sign": "W278CJ",
+        "frequency": "103.5 MHz",
+        "service": "FX",
+        "owner": "ABSOLUTE BROADCASTING, LLC",
+        "city": "MANCHESTER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.367222,
+          43.033333
+        ]
+      },
+      "properties": {
+        "id": "36834",
+        "call_sign": "WKNE",
+        "frequency": "103.7 MHz",
+        "service": "FM",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "KEENE",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.357861,
+          43.017833
+        ]
+      },
+      "properties": {
+        "id": "36834",
+        "call_sign": "WKNE",
+        "frequency": "103.7 MHz",
+        "service": "FS",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "KEENE",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.357583,
+          43.018944
+        ]
+      },
+      "properties": {
+        "id": "36834",
+        "call_sign": "WKNE",
+        "frequency": "103.7 MHz",
+        "service": "FS",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "KEENE",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.304222,
+          44.270333
+        ]
+      },
+      "properties": {
+        "id": "48401",
+        "call_sign": "WPKQ",
+        "frequency": "103.7 MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "NORTH CONWAY",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.304222,
+          44.270333
+        ]
+      },
+      "properties": {
+        "id": "48401",
+        "call_sign": "WPKQ",
+        "frequency": "103.7 MHz",
+        "service": "FS",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "NORTH CONWAY",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.555,
+          43.194722
+        ]
+      },
+      "properties": {
+        "id": "145612",
+        "call_sign": "W280EC",
+        "frequency": "103.9 MHz",
+        "service": "FX",
+        "owner": "NEW HAMPSHIRE FAMILY RADIO, LLC",
+        "city": "CONCORD",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.267306,
+          43.731167
+        ]
+      },
+      "properties": {
+        "id": "31111",
+        "call_sign": "W280CS",
+        "frequency": "103.9 MHz",
+        "service": "FX",
+        "owner": "VERMONT PUBLIC CO.",
+        "city": "HANOVER, ETC.",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.753722,
+          43.071361
+        ]
+      },
+      "properties": {
+        "id": "140553",
+        "call_sign": "W280DG",
+        "frequency": "103.9 MHz",
+        "service": "FX",
+        "owner": "NEW HAMPSHIRE PUBLIC RADIO, INCORPORATED",
+        "city": "PORTSMOUTH",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.357583,
+          43.018944
+        ]
+      },
+      "properties": {
+        "id": "140906",
+        "call_sign": "W281AU",
+        "frequency": "104.1 MHz",
+        "service": "FX",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "KEENE",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.440083,
+          43.218972
+        ]
+      },
+      "properties": {
+        "id": "82567",
+        "call_sign": "W282AF",
+        "frequency": "104.3 MHz",
+        "service": "FX",
+        "owner": "NEW HAMPSHIRE GOSPEL RADIO, INC.",
+        "city": "CONCORD",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.870778,
+          43.209333
+        ]
+      },
+      "properties": {
+        "id": "48441",
+        "call_sign": "W282AB",
+        "frequency": "104.3 MHz",
+        "service": "FX",
+        "owner": "NEW HAMPSHIRE PUBLIC RADIO, INC.",
+        "city": "DOVER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.94,
+          43.156389
+        ]
+      },
+      "properties": {
+        "id": "48441",
+        "call_sign": "W282AB",
+        "frequency": "104.3 MHz",
+        "service": "FX",
+        "owner": "NEW HAMPSHIRE PUBLIC RADIO, INC.",
+        "city": "DURHAM",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1395,
+          43.946722
+        ]
+      },
+      "properties": {
+        "id": "49204",
+        "call_sign": "WVMJ",
+        "frequency": "104.5 MHz",
+        "service": "FM",
+        "owner": "CONWAY BROADCASTING, LLC",
+        "city": "CONWAY",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.45425,
+          42.775917
+        ]
+      },
+      "properties": {
+        "id": "67813",
+        "call_sign": "WYRY",
+        "frequency": "104.9 MHz",
+        "service": "FM",
+        "owner": "TRI-VALLEY BROADCASTING, LLC",
+        "city": "HINSDALE",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.378083,
+          43.546
+        ]
+      },
+      "properties": {
+        "id": "65624",
+        "call_sign": "WLKZ",
+        "frequency": "104.9 MHz",
+        "service": "FM",
+        "owner": "LAKES MEDIA, LLC",
+        "city": "WOLFEBORO",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.515056,
+          42.94675
+        ]
+      },
+      "properties": {
+        "id": "193211",
+        "call_sign": "WBNH-LP",
+        "frequency": "105.1 MHz",
+        "service": "FL",
+        "owner": "TOWN OF BEDFORD, NEW HAMPSHIRE",
+        "city": "BEDFORD",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.515056,
+          42.94675
+        ]
+      },
+      "properties": {
+        "id": "193211",
+        "call_sign": "WBNH-LP",
+        "frequency": "105.1 MHz",
+        "service": "FS",
+        "owner": "TOWN OF BEDFORD, NEW HAMPSHIRE",
+        "city": "BEDFORD",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.515056,
+          42.94675
+        ]
+      },
+      "properties": {
+        "id": "193211",
+        "call_sign": "WBNH-LP",
+        "frequency": "105.1 MHz",
+        "service": "FS",
+        "owner": "TOWN OF BEDFORD, NEW HAMPSHIRE",
+        "city": "BEDFORD",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.056722,
+          42.781194
+        ]
+      },
+      "properties": {
+        "id": "126082",
+        "call_sign": "WFPC-LP",
+        "frequency": "105.3 MHz",
+        "service": "FL",
+        "owner": "FRANKLIN PIERCE COLLEGE",
+        "city": "RINDGE",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.505056,
+          43.278417
+        ]
+      },
+      "properties": {
+        "id": "54909",
+        "call_sign": "WJYY",
+        "frequency": "105.5 MHz",
+        "service": "FM",
+        "owner": "WBIN MEDIA CO., INC.",
+        "city": "CONCORD",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.503667,
+          43.2795
+        ]
+      },
+      "properties": {
+        "id": "54909",
+        "call_sign": "WJYY",
+        "frequency": "105.5 MHz",
+        "service": "FS",
+        "owner": "WBIN MEDIA CO., INC.",
+        "city": "CONCORD",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.330639,
+          42.914806
+        ]
+      },
+      "properties": {
+        "id": "147055",
+        "call_sign": "W288BN",
+        "frequency": "105.5 MHz",
+        "service": "FX",
+        "owner": "TRI-VALLEY BROADCASTING, LLC",
+        "city": "KEENE",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.649528,
+          43.762583
+        ]
+      },
+      "properties": {
+        "id": "72211",
+        "call_sign": "WLKC",
+        "frequency": "105.7 MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "CAMPTON",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.427861,
+          43.237
+        ]
+      },
+      "properties": {
+        "id": "194126",
+        "call_sign": "WLWM-LP",
+        "frequency": "105.7 MHz",
+        "service": "FL",
+        "owner": "THE LIVING WORD MINISTRIES OF CHARLESTOWN, NH",
+        "city": "CHARLESTOWN",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.480417,
+          44.878222
+        ]
+      },
+      "properties": {
+        "id": "140577",
+        "call_sign": "W289BT",
+        "frequency": "105.7 MHz",
+        "service": "FX",
+        "owner": "NEW HAMPSHIRE PUBLIC RADIO, INCORPORATED",
+        "city": "COLEBROOK",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.940889,
+          43.285361
+        ]
+      },
+      "properties": {
+        "id": "195604",
+        "call_sign": "WMEX-LP",
+        "frequency": "105.9 MHz",
+        "service": "FL",
+        "owner": "ROCHESTER RADIO",
+        "city": "ROCHESTER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.176722,
+          44.482833
+        ]
+      },
+      "properties": {
+        "id": "155279",
+        "call_sign": "W294AZ",
+        "frequency": "106.1 MHz",
+        "service": "FX",
+        "owner": "CUPID BROADCASTING, LLC",
+        "city": "BERLIN",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.45175,
+          43.437583
+        ]
+      },
+      "properties": {
+        "id": "17798",
+        "call_sign": "WHDQ",
+        "frequency": "106.1 MHz",
+        "service": "FM",
+        "owner": "GREAT EASTERN RADIO, LLC",
+        "city": "CLAREMONT",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.812167,
+          43.101028
+        ]
+      },
+      "properties": {
+        "id": "126863",
+        "call_sign": "WSCA-LP",
+        "frequency": "106.1 MHz",
+        "service": "FL",
+        "owner": "SEACOAST ARTS AND CULTURAL ALLIANCE",
+        "city": "PORTSMOUTH",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.737472,
+          44.353028
+        ]
+      },
+      "properties": {
+        "id": "72212",
+        "call_sign": "WMTK",
+        "frequency": "106.3 MHz",
+        "service": "FM",
+        "owner": "GREEN MOUNTAIN BROADCASTERS LLC",
+        "city": "LITTLETON",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.502278,
+          42.82675
+        ]
+      },
+      "properties": {
+        "id": "23329",
+        "call_sign": "WFNQ",
+        "frequency": "106.3 MHz",
+        "service": "FM",
+        "owner": "WBIN MEDIA CO., INC.",
+        "city": "NASHUA",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.157,
+          43.400333
+        ]
+      },
+      "properties": {
+        "id": "86163",
+        "call_sign": "WNHI",
+        "frequency": "106.5 MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "FARMINGTON",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.330639,
+          42.915917
+        ]
+      },
+      "properties": {
+        "id": "17796",
+        "call_sign": "W293AB",
+        "frequency": "106.5 MHz",
+        "service": "FX",
+        "owner": "GREAT EASTERN RADIO, LLC",
+        "city": "KEENE",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.294417,
+          43.654639
+        ]
+      },
+      "properties": {
+        "id": "17799",
+        "call_sign": "W294AB",
+        "frequency": "106.7 MHz",
+        "service": "FX",
+        "owner": "GREAT EASTERN RADIO, LLC",
+        "city": "HANOVER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.463389,
+          42.992861
+        ]
+      },
+      "properties": {
+        "id": "139440",
+        "call_sign": "W295BL",
+        "frequency": "106.9 MHz",
+        "service": "FX",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "MANCHESTER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.498139,
+          43.596194
+        ]
+      },
+      "properties": {
+        "id": "49387",
+        "call_sign": "WSCY",
+        "frequency": "106.9 MHz",
+        "service": "FM",
+        "owner": "NORTHEAST COMMUNICATIONS CORPORATION",
+        "city": "MOULTONBOROUGH",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.880306,
+          43.027306
+        ]
+      },
+      "properties": {
+        "id": "53385",
+        "call_sign": "WERZ",
+        "frequency": "107.1 MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "EXETER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.767222,
+          43.053056
+        ]
+      },
+      "properties": {
+        "id": "53385",
+        "call_sign": "WERZ",
+        "frequency": "107.1 MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "EXETER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.936722,
+          42.989806
+        ]
+      },
+      "properties": {
+        "id": "53385",
+        "call_sign": "WERZ",
+        "frequency": "107.1 MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "EXETER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.173583,
+          44.458611
+        ]
+      },
+      "properties": {
+        "id": "24235",
+        "call_sign": "WEVC",
+        "frequency": "107.1 MHz",
+        "service": "FM",
+        "owner": "NEW HAMPSHIRE PUBLIC RADIO, INCORPORATED",
+        "city": "GORHAM",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.578694,
+          43.552583
+        ]
+      },
+      "properties": {
+        "id": "83636",
+        "call_sign": "W297BS",
+        "frequency": "107.3 MHz",
+        "service": "FX",
+        "owner": "WBIN MEDIA CO., INC.",
+        "city": "LACONIA",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.964444,
+          42.989167
+        ]
+      },
+      "properties": {
+        "id": "787786",
+        "call_sign": "WEBH-LP",
+        "frequency": "107.5 MHz",
+        "service": "FL",
+        "owner": "SAU 16",
+        "city": "EXETER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.299528,
+          42.930639
+        ]
+      },
+      "properties": {
+        "id": "140893",
+        "call_sign": "W298BT",
+        "frequency": "107.5 MHz",
+        "service": "FX",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "KEENE",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.969806,
+          44.411167
+        ]
+      },
+      "properties": {
+        "id": "200568",
+        "call_sign": "W298CS",
+        "frequency": "107.5 MHz",
+        "service": "FX",
+        "owner": "PROFILE BROADCASTING, L.L.C.",
+        "city": "LITTLETON",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.795056,
+          43.154778
+        ]
+      },
+      "properties": {
+        "id": "54910",
+        "call_sign": "WTPL",
+        "frequency": "107.7 MHz",
+        "service": "FM",
+        "owner": "WBIN MEDIA CO., INC.",
+        "city": "HILLSBORO",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.294528,
+          43.655083
+        ]
+      },
+      "properties": {
+        "id": "84807",
+        "call_sign": "W299AM",
+        "frequency": "107.7 MHz",
+        "service": "FX",
+        "owner": "K-LOVE, INC.",
+        "city": "LEBANON",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.176444,
+          44.482278
+        ]
+      },
+      "properties": {
+        "id": "201402",
+        "call_sign": "W300DN",
+        "frequency": "107.9 MHz",
+        "service": "FX",
+        "owner": "RADIOTRON, LLC",
+        "city": "BERLIN",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4795,
+          43.015917
+        ]
+      },
+      "properties": {
+        "id": "35237",
+        "call_sign": "WGIR",
+        "frequency": "610   kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "MANCHESTER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4795,
+          43.015917
+        ]
+      },
+      "properties": {
+        "id": "35237",
+        "call_sign": "WGIR",
+        "frequency": "610   kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "MANCHESTER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.476444,
+          42.759528
+        ]
+      },
+      "properties": {
+        "id": "41256",
+        "call_sign": "WGHM",
+        "frequency": "900   kHz",
+        "service": "AM",
+        "owner": "ABSOLUTE BROADCASTING, LLC",
+        "city": "NASHUA",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.476444,
+          42.759528
+        ]
+      },
+      "properties": {
+        "id": "41256",
+        "call_sign": "WGHM",
+        "frequency": "900   kHz",
+        "service": "AM",
+        "owner": "ABSOLUTE BROADCASTING, LLC",
+        "city": "NASHUA",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.948111,
+          43.287028
+        ]
+      },
+      "properties": {
+        "id": "53387",
+        "call_sign": "WPKX",
+        "frequency": "930   kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "ROCHESTER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.948111,
+          43.287028
+        ]
+      },
+      "properties": {
+        "id": "53387",
+        "call_sign": "WPKX",
+        "frequency": "930   kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "ROCHESTER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.17925,
+          43.364528
+        ]
+      },
+      "properties": {
+        "id": "35406",
+        "call_sign": "WCNL",
+        "frequency": "1010  kHz",
+        "service": "AM",
+        "owner": "SUGAR RIVER MEDIA, LLC",
+        "city": "NEWPORT",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.17925,
+          43.364528
+        ]
+      },
+      "properties": {
+        "id": "35406",
+        "call_sign": "WCNL",
+        "frequency": "1010  kHz",
+        "service": "AM",
+        "owner": "SUGAR RIVER MEDIA, LLC",
+        "city": "NEWPORT",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.269778,
+          42.76175
+        ]
+      },
+      "properties": {
+        "id": "13998",
+        "call_sign": "WMVX",
+        "frequency": "1110  kHz",
+        "service": "AM",
+        "owner": "COSTA-EAGLE RADIO VENTURES LTD. PTP.",
+        "city": "SALEM",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.299528,
+          42.930639
+        ]
+      },
+      "properties": {
+        "id": "57227",
+        "call_sign": "WZBK",
+        "frequency": "1220  kHz",
+        "service": "AM",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "KEENE",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.299528,
+          42.930639
+        ]
+      },
+      "properties": {
+        "id": "57227",
+        "call_sign": "WZBK",
+        "frequency": "1220  kHz",
+        "service": "AM",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "KEENE",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.327861,
+          43.370917
+        ]
+      },
+      "properties": {
+        "id": "17795",
+        "call_sign": "WTSV",
+        "frequency": "1230  kHz",
+        "service": "AM",
+        "owner": "GREAT EASTERN RADIO, LLC",
+        "city": "CLAREMONT",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.17675,
+          44.482833
+        ]
+      },
+      "properties": {
+        "id": "48404",
+        "call_sign": "WMOU",
+        "frequency": "1230  kHz",
+        "service": "AM",
+        "owner": "RADIOTRON, LLC",
+        "city": "BERLIN",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.17675,
+          44.482833
+        ]
+      },
+      "properties": {
+        "id": "48404",
+        "call_sign": "WMOU",
+        "frequency": "1230  kHz",
+        "service": "AM",
+        "owner": "RADIOTRON, LLC",
+        "city": "BERLIN",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.642028,
+          43.454528
+        ]
+      },
+      "properties": {
+        "id": "49391",
+        "call_sign": "WFTN",
+        "frequency": "1240  kHz",
+        "service": "AM",
+        "owner": "NORTHEAST COMMUNICATIONS CORPORATION",
+        "city": "FRANKLIN",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.503667,
+          43.010639
+        ]
+      },
+      "properties": {
+        "id": "57088",
+        "call_sign": "WGAM",
+        "frequency": "1250  kHz",
+        "service": "AM",
+        "owner": "ABSOLUTE BROADCASTING, LLC",
+        "city": "MANCHESTER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.503667,
+          43.010639
+        ]
+      },
+      "properties": {
+        "id": "57088",
+        "call_sign": "WGAM",
+        "frequency": "1250  kHz",
+        "service": "AM",
+        "owner": "ABSOLUTE BROADCASTING, LLC",
+        "city": "MANCHESTER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.853389,
+          43.183694
+        ]
+      },
+      "properties": {
+        "id": "23254",
+        "call_sign": "WTSN",
+        "frequency": "1270  kHz",
+        "service": "AM",
+        "owner": "WBIN MEDIA CO., INC.",
+        "city": "DOVER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.853389,
+          43.183694
+        ]
+      },
+      "properties": {
+        "id": "23254",
+        "call_sign": "WTSN",
+        "frequency": "1270  kHz",
+        "service": "AM",
+        "owner": "WBIN MEDIA CO., INC.",
+        "city": "DOVER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.308694,
+          42.946194
+        ]
+      },
+      "properties": {
+        "id": "36833",
+        "call_sign": "WKBK",
+        "frequency": "1290  kHz",
+        "service": "AM",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "KEENE",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.308694,
+          42.946194
+        ]
+      },
+      "properties": {
+        "id": "36833",
+        "call_sign": "WKBK",
+        "frequency": "1290  kHz",
+        "service": "AM",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "KEENE",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.705083,
+          43.775639
+        ]
+      },
+      "properties": {
+        "id": "52128",
+        "call_sign": "WPNH",
+        "frequency": "1300  kHz",
+        "service": "AM",
+        "owner": "NORTHEAST COMMUNICATIONS CORPORATION",
+        "city": "PLYMOUTH",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.705083,
+          43.775639
+        ]
+      },
+      "properties": {
+        "id": "52128",
+        "call_sign": "WPNH",
+        "frequency": "1300  kHz",
+        "service": "AM",
+        "owner": "NORTHEAST COMMUNICATIONS CORPORATION",
+        "city": "PLYMOUTH",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.287833,
+          42.867028
+        ]
+      },
+      "properties": {
+        "id": "61615",
+        "call_sign": "WDER",
+        "frequency": "1320  kHz",
+        "service": "AM",
+        "owner": "BLOUNT COMMUNICATIONS, INC. OF NH",
+        "city": "DERRY",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.287833,
+          42.867028
+        ]
+      },
+      "properties": {
+        "id": "61615",
+        "call_sign": "WDER",
+        "frequency": "1320  kHz",
+        "service": "AM",
+        "owner": "BLOUNT COMMUNICATIONS, INC. OF NH",
+        "city": "DERRY",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.110333,
+          43.980083
+        ]
+      },
+      "properties": {
+        "id": "161077",
+        "call_sign": "WBNC",
+        "frequency": "1340  kHz",
+        "service": "AM",
+        "owner": "CONWAY BROADCASTING, LLC",
+        "city": "CONWAY",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.110333,
+          43.980083
+        ]
+      },
+      "properties": {
+        "id": "161077",
+        "call_sign": "WBNC",
+        "frequency": "1340  kHz",
+        "service": "AM",
+        "owner": "CONWAY BROADCASTING, LLC",
+        "city": "CONWAY",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.516194,
+          43.507583
+        ]
+      },
+      "properties": {
+        "id": "23321",
+        "call_sign": "WHNM",
+        "frequency": "1350  kHz",
+        "service": "AM",
+        "owner": "COSTA-EAGLE RADIO VENTURES LIMITED PARTNERSHIP",
+        "city": "LACONIA",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.516194,
+          43.507583
+        ]
+      },
+      "properties": {
+        "id": "23321",
+        "call_sign": "WHNM",
+        "frequency": "1350  kHz",
+        "service": "AM",
+        "owner": "COSTA-EAGLE RADIO VENTURES LIMITED PARTNERSHIP",
+        "city": "LACONIA",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.462,
+          42.907306
+        ]
+      },
+      "properties": {
+        "id": "58543",
+        "call_sign": "WFEA",
+        "frequency": "1370  kHz",
+        "service": "AM",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "MANCHESTER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.462,
+          42.907306
+        ]
+      },
+      "properties": {
+        "id": "58543",
+        "call_sign": "WFEA",
+        "frequency": "1370  kHz",
+        "service": "AM",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "MANCHESTER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.768417,
+          44.313111
+        ]
+      },
+      "properties": {
+        "id": "53635",
+        "call_sign": "WLTN",
+        "frequency": "1400  kHz",
+        "service": "AM",
+        "owner": "PROFILE BROADCASTING, LLC",
+        "city": "LITTLETON",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.21925,
+          43.591917
+        ]
+      },
+      "properties": {
+        "id": "54889",
+        "call_sign": "WASR",
+        "frequency": "1420  kHz",
+        "service": "AM",
+        "owner": "LAKES MEDIA, LLC",
+        "city": "WOLFEBORO",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.21925,
+          43.591917
+        ]
+      },
+      "properties": {
+        "id": "54889",
+        "call_sign": "WASR",
+        "frequency": "1420  kHz",
+        "service": "AM",
+        "owner": "LAKES MEDIA, LLC",
+        "city": "WOLFEBORO",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.555,
+          43.194722
+        ]
+      },
+      "properties": {
+        "id": "8694",
+        "call_sign": "WKXL",
+        "frequency": "1450  kHz",
+        "service": "AM",
+        "owner": "NEW HAMPSHIRE FAMILY RADIO LLC",
+        "city": "CONCORD",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.462028,
+          43.541472
+        ]
+      },
+      "properties": {
+        "id": "67270",
+        "call_sign": "WEMJ",
+        "frequency": "1490  kHz",
+        "service": "AM",
+        "owner": "WBIN MEDIA CO., INC.",
+        "city": "LACONIA",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.237306,
+          43.653417
+        ]
+      },
+      "properties": {
+        "id": "129862",
+        "call_sign": "WUVR",
+        "frequency": "1490  kHz",
+        "service": "AM",
+        "owner": "SUGAR RIVER MEDIA, LLC",
+        "city": "LEBANON",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.17675,
+          44.482833
+        ]
+      },
+      "properties": {
+        "id": "160163",
+        "call_sign": "WKDR",
+        "frequency": "1490  kHz",
+        "service": "AM",
+        "owner": "WHITE MOUNTAINS BROADCASTING, LLC",
+        "city": "BERLIN",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.237306,
+          43.653417
+        ]
+      },
+      "properties": {
+        "id": "129862",
+        "call_sign": "WUVR",
+        "frequency": "1490  kHz",
+        "service": "AM",
+        "owner": "SUGAR RIVER MEDIA, LLC",
+        "city": "LEBANON",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.17675,
+          44.482833
+        ]
+      },
+      "properties": {
+        "id": "160163",
+        "call_sign": "WKDR",
+        "frequency": "1490  kHz",
+        "service": "AM",
+        "owner": "WHITE MOUNTAINS BROADCASTING, LLC",
+        "city": "BERLIN",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.936722,
+          42.989806
+        ]
+      },
+      "properties": {
+        "id": "53386",
+        "call_sign": "WPKC",
+        "frequency": "1540  kHz",
+        "service": "AM",
+        "owner": "K-LOVE, INC.",
+        "city": "EXETER",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.476444,
+          42.759528
+        ]
+      },
+      "properties": {
+        "id": "102",
+        "call_sign": "WSMN",
+        "frequency": "1590  kHz",
+        "service": "AM",
+        "owner": "BARTIS BROADCASTING, LLC",
+        "city": "NASHUA",
+        "state": "NH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.476444,
+          42.759528
+        ]
+      },
+      "properties": {
+        "id": "102",
+        "call_sign": "WSMN",
+        "frequency": "1590  kHz",
+        "service": "AM",
+        "owner": "BARTIS BROADCASTING, LLC",
+        "city": "NASHUA",
+        "state": "NH"
+      }
+    }
+  ],
+  "metadata": {
+    "cities": [
+      "BEDFORD",
+      "BELMONT",
+      "BERLIN",
+      "BETHLEHEM",
+      "BRISTOL",
+      "CAMPTON",
+      "CHARLESTOWN",
+      "CHESTER",
+      "CLAREMONT",
+      "COLEBROOK",
+      "CONCORD",
+      "CONWAY",
+      "DERRY",
+      "DOVER",
+      "DUBLIN",
+      "DURHAM",
+      "EPPING",
+      "EXETER",
+      "FARMINGTON",
+      "FRANKLIN",
+      "GORHAM",
+      "HAMPTON",
+      "HANOVER",
+      "HANOVER, ETC.",
+      "HAVERHILL",
+      "HENNIKER",
+      "HILLSBORO",
+      "HINSDALE",
+      "HOLDERNESS",
+      "JACKSON",
+      "JEFFERSON",
+      "KEENE",
+      "LACONIA",
+      "LANCASTER",
+      "LEBANON",
+      "LISBON",
+      "LITTLETON",
+      "MANCHESTER",
+      "MEREDITH",
+      "MERRIMACK",
+      "MILAN",
+      "MILFORD",
+      "MOULTONBOROUGH",
+      "MOUNT WASHINGTON",
+      "NASHUA",
+      "NEW DURHAM",
+      "NEW LONDON",
+      "NEWPORT",
+      "NORTH CONWAY",
+      "OSSIPEE",
+      "PETERBOROUGH",
+      "PLYMOUTH",
+      "PORTSMOUTH",
+      "RINDGE",
+      "ROCHESTER",
+      "SALEM",
+      "SOMERSWORTH",
+      "SWANZEY",
+      "TILTON",
+      "WALPOLE",
+      "WEST LEBANON",
+      "WHITEFIELD",
+      "WINCHESTER",
+      "WOLFEBORO"
+    ],
+    "frequencies": [
+      "88.3  MHz",
+      "88.7  MHz",
+      "89.1  MHz",
+      "89.7  MHz",
+      "89.9  MHz",
+      "90.3  MHz",
+      "90.5  MHz",
+      "90.7  MHz",
+      "90.9  MHz",
+      "91.1  MHz",
+      "91.3  MHz",
+      "91.5  MHz",
+      "91.7  MHz",
+      "91.9  MHz",
+      "92.1  MHz",
+      "92.3  MHz",
+      "92.5  MHz",
+      "92.9  MHz",
+      "93.3  MHz",
+      "93.5  MHz",
+      "94.1  MHz",
+      "94.3  MHz",
+      "94.7  MHz",
+      "94.9  MHz",
+      "95.1  MHz",
+      "95.3  MHz",
+      "95.7  MHz",
+      "95.9  MHz",
+      "96.1  MHz",
+      "96.3  MHz",
+      "96.5  MHz",
+      "96.7  MHz",
+      "96.9  MHz",
+      "97.1  MHz",
+      "97.3  MHz",
+      "97.5  MHz",
+      "97.7  MHz",
+      "97.9  MHz",
+      "98.1  MHz",
+      "98.3  MHz",
+      "98.5  MHz",
+      "98.7  MHz",
+      "98.9  MHz",
+      "99.1  MHz",
+      "99.3  MHz",
+      "99.5  MHz",
+      "99.7  MHz",
+      "99.9  MHz",
+      "100.1 MHz",
+      "100.3 MHz",
+      "100.5 MHz",
+      "101.1 MHz",
+      "101.3 MHz",
+      "101.5 MHz",
+      "101.7 MHz",
+      "101.9 MHz",
+      "102.1 MHz",
+      "102.3 MHz",
+      "102.7 MHz",
+      "102.9 MHz",
+      "103.1 MHz",
+      "103.3 MHz",
+      "103.5 MHz",
+      "103.7 MHz",
+      "103.9 MHz",
+      "104.1 MHz",
+      "104.3 MHz",
+      "104.5 MHz",
+      "104.9 MHz",
+      "105.1 MHz",
+      "105.3 MHz",
+      "105.5 MHz",
+      "105.7 MHz",
+      "105.9 MHz",
+      "106.1 MHz",
+      "106.3 MHz",
+      "106.5 MHz",
+      "106.7 MHz",
+      "106.9 MHz",
+      "107.1 MHz",
+      "107.3 MHz",
+      "107.5 MHz",
+      "107.7 MHz",
+      "107.9 MHz",
+      "610   kHz",
+      "900   kHz",
+      "930   kHz",
+      "1010  kHz",
+      "1110  kHz",
+      "1220  kHz",
+      "1230  kHz",
+      "1240  kHz",
+      "1250  kHz",
+      "1270  kHz",
+      "1290  kHz",
+      "1300  kHz",
+      "1320  kHz",
+      "1340  kHz",
+      "1350  kHz",
+      "1370  kHz",
+      "1400  kHz",
+      "1420  kHz",
+      "1450  kHz",
+      "1490  kHz",
+      "1540  kHz",
+      "1590  kHz"
+    ],
+    "owners": [
+      "ABSOLUTE BROADCASTING, LLC",
+      "ANCHORED MISSION INC.",
+      "ANDROSCOGGIN VALLEY CHAMBER OF COMMERCE",
+      "BARTIS BROADCASTING, LLC",
+      "BLOUNT COMMUNICATIONS, INC. OF NH",
+      "CONWAY BROADCASTING, LLC",
+      "COSTA-EAGLE RADIO VENTURES LIMITED PARTNERSHIP",
+      "COSTA-EAGLE RADIO VENTURES LTD. PTP.",
+      "CULTURAL MEDIA CONNECTION",
+      "CUPID BROADCASTING, LLC",
+      "FRANKLIN PIERCE COLLEGE",
+      "FRIENDS OF THE COLONIAL",
+      "GREAT EASTERN RADIO, LLC",
+      "GREEN MOUNTAIN BROADCASTERS LLC",
+      "GREEN MOUNTAIN EDUCATIONAL FELLOWSHIP, INC.",
+      "HORIZON CHRISTIAN FELLOWSHIP",
+      "IHM LICENSES, LLC",
+      "K-LOVE, INC.",
+      "KNOWLEDGE FOR LIFE",
+      "LAKES MEDIA LLC",
+      "LAKES MEDIA, LLC",
+      "MANCHESTER PUBLIC TELEVISION SERVICE",
+      "NEW ENGLAND COLLEGE",
+      "NEW HAMPSHIRE CATHOLIC COMMUNITY RADIO",
+      "NEW HAMPSHIRE COMMUNITY MEDIA INC",
+      "NEW HAMPSHIRE FAMILY RADIO LLC",
+      "NEW HAMPSHIRE FAMILY RADIO, LLC",
+      "NEW HAMPSHIRE GOSPEL RADIO, INC.",
+      "NEW HAMPSHIRE PUBLIC RADIO, INC.",
+      "NEW HAMPSHIRE PUBLIC RADIO, INCORPORATED",
+      "NH NEWS, VIEWS, AND BLUES",
+      "NORTHEAST COMMUNICATIONS CORPORATION",
+      "NOSTALGIA ONE PUBLIC RADIO, INC.",
+      "OSSIPEE PUBLIC MEDIA, INC.",
+      "PISCATAQUA RADIO",
+      "PORTUGUESE RADIO FOUNDATION CORPORATION",
+      "PROFILE BROADCASTING, L.L.C.",
+      "PROFILE BROADCASTING, LLC",
+      "RADIO AMERICA MEDIA, CORP.",
+      "RADIO NEW ENGLAND BROADCASTING, LLC",
+      "RADIOTRON, LLC",
+      "ROCHESTER RADIO",
+      "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+      "SAU 16",
+      "SEACOAST ARTS AND CULTURAL ALLIANCE",
+      "SEACOAST COMMUNITY RADIO",
+      "SUGAR RIVER FOUNDATION, INC.",
+      "SUGAR RIVER MEDIA, LLC",
+      "THE KINGDOM CHRISTIAN MINISTRIES",
+      "THE LIVING WORD MINISTRIES OF CHARLESTOWN, NH",
+      "TOWN OF BEDFORD, NEW HAMPSHIRE",
+      "TOWN OF DERRY, NEW HAMPSHIRE",
+      "TOWN OF MERRIMACK, NEW HAMPSHIRE",
+      "TOWN OF MILFORD, NEW HAMPSHIRE",
+      "TOWNSQUARE LICENSE, LLC",
+      "TRI-VALLEY BROADCASTING, LLC",
+      "TRUSTEES OF THE PHILLIPS EXETER ACADEMY",
+      "UNIVERSITY OF MASSACHUSETTS",
+      "UNIVERSITY SYSTEM OF NEW HAMPSHIRE",
+      "VERMONT PUBLIC CO.",
+      "WBIN MEDIA CO., INC.",
+      "WHITE MOUNTAINS BROADCASTING LLC",
+      "WHITE MOUNTAINS BROADCASTING, LLC",
+      "WORD RADIO EDUCATIONAL FOUNDATION",
+      "YANKEE KINGDOM MEDIA CORP"
+    ],
+    "services": [
+      "AM",
+      "FL",
+      "FM",
+      "FS",
+      "FX"
+    ]
+  }
+}

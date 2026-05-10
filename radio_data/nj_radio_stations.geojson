@@ -1,0 +1,6526 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.010111,
+          40.217333
+        ]
+      },
+      "properties": {
+        "id": "19867",
+        "call_sign": "WYGG",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "MINORITY BUSINESS & HOUSING DEVELOPMENT, INC",
+        "city": "ASBURY PARK",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.119278,
+          39.750944
+        ]
+      },
+      "properties": {
+        "id": "176010",
+        "call_sign": "WZBL",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "CALVARY CHAPEL OF MARLTON",
+        "city": "BARNEGAT LIGHT",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.843778,
+          39.728167
+        ]
+      },
+      "properties": {
+        "id": "48486",
+        "call_sign": "WTHA",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "BUX-MONT EDUCATIONAL RADIO ASSOCIATION",
+        "city": "BERLIN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.787944,
+          39.129833
+        ]
+      },
+      "properties": {
+        "id": "86859",
+        "call_sign": "WJPG",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "MARANATHA MINISTRIES/JOY COMMUNICATIONS, INC.",
+        "city": "CAPE MAY COURT HOUSE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.612944,
+          40.940389
+        ]
+      },
+      "properties": {
+        "id": "121770",
+        "call_sign": "WDNJ",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "YOUNGSHINE MEDIA, INC.",
+        "city": "HOPATCONG",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.686,
+          40.282889
+        ]
+      },
+      "properties": {
+        "id": "48488",
+        "call_sign": "WNJT-FM",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "NEW YORK PUBLIC RADIO",
+        "city": "TRENTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.291806,
+          39.715667
+        ]
+      },
+      "properties": {
+        "id": "89740",
+        "call_sign": "WVBH",
+        "frequency": "88.3  MHz",
+        "service": "FM",
+        "owner": "PRIORITY RADIO, INC.",
+        "city": "BEACH HAVEN WEST",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98625,
+          40.756222
+        ]
+      },
+      "properties": {
+        "id": "48699",
+        "call_sign": "WBGO",
+        "frequency": "88.3  MHz",
+        "service": "FM",
+        "owner": "NEWARK PUBLIC RADIO, INC.",
+        "city": "NEWARK",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.170417,
+          40.736472
+        ]
+      },
+      "properties": {
+        "id": "48699",
+        "call_sign": "WBGO",
+        "frequency": "88.3  MHz",
+        "service": "FS",
+        "owner": "NEWARK PUBLIC RADIO, INC.",
+        "city": "NEWARK",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.537944,
+          41.143694
+        ]
+      },
+      "properties": {
+        "id": "48471",
+        "call_sign": "WNJP",
+        "frequency": "88.5  MHz",
+        "service": "FM",
+        "owner": "NEW YORK PUBLIC RADIO",
+        "city": "SUSSEX",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.217611,
+          40.049389
+        ]
+      },
+      "properties": {
+        "id": "764260",
+        "call_sign": "WOTW",
+        "frequency": "88.7  MHz",
+        "service": "FM",
+        "owner": "REJUVENATION OUTREACH CENTER INC.",
+        "city": "LAKEWOOD",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.437083,
+          40.46675
+        ]
+      },
+      "properties": {
+        "id": "4277",
+        "call_sign": "WRSU-FM",
+        "frequency": "88.7  MHz",
+        "service": "FM",
+        "owner": "BOARD OF GOVERNORS OF RUTGERS",
+        "city": "NEW BRUNSWICK",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.433944,
+          39.604972
+        ]
+      },
+      "properties": {
+        "id": "87809",
+        "call_sign": "WEHA",
+        "frequency": "88.7  MHz",
+        "service": "FM",
+        "owner": "SPREAD THE GOSPEL, INC.",
+        "city": "PORT REPUBLIC",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.280417,
+          40.996222
+        ]
+      },
+      "properties": {
+        "id": "72703",
+        "call_sign": "WPSC-FM",
+        "frequency": "88.7  MHz",
+        "service": "FM",
+        "owner": "WILLIAM PATERSON UNIVERSITY OF NEW JERSEY",
+        "city": "WAYNE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.474861,
+          39.365111
+        ]
+      },
+      "properties": {
+        "id": "3123",
+        "call_sign": "WAJM",
+        "frequency": "88.9  MHz",
+        "service": "FM",
+        "owner": "ATLANTIC CITY BOARD OF EDUCATION",
+        "city": "ATLANTIC CITY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.515528,
+          40.691833
+        ]
+      },
+      "properties": {
+        "id": "767773",
+        "call_sign": "WWMH",
+        "frequency": "88.9  MHz",
+        "service": "FM",
+        "owner": "CALVARY CHAPEL MORRIS HILLS",
+        "city": "BERNARDSVILLE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.544056,
+          39.842889
+        ]
+      },
+      "properties": {
+        "id": "7844",
+        "call_sign": "WBZC",
+        "frequency": "88.9  MHz",
+        "service": "FM",
+        "owner": "FOUR RIVERS COMMUNITY BROADCASTING CORPORATION",
+        "city": "PEMBERTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006778,
+          40.279
+        ]
+      },
+      "properties": {
+        "id": "43482",
+        "call_sign": "WMCX",
+        "frequency": "88.9  MHz",
+        "service": "FM",
+        "owner": "MONMOUTH",
+        "city": "WEST LONG BRANCH",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.765278,
+          39.124444
+        ]
+      },
+      "properties": {
+        "id": "41201",
+        "call_sign": "WWCJ",
+        "frequency": "89.1  MHz",
+        "service": "FM",
+        "owner": "MERCER COUNTY COMMUNITY COLLEGE",
+        "city": "CAPE MAY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.922639,
+          40.960944
+        ]
+      },
+      "properties": {
+        "id": "20458",
+        "call_sign": "WFDU",
+        "frequency": "89.1  MHz",
+        "service": "FM",
+        "owner": "FAIRLEIGH DICKINSON UNIVERSITY",
+        "city": "TEANECK",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.649333,
+          40.258444
+        ]
+      },
+      "properties": {
+        "id": "41194",
+        "call_sign": "WWFM",
+        "frequency": "89.1  MHz",
+        "service": "FM",
+        "owner": "MERCER COUNTY COMMUNITY COLLEGE",
+        "city": "TRENTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.060278,
+          40.770278
+        ]
+      },
+      "properties": {
+        "id": "766775",
+        "call_sign": "WNJQ",
+        "frequency": "89.1  MHz",
+        "service": "FM",
+        "owner": "CALVARY CHAPEL MORRIS HILLS",
+        "city": "WASHINGTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.157417,
+          39.459833
+        ]
+      },
+      "properties": {
+        "id": "48934",
+        "call_sign": "WNJB-FM",
+        "frequency": "89.3  MHz",
+        "service": "FM",
+        "owner": "THE BRIDGE OF HOPE, INC.",
+        "city": "BRIDGETON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.163556,
+          40.274167
+        ]
+      },
+      "properties": {
+        "id": "174562",
+        "call_sign": "WFJS-FM",
+        "frequency": "89.3  MHz",
+        "service": "FM",
+        "owner": "DOMESTIC CHURCH MEDIA FOUNDATION",
+        "city": "FREEHOLD",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.698222,
+          40.887333
+        ]
+      },
+      "properties": {
+        "id": "93964",
+        "call_sign": "WNJY",
+        "frequency": "89.3  MHz",
+        "service": "FM",
+        "owner": "NEW YORK PUBLIC RADIO",
+        "city": "NETCONG",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.988778,
+          39.912056
+        ]
+      },
+      "properties": {
+        "id": "7045",
+        "call_sign": "WYPA",
+        "frequency": "89.5  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "CHERRY HILL",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.244583,
+          40.741222
+        ]
+      },
+      "properties": {
+        "id": "59707",
+        "call_sign": "WSOU",
+        "frequency": "89.5  MHz",
+        "service": "FM",
+        "owner": "SETON HALL UNIVERSITY",
+        "city": "SOUTH ORANGE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.684583,
+          39.461222
+        ]
+      },
+      "properties": {
+        "id": "48483",
+        "call_sign": "WNJN-FM",
+        "frequency": "89.7  MHz",
+        "service": "FM",
+        "owner": "WHYY, INC.",
+        "city": "ATLANTIC CITY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.869889,
+          39.009278
+        ]
+      },
+      "properties": {
+        "id": "141579",
+        "call_sign": "W209CP",
+        "frequency": "89.7  MHz",
+        "service": "FX",
+        "owner": "CALVARY CHAPEL OF MARLTON",
+        "city": "CAPE MAY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.959056,
+          40.510083
+        ]
+      },
+      "properties": {
+        "id": "52174",
+        "call_sign": "WDVR",
+        "frequency": "89.7  MHz",
+        "service": "FM",
+        "owner": "PENN-JERSEY EDUCATIONAL RADIO CORP.",
+        "city": "DELAWARE TOWNSHIP",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.121528,
+          40.130389
+        ]
+      },
+      "properties": {
+        "id": "20485",
+        "call_sign": "WRDR",
+        "frequency": "89.7  MHz",
+        "service": "FM",
+        "owner": "BRIDGELIGHT, LLC",
+        "city": "FREEHOLD TOWNSHIP",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.29825,
+          39.694833
+        ]
+      },
+      "properties": {
+        "id": "57778",
+        "call_sign": "WGLS-FM",
+        "frequency": "89.7  MHz",
+        "service": "FM",
+        "owner": "ROWAN UNIVERSITY",
+        "city": "GLASSBORO",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.234583,
+          39.698167
+        ]
+      },
+      "properties": {
+        "id": "48460",
+        "call_sign": "WNJM",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "WHYY, INC.",
+        "city": "MANAHAWKIN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.852667,
+          39.280944
+        ]
+      },
+      "properties": {
+        "id": "90117",
+        "call_sign": "WJPH",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "MARANATHA MINISTRIES/JOY COMMUNICATIONS, INC.",
+        "city": "WOODBINE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.852139,
+          39.280611
+        ]
+      },
+      "properties": {
+        "id": "90117",
+        "call_sign": "WJPH",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "MARANATHA MINISTRIES/JOY COMMUNICATIONS, INC.",
+        "city": "WOODBINE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.801278,
+          39.105111
+        ]
+      },
+      "properties": {
+        "id": "48464",
+        "call_sign": "WNJZ",
+        "frequency": "90.3  MHz",
+        "service": "FM",
+        "owner": "WHYY, INC.",
+        "city": "CAPE MAY COURT HOUSE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.175694,
+          41.080917
+        ]
+      },
+      "properties": {
+        "id": "55029",
+        "call_sign": "WRPR",
+        "frequency": "90.3  MHz",
+        "service": "FM",
+        "owner": "RAMAPO COLLEGE OF NEW JERSEY",
+        "city": "MAHWAH",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.430833,
+          40.522611
+        ]
+      },
+      "properties": {
+        "id": "52686",
+        "call_sign": "WVPH",
+        "frequency": "90.3  MHz",
+        "service": "FM",
+        "owner": "PISCATAWAY BOARD OF EDUCATION",
+        "city": "PISCATAWAY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.462667,
+          41.016778
+        ]
+      },
+      "properties": {
+        "id": "175731",
+        "call_sign": "WNEQ",
+        "frequency": "90.3  MHz",
+        "service": "FM",
+        "owner": "REDEEMER BROADCASTING, INC.",
+        "city": "TAYLORTOWN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.082333,
+          39.914556
+        ]
+      },
+      "properties": {
+        "id": "123020",
+        "call_sign": "WNJO",
+        "frequency": "90.3  MHz",
+        "service": "FM",
+        "owner": "NEW YORK PUBLIC RADIO",
+        "city": "TOMS RIVER",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.233472,
+          40.676472
+        ]
+      },
+      "properties": {
+        "id": "33783",
+        "call_sign": "WKNJ-FM",
+        "frequency": "90.3  MHz",
+        "service": "FM",
+        "owner": "KEAN UNIVERSITY",
+        "city": "UNION TOWNSHIP",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.200417,
+          40.864833
+        ]
+      },
+      "properties": {
+        "id": "43579",
+        "call_sign": "WMSC",
+        "frequency": "90.3  MHz",
+        "service": "FM",
+        "owner": "MONTCLAIR STATE UNIVERSITY",
+        "city": "UPPER MONTCLAIR",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.426667,
+          39.3575
+        ]
+      },
+      "properties": {
+        "id": "122933",
+        "call_sign": "WWFP",
+        "frequency": "90.5  MHz",
+        "service": "FM",
+        "owner": "CALVARY CHAPEL OF MARLTON",
+        "city": "BRIGANTINE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.904611,
+          40.557028
+        ]
+      },
+      "properties": {
+        "id": "28129",
+        "call_sign": "WCVH",
+        "frequency": "90.5  MHz",
+        "service": "FM",
+        "owner": "HUNTERDON CENTRAL H. S. BD. OF EDUC.",
+        "city": "FLEMINGTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.132083,
+          40.322056
+        ]
+      },
+      "properties": {
+        "id": "7116",
+        "call_sign": "WBJB-FM",
+        "frequency": "90.5  MHz",
+        "service": "FM",
+        "owner": "BROOKDALE COMMUNITY COLLEGE",
+        "city": "LINCROFT",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.746278,
+          39.555667
+        ]
+      },
+      "properties": {
+        "id": "122809",
+        "call_sign": "WVBV",
+        "frequency": "90.5  MHz",
+        "service": "FM",
+        "owner": "CALVARY CHAPEL OF MARLTON",
+        "city": "MEDFORD LAKES",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.484861,
+          40.835083
+        ]
+      },
+      "properties": {
+        "id": "43849",
+        "call_sign": "WJSV",
+        "frequency": "90.5  MHz",
+        "service": "FM",
+        "owner": "MORRIS SCHOOL DISTRICT",
+        "city": "MORRISTOWN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.064056,
+          40.770639
+        ]
+      },
+      "properties": {
+        "id": "174811",
+        "call_sign": "WPNJ",
+        "frequency": "90.7  MHz",
+        "service": "FM",
+        "owner": "PENN-JERSEY EDUCATIONAL RADIO CORPORATION",
+        "city": "HARMONY TOWNSHIP",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.291806,
+          39.640111
+        ]
+      },
+      "properties": {
+        "id": "52173",
+        "call_sign": "WYRS",
+        "frequency": "90.7  MHz",
+        "service": "FM",
+        "owner": "WYRS BROADCASTING",
+        "city": "MANAHAWKIN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.234306,
+          39.699278
+        ]
+      },
+      "properties": {
+        "id": "52173",
+        "call_sign": "WYRS",
+        "frequency": "90.7  MHz",
+        "service": "FS",
+        "owner": "WYRS BROADCASTING",
+        "city": "MANAHAWKIN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8535,
+          39.049556
+        ]
+      },
+      "properties": {
+        "id": "77342",
+        "call_sign": "W215CE",
+        "frequency": "90.9  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL",
+        "city": "CAPE MAY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.255139,
+          40.788694
+        ]
+      },
+      "properties": {
+        "id": "3249",
+        "call_sign": "WFMU",
+        "frequency": "91.1  MHz",
+        "service": "FM",
+        "owner": "AURICLE COMMUNICATIONS",
+        "city": "EAST ORANGE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.255139,
+          40.788694
+        ]
+      },
+      "properties": {
+        "id": "3249",
+        "call_sign": "WFMU",
+        "frequency": "91.1  MHz",
+        "service": "FS",
+        "owner": "AURICLE COMMUNICATIONS",
+        "city": "EAST ORANGE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1725,
+          39.996944
+        ]
+      },
+      "properties": {
+        "id": "41203",
+        "call_sign": "WWNJ",
+        "frequency": "91.1  MHz",
+        "service": "FM",
+        "owner": "MERCER COUNTY COMMUNITY COLLEGE",
+        "city": "TOMS RIVER TOWNSHIP",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.771278,
+          39.320667
+        ]
+      },
+      "properties": {
+        "id": "65176",
+        "call_sign": "WRTQ",
+        "frequency": "91.3  MHz",
+        "service": "FM",
+        "owner": "TEMPLE UNIVERSITY OF THE COMMONWEALTH SYSTEM OF HIGHER ED",
+        "city": "OCEAN CITY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.781528,
+          40.271472
+        ]
+      },
+      "properties": {
+        "id": "67625",
+        "call_sign": "WTSR",
+        "frequency": "91.3  MHz",
+        "service": "FM",
+        "owner": "THE COLLEGE OF NJ RADIO SYSTEM",
+        "city": "TRENTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.038222,
+          39.785111
+        ]
+      },
+      "properties": {
+        "id": "8468",
+        "call_sign": "WDBK",
+        "frequency": "91.5  MHz",
+        "service": "FM",
+        "owner": "CAMDEN COUNTY COLLEGE",
+        "city": "BLACKWOOD",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.46875,
+          40.068722
+        ]
+      },
+      "properties": {
+        "id": "174908",
+        "call_sign": "WLNJ",
+        "frequency": "91.7  MHz",
+        "service": "FM",
+        "owner": "WYRS BROADCASTING",
+        "city": "LAKEHURST",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.538583,
+          39.476306
+        ]
+      },
+      "properties": {
+        "id": "63469",
+        "call_sign": "WLFR",
+        "frequency": "91.7  MHz",
+        "service": "FM",
+        "owner": "STOCKTON UNIVERSITY",
+        "city": "POMONA",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.319583,
+          39.765111
+        ]
+      },
+      "properties": {
+        "id": "123342",
+        "call_sign": "WBNJ",
+        "frequency": "91.9  MHz",
+        "service": "FM",
+        "owner": "WWN EDUCATIONAL RADIO CORPORATION",
+        "city": "BARNEGAT",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.873222,
+          40.852306
+        ]
+      },
+      "properties": {
+        "id": "9759",
+        "call_sign": "WXPJ",
+        "frequency": "91.9  MHz",
+        "service": "FM",
+        "owner": "THE TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA",
+        "city": "HACKETTSTOWN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.685972,
+          40.282861
+        ]
+      },
+      "properties": {
+        "id": "7925",
+        "call_sign": "W220AG",
+        "frequency": "91.9  MHz",
+        "service": "FX",
+        "owner": "WYRS BROADCASTING",
+        "city": "LAWRENCEVILLE, ETC.",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.853611,
+          39.049444
+        ]
+      },
+      "properties": {
+        "id": "174695",
+        "call_sign": "WSMJ",
+        "frequency": "91.9  MHz",
+        "service": "FM",
+        "owner": "DOMESTIC CHURCH MEDIA FOUNDATION",
+        "city": "NORTH WILDWOOD",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.295139,
+          40.455389
+        ]
+      },
+      "properties": {
+        "id": "40054",
+        "call_sign": "W220AA",
+        "frequency": "91.9  MHz",
+        "service": "FX",
+        "owner": "BRIDGELIGHT, LLC",
+        "city": "PARLIN, ETC.",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98625,
+          40.756222
+        ]
+      },
+      "properties": {
+        "id": "93996",
+        "call_sign": "W220EJ",
+        "frequency": "91.9  MHz",
+        "service": "FX",
+        "owner": "AURICLE COMMUNICATIONS",
+        "city": "WEEHAWKEN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.074889,
+          39.498167
+        ]
+      },
+      "properties": {
+        "id": "11974",
+        "call_sign": "WVLT",
+        "frequency": "92.1  MHz",
+        "service": "FM",
+        "owner": "CLEAR COMMUNICATIONS, INC.",
+        "city": "VINELAND",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.512222,
+          39.39
+        ]
+      },
+      "properties": {
+        "id": "145466",
+        "call_sign": "W223CO",
+        "frequency": "92.3  MHz",
+        "service": "FX",
+        "owner": "LONGPORT MEDIA, LLC",
+        "city": "ATLANTIC CITY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.474694,
+          40.479167
+        ]
+      },
+      "properties": {
+        "id": "143028",
+        "call_sign": "W224CW",
+        "frequency": "92.7  MHz",
+        "service": "FX",
+        "owner": "RAHUL WALIA",
+        "city": "FRANKLIN TOWNSHIP",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.653017,
+          39.259114
+        ]
+      },
+      "properties": {
+        "id": "135683",
+        "call_sign": "WXGN-LP",
+        "frequency": "92.7  MHz",
+        "service": "FL",
+        "owner": "JOY BROADCASTING, INC.",
+        "city": "OCEAN CITY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1655,
+          39.875389
+        ]
+      },
+      "properties": {
+        "id": "59508",
+        "call_sign": "WOBM-FM",
+        "frequency": "92.7  MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "TOMS RIVER",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1655,
+          39.875389
+        ]
+      },
+      "properties": {
+        "id": "59508",
+        "call_sign": "WOBM-FM",
+        "frequency": "92.7  MHz",
+        "service": "FS",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "TOMS RIVER",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9585,
+          40.807861
+        ]
+      },
+      "properties": {
+        "id": "54693",
+        "call_sign": "W224AS",
+        "frequency": "92.7  MHz",
+        "service": "FX",
+        "owner": "WRNJ RADIO, INC.",
+        "city": "WASHINGTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.846556,
+          40.189389
+        ]
+      },
+      "properties": {
+        "id": "203145",
+        "call_sign": "W225DJ",
+        "frequency": "92.9  MHz",
+        "service": "FX",
+        "owner": "THE VOICE RADIO TRENTON, LLC",
+        "city": "BURLINGTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.840833,
+          39.734444
+        ]
+      },
+      "properties": {
+        "id": "788038",
+        "call_sign": "NEW",
+        "frequency": "92.9  MHz",
+        "service": "FL",
+        "owner": "LIVING SPRINGS GLOBAL FELLOWSHIP, INC.",
+        "city": "HAMMONTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.524167,
+          39.801111
+        ]
+      },
+      "properties": {
+        "id": "788240",
+        "call_sign": "WMMP-LP",
+        "frequency": "92.9  MHz",
+        "service": "FL",
+        "owner": "PENTECOSTAL CHURCH OF PENNS GROVE.",
+        "city": "PENNS GROVE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5385,
+          39.476222
+        ]
+      },
+      "properties": {
+        "id": "151750",
+        "call_sign": "W225BV",
+        "frequency": "92.9  MHz",
+        "service": "FX",
+        "owner": "WYRS BROADCASTING",
+        "city": "POMONA",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.075,
+          39.498056
+        ]
+      },
+      "properties": {
+        "id": "202064",
+        "call_sign": "W225DK",
+        "frequency": "92.9  MHz",
+        "service": "FX",
+        "owner": "CLEAR COMMUNICATIONS, INC.",
+        "city": "VINELAND",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.985833,
+          40.748333
+        ]
+      },
+      "properties": {
+        "id": "51663",
+        "call_sign": "WPAT-FM",
+        "frequency": "93.1  MHz",
+        "service": "FM",
+        "owner": "WPAT LICENSING, INC.",
+        "city": "PATERSON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9225,
+          40.960833
+        ]
+      },
+      "properties": {
+        "id": "51663",
+        "call_sign": "WPAT-FM",
+        "frequency": "93.1  MHz",
+        "service": "FS",
+        "owner": "WPAT LICENSING, INC.",
+        "city": "PATERSON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.812944,
+          38.992889
+        ]
+      },
+      "properties": {
+        "id": "32201",
+        "call_sign": "WEZW",
+        "frequency": "93.1  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "WILDWOOD CREST",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.171917,
+          39.997528
+        ]
+      },
+      "properties": {
+        "id": "156685",
+        "call_sign": "W264DH",
+        "frequency": "93.5  MHz",
+        "service": "FX",
+        "owner": "PRESS COMMUNICATIONS, L.L.C.",
+        "city": "EATONTOWN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.492111,
+          40.477056
+        ]
+      },
+      "properties": {
+        "id": "201019",
+        "call_sign": "W228DY",
+        "frequency": "93.5  MHz",
+        "service": "FX",
+        "owner": "BEASLEY MEDIA GROUP LICENSES, LLC",
+        "city": "NEW BRUNSWICK",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.561833,
+          39.3765
+        ]
+      },
+      "properties": {
+        "id": "41178",
+        "call_sign": "W230AA",
+        "frequency": "93.9  MHz",
+        "service": "FX",
+        "owner": "MERCER COUNTY COMMUNITY COLLEGE",
+        "city": "ATLANTIC CITY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.089861,
+          40.229278
+        ]
+      },
+      "properties": {
+        "id": "14907",
+        "call_sign": "WJLK-FM",
+        "frequency": "94.3  MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "ASBURY PARK",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.681389,
+          39.229167
+        ]
+      },
+      "properties": {
+        "id": "16910",
+        "call_sign": "WIBG-FM",
+        "frequency": "94.3  MHz",
+        "service": "FM",
+        "owner": "WIBG LIMITED LIABILITY COMPANY",
+        "city": "AVALON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.681389,
+          39.229167
+        ]
+      },
+      "properties": {
+        "id": "16910",
+        "call_sign": "WIBG-FM",
+        "frequency": "94.3  MHz",
+        "service": "FM",
+        "owner": "WIBG LIMITED LIABILITY COMPANY",
+        "city": "AVALON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.846556,
+          40.189389
+        ]
+      },
+      "properties": {
+        "id": "25013",
+        "call_sign": "WPST",
+        "frequency": "94.5  MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "TRENTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.861833,
+          40.255389
+        ]
+      },
+      "properties": {
+        "id": "25013",
+        "call_sign": "WPST",
+        "frequency": "94.5  MHz",
+        "service": "FS",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "TRENTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.090417,
+          40.798167
+        ]
+      },
+      "properties": {
+        "id": "20886",
+        "call_sign": "WXBK",
+        "frequency": "94.7  MHz",
+        "service": "FM",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "NEWARK",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.638056,
+          40.749722
+        ]
+      },
+      "properties": {
+        "id": "792906",
+        "call_sign": "WXBK-FM2",
+        "frequency": "94.7  MHz",
+        "service": "FB",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "NEWARK",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.973944,
+          40.762611
+        ]
+      },
+      "properties": {
+        "id": "792904",
+        "call_sign": "WXBK-FM1",
+        "frequency": "94.7  MHz",
+        "service": "FB",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "NEWARK",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.254861,
+          40.788167
+        ]
+      },
+      "properties": {
+        "id": "20886",
+        "call_sign": "WXBK",
+        "frequency": "94.7  MHz",
+        "service": "FS",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "NEWARK",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.893778,
+          39.934278
+        ]
+      },
+      "properties": {
+        "id": "141548",
+        "call_sign": "W235BZ",
+        "frequency": "94.9  MHz",
+        "service": "FX",
+        "owner": "CALVARY CHAPEL OF MARLTON",
+        "city": "MARLTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.450417,
+          39.380944
+        ]
+      },
+      "properties": {
+        "id": "3125",
+        "call_sign": "WAYV",
+        "frequency": "95.1  MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "ATLANTIC CITY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.392278,
+          40.529306
+        ]
+      },
+      "properties": {
+        "id": "138032",
+        "call_sign": "W236CT",
+        "frequency": "95.1  MHz",
+        "service": "FX",
+        "owner": "SRN COMMUNICATIONS, INC.",
+        "city": "EDISON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.474722,
+          40.479167
+        ]
+      },
+      "properties": {
+        "id": "138032",
+        "call_sign": "W236CT",
+        "frequency": "95.1  MHz",
+        "service": "FX",
+        "owner": "SRN COMMUNICATIONS, INC.",
+        "city": "WOODBRIDGE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.202917,
+          39.458861
+        ]
+      },
+      "properties": {
+        "id": "141376",
+        "call_sign": "W237CD",
+        "frequency": "95.3  MHz",
+        "service": "FX",
+        "owner": "PRIORITY RADIO, INC.",
+        "city": "HARRISONVILLE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.053083,
+          39.926278
+        ]
+      },
+      "properties": {
+        "id": "141664",
+        "call_sign": "W237EH",
+        "frequency": "95.3  MHz",
+        "service": "FX",
+        "owner": "BROADCAST LEARNING CENTER, INC.",
+        "city": "PENNSAUKEN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.561722,
+          39.376611
+        ]
+      },
+      "properties": {
+        "id": "201067",
+        "call_sign": "W238CZ",
+        "frequency": "95.5  MHz",
+        "service": "FX",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "ATLANTIC CITY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.51125,
+          40.855917
+        ]
+      },
+      "properties": {
+        "id": "202689",
+        "call_sign": "W240EE",
+        "frequency": "95.9  MHz",
+        "service": "FX",
+        "owner": "CENTRO BIBLICO OF NJ, INC.",
+        "city": "DOVER",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.222083,
+          40.761194
+        ]
+      },
+      "properties": {
+        "id": "195683",
+        "call_sign": "WZYE-LP",
+        "frequency": "95.9  MHz",
+        "service": "FL",
+        "owner": "CARIBBEAN SPORTS INTERNATIONAL, INC.",
+        "city": "MAPLEWOOD",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.22225,
+          40.761333
+        ]
+      },
+      "properties": {
+        "id": "197099",
+        "call_sign": "WNJI-LP",
+        "frequency": "95.9  MHz",
+        "service": "FL",
+        "owner": "GOSPEL LIGHT PRAYER CHURCH INC",
+        "city": "MAPLEWOOD",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.503778,
+          40.6215
+        ]
+      },
+      "properties": {
+        "id": "142668",
+        "call_sign": "W240CY",
+        "frequency": "95.9  MHz",
+        "service": "FX",
+        "owner": "PENN JERSEY EDUCATIONAL RADIO CORPORATION",
+        "city": "MT BETHEL",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.027917,
+          40.170944
+        ]
+      },
+      "properties": {
+        "id": "59530",
+        "call_sign": "WRAT",
+        "frequency": "95.9  MHz",
+        "service": "FM",
+        "owner": "BEASLEY MEDIA GROUP LICENSES, LLC",
+        "city": "POINT PLEASANT",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.027917,
+          40.170944
+        ]
+      },
+      "properties": {
+        "id": "59530",
+        "call_sign": "WRAT",
+        "frequency": "95.9  MHz",
+        "service": "FS",
+        "owner": "BEASLEY MEDIA GROUP LICENSES, LLC",
+        "city": "POINT PLEASANT",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.279861,
+          40.9965
+        ]
+      },
+      "properties": {
+        "id": "194694",
+        "call_sign": "WYNE-LP",
+        "frequency": "95.9  MHz",
+        "service": "FL",
+        "owner": "PREAKNESS VALLEY UNITED REFORMED CHURCH",
+        "city": "WAYNE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.450167,
+          39.381111
+        ]
+      },
+      "properties": {
+        "id": "40030",
+        "call_sign": "WTTH",
+        "frequency": "96.1  MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "MARGATE CITY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.02125,
+          39.422028
+        ]
+      },
+      "properties": {
+        "id": "200477",
+        "call_sign": "W241CS",
+        "frequency": "96.1  MHz",
+        "service": "FX",
+        "owner": "EFRAIN MUNIZ-CAMPOS",
+        "city": "MILLVILE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.090333,
+          40.229278
+        ]
+      },
+      "properties": {
+        "id": "202321",
+        "call_sign": "W244EE",
+        "frequency": "96.7  MHz",
+        "service": "FX",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "ASBURY PARK",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.324861,
+          40.534833
+        ]
+      },
+      "properties": {
+        "id": "141372",
+        "call_sign": "W244DU",
+        "frequency": "96.7  MHz",
+        "service": "FX",
+        "owner": "ZINDAGI 967 FM LLC",
+        "city": "PARSIPPANY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.447639,
+          39.378444
+        ]
+      },
+      "properties": {
+        "id": "10449",
+        "call_sign": "WFPG",
+        "frequency": "96.9  MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "ATLANTIC CITY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.417639,
+          39.361222
+        ]
+      },
+      "properties": {
+        "id": "10449",
+        "call_sign": "WFPG",
+        "frequency": "96.9  MHz",
+        "service": "FS",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "ATLANTIC CITY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.059889,
+          40.770361
+        ]
+      },
+      "properties": {
+        "id": "41196",
+        "call_sign": "W245AC",
+        "frequency": "96.9  MHz",
+        "service": "FX",
+        "owner": "MERCER COUNTY COMMUNITY COLLEGE",
+        "city": "HARMONY TOWNSHIP",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.686,
+          40.282889
+        ]
+      },
+      "properties": {
+        "id": "152707",
+        "call_sign": "W245CC",
+        "frequency": "96.9  MHz",
+        "service": "FX",
+        "owner": "PENN-JERSEY EDUCATIONAL RADIO CORPORATION",
+        "city": "TRENTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.160167,
+          39.9515
+        ]
+      },
+      "properties": {
+        "id": "84808",
+        "call_sign": "W246AQ",
+        "frequency": "97.1  MHz",
+        "service": "FX",
+        "owner": "PRIORITY RADIO, INC.",
+        "city": "COLLINGSWOOD",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.771167,
+          39.320639
+        ]
+      },
+      "properties": {
+        "id": "72981",
+        "call_sign": "WENJ",
+        "frequency": "97.3  MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "MILLVILLE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.417639,
+          39.361222
+        ]
+      },
+      "properties": {
+        "id": "72981",
+        "call_sign": "WENJ",
+        "frequency": "97.3  MHz",
+        "service": "FS",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "MILLVILLE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.181,
+          40.082611
+        ]
+      },
+      "properties": {
+        "id": "47427",
+        "call_sign": "WPEN",
+        "frequency": "97.5  MHz",
+        "service": "FM",
+        "owner": "BEASLEY MEDIA GROUP LICENSES, LLC",
+        "city": "BURLINGTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.236556,
+          40.039278
+        ]
+      },
+      "properties": {
+        "id": "47427",
+        "call_sign": "WPEN",
+        "frequency": "97.5  MHz",
+        "service": "FS",
+        "owner": "BEASLEY MEDIA GROUP LICENSES, LLC",
+        "city": "BURLINGTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.034306,
+          40.715917
+        ]
+      },
+      "properties": {
+        "id": "140791",
+        "call_sign": "W248CG",
+        "frequency": "97.5  MHz",
+        "service": "FX",
+        "owner": "CANTICO NUEVO MINISTRY, INC.",
+        "city": "JERSEY CITY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.755972,
+          41.070083
+        ]
+      },
+      "properties": {
+        "id": "193235",
+        "call_sign": "WRSK-LP",
+        "frequency": "97.5  MHz",
+        "service": "FL",
+        "owner": "SUSSEX COUNTY COMMUNITY COLLEGE",
+        "city": "NEWTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.202972,
+          39.458722
+        ]
+      },
+      "properties": {
+        "id": "141528",
+        "call_sign": "W249BY",
+        "frequency": "97.7  MHz",
+        "service": "FX",
+        "owner": "CALVARY CHAPEL OF MARLTON",
+        "city": "BRIDGETON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.561833,
+          39.3765
+        ]
+      },
+      "properties": {
+        "id": "141577",
+        "call_sign": "W249CM",
+        "frequency": "97.7  MHz",
+        "service": "FX",
+        "owner": "CALVARY CHAPEL OF MARLTON",
+        "city": "MARMORA",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.060278,
+          40.770278
+        ]
+      },
+      "properties": {
+        "id": "141567",
+        "call_sign": "W249CA",
+        "frequency": "97.7  MHz",
+        "service": "FX",
+        "owner": "BEACON BROADCASTING CORP.",
+        "city": "WASHINGTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.869889,
+          39.009
+        ]
+      },
+      "properties": {
+        "id": "141479",
+        "call_sign": "W250AK",
+        "frequency": "97.9  MHz",
+        "service": "FX",
+        "owner": "EDWARD A. SCHOBER",
+        "city": "RIO GRANDE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.492111,
+          40.477056
+        ]
+      },
+      "properties": {
+        "id": "55179",
+        "call_sign": "WMGQ",
+        "frequency": "98.3  MHz",
+        "service": "FM",
+        "owner": "BEASLEY MEDIA GROUP LICENSES, LLC",
+        "city": "NEW BRUNSWICK",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.492111,
+          40.477056
+        ]
+      },
+      "properties": {
+        "id": "55179",
+        "call_sign": "WMGQ",
+        "frequency": "98.3  MHz",
+        "service": "FS",
+        "owner": "BEASLEY MEDIA GROUP LICENSES, LLC",
+        "city": "NEW BRUNSWICK",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.492389,
+          40.475944
+        ]
+      },
+      "properties": {
+        "id": "55179",
+        "call_sign": "WMGQ",
+        "frequency": "98.3  MHz",
+        "service": "FS",
+        "owner": "BEASLEY MEDIA GROUP LICENSES, LLC",
+        "city": "NEW BRUNSWICK",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.985139,
+          40.846056
+        ]
+      },
+      "properties": {
+        "id": "155892",
+        "call_sign": "W252CS",
+        "frequency": "98.3  MHz",
+        "service": "FX",
+        "owner": "SOUND OF LONG ISLAND, INC.",
+        "city": "PALISADES PARK",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.658778,
+          39.205111
+        ]
+      },
+      "properties": {
+        "id": "3139",
+        "call_sign": "WTKU-FM",
+        "frequency": "98.3  MHz",
+        "service": "FM",
+        "owner": "LONGPORT MEDIA, LLC",
+        "city": "PETERSBURG",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.658778,
+          39.205111
+        ]
+      },
+      "properties": {
+        "id": "3139",
+        "call_sign": "WTKU-FM",
+        "frequency": "98.3  MHz",
+        "service": "FS",
+        "owner": "LONGPORT MEDIA, LLC",
+        "city": "PETERSBURG",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.284667,
+          40.98125
+        ]
+      },
+      "properties": {
+        "id": "202787",
+        "call_sign": "W252ED",
+        "frequency": "98.3  MHz",
+        "service": "FX",
+        "owner": "BOROUGH OF POMPTON LAKES",
+        "city": "POMPTON LAKES",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.978778,
+          41.131472
+        ]
+      },
+      "properties": {
+        "id": "201477",
+        "call_sign": "W252DY",
+        "frequency": "98.3  MHz",
+        "service": "FX",
+        "owner": "DIGITAL RADIO BROADCASTING, INC.",
+        "city": "SUSSEX",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.244722,
+          39.420278
+        ]
+      },
+      "properties": {
+        "id": "780594",
+        "call_sign": "NEW",
+        "frequency": "98.5  MHz",
+        "service": "FL",
+        "owner": "TRANSFORMATION CHURCH A NJ NONPROFIT CORPORATION",
+        "city": "BRIDGETON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.291528,
+          39.715778
+        ]
+      },
+      "properties": {
+        "id": "59495",
+        "call_sign": "WBBO",
+        "frequency": "98.5  MHz",
+        "service": "FM",
+        "owner": "PRESS COMMUNICATIONS, L.L.C.",
+        "city": "OCEAN ACRES",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.846556,
+          40.189389
+        ]
+      },
+      "properties": {
+        "id": "85965",
+        "call_sign": "W253DG",
+        "frequency": "98.5  MHz",
+        "service": "FX",
+        "owner": "THE VOICE RADIO TRENTON, LLC",
+        "city": "TRENTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.87,
+          39.009167
+        ]
+      },
+      "properties": {
+        "id": "39914",
+        "call_sign": "WCZT",
+        "frequency": "98.7  MHz",
+        "service": "FM",
+        "owner": "COASTAL BROADCASTING SYSTEMS, INC.",
+        "city": "VILLAS",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.569611,
+          40.6115
+        ]
+      },
+      "properties": {
+        "id": "52601",
+        "call_sign": "WAWZ",
+        "frequency": "99.1  MHz",
+        "service": "FM",
+        "owner": "PILLAR MINISTRIES, INC.",
+        "city": "ZAREPHATH",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.569611,
+          40.6115
+        ]
+      },
+      "properties": {
+        "id": "52601",
+        "call_sign": "WAWZ",
+        "frequency": "99.1  MHz",
+        "service": "FS",
+        "owner": "PILLAR MINISTRIES, INC.",
+        "city": "ZAREPHATH",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.450167,
+          39.381111
+        ]
+      },
+      "properties": {
+        "id": "1306",
+        "call_sign": "WZBZ",
+        "frequency": "99.3  MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "PLEASANTVILLE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.352806,
+          39.6315
+        ]
+      },
+      "properties": {
+        "id": "56233",
+        "call_sign": "WBHX",
+        "frequency": "99.7  MHz",
+        "service": "FM",
+        "owner": "PRESS COMMUNICATIONS, L.L.C.",
+        "city": "TUCKERTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.202361,
+          39.798444
+        ]
+      },
+      "properties": {
+        "id": "31078",
+        "call_sign": "WJRZ-FM",
+        "frequency": "100.1 MHz",
+        "service": "FM",
+        "owner": "BEASLEY MEDIA GROUP LICENSES, LLC",
+        "city": "MANAHAWKIN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.202361,
+          39.798444
+        ]
+      },
+      "properties": {
+        "id": "31078",
+        "call_sign": "WJRZ-FM",
+        "frequency": "100.1 MHz",
+        "service": "FS",
+        "owner": "BEASLEY MEDIA GROUP LICENSES, LLC",
+        "city": "MANAHAWKIN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.985694,
+          40.748417
+        ]
+      },
+      "properties": {
+        "id": "59953",
+        "call_sign": "WHTZ",
+        "frequency": "100.3 MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "NEWARK",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98625,
+          40.756222
+        ]
+      },
+      "properties": {
+        "id": "59953",
+        "call_sign": "WHTZ",
+        "frequency": "100.3 MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "NEWARK",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.985833,
+          40.748333
+        ]
+      },
+      "properties": {
+        "id": "59953",
+        "call_sign": "WHTZ",
+        "frequency": "100.3 MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "NEWARK",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.512222,
+          39.39
+        ]
+      },
+      "properties": {
+        "id": "145806",
+        "call_sign": "W262CF",
+        "frequency": "100.3 MHz",
+        "service": "FX",
+        "owner": "SPREAD THE GOSPEL, INC.",
+        "city": "PLEASANTVILLE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.202861,
+          39.95175
+        ]
+      },
+      "properties": {
+        "id": "77770",
+        "call_sign": "W263DA",
+        "frequency": "100.5 MHz",
+        "service": "FX",
+        "owner": "BEASLEY MEDIA GROUP LICENSES, LLC",
+        "city": "TOMS RIVER",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.080417,
+          40.278167
+        ]
+      },
+      "properties": {
+        "id": "156685",
+        "call_sign": "W264DH",
+        "frequency": "100.7 MHz",
+        "service": "FX",
+        "owner": "PRESS COMMUNICATIONS, L.L.C.",
+        "city": "EATONTOWN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.392306,
+          40.529306
+        ]
+      },
+      "properties": {
+        "id": "143711",
+        "call_sign": "W264BT",
+        "frequency": "100.7 MHz",
+        "service": "FX",
+        "owner": "RAHUL WALIA",
+        "city": "EDISON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.167944,
+          39.952611
+        ]
+      },
+      "properties": {
+        "id": "143931",
+        "call_sign": "W264BH",
+        "frequency": "100.7 MHz",
+        "service": "FX",
+        "owner": "SPECTRUM DEVELOPMENT GROUP, LLC",
+        "city": "MOUNT HOLLY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.765167,
+          39.124556
+        ]
+      },
+      "properties": {
+        "id": "70260",
+        "call_sign": "WZXL",
+        "frequency": "100.7 MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "WILDWOOD",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.291528,
+          39.715806
+        ]
+      },
+      "properties": {
+        "id": "138241",
+        "call_sign": "W265CS",
+        "frequency": "100.9 MHz",
+        "service": "FX",
+        "owner": "MARANATHA MINISTRIES/JOY COMMUNICATIONS, INC.",
+        "city": "MANAHAWKIN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.044028,
+          40.403222
+        ]
+      },
+      "properties": {
+        "id": "793372",
+        "call_sign": "WCBS-FM5",
+        "frequency": "101.1 MHz",
+        "service": "FB",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "ASBURY PARK",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.843,
+          39.056583
+        ]
+      },
+      "properties": {
+        "id": "197239",
+        "call_sign": "WXRM-LP",
+        "frequency": "101.1 MHz",
+        "service": "FL",
+        "owner": "SOUTH JERSEY CHRISTIAN ACADEMY",
+        "city": "CAPE MAY COURT HOUSE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.295139,
+          40.455333
+        ]
+      },
+      "properties": {
+        "id": "793373",
+        "call_sign": "WCBS-FM6",
+        "frequency": "101.1 MHz",
+        "service": "FB",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "EAST BRUNSWICK",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.474722,
+          40.479167
+        ]
+      },
+      "properties": {
+        "id": "793370",
+        "call_sign": "WCBS-FM4",
+        "frequency": "101.1 MHz",
+        "service": "FB",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "NEW BRUNSWICK",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.561722,
+          39.376611
+        ]
+      },
+      "properties": {
+        "id": "142147",
+        "call_sign": "W267BP",
+        "frequency": "101.3 MHz",
+        "service": "FX",
+        "owner": "ENRICO BRANCADORA",
+        "city": "PLEASANTVILLE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.839056,
+          38.974278
+        ]
+      },
+      "properties": {
+        "id": "134095",
+        "call_sign": "WCFA-LP",
+        "frequency": "101.5 MHz",
+        "service": "FL",
+        "owner": "CENTER FOR COMMUNITY ARTS, INC.",
+        "city": "CAPE MAY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.686,
+          40.282889
+        ]
+      },
+      "properties": {
+        "id": "53458",
+        "call_sign": "WKXW",
+        "frequency": "101.5 MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "TRENTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.686,
+          40.282889
+        ]
+      },
+      "properties": {
+        "id": "53458",
+        "call_sign": "WKXW",
+        "frequency": "101.5 MHz",
+        "service": "FS",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "TRENTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.336667,
+          39.431556
+        ]
+      },
+      "properties": {
+        "id": "51136",
+        "call_sign": "WDEL-FM",
+        "frequency": "101.7 MHz",
+        "service": "FM",
+        "owner": "WBOC, INC.",
+        "city": "CANTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.336583,
+          39.430944
+        ]
+      },
+      "properties": {
+        "id": "51136",
+        "call_sign": "WDEL-FM",
+        "frequency": "101.7 MHz",
+        "service": "FS",
+        "owner": "WBOC, INC.",
+        "city": "CANTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.336667,
+          39.431556
+        ]
+      },
+      "properties": {
+        "id": "51136",
+        "call_sign": "WDEL-FM",
+        "frequency": "101.7 MHz",
+        "service": "FS",
+        "owner": "WBOC, INC.",
+        "city": "CANTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.563472,
+          39.3515
+        ]
+      },
+      "properties": {
+        "id": "134532",
+        "call_sign": "WMRH-LP",
+        "frequency": "101.7 MHz",
+        "service": "FL",
+        "owner": "MAINLAND REGIONAL HIGH SCHOOL",
+        "city": "LINWOOD",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.384444,
+          39.395278
+        ]
+      },
+      "properties": {
+        "id": "778210",
+        "call_sign": "WYYO-LP",
+        "frequency": "101.9 MHz",
+        "service": "FL",
+        "owner": "CHINESE CHURCH OF ATLANTIC CITY",
+        "city": "ATLANTIC CITY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.681389,
+          39.229167
+        ]
+      },
+      "properties": {
+        "id": "200731",
+        "call_sign": "W270DV",
+        "frequency": "101.9 MHz",
+        "service": "FX",
+        "owner": "ENRICO BRANCADORA",
+        "city": "PALERMO",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.812944,
+          38.992889
+        ]
+      },
+      "properties": {
+        "id": "37475",
+        "call_sign": "WNJD",
+        "frequency": "102.3 MHz",
+        "service": "FM",
+        "owner": "MIGHTY VOICE BROADCASTING",
+        "city": "CAPE MAY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.538778,
+          41.143417
+        ]
+      },
+      "properties": {
+        "id": "74077",
+        "call_sign": "WSUS",
+        "frequency": "102.3 MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "FRANKLIN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.538778,
+          41.143417
+        ]
+      },
+      "properties": {
+        "id": "74077",
+        "call_sign": "WSUS",
+        "frequency": "102.3 MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "FRANKLIN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.434028,
+          39.604833
+        ]
+      },
+      "properties": {
+        "id": "141574",
+        "call_sign": "W272BH",
+        "frequency": "102.3 MHz",
+        "service": "FX",
+        "owner": "CALVARY CHAPEL OF MARLTON",
+        "city": "NEW GRETNA",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.277639,
+          39.720944
+        ]
+      },
+      "properties": {
+        "id": "81237",
+        "call_sign": "W272CU",
+        "frequency": "102.3 MHz",
+        "service": "FX",
+        "owner": "PENN-JERSEY EDUCATIONAL RADIO CORP.",
+        "city": "STAFFORD TOWNSHIP",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.237944,
+          39.427778
+        ]
+      },
+      "properties": {
+        "id": "195305",
+        "call_sign": "WCNU-LP",
+        "frequency": "102.5 MHz",
+        "service": "FL",
+        "owner": "TRI-COUNTY COMMUNITY ACTION AGENCY, INC.",
+        "city": "BRIDGETON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.648472,
+          39.529833
+        ]
+      },
+      "properties": {
+        "id": "151844",
+        "call_sign": "W273CL",
+        "frequency": "102.5 MHz",
+        "service": "FX",
+        "owner": "WYRS BROADCASTING",
+        "city": "EGG HARBOR CITY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.380694,
+          39.954278
+        ]
+      },
+      "properties": {
+        "id": "151871",
+        "call_sign": "W273AO",
+        "frequency": "102.5 MHz",
+        "service": "FX",
+        "owner": "WYRS BROADCASTING",
+        "city": "WHITING",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.447917,
+          39.351222
+        ]
+      },
+      "properties": {
+        "id": "51575",
+        "call_sign": "WLRB",
+        "frequency": "102.7 MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "OCEAN CITY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.417778,
+          39.361111
+        ]
+      },
+      "properties": {
+        "id": "141366",
+        "call_sign": "W276CW",
+        "frequency": "103.1 MHz",
+        "service": "FX",
+        "owner": "PRIORITY RADIO, INC.",
+        "city": "ATLANTIC CITY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.982917,
+          40.854278
+        ]
+      },
+      "properties": {
+        "id": "46437",
+        "call_sign": "W276AQ",
+        "frequency": "103.1 MHz",
+        "service": "FX",
+        "owner": "BRIDGELIGHT, LLC",
+        "city": "FORT LEE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.020444,
+          39.421778
+        ]
+      },
+      "properties": {
+        "id": "141526",
+        "call_sign": "W277BA",
+        "frequency": "103.3 MHz",
+        "service": "FX",
+        "owner": "MINORITY RADIO BROADCASTING, LLC",
+        "city": "MILLVILLE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.686,
+          40.282889
+        ]
+      },
+      "properties": {
+        "id": "53567",
+        "call_sign": "WPRB",
+        "frequency": "103.3 MHz",
+        "service": "FM",
+        "owner": "PRINCETON BROADCASTING SERVICE, INC.",
+        "city": "PRINCETON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.512083,
+          39.390111
+        ]
+      },
+      "properties": {
+        "id": "61100",
+        "call_sign": "WMGM",
+        "frequency": "103.7 MHz",
+        "service": "FM",
+        "owner": "LONGPORT MEDIA, LLC",
+        "city": "ATLANTIC CITY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.512083,
+          39.390111
+        ]
+      },
+      "properties": {
+        "id": "61100",
+        "call_sign": "WMGM",
+        "frequency": "103.7 MHz",
+        "service": "FS",
+        "owner": "LONGPORT MEDIA, LLC",
+        "city": "ATLANTIC CITY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.767361,
+          41.18675
+        ]
+      },
+      "properties": {
+        "id": "25413",
+        "call_sign": "WNNJ",
+        "frequency": "103.7 MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "NEWTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.538722,
+          41.143556
+        ]
+      },
+      "properties": {
+        "id": "25413",
+        "call_sign": "WNNJ",
+        "frequency": "103.7 MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "NEWTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.210472,
+          40.382111
+        ]
+      },
+      "properties": {
+        "id": "70644",
+        "call_sign": "WCNM",
+        "frequency": "103.9 MHz",
+        "service": "FM",
+        "owner": "CANTICO NUEVO MINISTRY, INC.",
+        "city": "HAZLET",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.486389,
+          40.260556
+        ]
+      },
+      "properties": {
+        "id": "787332",
+        "call_sign": "NEW",
+        "frequency": "103.9 MHz",
+        "service": "FL",
+        "owner": "ROOSEVELT ARTS PROJECT INC",
+        "city": "ROOSEVELT",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.474722,
+          40.479167
+        ]
+      },
+      "properties": {
+        "id": "193220",
+        "call_sign": "WOLD-LP",
+        "frequency": "103.9 MHz",
+        "service": "FL",
+        "owner": "SRN COMMUNICATIONS, INC.",
+        "city": "SOMERSET",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.055333,
+          40.184694
+        ]
+      },
+      "properties": {
+        "id": "788241",
+        "call_sign": "WALL-LP",
+        "frequency": "103.9 MHz",
+        "service": "FL",
+        "owner": "THE INFORMATION AGE LEARNING CENTER",
+        "city": "WALL",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.561833,
+          39.3765
+        ]
+      },
+      "properties": {
+        "id": "141576",
+        "call_sign": "W281BH",
+        "frequency": "104.1 MHz",
+        "service": "FX",
+        "owner": "CALVARY CHAPEL OF MARLTON",
+        "city": "ABSECON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9255,
+          39.812278
+        ]
+      },
+      "properties": {
+        "id": "141368",
+        "call_sign": "W281CL",
+        "frequency": "104.1 MHz",
+        "service": "FX",
+        "owner": "THE VOICE RADIO NEW JERSEY, LLC",
+        "city": "CHERRY HILL",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.928111,
+          39.834583
+        ]
+      },
+      "properties": {
+        "id": "141368",
+        "call_sign": "W281CL",
+        "frequency": "104.1 MHz",
+        "service": "FX",
+        "owner": "THE VOICE RADIO NEW JERSEY, LLC",
+        "city": "CHERRY HILL",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.893861,
+          39.934278
+        ]
+      },
+      "properties": {
+        "id": "141368",
+        "call_sign": "W281CL",
+        "frequency": "104.1 MHz",
+        "service": "FX",
+        "owner": "THE VOICE RADIO NEW JERSEY, LLC",
+        "city": "CHERRY HILL",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1655,
+          39.875389
+        ]
+      },
+      "properties": {
+        "id": "202322",
+        "call_sign": "W281CK",
+        "frequency": "104.1 MHz",
+        "service": "FX",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "LAKEWOOD TOWNSHIP",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.020278,
+          39.422222
+        ]
+      },
+      "properties": {
+        "id": "788770",
+        "call_sign": "WMNJ-LP",
+        "frequency": "104.1 MHz",
+        "service": "FL",
+        "owner": "HISPANIC BROADCASTING FOUNDATION",
+        "city": "MILLVILLE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.298194,
+          39.695361
+        ]
+      },
+      "properties": {
+        "id": "138243",
+        "call_sign": "W281CM",
+        "frequency": "104.1 MHz",
+        "service": "FX",
+        "owner": "THE VOICE RADIO WILMINGTON, LLC",
+        "city": "MILLVILLE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.825667,
+          40.276972
+        ]
+      },
+      "properties": {
+        "id": "140324",
+        "call_sign": "W281BI",
+        "frequency": "104.1 MHz",
+        "service": "FX",
+        "owner": "IHM LICENSES, LLC",
+        "city": "TRENTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.777944,
+          40.855389
+        ]
+      },
+      "properties": {
+        "id": "54698",
+        "call_sign": "W284AQ",
+        "frequency": "104.7 MHz",
+        "service": "FX",
+        "owner": "WRNJ RADIO, INC.",
+        "city": "HACKETTSTOWN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.105694,
+          40.082889
+        ]
+      },
+      "properties": {
+        "id": "196115",
+        "call_sign": "WJUI-LP",
+        "frequency": "104.7 MHz",
+        "service": "FL",
+        "owner": "AMERICAN CENTER FOR CIVIL JUSTICE, INC.",
+        "city": "RAMTOWN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.638194,
+          39.547056
+        ]
+      },
+      "properties": {
+        "id": "57357",
+        "call_sign": "WSJO",
+        "frequency": "104.9 MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "EGG HARBOR CITY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.417639,
+          39.361222
+        ]
+      },
+      "properties": {
+        "id": "57357",
+        "call_sign": "WSJO",
+        "frequency": "104.9 MHz",
+        "service": "FS",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "EGG HARBOR CITY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8235,
+          39.125667
+        ]
+      },
+      "properties": {
+        "id": "40031",
+        "call_sign": "WNJH",
+        "frequency": "105.5 MHz",
+        "service": "FM",
+        "owner": "THE BRIDGE OF HOPE, INC.",
+        "city": "CAPE MAY COURT HOUSE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.51125,
+          40.855917
+        ]
+      },
+      "properties": {
+        "id": "49587",
+        "call_sign": "WDHA-FM",
+        "frequency": "105.5 MHz",
+        "service": "FM",
+        "owner": "BEASLEY MEDIA GROUP LICENSES, LLC",
+        "city": "DOVER",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.51125,
+          40.855361
+        ]
+      },
+      "properties": {
+        "id": "49587",
+        "call_sign": "WDHA-FM",
+        "frequency": "105.5 MHz",
+        "service": "FS",
+        "owner": "BEASLEY MEDIA GROUP LICENSES, LLC",
+        "city": "DOVER",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.114611,
+          39.957889
+        ]
+      },
+      "properties": {
+        "id": "141522",
+        "call_sign": "W289AZ",
+        "frequency": "105.7 MHz",
+        "service": "FX",
+        "owner": "MINORITY RADIO BROADCASTING, LLC",
+        "city": "CAMDEN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9245,
+          40.691889
+        ]
+      },
+      "properties": {
+        "id": "202425",
+        "call_sign": "W289CR",
+        "frequency": "105.7 MHz",
+        "service": "FX",
+        "owner": "WRNJ RADIO, INC.",
+        "city": "GLEN GARDNER",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1655,
+          39.875389
+        ]
+      },
+      "properties": {
+        "id": "24934",
+        "call_sign": "WCHR-FM",
+        "frequency": "105.7 MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "MANAHAWKIN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.031139,
+          39.4075
+        ]
+      },
+      "properties": {
+        "id": "200737",
+        "call_sign": "W289CY",
+        "frequency": "105.7 MHz",
+        "service": "FX",
+        "owner": "LOUD MEDIA NJ LLC",
+        "city": "MILLVILLE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.985694,
+          40.748444
+        ]
+      },
+      "properties": {
+        "id": "46978",
+        "call_sign": "WQXR-FM",
+        "frequency": "105.9 MHz",
+        "service": "FM",
+        "owner": "NEW YORK PUBLIC RADIO",
+        "city": "NEWARK",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.985833,
+          40.748333
+        ]
+      },
+      "properties": {
+        "id": "46978",
+        "call_sign": "WQXR-FM",
+        "frequency": "105.9 MHz",
+        "service": "FS",
+        "owner": "NEW YORK PUBLIC RADIO",
+        "city": "NEWARK",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9765,
+          40.751194
+        ]
+      },
+      "properties": {
+        "id": "46978",
+        "call_sign": "WQXR-FM",
+        "frequency": "105.9 MHz",
+        "service": "FS",
+        "owner": "NEW YORK PUBLIC RADIO",
+        "city": "NEWARK",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98625,
+          40.756222
+        ]
+      },
+      "properties": {
+        "id": "46978",
+        "call_sign": "WQXR-FM",
+        "frequency": "105.9 MHz",
+        "service": "FS",
+        "owner": "NEW YORK PUBLIC RADIO",
+        "city": "NEWARK",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.972111,
+          41.048139
+        ]
+      },
+      "properties": {
+        "id": "11984",
+        "call_sign": "WHCY",
+        "frequency": "106.3 MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "BLAIRSTOWN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.972111,
+          41.048139
+        ]
+      },
+      "properties": {
+        "id": "11984",
+        "call_sign": "WHCY",
+        "frequency": "106.3 MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "BLAIRSTOWN,",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.080417,
+          40.278167
+        ]
+      },
+      "properties": {
+        "id": "72324",
+        "call_sign": "WKMK",
+        "frequency": "106.3 MHz",
+        "service": "FM",
+        "owner": "PRESS COMMUNICATIONS, L.L.C.",
+        "city": "EATONTOWN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.080417,
+          40.278167
+        ]
+      },
+      "properties": {
+        "id": "72324",
+        "call_sign": "WKMK",
+        "frequency": "106.3 MHz",
+        "service": "FS",
+        "owner": "PRESS COMMUNICATIONS, L.L.C.",
+        "city": "EATONTOWN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.042611,
+          40.218444
+        ]
+      },
+      "properties": {
+        "id": "72324",
+        "call_sign": "WKMK",
+        "frequency": "106.3 MHz",
+        "service": "FS",
+        "owner": "PRESS COMMUNICATIONS, L.L.C.",
+        "city": "EATONTOWN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.080417,
+          40.278167
+        ]
+      },
+      "properties": {
+        "id": "72324",
+        "call_sign": "WKMK",
+        "frequency": "106.3 MHz",
+        "service": "FS",
+        "owner": "PRESS COMMUNICATIONS, L.L.C.",
+        "city": "EATONTOWN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.787806,
+          39.129944
+        ]
+      },
+      "properties": {
+        "id": "72113",
+        "call_sign": "WKOE",
+        "frequency": "106.3 MHz",
+        "service": "FM",
+        "owner": "COASTAL BROADCASTING SYSTEMS, INC.,",
+        "city": "NORTH CAPE MAY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.352917,
+          39.6315
+        ]
+      },
+      "properties": {
+        "id": "49984",
+        "call_sign": "WTHJ",
+        "frequency": "106.5 MHz",
+        "service": "FM",
+        "owner": "PRESS COMMUNICATIONS, L.L.C.",
+        "city": "BASS RIVER TOWNSHIP",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.099611,
+          39.909278
+        ]
+      },
+      "properties": {
+        "id": "20842",
+        "call_sign": "WKVP",
+        "frequency": "106.9 MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "CAMDEN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.236889,
+          40.038806
+        ]
+      },
+      "properties": {
+        "id": "20842",
+        "call_sign": "WKVP",
+        "frequency": "106.9 MHz",
+        "service": "FS",
+        "owner": "K-LOVE, INC.",
+        "city": "CAMDEN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.160167,
+          40.948139
+        ]
+      },
+      "properties": {
+        "id": "54689",
+        "call_sign": "WWYY",
+        "frequency": "107.1 MHz",
+        "service": "FM",
+        "owner": "RADIO LICENSE HOLDING CBC, LLC",
+        "city": "BELVIDERE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.985139,
+          40.304833
+        ]
+      },
+      "properties": {
+        "id": "32983",
+        "call_sign": "WWZY",
+        "frequency": "107.1 MHz",
+        "service": "FM",
+        "owner": "PRESS COMMUNICATIONS, L.L.C.",
+        "city": "LONG BRANCH",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.042611,
+          40.218444
+        ]
+      },
+      "properties": {
+        "id": "32983",
+        "call_sign": "WWZY",
+        "frequency": "107.1 MHz",
+        "service": "FS",
+        "owner": "PRESS COMMUNICATIONS, L.L.C.",
+        "city": "LONG BRANCH",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.080417,
+          40.278167
+        ]
+      },
+      "properties": {
+        "id": "32983",
+        "call_sign": "WWZY",
+        "frequency": "107.1 MHz",
+        "service": "FS",
+        "owner": "PRESS COMMUNICATIONS, L.L.C.",
+        "city": "LONG BRANCH",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.447639,
+          39.378444
+        ]
+      },
+      "properties": {
+        "id": "54894",
+        "call_sign": "WPUR",
+        "frequency": "107.3 MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "ATLANTIC CITY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.417639,
+          39.361222
+        ]
+      },
+      "properties": {
+        "id": "54894",
+        "call_sign": "WPUR",
+        "frequency": "107.3 MHz",
+        "service": "FS",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "ATLANTIC CITY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.555444,
+          39.378639
+        ]
+      },
+      "properties": {
+        "id": "54894",
+        "call_sign": "WPUR",
+        "frequency": "107.3 MHz",
+        "service": "FS",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "ATLANTIC CITY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.099722,
+          39.909444
+        ]
+      },
+      "properties": {
+        "id": "85823",
+        "call_sign": "W298DI",
+        "frequency": "107.5 MHz",
+        "service": "FX",
+        "owner": "PERDOMO MEDIA GROUP CORPORATION",
+        "city": "PORT NORRIS",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.298194,
+          39.695361
+        ]
+      },
+      "properties": {
+        "id": "85823",
+        "call_sign": "W298DI",
+        "frequency": "107.5 MHz",
+        "service": "FX",
+        "owner": "PERDOMO MEDIA GROUP CORPORATION",
+        "city": "PORT NORRIS",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.516417,
+          39.464806
+        ]
+      },
+      "properties": {
+        "id": "196253",
+        "call_sign": "WRWL-LP",
+        "frequency": "107.7 MHz",
+        "service": "FL",
+        "owner": "WORD OF LIFE CHRISTIAN FELLOWSHIP",
+        "city": "GALLOWAY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.737083,
+          40.278972
+        ]
+      },
+      "properties": {
+        "id": "6109",
+        "call_sign": "WRRC",
+        "frequency": "107.7 MHz",
+        "service": "FM",
+        "owner": "BOARD OF TRUSTEES OF RIDER COLLEGE",
+        "city": "LAWRENCEVILLE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.986556,
+          39.461778
+        ]
+      },
+      "properties": {
+        "id": "134781",
+        "call_sign": "WPOV-LP",
+        "frequency": "107.7 MHz",
+        "service": "FL",
+        "owner": "ADVANTAGE MINISTRIES, INC",
+        "city": "VINELAND",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.444444,
+          39.3525
+        ]
+      },
+      "properties": {
+        "id": "788673",
+        "call_sign": "WNJC-LP",
+        "frequency": "107.9 MHz",
+        "service": "FL",
+        "owner": "YOELKIE MEDIA FOUNDATION",
+        "city": "ATLANTIC CITY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.51125,
+          40.855917
+        ]
+      },
+      "properties": {
+        "id": "194641",
+        "call_sign": "WCFT-LP",
+        "frequency": "107.9 MHz",
+        "service": "FL",
+        "owner": "NEW LIFE RADIO, INC.",
+        "city": "DOVER",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.416667,
+          40.404167
+        ]
+      },
+      "properties": {
+        "id": "141281",
+        "call_sign": "W300CZ",
+        "frequency": "107.9 MHz",
+        "service": "FX",
+        "owner": "BEST MEDIA, INC.",
+        "city": "EWANSVILLE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.782778,
+          40.533611
+        ]
+      },
+      "properties": {
+        "id": "788256",
+        "call_sign": "WHGF-LP",
+        "frequency": "107.9 MHz",
+        "service": "FL",
+        "owner": "COMUNIDAD DE FLEMINGTON, INC.",
+        "city": "FLEMINGTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.221806,
+          40.096222
+        ]
+      },
+      "properties": {
+        "id": "134469",
+        "call_sign": "WMDI-LP",
+        "frequency": "107.9 MHz",
+        "service": "FL",
+        "owner": "AMERICAN INSTITUTE FOR JEWISH EDUCATION (AIJE)",
+        "city": "LAKEWOOD",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.234583,
+          39.698167
+        ]
+      },
+      "properties": {
+        "id": "77769",
+        "call_sign": "W300AO",
+        "frequency": "107.9 MHz",
+        "service": "FX",
+        "owner": "BEASLEY MEDIA GROUP LICENSES, LLC",
+        "city": "MANAHAWKIN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.685,
+          39.461111
+        ]
+      },
+      "properties": {
+        "id": "193228",
+        "call_sign": "WRML-LP",
+        "frequency": "107.9 MHz",
+        "service": "FL",
+        "owner": "ATLANTIC CAPE COMMUNITY COLLEGE",
+        "city": "MAYS LANDING",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.167667,
+          39.952611
+        ]
+      },
+      "properties": {
+        "id": "12211",
+        "call_sign": "WPPZ-FM",
+        "frequency": "107.9 MHz",
+        "service": "FM",
+        "owner": "RADIO ONE LICENSES, LLC",
+        "city": "PENNSAUKEN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.236,
+          40.041778
+        ]
+      },
+      "properties": {
+        "id": "12211",
+        "call_sign": "WPPZ-FM",
+        "frequency": "107.9 MHz",
+        "service": "FS",
+        "owner": "RADIO ONE LICENSES, LLC",
+        "city": "PENNSAUKEN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.167944,
+          39.952611
+        ]
+      },
+      "properties": {
+        "id": "12211",
+        "call_sign": "WPPZ-FM",
+        "frequency": "107.9 MHz",
+        "service": "FS",
+        "owner": "RADIO ONE LICENSES, LLC",
+        "city": "PENNSAUKEN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.287972,
+          40.509806
+        ]
+      },
+      "properties": {
+        "id": "141281",
+        "call_sign": "W300CZ",
+        "frequency": "107.9 MHz",
+        "service": "FX",
+        "owner": "BEST MEDIA, INC.",
+        "city": "PERTH AMBOY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.620694,
+          40.305639
+        ]
+      },
+      "properties": {
+        "id": "71694",
+        "call_sign": "WWPH",
+        "frequency": "107.9 MHz",
+        "service": "FM",
+        "owner": "WEST WINDSOR-PLAINSBORO REGIONAL SCHOOL DISTRICT",
+        "city": "PRINCETON JUNCTION",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.527083,
+          41.202583
+        ]
+      },
+      "properties": {
+        "id": "195004",
+        "call_sign": "WSRX-LP",
+        "frequency": "107.9 MHz",
+        "service": "FL",
+        "owner": "SKYLANDS RADIO COOPERATIVE",
+        "city": "VERNON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.392361,
+          40.529278
+        ]
+      },
+      "properties": {
+        "id": "193220",
+        "call_sign": "WOLD-LP",
+        "frequency": "107.9 MHz",
+        "service": "FL",
+        "owner": "SRN COMMUNICATIONS, INC.",
+        "city": "WOODBRIDGE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.182639,
+          40.849833
+        ]
+      },
+      "properties": {
+        "id": "61643",
+        "call_sign": "WSNR",
+        "frequency": "620   kHz",
+        "service": "AM",
+        "owner": "DAVIDZON RADIO INC",
+        "city": "JERSEY CITY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.10625,
+          40.798167
+        ]
+      },
+      "properties": {
+        "id": "61643",
+        "call_sign": "WSNR",
+        "frequency": "620   kHz",
+        "service": "AM",
+        "owner": "DAVIDZON RADIO INC",
+        "city": "JERSEY CITY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.182639,
+          40.849833
+        ]
+      },
+      "properties": {
+        "id": "61643",
+        "call_sign": "WSNR",
+        "frequency": "620   kHz",
+        "service": "AM",
+        "owner": "DAVIDZON RADIO INC",
+        "city": "JERSEY CITY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.10625,
+          40.798167
+        ]
+      },
+      "properties": {
+        "id": "61643",
+        "call_sign": "WSNR",
+        "frequency": "620   kHz",
+        "service": "AM",
+        "owner": "DAVIDZON RADIO INC",
+        "city": "JERSEY CITY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.719333,
+          39.997056
+        ]
+      },
+      "properties": {
+        "id": "43904",
+        "call_sign": "WWJZ",
+        "frequency": "640   kHz",
+        "service": "AM",
+        "owner": "RELEVANT RADIO, INC.",
+        "city": "MOUNT HOLLY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.719333,
+          39.997056
+        ]
+      },
+      "properties": {
+        "id": "43904",
+        "call_sign": "WWJZ",
+        "frequency": "640   kHz",
+        "service": "AM",
+        "owner": "RELEVANT RADIO, INC.",
+        "city": "MOUNT HOLLY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.099611,
+          39.909278
+        ]
+      },
+      "properties": {
+        "id": "24658",
+        "call_sign": "WTMR",
+        "frequency": "800   kHz",
+        "service": "AM",
+        "owner": "BEASLEY MEDIA GROUP LICENSES, LLC",
+        "city": "CAMDEN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.099611,
+          39.909278
+        ]
+      },
+      "properties": {
+        "id": "24658",
+        "call_sign": "WTMR",
+        "frequency": "800   kHz",
+        "service": "AM",
+        "owner": "BEASLEY MEDIA GROUP LICENSES, LLC",
+        "city": "CAMDEN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.861833,
+          40.255389
+        ]
+      },
+      "properties": {
+        "id": "25011",
+        "call_sign": "WNJE",
+        "frequency": "920   kHz",
+        "service": "AM",
+        "owner": "THE VOICE RADIO NEW JERSEY, LLC",
+        "city": "TRENTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.793556,
+          40.082333
+        ]
+      },
+      "properties": {
+        "id": "25011",
+        "call_sign": "WNJE",
+        "frequency": "920   kHz",
+        "service": "AM",
+        "owner": "THE VOICE RADIO NEW JERSEY, LLC",
+        "city": "JOBSTOWN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.861833,
+          40.255389
+        ]
+      },
+      "properties": {
+        "id": "25011",
+        "call_sign": "WNJE",
+        "frequency": "920   kHz",
+        "service": "AM",
+        "owner": "THE VOICE RADIO NEW JERSEY, LLC",
+        "city": "TRENTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.793556,
+          40.082333
+        ]
+      },
+      "properties": {
+        "id": "25011",
+        "call_sign": "WNJE",
+        "frequency": "920   kHz",
+        "service": "AM",
+        "owner": "THE VOICE RADIO NEW JERSEY, LLC",
+        "city": "JOBSTOWN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.861833,
+          40.255389
+        ]
+      },
+      "properties": {
+        "id": "25011",
+        "call_sign": "WNJE",
+        "frequency": "920   kHz",
+        "service": "AM",
+        "owner": "THE VOICE RADIO NEW JERSEY, LLC",
+        "city": "TRENTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.861833,
+          40.255389
+        ]
+      },
+      "properties": {
+        "id": "25011",
+        "call_sign": "WNJE",
+        "frequency": "920   kHz",
+        "service": "AM",
+        "owner": "THE VOICE RADIO NEW JERSEY, LLC",
+        "city": "TRENTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.182639,
+          40.849833
+        ]
+      },
+      "properties": {
+        "id": "51661",
+        "call_sign": "WPAT",
+        "frequency": "930   kHz",
+        "service": "AM",
+        "owner": "MULTICULTURAL RADIO BROADCASTING LICENSEE, LLC",
+        "city": "PATERSON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.182639,
+          40.849833
+        ]
+      },
+      "properties": {
+        "id": "51661",
+        "call_sign": "WPAT",
+        "frequency": "930   kHz",
+        "service": "AM",
+        "owner": "MULTICULTURAL RADIO BROADCASTING LICENSEE, LLC",
+        "city": "PATERSON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.027917,
+          40.911222
+        ]
+      },
+      "properties": {
+        "id": "58635",
+        "call_sign": "WNYM",
+        "frequency": "970   kHz",
+        "service": "AM",
+        "owner": "SALEM MEDIA OF NEW YORK, LLC",
+        "city": "HACKENSACK",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.027917,
+          40.911222
+        ]
+      },
+      "properties": {
+        "id": "58635",
+        "call_sign": "WNYM",
+        "frequency": "970   kHz",
+        "service": "AM",
+        "owner": "SALEM MEDIA OF NEW YORK, LLC",
+        "city": "HACKENSACK",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.681278,
+          39.229278
+        ]
+      },
+      "properties": {
+        "id": "19617",
+        "call_sign": "WWAC",
+        "frequency": "1020  kHz",
+        "service": "AM",
+        "owner": "ENRICO S. BRANCADORA",
+        "city": "OCEAN CITY-SOMERS POINT",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.681278,
+          39.229278
+        ]
+      },
+      "properties": {
+        "id": "19617",
+        "call_sign": "WWAC",
+        "frequency": "1020  kHz",
+        "service": "AM",
+        "owner": "ENRICO S. BRANCADORA",
+        "city": "OCEAN CITY-SOMERS POINT",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.976278,
+          40.505111
+        ]
+      },
+      "properties": {
+        "id": "28130",
+        "call_sign": "WCHR",
+        "frequency": "1040  kHz",
+        "service": "AM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "FLEMINGTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.976278,
+          40.505111
+        ]
+      },
+      "properties": {
+        "id": "28130",
+        "call_sign": "WCHR",
+        "frequency": "1040  kHz",
+        "service": "AM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "FLEMINGTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.976278,
+          40.505111
+        ]
+      },
+      "properties": {
+        "id": "28130",
+        "call_sign": "WCHR",
+        "frequency": "1040  kHz",
+        "service": "AM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "FLEMINGTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.476278,
+          40.6765
+        ]
+      },
+      "properties": {
+        "id": "32985",
+        "call_sign": "WKMB",
+        "frequency": "1070  kHz",
+        "service": "AM",
+        "owner": "WORLD HARVEST COMMUNICATIONS, INC.",
+        "city": "STIRLING",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.249028,
+          41.056472
+        ]
+      },
+      "properties": {
+        "id": "68956",
+        "call_sign": "WVNJ",
+        "frequency": "1160  kHz",
+        "service": "AM",
+        "owner": "RELEVANT RADIO, INC.",
+        "city": "OAKLAND",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.229583,
+          40.135944
+        ]
+      },
+      "properties": {
+        "id": "49295",
+        "call_sign": "WJLK",
+        "frequency": "1160  kHz",
+        "service": "AM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "LAKEWOOD TOWNSHIP",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.249028,
+          41.056472
+        ]
+      },
+      "properties": {
+        "id": "68956",
+        "call_sign": "WVNJ",
+        "frequency": "1160  kHz",
+        "service": "AM",
+        "owner": "RELEVANT RADIO, INC.",
+        "city": "OAKLAND",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.229583,
+          40.135944
+        ]
+      },
+      "properties": {
+        "id": "49295",
+        "call_sign": "WJLK",
+        "frequency": "1160  kHz",
+        "service": "AM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "LAKEWOOD TOWNSHIP",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.589056,
+          40.560389
+        ]
+      },
+      "properties": {
+        "id": "6684",
+        "call_sign": "WWTR",
+        "frequency": "1170  kHz",
+        "service": "AM",
+        "owner": "EBC MUSIC, INC.",
+        "city": "BRIDGEWATER",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.812389,
+          39.002611
+        ]
+      },
+      "properties": {
+        "id": "70259",
+        "call_sign": "WCMC",
+        "frequency": "1230  kHz",
+        "service": "AM",
+        "owner": "THE JERSEY GIANT WMID, LLC",
+        "city": "WILDWOOD",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.202972,
+          39.459
+        ]
+      },
+      "properties": {
+        "id": "12212",
+        "call_sign": "WSNJ",
+        "frequency": "1240  kHz",
+        "service": "AM",
+        "owner": "LOUD MEDIA NJ LLC",
+        "city": "BRIDGETON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.202972,
+          39.459
+        ]
+      },
+      "properties": {
+        "id": "12212",
+        "call_sign": "WSNJ",
+        "frequency": "1240  kHz",
+        "service": "AM",
+        "owner": "LOUD MEDIA NJ LLC",
+        "city": "BRIDGETON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.462389,
+          40.813167
+        ]
+      },
+      "properties": {
+        "id": "49586",
+        "call_sign": "WMTR",
+        "frequency": "1250  kHz",
+        "service": "AM",
+        "owner": "BEASLEY MEDIA GROUP LICENSES, LLC",
+        "city": "MORRISTOWN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.462389,
+          40.813167
+        ]
+      },
+      "properties": {
+        "id": "49586",
+        "call_sign": "WMTR",
+        "frequency": "1250  kHz",
+        "service": "AM",
+        "owner": "BEASLEY MEDIA GROUP LICENSES, LLC",
+        "city": "MORRISTOWN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.757111,
+          40.265667
+        ]
+      },
+      "properties": {
+        "id": "53443",
+        "call_sign": "WFJS",
+        "frequency": "1260  kHz",
+        "service": "AM",
+        "owner": "DOMESTIC CHURCH MEDIA FOUNDATION",
+        "city": "TRENTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.757111,
+          40.265667
+        ]
+      },
+      "properties": {
+        "id": "53443",
+        "call_sign": "WFJS",
+        "frequency": "1260  kHz",
+        "service": "AM",
+        "owner": "DOMESTIC CHURCH MEDIA FOUNDATION",
+        "city": "TRENTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.074889,
+          39.498167
+        ]
+      },
+      "properties": {
+        "id": "11973",
+        "call_sign": "WMIZ",
+        "frequency": "1270  kHz",
+        "service": "AM",
+        "owner": "CLEAR COMMUNICATIONS, INC.",
+        "city": "VINELAND",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.074889,
+          39.498167
+        ]
+      },
+      "properties": {
+        "id": "11973",
+        "call_sign": "WMIZ",
+        "frequency": "1270  kHz",
+        "service": "AM",
+        "owner": "CLEAR COMMUNICATIONS, INC.",
+        "city": "VINELAND",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.872667,
+          40.287889
+        ]
+      },
+      "properties": {
+        "id": "14635",
+        "call_sign": "WIMG",
+        "frequency": "1300  kHz",
+        "service": "AM",
+        "owner": "MORRIS BROADCASTING COMPANY OF NEW JERSEY, INC.",
+        "city": "EWING",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.872667,
+          40.287889
+        ]
+      },
+      "properties": {
+        "id": "14635",
+        "call_sign": "WIMG",
+        "frequency": "1300  kHz",
+        "service": "AM",
+        "owner": "MORRIS BROADCASTING COMPANY OF NEW JERSEY, INC.",
+        "city": "EWING",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.35125,
+          40.864278
+        ]
+      },
+      "properties": {
+        "id": "29957",
+        "call_sign": "WXMC",
+        "frequency": "1310  kHz",
+        "service": "AM",
+        "owner": "CANTICO NUEVO MINISTRY, INC.",
+        "city": "PARSIPPANY-TROY HILL",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.090417,
+          40.229833
+        ]
+      },
+      "properties": {
+        "id": "14895",
+        "call_sign": "WOBM",
+        "frequency": "1310  kHz",
+        "service": "AM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "ASBURY PARK",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.114611,
+          39.957889
+        ]
+      },
+      "properties": {
+        "id": "74073",
+        "call_sign": "WEMG",
+        "frequency": "1310  kHz",
+        "service": "AM",
+        "owner": "MINORITY RADIO BROADCASTING, LLC",
+        "city": "CAMDEN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.35125,
+          40.864278
+        ]
+      },
+      "properties": {
+        "id": "29957",
+        "call_sign": "WXMC",
+        "frequency": "1310  kHz",
+        "service": "AM",
+        "owner": "CANTICO NUEVO MINISTRY, INC.",
+        "city": "PARSIPPANY-TROY HILL",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.090417,
+          40.229833
+        ]
+      },
+      "properties": {
+        "id": "14895",
+        "call_sign": "WOBM",
+        "frequency": "1310  kHz",
+        "service": "AM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "ASBURY PARK",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.114611,
+          39.957889
+        ]
+      },
+      "properties": {
+        "id": "74073",
+        "call_sign": "WEMG",
+        "frequency": "1310  kHz",
+        "service": "AM",
+        "owner": "MINORITY RADIO BROADCASTING, LLC",
+        "city": "CAMDEN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.451806,
+          39.3765
+        ]
+      },
+      "properties": {
+        "id": "1307",
+        "call_sign": "WMID",
+        "frequency": "1340  kHz",
+        "service": "AM",
+        "owner": "THE JERSEY GIANT WMID, LLC",
+        "city": "ATLANTIC CITY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.681778,
+          39.229167
+        ]
+      },
+      "properties": {
+        "id": "1307",
+        "call_sign": "WMID",
+        "frequency": "1340  kHz",
+        "service": "AM",
+        "owner": "THE JERSEY GIANT WMID, LLC",
+        "city": "ATLANTIC CITY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7435,
+          40.366778
+        ]
+      },
+      "properties": {
+        "id": "47426",
+        "call_sign": "WHWH",
+        "frequency": "1350  kHz",
+        "service": "AM",
+        "owner": "MULTICULTURAL RADIO BROADCASTING LICENSEE, LLC",
+        "city": "PRINCETON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7435,
+          40.366778
+        ]
+      },
+      "properties": {
+        "id": "47426",
+        "call_sign": "WHWH",
+        "frequency": "1350  kHz",
+        "service": "AM",
+        "owner": "MULTICULTURAL RADIO BROADCASTING LICENSEE, LLC",
+        "city": "PRINCETON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.738222,
+          41.039528
+        ]
+      },
+      "properties": {
+        "id": "25414",
+        "call_sign": "WTOC",
+        "frequency": "1360  kHz",
+        "service": "AM",
+        "owner": "CENTRO BIBLICO OF NJ, INC.",
+        "city": "NEWTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.738222,
+          41.039528
+        ]
+      },
+      "properties": {
+        "id": "25414",
+        "call_sign": "WTOC",
+        "frequency": "1360  kHz",
+        "service": "AM",
+        "owner": "CENTRO BIBLICO OF NJ, INC.",
+        "city": "NEWTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.512083,
+          39.390111
+        ]
+      },
+      "properties": {
+        "id": "61102",
+        "call_sign": "WOND",
+        "frequency": "1400  kHz",
+        "service": "AM",
+        "owner": "LONGPORT MEDIA, LLC",
+        "city": "PLEASANTVILLE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.071528,
+          40.269556
+        ]
+      },
+      "properties": {
+        "id": "72323",
+        "call_sign": "WHTG",
+        "frequency": "1410  kHz",
+        "service": "AM",
+        "owner": "PRESS COMMUNICATIONS, L.L.C.",
+        "city": "EATONTOWN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.071528,
+          40.269556
+        ]
+      },
+      "properties": {
+        "id": "72323",
+        "call_sign": "WHTG",
+        "frequency": "1410  kHz",
+        "service": "AM",
+        "owner": "PRESS COMMUNICATIONS, L.L.C.",
+        "city": "EATONTOWN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.182639,
+          40.849833
+        ]
+      },
+      "properties": {
+        "id": "73332",
+        "call_sign": "WNSW",
+        "frequency": "1430  kHz",
+        "service": "AM",
+        "owner": "RELEVANT RADIO, INC.",
+        "city": "NEWARK",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.182639,
+          40.849833
+        ]
+      },
+      "properties": {
+        "id": "73332",
+        "call_sign": "WNSW",
+        "frequency": "1430  kHz",
+        "service": "AM",
+        "owner": "RELEVANT RADIO, INC.",
+        "city": "NEWARK",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.020444,
+          39.421778
+        ]
+      },
+      "properties": {
+        "id": "56183",
+        "call_sign": "WMVB",
+        "frequency": "1440  kHz",
+        "service": "AM",
+        "owner": "EFRAIN MUNIZ-CAMPOS",
+        "city": "MILLVILLE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.020444,
+          39.421778
+        ]
+      },
+      "properties": {
+        "id": "56183",
+        "call_sign": "WMVB",
+        "frequency": "1440  kHz",
+        "service": "AM",
+        "owner": "EFRAIN MUNIZ-CAMPOS",
+        "city": "MILLVILLE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.419306,
+          40.492333
+        ]
+      },
+      "properties": {
+        "id": "55180",
+        "call_sign": "WCTC",
+        "frequency": "1450  kHz",
+        "service": "AM",
+        "owner": "BEASLEY MEDIA GROUP LICENSES, LLC",
+        "city": "NEW BRUNSWICK",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.447639,
+          39.378444
+        ]
+      },
+      "properties": {
+        "id": "10448",
+        "call_sign": "WPGG",
+        "frequency": "1450  kHz",
+        "service": "AM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "ATLANTIC CITY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.794333,
+          40.0815
+        ]
+      },
+      "properties": {
+        "id": "55310",
+        "call_sign": "WIFI",
+        "frequency": "1460  kHz",
+        "service": "AM",
+        "owner": "THE VOICE RADIO TRENTON, LLC",
+        "city": "FLORENCE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.794333,
+          40.0815
+        ]
+      },
+      "properties": {
+        "id": "55310",
+        "call_sign": "WIFI",
+        "frequency": "1460  kHz",
+        "service": "AM",
+        "owner": "THE VOICE RADIO TRENTON, LLC",
+        "city": "FLORENCE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.512083,
+          39.390111
+        ]
+      },
+      "properties": {
+        "id": "30040",
+        "call_sign": "WBSS",
+        "frequency": "1490  kHz",
+        "service": "AM",
+        "owner": "LONGPORT MEDIA, LLC",
+        "city": "PLEASANTVILLE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.512083,
+          39.390111
+        ]
+      },
+      "properties": {
+        "id": "30040",
+        "call_sign": "WBSS",
+        "frequency": "1490  kHz",
+        "service": "AM",
+        "owner": "LONGPORT MEDIA, LLC",
+        "city": "PLEASANTVILLE",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.284583,
+          40.980944
+        ]
+      },
+      "properties": {
+        "id": "40078",
+        "call_sign": "WGHT",
+        "frequency": "1500  kHz",
+        "service": "AM",
+        "owner": "BOROUGH OF POMPTON LAKES",
+        "city": "POMPTON LAKES",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.826861,
+          40.816806
+        ]
+      },
+      "properties": {
+        "id": "76913",
+        "call_sign": "WRNJ",
+        "frequency": "1510  kHz",
+        "service": "AM",
+        "owner": "WRNJ RADIO, INC.",
+        "city": "HACKETTSTOWN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.460194,
+          39.583444
+        ]
+      },
+      "properties": {
+        "id": "52768",
+        "call_sign": "WOCQ",
+        "frequency": "1510  kHz",
+        "service": "AM",
+        "owner": "THE VOICE RADIO NEW JERSEY, LLC",
+        "city": "SALEM",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.826861,
+          40.816806
+        ]
+      },
+      "properties": {
+        "id": "76913",
+        "call_sign": "WRNJ",
+        "frequency": "1510  kHz",
+        "service": "AM",
+        "owner": "WRNJ RADIO, INC.",
+        "city": "HACKETTSTOWN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.826861,
+          40.816806
+        ]
+      },
+      "properties": {
+        "id": "76913",
+        "call_sign": "WRNJ",
+        "frequency": "1510  kHz",
+        "service": "AM",
+        "owner": "WRNJ RADIO, INC.",
+        "city": "HACKETTSTOWN",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.795167,
+          39.625944
+        ]
+      },
+      "properties": {
+        "id": "61110",
+        "call_sign": "WGYM",
+        "frequency": "1580  kHz",
+        "service": "AM",
+        "owner": "DOMESTIC CHURCH MEDIA FOUNDATION",
+        "city": "HAMMONTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.795167,
+          39.625944
+        ]
+      },
+      "properties": {
+        "id": "61110",
+        "call_sign": "WGYM",
+        "frequency": "1580  kHz",
+        "service": "AM",
+        "owner": "DOMESTIC CHURCH MEDIA FOUNDATION",
+        "city": "HAMMONTON",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.067361,
+          40.820389
+        ]
+      },
+      "properties": {
+        "id": "87123",
+        "call_sign": "WWRU",
+        "frequency": "1660  kHz",
+        "service": "AM",
+        "owner": "MULTICULTURAL RADIO BROADCASTING LICENSEE, LLC",
+        "city": "JERSEY CITY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.067361,
+          40.820389
+        ]
+      },
+      "properties": {
+        "id": "87123",
+        "call_sign": "WWRU",
+        "frequency": "1660  kHz",
+        "service": "AM",
+        "owner": "MULTICULTURAL RADIO BROADCASTING LICENSEE, LLC",
+        "city": "JERSEY CITY",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.001111,
+          39.887778
+        ]
+      },
+      "properties": {
+        "id": "87111",
+        "call_sign": "WTTM",
+        "frequency": "1680  kHz",
+        "service": "AM",
+        "owner": "MULTICULTURAL RADIO BROADCASTING LICENSEE, LLC",
+        "city": "LINDENWOLD",
+        "state": "NJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.001111,
+          39.887778
+        ]
+      },
+      "properties": {
+        "id": "87111",
+        "call_sign": "WTTM",
+        "frequency": "1680  kHz",
+        "service": "AM",
+        "owner": "MULTICULTURAL RADIO BROADCASTING LICENSEE, LLC",
+        "city": "LINDENWOLD",
+        "state": "NJ"
+      }
+    }
+  ],
+  "metadata": {
+    "cities": [
+      "ABSECON",
+      "ASBURY PARK",
+      "ATLANTIC CITY",
+      "AVALON",
+      "BARNEGAT",
+      "BARNEGAT LIGHT",
+      "BASS RIVER TOWNSHIP",
+      "BEACH HAVEN WEST",
+      "BELVIDERE",
+      "BERLIN",
+      "BERNARDSVILLE",
+      "BLACKWOOD",
+      "BLAIRSTOWN",
+      "BLAIRSTOWN,",
+      "BRIDGETON",
+      "BRIDGEWATER",
+      "BRIGANTINE",
+      "BURLINGTON",
+      "CAMDEN",
+      "CANTON",
+      "CAPE MAY",
+      "CAPE MAY COURT HOUSE",
+      "CHERRY HILL",
+      "COLLINGSWOOD",
+      "DELAWARE TOWNSHIP",
+      "DOVER",
+      "EAST BRUNSWICK",
+      "EAST ORANGE",
+      "EATONTOWN",
+      "EDISON",
+      "EGG HARBOR CITY",
+      "EWANSVILLE",
+      "EWING",
+      "FLEMINGTON",
+      "FLORENCE",
+      "FORT LEE",
+      "FRANKLIN",
+      "FRANKLIN TOWNSHIP",
+      "FREEHOLD",
+      "FREEHOLD TOWNSHIP",
+      "GALLOWAY",
+      "GLASSBORO",
+      "GLEN GARDNER",
+      "HACKENSACK",
+      "HACKETTSTOWN",
+      "HAMMONTON",
+      "HARMONY TOWNSHIP",
+      "HARRISONVILLE",
+      "HAZLET",
+      "HOPATCONG",
+      "JERSEY CITY",
+      "JOBSTOWN",
+      "LAKEHURST",
+      "LAKEWOOD",
+      "LAKEWOOD TOWNSHIP",
+      "LAWRENCEVILLE",
+      "LAWRENCEVILLE, ETC.",
+      "LINCROFT",
+      "LINDENWOLD",
+      "LINWOOD",
+      "LONG BRANCH",
+      "MAHWAH",
+      "MANAHAWKIN",
+      "MAPLEWOOD",
+      "MARGATE CITY",
+      "MARLTON",
+      "MARMORA",
+      "MAYS LANDING",
+      "MEDFORD LAKES",
+      "MILLVILE",
+      "MILLVILLE",
+      "MORRISTOWN",
+      "MOUNT HOLLY",
+      "MT BETHEL",
+      "NETCONG",
+      "NEW BRUNSWICK",
+      "NEW GRETNA",
+      "NEWARK",
+      "NEWTON",
+      "NORTH CAPE MAY",
+      "NORTH WILDWOOD",
+      "OAKLAND",
+      "OCEAN ACRES",
+      "OCEAN CITY",
+      "OCEAN CITY-SOMERS POINT",
+      "PALERMO",
+      "PALISADES PARK",
+      "PARLIN, ETC.",
+      "PARSIPPANY",
+      "PARSIPPANY-TROY HILL",
+      "PATERSON",
+      "PEMBERTON",
+      "PENNS GROVE",
+      "PENNSAUKEN",
+      "PERTH AMBOY",
+      "PETERSBURG",
+      "PISCATAWAY",
+      "PLEASANTVILLE",
+      "POINT PLEASANT",
+      "POMONA",
+      "POMPTON LAKES",
+      "PORT NORRIS",
+      "PORT REPUBLIC",
+      "PRINCETON",
+      "PRINCETON JUNCTION",
+      "RAMTOWN",
+      "RIO GRANDE",
+      "ROOSEVELT",
+      "SALEM",
+      "SOMERSET",
+      "SOUTH ORANGE",
+      "STAFFORD TOWNSHIP",
+      "STIRLING",
+      "SUSSEX",
+      "TAYLORTOWN",
+      "TEANECK",
+      "TOMS RIVER",
+      "TOMS RIVER TOWNSHIP",
+      "TRENTON",
+      "TUCKERTON",
+      "UNION TOWNSHIP",
+      "UPPER MONTCLAIR",
+      "VERNON",
+      "VILLAS",
+      "VINELAND",
+      "WALL",
+      "WASHINGTON",
+      "WAYNE",
+      "WEEHAWKEN",
+      "WEST LONG BRANCH",
+      "WHITING",
+      "WILDWOOD",
+      "WILDWOOD CREST",
+      "WOODBINE",
+      "WOODBRIDGE",
+      "ZAREPHATH"
+    ],
+    "frequencies": [
+      "88.1  MHz",
+      "88.3  MHz",
+      "88.5  MHz",
+      "88.7  MHz",
+      "88.9  MHz",
+      "89.1  MHz",
+      "89.3  MHz",
+      "89.5  MHz",
+      "89.7  MHz",
+      "89.9  MHz",
+      "90.3  MHz",
+      "90.5  MHz",
+      "90.7  MHz",
+      "90.9  MHz",
+      "91.1  MHz",
+      "91.3  MHz",
+      "91.5  MHz",
+      "91.7  MHz",
+      "91.9  MHz",
+      "92.1  MHz",
+      "92.3  MHz",
+      "92.7  MHz",
+      "92.9  MHz",
+      "93.1  MHz",
+      "93.5  MHz",
+      "93.9  MHz",
+      "94.3  MHz",
+      "94.5  MHz",
+      "94.7  MHz",
+      "94.9  MHz",
+      "95.1  MHz",
+      "95.3  MHz",
+      "95.5  MHz",
+      "95.9  MHz",
+      "96.1  MHz",
+      "96.7  MHz",
+      "96.9  MHz",
+      "97.1  MHz",
+      "97.3  MHz",
+      "97.5  MHz",
+      "97.7  MHz",
+      "97.9  MHz",
+      "98.3  MHz",
+      "98.5  MHz",
+      "98.7  MHz",
+      "99.1  MHz",
+      "99.3  MHz",
+      "99.7  MHz",
+      "100.1 MHz",
+      "100.3 MHz",
+      "100.5 MHz",
+      "100.7 MHz",
+      "100.9 MHz",
+      "101.1 MHz",
+      "101.3 MHz",
+      "101.5 MHz",
+      "101.7 MHz",
+      "101.9 MHz",
+      "102.3 MHz",
+      "102.5 MHz",
+      "102.7 MHz",
+      "103.1 MHz",
+      "103.3 MHz",
+      "103.7 MHz",
+      "103.9 MHz",
+      "104.1 MHz",
+      "104.7 MHz",
+      "104.9 MHz",
+      "105.5 MHz",
+      "105.7 MHz",
+      "105.9 MHz",
+      "106.3 MHz",
+      "106.5 MHz",
+      "106.9 MHz",
+      "107.1 MHz",
+      "107.3 MHz",
+      "107.5 MHz",
+      "107.7 MHz",
+      "107.9 MHz",
+      "620   kHz",
+      "640   kHz",
+      "800   kHz",
+      "920   kHz",
+      "930   kHz",
+      "970   kHz",
+      "1020  kHz",
+      "1040  kHz",
+      "1070  kHz",
+      "1160  kHz",
+      "1170  kHz",
+      "1230  kHz",
+      "1240  kHz",
+      "1250  kHz",
+      "1260  kHz",
+      "1270  kHz",
+      "1300  kHz",
+      "1310  kHz",
+      "1340  kHz",
+      "1350  kHz",
+      "1360  kHz",
+      "1400  kHz",
+      "1410  kHz",
+      "1430  kHz",
+      "1440  kHz",
+      "1450  kHz",
+      "1460  kHz",
+      "1490  kHz",
+      "1500  kHz",
+      "1510  kHz",
+      "1580  kHz",
+      "1660  kHz",
+      "1680  kHz"
+    ],
+    "owners": [
+      "ADVANTAGE MINISTRIES, INC",
+      "AMERICAN CENTER FOR CIVIL JUSTICE, INC.",
+      "AMERICAN INSTITUTE FOR JEWISH EDUCATION (AIJE)",
+      "ATLANTIC CAPE COMMUNITY COLLEGE",
+      "ATLANTIC CITY BOARD OF EDUCATION",
+      "AUDACY LICENSE, LLC",
+      "AURICLE COMMUNICATIONS",
+      "BEACON BROADCASTING CORP.",
+      "BEASLEY MEDIA GROUP LICENSES, LLC",
+      "BEST MEDIA, INC.",
+      "BOARD OF GOVERNORS OF RUTGERS",
+      "BOARD OF TRUSTEES OF RIDER COLLEGE",
+      "BOROUGH OF POMPTON LAKES",
+      "BRIDGELIGHT, LLC",
+      "BROADCAST LEARNING CENTER, INC.",
+      "BROOKDALE COMMUNITY COLLEGE",
+      "BUX-MONT EDUCATIONAL RADIO ASSOCIATION",
+      "CALVARY CHAPEL MORRIS HILLS",
+      "CALVARY CHAPEL OF MARLTON",
+      "CAMDEN COUNTY COLLEGE",
+      "CANTICO NUEVO MINISTRY, INC.",
+      "CARIBBEAN SPORTS INTERNATIONAL, INC.",
+      "CENTER FOR COMMUNITY ARTS, INC.",
+      "CENTRO BIBLICO OF NJ, INC.",
+      "CHINESE CHURCH OF ATLANTIC CITY",
+      "CLEAR COMMUNICATIONS, INC.",
+      "COASTAL BROADCASTING SYSTEMS, INC.",
+      "COASTAL BROADCASTING SYSTEMS, INC.,",
+      "COMUNIDAD DE FLEMINGTON, INC.",
+      "CSN INTERNATIONAL",
+      "DAVIDZON RADIO INC",
+      "DIGITAL RADIO BROADCASTING, INC.",
+      "DOMESTIC CHURCH MEDIA FOUNDATION",
+      "EBC MUSIC, INC.",
+      "EDWARD A. SCHOBER",
+      "EFRAIN MUNIZ-CAMPOS",
+      "ENRICO BRANCADORA",
+      "ENRICO S. BRANCADORA",
+      "FAIRLEIGH DICKINSON UNIVERSITY",
+      "FOUR RIVERS COMMUNITY BROADCASTING CORPORATION",
+      "GOSPEL LIGHT PRAYER CHURCH INC",
+      "HISPANIC BROADCASTING FOUNDATION",
+      "HUNTERDON CENTRAL H. S. BD. OF EDUC.",
+      "IHM LICENSES, LLC",
+      "JOY BROADCASTING, INC.",
+      "K-LOVE, INC.",
+      "KEAN UNIVERSITY",
+      "LIVING SPRINGS GLOBAL FELLOWSHIP, INC.",
+      "LONGPORT MEDIA, LLC",
+      "LOUD MEDIA NJ LLC",
+      "MAINLAND REGIONAL HIGH SCHOOL",
+      "MARANATHA MINISTRIES/JOY COMMUNICATIONS, INC.",
+      "MERCER COUNTY COMMUNITY COLLEGE",
+      "MIGHTY VOICE BROADCASTING",
+      "MINORITY BUSINESS & HOUSING DEVELOPMENT, INC",
+      "MINORITY RADIO BROADCASTING, LLC",
+      "MONMOUTH",
+      "MONTCLAIR STATE UNIVERSITY",
+      "MORRIS BROADCASTING COMPANY OF NEW JERSEY, INC.",
+      "MORRIS SCHOOL DISTRICT",
+      "MULTICULTURAL RADIO BROADCASTING LICENSEE, LLC",
+      "NEW LIFE RADIO, INC.",
+      "NEW YORK PUBLIC RADIO",
+      "NEWARK PUBLIC RADIO, INC.",
+      "PENN JERSEY EDUCATIONAL RADIO CORPORATION",
+      "PENN-JERSEY EDUCATIONAL RADIO CORP.",
+      "PENN-JERSEY EDUCATIONAL RADIO CORPORATION",
+      "PENTECOSTAL CHURCH OF PENNS GROVE.",
+      "PERDOMO MEDIA GROUP CORPORATION",
+      "PILLAR MINISTRIES, INC.",
+      "PISCATAWAY BOARD OF EDUCATION",
+      "PREAKNESS VALLEY UNITED REFORMED CHURCH",
+      "PRESS COMMUNICATIONS, L.L.C.",
+      "PRINCETON BROADCASTING SERVICE, INC.",
+      "PRIORITY RADIO, INC.",
+      "RADIO LICENSE HOLDING CBC, LLC",
+      "RADIO ONE LICENSES, LLC",
+      "RAHUL WALIA",
+      "RAMAPO COLLEGE OF NEW JERSEY",
+      "REDEEMER BROADCASTING, INC.",
+      "REJUVENATION OUTREACH CENTER INC.",
+      "RELEVANT RADIO, INC.",
+      "ROOSEVELT ARTS PROJECT INC",
+      "ROWAN UNIVERSITY",
+      "SALEM MEDIA OF NEW YORK, LLC",
+      "SETON HALL UNIVERSITY",
+      "SKYLANDS RADIO COOPERATIVE",
+      "SOUND OF LONG ISLAND, INC.",
+      "SOUTH JERSEY CHRISTIAN ACADEMY",
+      "SPECTRUM DEVELOPMENT GROUP, LLC",
+      "SPREAD THE GOSPEL, INC.",
+      "SRN COMMUNICATIONS, INC.",
+      "STOCKTON UNIVERSITY",
+      "SUSSEX COUNTY COMMUNITY COLLEGE",
+      "TEMPLE UNIVERSITY OF THE COMMONWEALTH SYSTEM OF HIGHER ED",
+      "THE BRIDGE OF HOPE, INC.",
+      "THE COLLEGE OF NJ RADIO SYSTEM",
+      "THE INFORMATION AGE LEARNING CENTER",
+      "THE JERSEY GIANT WMID, LLC",
+      "THE TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA",
+      "THE VOICE RADIO NEW JERSEY, LLC",
+      "THE VOICE RADIO TRENTON, LLC",
+      "THE VOICE RADIO WILMINGTON, LLC",
+      "TOWNSQUARE LICENSE, LLC",
+      "TRANSFORMATION CHURCH A NJ NONPROFIT CORPORATION",
+      "TRI-COUNTY COMMUNITY ACTION AGENCY, INC.",
+      "WBOC, INC.",
+      "WEST WINDSOR-PLAINSBORO REGIONAL SCHOOL DISTRICT",
+      "WHYY, INC.",
+      "WIBG LIMITED LIABILITY COMPANY",
+      "WILLIAM PATERSON UNIVERSITY OF NEW JERSEY",
+      "WORD OF LIFE CHRISTIAN FELLOWSHIP",
+      "WORLD HARVEST COMMUNICATIONS, INC.",
+      "WPAT LICENSING, INC.",
+      "WRNJ RADIO, INC.",
+      "WWN EDUCATIONAL RADIO CORPORATION",
+      "WYRS BROADCASTING",
+      "YOELKIE MEDIA FOUNDATION",
+      "YOUNGSHINE MEDIA, INC.",
+      "ZINDAGI 967 FM LLC"
+    ],
+    "services": [
+      "AM",
+      "FB",
+      "FL",
+      "FM",
+      "FS",
+      "FX"
+    ]
+  }
+}

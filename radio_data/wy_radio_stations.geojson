@@ -1,0 +1,8086 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.722167,
+          41.159583
+        ]
+      },
+      "properties": {
+        "id": "86624",
+        "call_sign": "KCYO",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "COMMUNITY BROADCASTING, INC.",
+        "city": "CHEYENNE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.463056,
+          44.230528
+        ]
+      },
+      "properties": {
+        "id": "122432",
+        "call_sign": "KGLL",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "REAL PRESENCE RADIO",
+        "city": "GILLETTE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.453889,
+          41.310833
+        ]
+      },
+      "properties": {
+        "id": "12349",
+        "call_sign": "K201HM",
+        "frequency": "88.1  MHz",
+        "service": "FX",
+        "owner": "COMMUNITY BROADCASTING, INC.",
+        "city": "LARAMIE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.850944,
+          44.585222
+        ]
+      },
+      "properties": {
+        "id": "174192",
+        "call_sign": "KFGR",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "TRINITY BIBLE CHURCH",
+        "city": "POWELL",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.710667,
+          42.583
+        ]
+      },
+      "properties": {
+        "id": "10030",
+        "call_sign": "KCWC-FM",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "CENTRAL WYOMING COLLEGE",
+        "city": "RIVERTON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.117833,
+          44.623833
+        ]
+      },
+      "properties": {
+        "id": "89885",
+        "call_sign": "KPRQ",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "MONTANA STATE UNIVERSITY - BILLINGS",
+        "city": "SHERIDAN",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.864528,
+          44.066611
+        ]
+      },
+      "properties": {
+        "id": "155135",
+        "call_sign": "K201HS",
+        "frequency": "88.1  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL",
+        "city": "WORLAND",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.687447,
+          44.335308
+        ]
+      },
+      "properties": {
+        "id": "766942",
+        "call_sign": "KBTG",
+        "frequency": "88.3  MHz",
+        "service": "FM",
+        "owner": "BUFFALO BAPTIST CHURCH",
+        "city": "BUFFALO",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.307222,
+          42.740528
+        ]
+      },
+      "properties": {
+        "id": "92997",
+        "call_sign": "KAIX",
+        "frequency": "88.3  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "CASPER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.754083,
+          43.461861
+        ]
+      },
+      "properties": {
+        "id": "92472",
+        "call_sign": "KMLT",
+        "frequency": "88.3  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "JACKSON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.152639,
+          44.496611
+        ]
+      },
+      "properties": {
+        "id": "18328",
+        "call_sign": "K203AH",
+        "frequency": "88.5  MHz",
+        "service": "FX",
+        "owner": "MONTANA STATE UNIVERSITY - BILLINGS",
+        "city": "CODY",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.997583,
+          44.413278
+        ]
+      },
+      "properties": {
+        "id": "176113",
+        "call_sign": "KNPJ",
+        "frequency": "88.5  MHz",
+        "service": "FM",
+        "owner": "HI-LINE RADIO FELLOWSHIP, INC.",
+        "city": "GREYBULL",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.45525,
+          41.309972
+        ]
+      },
+      "properties": {
+        "id": "91583",
+        "call_sign": "KUWY",
+        "frequency": "88.5  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "LARAMIE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.122056,
+          41.427472
+        ]
+      },
+      "properties": {
+        "id": "176944",
+        "call_sign": "KZUW",
+        "frequency": "88.5  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "RELIANCE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.696333,
+          42.043278
+        ]
+      },
+      "properties": {
+        "id": "768695",
+        "call_sign": "KKWY",
+        "frequency": "88.5  MHz",
+        "service": "FM",
+        "owner": "HI-LINE RADIO FELLOWSHIP, INC.",
+        "city": "WHEATLAND",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.234694,
+          42.858028
+        ]
+      },
+      "properties": {
+        "id": "176144",
+        "call_sign": "KDJY",
+        "frequency": "88.7  MHz",
+        "service": "FM",
+        "owner": "CEDAR COVE BROADCASTING, INC.",
+        "city": "DOUGLAS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.234694,
+          42.858028
+        ]
+      },
+      "properties": {
+        "id": "176144",
+        "call_sign": "KDJY",
+        "frequency": "88.7  MHz",
+        "service": "FM",
+        "owner": "CEDAR COVE BROADCASTING, INC.",
+        "city": "DOUGLAS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.680667,
+          43.894806
+        ]
+      },
+      "properties": {
+        "id": "173684",
+        "call_sign": "KUWK",
+        "frequency": "88.7  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "KAYCEE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.025278,
+          41.100556
+        ]
+      },
+      "properties": {
+        "id": "84104",
+        "call_sign": "KDNR",
+        "frequency": "88.7  MHz",
+        "service": "FM",
+        "owner": "WESTERN INSPIRATIONAL BROADCASTERS, INC.",
+        "city": "SOUTH GREELEY",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.025278,
+          41.100556
+        ]
+      },
+      "properties": {
+        "id": "84104",
+        "call_sign": "KDNR",
+        "frequency": "88.7  MHz",
+        "service": "FM",
+        "owner": "WESTERN INSPIRATIONAL BROADCASTERS, INC.",
+        "city": "SOUTH GREELEY",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.997417,
+          43.437667
+        ]
+      },
+      "properties": {
+        "id": "768706",
+        "call_sign": "KTHE",
+        "frequency": "88.7  MHz",
+        "service": "FM",
+        "owner": "CENTRAL WYOMING COLLEGE",
+        "city": "THERMOPOLIS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.725111,
+          44.346639
+        ]
+      },
+      "properties": {
+        "id": "55092",
+        "call_sign": "K205GM",
+        "frequency": "88.9  MHz",
+        "service": "FX",
+        "owner": "MONTANA STATE UNIVERSITY - BILLINGS",
+        "city": "BUFFALO",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.273333,
+          41.924444
+        ]
+      },
+      "properties": {
+        "id": "768728",
+        "call_sign": "KQDN",
+        "frequency": "88.9  MHz",
+        "service": "FM",
+        "owner": "CENTRAL WYOMING COLLEGE",
+        "city": "EDEN",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.468333,
+          44.209444
+        ]
+      },
+      "properties": {
+        "id": "89886",
+        "call_sign": "KLOF",
+        "frequency": "88.9  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "GILLETTE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.924028,
+          42.844361
+        ]
+      },
+      "properties": {
+        "id": "762739",
+        "call_sign": "KJUW",
+        "frequency": "88.9  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "PINEDALE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.344,
+          41.497167
+        ]
+      },
+      "properties": {
+        "id": "94240",
+        "call_sign": "K205FE",
+        "frequency": "88.9  MHz",
+        "service": "FX",
+        "owner": "HI-LINE RADIO FELLOWSHIP, INC.",
+        "city": "ROCK SPRINGS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.534139,
+          41.63025
+        ]
+      },
+      "properties": {
+        "id": "93001",
+        "call_sign": "KAIW",
+        "frequency": "88.9  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "SARATOGA",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.931444,
+          44.798306
+        ]
+      },
+      "properties": {
+        "id": "89342",
+        "call_sign": "KOHR",
+        "frequency": "88.9  MHz",
+        "service": "FM",
+        "owner": "HI-LINE RADIO FELLOWSHIP, INC",
+        "city": "SHERIDAN",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.307222,
+          42.740528
+        ]
+      },
+      "properties": {
+        "id": "90985",
+        "call_sign": "KLWC",
+        "frequency": "89.1  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "CASPER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.826389,
+          44.574806
+        ]
+      },
+      "properties": {
+        "id": "172695",
+        "call_sign": "KNWT",
+        "frequency": "89.1  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "CODY",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.025278,
+          41.100556
+        ]
+      },
+      "properties": {
+        "id": "155323",
+        "call_sign": "K206EO",
+        "frequency": "89.1  MHz",
+        "service": "FX",
+        "owner": "CEDAR COVE BROADCASTING, INC.",
+        "city": "GRANITE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.713444,
+          42.578278
+        ]
+      },
+      "properties": {
+        "id": "173291",
+        "call_sign": "KMJB",
+        "frequency": "89.1  MHz",
+        "service": "FM",
+        "owner": "WESTERN INSPIRATIONAL BROADCASTERS, INC.",
+        "city": "HUDSON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.75325,
+          43.461028
+        ]
+      },
+      "properties": {
+        "id": "92620",
+        "call_sign": "KHOL",
+        "frequency": "89.1  MHz",
+        "service": "FM",
+        "owner": "JACKSON HOLE COMMUNITY RADIO, INCORPORATED",
+        "city": "JACKSON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.87075,
+          43.597139
+        ]
+      },
+      "properties": {
+        "id": "92620",
+        "call_sign": "KHOL",
+        "frequency": "89.1  MHz",
+        "service": "FS",
+        "owner": "JACKSON HOLE COMMUNITY RADIO, INCORPORATED",
+        "city": "JACKSON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.236139,
+          41.679389
+        ]
+      },
+      "properties": {
+        "id": "8735",
+        "call_sign": "K206AJ",
+        "frequency": "89.1  MHz",
+        "service": "FX",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "SINCLAIR",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4475,
+          41.166944
+        ]
+      },
+      "properties": {
+        "id": "767299",
+        "call_sign": "KRKU",
+        "frequency": "89.3  MHz",
+        "service": "FM",
+        "owner": "CEDAR COVE BROADCASTING, INC.",
+        "city": "HILLSDALE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4475,
+          41.166944
+        ]
+      },
+      "properties": {
+        "id": "767299",
+        "call_sign": "KRKU",
+        "frequency": "89.3  MHz",
+        "service": "FM",
+        "owner": "CEDAR COVE BROADCASTING, INC.",
+        "city": "HILLSDALE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.504528,
+          41.838139
+        ]
+      },
+      "properties": {
+        "id": "762743",
+        "call_sign": "KJWS",
+        "frequency": "89.3  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "KEMMERER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.453861,
+          41.310806
+        ]
+      },
+      "properties": {
+        "id": "93647",
+        "call_sign": "KTDX",
+        "frequency": "89.3  MHz",
+        "service": "FM",
+        "owner": "HI-LINE RADIO FELLOWSHIP, INC.",
+        "city": "LARAMIE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.928944,
+          44.602722
+        ]
+      },
+      "properties": {
+        "id": "90842",
+        "call_sign": "KWCF",
+        "frequency": "89.3  MHz",
+        "service": "FM",
+        "owner": "CSN INTERNATIONAL",
+        "city": "SHERIDAN",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.696333,
+          42.043278
+        ]
+      },
+      "properties": {
+        "id": "767300",
+        "call_sign": "KRKY-FM",
+        "frequency": "89.5  MHz",
+        "service": "FM",
+        "owner": "CEDAR COVE BROADCASTING, INC.",
+        "city": "FORT LARAMIE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.696333,
+          42.043278
+        ]
+      },
+      "properties": {
+        "id": "767300",
+        "call_sign": "KRKY-FM",
+        "frequency": "89.5  MHz",
+        "service": "FM",
+        "owner": "CEDAR COVE BROADCASTING, INC.",
+        "city": "FORT LARAMIE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.772056,
+          43.087417
+        ]
+      },
+      "properties": {
+        "id": "768718",
+        "call_sign": "KEWY",
+        "frequency": "89.5  MHz",
+        "service": "FM",
+        "owner": "CENTRAL WYOMING COLLEGE",
+        "city": "FORT WASHAKIE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.345528,
+          41.496361
+        ]
+      },
+      "properties": {
+        "id": "176985",
+        "call_sign": "KTME",
+        "frequency": "89.5  MHz",
+        "service": "FM",
+        "owner": "WESTERN INSPIRATIONAL BROADCASTERS, INC.",
+        "city": "RELIANCE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.191611,
+          42.076333
+        ]
+      },
+      "properties": {
+        "id": "24665",
+        "call_sign": "K208FY",
+        "frequency": "89.5  MHz",
+        "service": "FX",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "TORRINGTON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.864444,
+          44.066667
+        ]
+      },
+      "properties": {
+        "id": "767302",
+        "call_sign": "KKBE",
+        "frequency": "89.5  MHz",
+        "service": "FM",
+        "owner": "HI-LINE RADIO FELLOWSHIP, INC.",
+        "city": "WINCHESTER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.864444,
+          44.066667
+        ]
+      },
+      "properties": {
+        "id": "767302",
+        "call_sign": "KKBE",
+        "frequency": "89.5  MHz",
+        "service": "FM",
+        "owner": "HI-LINE RADIO FELLOWSHIP, INC.",
+        "city": "WINCHESTER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.812194,
+          44.340917
+        ]
+      },
+      "properties": {
+        "id": "768916",
+        "call_sign": "KCHY",
+        "frequency": "89.7  MHz",
+        "service": "FM",
+        "owner": "CEDAR COVE BROADCASTING, INC.",
+        "city": "BUFFALO",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.36,
+          42.7405
+        ]
+      },
+      "properties": {
+        "id": "88910",
+        "call_sign": "K209CS",
+        "frequency": "89.7  MHz",
+        "service": "FX",
+        "owner": "PENSACOLA CHRISTIAN COLLEGE, INC.",
+        "city": "CASPER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.911278,
+          41.353833
+        ]
+      },
+      "properties": {
+        "id": "173678",
+        "call_sign": "KUWE",
+        "frequency": "89.7  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "EVANSTON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.468306,
+          44.209417
+        ]
+      },
+      "properties": {
+        "id": "83087",
+        "call_sign": "KAXG",
+        "frequency": "89.7  MHz",
+        "service": "FM",
+        "owner": "HI-LINE RADIO FELLOWSHIP, INC.",
+        "city": "GILLETTE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.991861,
+          42.632694
+        ]
+      },
+      "properties": {
+        "id": "173939",
+        "call_sign": "KBYA",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "BRIGHAM YOUNG UNIVERSITY-IDAHO",
+        "city": "AFTON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.349806,
+          43.731389
+        ]
+      },
+      "properties": {
+        "id": "762732",
+        "call_sign": "KXUW",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "ALTA",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.999167,
+          43.4375
+        ]
+      },
+      "properties": {
+        "id": "769047",
+        "call_sign": "KUDA",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "CEDAR COVE BROADCASTING, INC.",
+        "city": "BONNEVILLE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.999167,
+          43.4375
+        ]
+      },
+      "properties": {
+        "id": "769047",
+        "call_sign": "KUDA",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "CEDAR COVE BROADCASTING, INC.",
+        "city": "BONNEVILLE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.502111,
+          41.836889
+        ]
+      },
+      "properties": {
+        "id": "122019",
+        "call_sign": "K210EL",
+        "frequency": "89.9  MHz",
+        "service": "FX",
+        "owner": "WESTERN INSPIRATIONAL BROADCASTERS, INC.",
+        "city": "DIAMONDVILLE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.92375,
+          42.844083
+        ]
+      },
+      "properties": {
+        "id": "176230",
+        "call_sign": "KWCN",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "WCN, INC.",
+        "city": "PINEDALE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.237017,
+          41.681278
+        ]
+      },
+      "properties": {
+        "id": "173682",
+        "call_sign": "KUWI",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "RAWLINS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.236139,
+          41.679389
+        ]
+      },
+      "properties": {
+        "id": "173682",
+        "call_sign": "KUWI",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "RAWLINS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.931444,
+          44.798306
+        ]
+      },
+      "properties": {
+        "id": "60158",
+        "call_sign": "K210AM",
+        "frequency": "89.9  MHz",
+        "service": "FX",
+        "owner": "EDUCATIONAL MEDIA FOUNDATION",
+        "city": "SHERIDAN, ETC.",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.191611,
+          42.076333
+        ]
+      },
+      "properties": {
+        "id": "173683",
+        "call_sign": "KEUW",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "TORRINGTON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.604444,
+          44.460056
+        ]
+      },
+      "properties": {
+        "id": "762736",
+        "call_sign": "-",
+        "frequency": "90.1  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "GILLETTE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.713333,
+          42.578333
+        ]
+      },
+      "properties": {
+        "id": "768283",
+        "call_sign": "KRWY",
+        "frequency": "90.1  MHz",
+        "service": "FM",
+        "owner": "HI-LINE RADIO FELLOWSHIP, INC.",
+        "city": "LANDER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.713333,
+          42.578333
+        ]
+      },
+      "properties": {
+        "id": "768283",
+        "call_sign": "KRWY",
+        "frequency": "90.1  MHz",
+        "service": "FM",
+        "owner": "HI-LINE RADIO FELLOWSHIP, INC.",
+        "city": "LANDER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.713333,
+          42.578333
+        ]
+      },
+      "properties": {
+        "id": "768283",
+        "call_sign": "KRWY",
+        "frequency": "90.1  MHz",
+        "service": "FM",
+        "owner": "HI-LINE RADIO FELLOWSHIP, INC.",
+        "city": "LANDER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.45525,
+          41.309972
+        ]
+      },
+      "properties": {
+        "id": "91563",
+        "call_sign": "KUWL",
+        "frequency": "90.1  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "LARAMIE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.852889,
+          44.587167
+        ]
+      },
+      "properties": {
+        "id": "92308",
+        "call_sign": "KUWP",
+        "frequency": "90.1  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "POWELL",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.117583,
+          44.623222
+        ]
+      },
+      "properties": {
+        "id": "762730",
+        "call_sign": "KUWO",
+        "frequency": "90.1  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "RANCHESTER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.307222,
+          42.740528
+        ]
+      },
+      "properties": {
+        "id": "71810",
+        "call_sign": "KCSP-FM",
+        "frequency": "90.3  MHz",
+        "service": "FM",
+        "owner": "WESTERN INSPIRATIONAL BROADCASTERS, INC.",
+        "city": "CASPER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.307222,
+          42.740528
+        ]
+      },
+      "properties": {
+        "id": "71810",
+        "call_sign": "KCSP-FM",
+        "frequency": "90.3  MHz",
+        "service": "FS",
+        "owner": "WESTERN INSPIRATIONAL BROADCASTERS, INC.",
+        "city": "CASPER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.448583,
+          41.216917
+        ]
+      },
+      "properties": {
+        "id": "87267",
+        "call_sign": "KWYC",
+        "frequency": "90.3  MHz",
+        "service": "FM",
+        "owner": "CSN INTERNATIONAL",
+        "city": "CHEYENNE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.448583,
+          41.216917
+        ]
+      },
+      "properties": {
+        "id": "87267",
+        "call_sign": "KWYC",
+        "frequency": "90.3  MHz",
+        "service": "FM",
+        "owner": "CSN INTERNATIONAL",
+        "city": "CHEYENNE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.448583,
+          41.216917
+        ]
+      },
+      "properties": {
+        "id": "87267",
+        "call_sign": "KWYC",
+        "frequency": "90.3  MHz",
+        "service": "FM",
+        "owner": "CSN INTERNATIONAL",
+        "city": "CHEYENNE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.907944,
+          41.352444
+        ]
+      },
+      "properties": {
+        "id": "92087",
+        "call_sign": "K212GA",
+        "frequency": "90.3  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL, INC.",
+        "city": "EVANSTON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.908583,
+          41.352583
+        ]
+      },
+      "properties": {
+        "id": "92087",
+        "call_sign": "K212GA",
+        "frequency": "90.3  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL, INC.",
+        "city": "EVANSTON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.75325,
+          43.461028
+        ]
+      },
+      "properties": {
+        "id": "69061",
+        "call_sign": "KUWJ",
+        "frequency": "90.3  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "JACKSON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.252583,
+          43.651806
+        ]
+      },
+      "properties": {
+        "id": "71819",
+        "call_sign": "K212GR",
+        "frequency": "90.3  MHz",
+        "service": "FX",
+        "owner": "WESTERN INSPIRATIONAL BROADCASTERS, INC.",
+        "city": "THERMOPOLIS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.724222,
+          44.347194
+        ]
+      },
+      "properties": {
+        "id": "88434",
+        "call_sign": "KBUW",
+        "frequency": "90.5  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "BUFFALO",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.688889,
+          43.499722
+        ]
+      },
+      "properties": {
+        "id": "762696",
+        "call_sign": "KWUW",
+        "frequency": "90.5  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "DUBOIS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.543222,
+          41.307722
+        ]
+      },
+      "properties": {
+        "id": "155214",
+        "call_sign": "K213EL",
+        "frequency": "90.5  MHz",
+        "service": "FX",
+        "owner": "MOUNTAIN COMMUNITY TRANSLATORS, LLC",
+        "city": "LARAMIE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.219389,
+          43.832472
+        ]
+      },
+      "properties": {
+        "id": "83868",
+        "call_sign": "KUWN",
+        "frequency": "90.5  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "NEWCASTLE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.153417,
+          42.718
+        ]
+      },
+      "properties": {
+        "id": "56594",
+        "call_sign": "K213EZ",
+        "frequency": "90.5  MHz",
+        "service": "FX",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "RIVERTON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.122056,
+          41.427444
+        ]
+      },
+      "properties": {
+        "id": "69285",
+        "call_sign": "KUWZ",
+        "frequency": "90.5  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "ROCK SPRINGS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.306722,
+          42.740944
+        ]
+      },
+      "properties": {
+        "id": "92833",
+        "call_sign": "K214DI",
+        "frequency": "90.7  MHz",
+        "service": "FX",
+        "owner": "K-LOVE, INC.",
+        "city": "CASPER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.166111,
+          42.334056
+        ]
+      },
+      "properties": {
+        "id": "177173",
+        "call_sign": "KUWV",
+        "frequency": "90.7  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "LINGLE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.447833,
+          44.033833
+        ]
+      },
+      "properties": {
+        "id": "192198",
+        "call_sign": "KLZL-LP",
+        "frequency": "90.7  MHz",
+        "service": "FL",
+        "owner": "PAINT ROCK RADIO",
+        "city": "TEN SLEEP",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.864528,
+          44.066639
+        ]
+      },
+      "properties": {
+        "id": "18329",
+        "call_sign": "K214EZ",
+        "frequency": "90.7  MHz",
+        "service": "FX",
+        "owner": "MONTANA STATE UNIVERSITY - BILLINGS",
+        "city": "WORLAND",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.45525,
+          41.309972
+        ]
+      },
+      "properties": {
+        "id": "91514",
+        "call_sign": "KLWV",
+        "frequency": "90.9  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "CHUGWATER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.45525,
+          41.309972
+        ]
+      },
+      "properties": {
+        "id": "91514",
+        "call_sign": "KLWV",
+        "frequency": "90.9  MHz",
+        "service": "FS",
+        "owner": "K-LOVE, INC.",
+        "city": "CHUGWATER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.710667,
+          42.583
+        ]
+      },
+      "properties": {
+        "id": "174336",
+        "call_sign": "KUWW",
+        "frequency": "90.9  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "FORT WASHAKIE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.468333,
+          44.209417
+        ]
+      },
+      "properties": {
+        "id": "82478",
+        "call_sign": "KUWG",
+        "frequency": "90.9  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "GILLETTE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.924028,
+          42.844361
+        ]
+      },
+      "properties": {
+        "id": "92820",
+        "call_sign": "KUWX",
+        "frequency": "90.9  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "PINEDALE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.924028,
+          42.844361
+        ]
+      },
+      "properties": {
+        "id": "92820",
+        "call_sign": "KUWX",
+        "frequency": "90.9  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "PINEDALE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.159556,
+          41.656611
+        ]
+      },
+      "properties": {
+        "id": "121826",
+        "call_sign": "K215FF",
+        "frequency": "90.9  MHz",
+        "service": "FX",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "ROCK SPRINGS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.820944,
+          44.572167
+        ]
+      },
+      "properties": {
+        "id": "121854",
+        "call_sign": "KOFG",
+        "frequency": "91.1  MHz",
+        "service": "FM",
+        "owner": "GOSPEL MESSENGERS",
+        "city": "CODY",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.75325,
+          43.461028
+        ]
+      },
+      "properties": {
+        "id": "122126",
+        "call_sign": "KMWY",
+        "frequency": "91.1  MHz",
+        "service": "FM",
+        "owner": "THE MOODY BIBLE INSTITUTE OF CHICAGO",
+        "city": "JACKSON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.504528,
+          41.838139
+        ]
+      },
+      "properties": {
+        "id": "762746",
+        "call_sign": "KKUW",
+        "frequency": "91.1  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "KEMMERER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.980194,
+          42.850472
+        ]
+      },
+      "properties": {
+        "id": "83869",
+        "call_sign": "KUWA",
+        "frequency": "91.3  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "AFTON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.360028,
+          42.740528
+        ]
+      },
+      "properties": {
+        "id": "82539",
+        "call_sign": "KUWC",
+        "frequency": "91.3  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "CASPER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.360028,
+          42.740528
+        ]
+      },
+      "properties": {
+        "id": "82539",
+        "call_sign": "KUWC",
+        "frequency": "91.3  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "CASPER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.68875,
+          43.499667
+        ]
+      },
+      "properties": {
+        "id": "69276",
+        "call_sign": "K217BP",
+        "frequency": "91.3  MHz",
+        "service": "FX",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "DUBOIS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.44525,
+          41.284972
+        ]
+      },
+      "properties": {
+        "id": "77191",
+        "call_sign": "K217EY",
+        "frequency": "91.3  MHz",
+        "service": "FX",
+        "owner": "BIBLE BROADCASTING NETWORK, INC.",
+        "city": "LARAMIE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.238111,
+          41.771083
+        ]
+      },
+      "properties": {
+        "id": "92133",
+        "call_sign": "K217DG",
+        "frequency": "91.3  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL",
+        "city": "RAWLINS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.237611,
+          41.591889
+        ]
+      },
+      "properties": {
+        "id": "175479",
+        "call_sign": "KWWM",
+        "frequency": "91.3  MHz",
+        "service": "FM",
+        "owner": "WESTERN WYOMING COMMUNITY COLLEGE",
+        "city": "ROCK SPRINGS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.118167,
+          44.623194
+        ]
+      },
+      "properties": {
+        "id": "82438",
+        "call_sign": "KSUW",
+        "frequency": "91.3  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "SHERIDAN",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.997306,
+          43.437722
+        ]
+      },
+      "properties": {
+        "id": "92816",
+        "call_sign": "KUWT",
+        "frequency": "91.3  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "THERMOPOLIS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.903139,
+          44.817722
+        ]
+      },
+      "properties": {
+        "id": "18323",
+        "call_sign": "K218ES",
+        "frequency": "91.5  MHz",
+        "service": "FX",
+        "owner": "MONTANA STATE UNIVERSITY - BILLINGS",
+        "city": "GREYBULL",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.448833,
+          44.476361
+        ]
+      },
+      "properties": {
+        "id": "92621",
+        "call_sign": "KUWD",
+        "frequency": "91.5  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "SUNDANCE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.701111,
+          44.23125
+        ]
+      },
+      "properties": {
+        "id": "768916",
+        "call_sign": "KCHY",
+        "frequency": "91.7  MHz",
+        "service": "FM",
+        "owner": "CEDAR COVE BROADCASTING, INC.",
+        "city": "BUFFALO",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.309167,
+          42.741333
+        ]
+      },
+      "properties": {
+        "id": "21043",
+        "call_sign": "K219CA",
+        "frequency": "91.7  MHz",
+        "service": "FX",
+        "owner": "LOAM MEDIA, INC.",
+        "city": "CASPER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.306944,
+          42.723917
+        ]
+      },
+      "properties": {
+        "id": "92622",
+        "call_sign": "KDUW",
+        "frequency": "91.7  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "DOUGLAS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.710667,
+          42.583
+        ]
+      },
+      "properties": {
+        "id": "173340",
+        "call_sign": "KRKM",
+        "frequency": "91.7  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "FORT WASHAKIE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.862583,
+          44.0655
+        ]
+      },
+      "properties": {
+        "id": "71813",
+        "call_sign": "K219KZ",
+        "frequency": "91.7  MHz",
+        "service": "FX",
+        "owner": "WESTERN INSPIRATIONAL BROADCASTERS, INC.",
+        "city": "WORLAND",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.1225,
+          43.105
+        ]
+      },
+      "properties": {
+        "id": "762733",
+        "call_sign": "KPUW",
+        "frequency": "91.9  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "ALPINE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.309417,
+          42.7415
+        ]
+      },
+      "properties": {
+        "id": "21043",
+        "call_sign": "K219CA",
+        "frequency": "91.9  MHz",
+        "service": "FX",
+        "owner": "LOAM MEDIA, INC.",
+        "city": "CASPER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.908778,
+          41.352722
+        ]
+      },
+      "properties": {
+        "id": "94097",
+        "call_sign": "KPMD",
+        "frequency": "91.9  MHz",
+        "service": "FM",
+        "owner": "WESTERN INSPIRATIONAL BROADCASTERS, INC.",
+        "city": "EVANSTON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.463056,
+          44.230528
+        ]
+      },
+      "properties": {
+        "id": "84184",
+        "call_sign": "KLWD",
+        "frequency": "91.9  MHz",
+        "service": "FM",
+        "owner": "CSN INTERNATIONAL",
+        "city": "GILLETTE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.705944,
+          42.905778
+        ]
+      },
+      "properties": {
+        "id": "69240",
+        "call_sign": "K220GP",
+        "frequency": "91.9  MHz",
+        "service": "FX",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "LANDER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.45525,
+          41.309972
+        ]
+      },
+      "properties": {
+        "id": "69131",
+        "call_sign": "KUWR",
+        "frequency": "91.9  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "LARAMIE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.45525,
+          41.309972
+        ]
+      },
+      "properties": {
+        "id": "69131",
+        "call_sign": "KUWR",
+        "frequency": "91.9  MHz",
+        "service": "FS",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "LARAMIE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.154028,
+          44.497722
+        ]
+      },
+      "properties": {
+        "id": "190415",
+        "call_sign": "KCWB",
+        "frequency": "92.1  MHz",
+        "service": "FM",
+        "owner": "LEGEND COMMUNICATIONS OF WYOMING, LLC",
+        "city": "BYRON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.346222,
+          41.496333
+        ]
+      },
+      "properties": {
+        "id": "83593",
+        "call_sign": "KFRZ",
+        "frequency": "92.1  MHz",
+        "service": "FM",
+        "owner": "WAGONWHEEL COMMUNICATIONS CORP",
+        "city": "GREEN RIVER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.12325,
+          43.105194
+        ]
+      },
+      "properties": {
+        "id": "86134",
+        "call_sign": "K221DT",
+        "frequency": "92.1  MHz",
+        "service": "FX",
+        "owner": "STAR VALLEY CHRISTIAN RADIO",
+        "city": "THAYNE, AFTON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.722167,
+          41.159583
+        ]
+      },
+      "properties": {
+        "id": "793576",
+        "call_sign": "KYOY",
+        "frequency": "92.3  MHz",
+        "service": "FB",
+        "owner": "PROSHOP RADIO BROADCASTING, LLC",
+        "city": "CHEYENNE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.463278,
+          41.248583
+        ]
+      },
+      "properties": {
+        "id": "77915",
+        "call_sign": "KYOY",
+        "frequency": "92.3  MHz",
+        "service": "FM",
+        "owner": "PROSHOP RADIO BROADCASTING, LLC",
+        "city": "HILLSDALE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.306944,
+          42.741611
+        ]
+      },
+      "properties": {
+        "id": "164286",
+        "call_sign": "KMXW",
+        "frequency": "92.5  MHz",
+        "service": "FM",
+        "owner": "BRECK MEDIA GROUP WYOMING, INC.",
+        "city": "BAR NUNN",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.503778,
+          41.838278
+        ]
+      },
+      "properties": {
+        "id": "203198",
+        "call_sign": "K223DD",
+        "frequency": "92.5  MHz",
+        "service": "FX",
+        "owner": "SVI MEDIA, LLC",
+        "city": "KEMMERER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.116444,
+          44.622167
+        ]
+      },
+      "properties": {
+        "id": "166062",
+        "call_sign": "KHRW",
+        "frequency": "92.7  MHz",
+        "service": "FM",
+        "owner": "LEGEND COMMUNICATIONS OF WYOMING, LLC",
+        "city": "RANCHESTER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.238083,
+          41.771056
+        ]
+      },
+      "properties": {
+        "id": "46737",
+        "call_sign": "KIQZ",
+        "frequency": "92.7  MHz",
+        "service": "FM",
+        "owner": "MT. RUSHMORE BROADCASTING, INC.",
+        "city": "RAWLINS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.963861,
+          42.057167
+        ]
+      },
+      "properties": {
+        "id": "144274",
+        "call_sign": "K224DT",
+        "frequency": "92.7  MHz",
+        "service": "FX",
+        "owner": "SMITH BROADCASTING, INC.",
+        "city": "WHEATLAND",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.922889,
+          44.810694
+        ]
+      },
+      "properties": {
+        "id": "200076",
+        "call_sign": "K225CO",
+        "frequency": "92.9  MHz",
+        "service": "FX",
+        "owner": "LEGEND COMMUNICATIONS OF WYOMING, LLC",
+        "city": "GREYBULL",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.203306,
+          41.076361
+        ]
+      },
+      "properties": {
+        "id": "67474",
+        "call_sign": "KPAW",
+        "frequency": "92.9  MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "WARREN AFB",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.209028,
+          41.106333
+        ]
+      },
+      "properties": {
+        "id": "71837",
+        "call_sign": "K226BN",
+        "frequency": "93.1  MHz",
+        "service": "FX",
+        "owner": "WESTERN INSPIRATIONAL BROADCASTERS, INC.",
+        "city": "LYMAN",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.145361,
+          42.719389
+        ]
+      },
+      "properties": {
+        "id": "72899",
+        "call_sign": "KFCW",
+        "frequency": "93.1  MHz",
+        "service": "FM",
+        "owner": "EDWARDS COMMUNICATIONS LC",
+        "city": "RIVERTON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.539167,
+          44.243028
+        ]
+      },
+      "properties": {
+        "id": "166061",
+        "call_sign": "KIML-FM",
+        "frequency": "93.3  MHz",
+        "service": "FM",
+        "owner": "LEGEND COMMUNICATIONS OF WYOMING, LLC",
+        "city": "ANTELOPE VALLEY-CRES",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.402472,
+          42.7605
+        ]
+      },
+      "properties": {
+        "id": "154877",
+        "call_sign": "K227BU",
+        "frequency": "93.3  MHz",
+        "service": "FX",
+        "owner": "DOUGLAS BROADCASTING, INC.",
+        "city": "DOUGLAS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.864528,
+          44.066639
+        ]
+      },
+      "properties": {
+        "id": "139565",
+        "call_sign": "K227BB",
+        "frequency": "93.3  MHz",
+        "service": "FX",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "WORLAND",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.309167,
+          42.741056
+        ]
+      },
+      "properties": {
+        "id": "166051",
+        "call_sign": "KWYX",
+        "frequency": "93.5  MHz",
+        "service": "FM",
+        "owner": "COCHISE BROADCASTING LLC",
+        "city": "CASPER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.911278,
+          41.353833
+        ]
+      },
+      "properties": {
+        "id": "69452",
+        "call_sign": "K228AB",
+        "frequency": "93.5  MHz",
+        "service": "FX",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "EVANSTON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.75325,
+          43.461028
+        ]
+      },
+      "properties": {
+        "id": "82088",
+        "call_sign": "KJAX",
+        "frequency": "93.5  MHz",
+        "service": "FM",
+        "owner": "JACKSON HOLE RADIO, LLC",
+        "city": "JACKSON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.753611,
+          43.461944
+        ]
+      },
+      "properties": {
+        "id": "82088",
+        "call_sign": "KJAX",
+        "frequency": "93.5  MHz",
+        "service": "FS",
+        "owner": "JACKSON HOLE RADIO, LLC",
+        "city": "JACKSON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.344028,
+          41.497194
+        ]
+      },
+      "properties": {
+        "id": "190387",
+        "call_sign": "KREO",
+        "frequency": "93.5  MHz",
+        "service": "FM",
+        "owner": "PILOT BUTTE BROADCASTING LLC",
+        "city": "JAMES TOWN",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.583861,
+          41.313306
+        ]
+      },
+      "properties": {
+        "id": "125800",
+        "call_sign": "KOCA-LP",
+        "frequency": "93.5  MHz",
+        "service": "FL",
+        "owner": "LA RADIO MONTANESA: VOZ DE LA GENTE",
+        "city": "LARAMIE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.252611,
+          43.651889
+        ]
+      },
+      "properties": {
+        "id": "154989",
+        "call_sign": "K228ED",
+        "frequency": "93.5  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL",
+        "city": "THERMOPOLIS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.652528,
+          44.357472
+        ]
+      },
+      "properties": {
+        "id": "137785",
+        "call_sign": "KYTI-FM1",
+        "frequency": "93.7  MHz",
+        "service": "FB",
+        "owner": "LOVCOM, INC.",
+        "city": "BUFFALO",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.692722,
+          41.134417
+        ]
+      },
+      "properties": {
+        "id": "162407",
+        "call_sign": "KAZY",
+        "frequency": "93.7  MHz",
+        "service": "FM",
+        "owner": "FREISLAND BROADCASTING CORP.",
+        "city": "CHEYENNE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.692722,
+          41.134417
+        ]
+      },
+      "properties": {
+        "id": "162407",
+        "call_sign": "KAZY",
+        "frequency": "93.7  MHz",
+        "service": "FM",
+        "owner": "FREISLAND BROADCASTING CORP.",
+        "city": "CHEYENNE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.117806,
+          44.623444
+        ]
+      },
+      "properties": {
+        "id": "12931",
+        "call_sign": "KYTI",
+        "frequency": "93.7  MHz",
+        "service": "FM",
+        "owner": "LOVCOM, INC.",
+        "city": "SHERIDAN",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.931444,
+          44.798306
+        ]
+      },
+      "properties": {
+        "id": "12931",
+        "call_sign": "KYTI",
+        "frequency": "93.7  MHz",
+        "service": "FS",
+        "owner": "LOVCOM, INC.",
+        "city": "SHERIDAN",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.116444,
+          44.622167
+        ]
+      },
+      "properties": {
+        "id": "12931",
+        "call_sign": "KYTI",
+        "frequency": "93.7  MHz",
+        "service": "FS",
+        "owner": "LOVCOM, INC.",
+        "city": "SHERIDAN",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.146472,
+          42.719389
+        ]
+      },
+      "properties": {
+        "id": "56590",
+        "call_sign": "KTAK",
+        "frequency": "93.9  MHz",
+        "service": "FM",
+        "owner": "EDWARDS COMMUNICATIONS LC",
+        "city": "RIVERTON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.864528,
+          44.066639
+        ]
+      },
+      "properties": {
+        "id": "139569",
+        "call_sign": "K231BW",
+        "frequency": "94.1  MHz",
+        "service": "FX",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "WORLAND",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.46775,
+          44.209417
+        ]
+      },
+      "properties": {
+        "id": "71830",
+        "call_sign": "K232CT",
+        "frequency": "94.3  MHz",
+        "service": "FX",
+        "owner": "WESTERN INSPIRATIONAL BROADCASTERS, INC.",
+        "city": "GILLETTE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.344028,
+          41.497194
+        ]
+      },
+      "properties": {
+        "id": "71800",
+        "call_sign": "K232CU",
+        "frequency": "94.3  MHz",
+        "service": "FX",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "GREEN RIVER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.218889,
+          43.8325
+        ]
+      },
+      "properties": {
+        "id": "202674",
+        "call_sign": "K232FV",
+        "frequency": "94.3  MHz",
+        "service": "FX",
+        "owner": "VAL COOK",
+        "city": "NEWCASTLE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.952861,
+          44.797583
+        ]
+      },
+      "properties": {
+        "id": "195793",
+        "call_sign": "KHNA-LP",
+        "frequency": "94.3  MHz",
+        "service": "FL",
+        "owner": "APERIO RADIO, INC.",
+        "city": "SHERIDAN",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.309194,
+          42.743583
+        ]
+      },
+      "properties": {
+        "id": "11927",
+        "call_sign": "KMLD",
+        "frequency": "94.5  MHz",
+        "service": "FM",
+        "owner": "MT. RUSHMORE BROADCASTING, INC.",
+        "city": "CASPER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.333889,
+          42.734111
+        ]
+      },
+      "properties": {
+        "id": "11927",
+        "call_sign": "KMLD",
+        "frequency": "94.5  MHz",
+        "service": "FM",
+        "owner": "MT. RUSHMORE BROADCASTING, INC.",
+        "city": "CASPER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.754083,
+          43.461583
+        ]
+      },
+      "properties": {
+        "id": "141128",
+        "call_sign": "K233CZ",
+        "frequency": "94.5  MHz",
+        "service": "FX",
+        "owner": "COMMUNITY BROADCASTING, INC.",
+        "city": "JACKSON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.02525,
+          41.100528
+        ]
+      },
+      "properties": {
+        "id": "71817",
+        "call_sign": "K234AH",
+        "frequency": "94.7  MHz",
+        "service": "FX",
+        "owner": "HI-LINE RADIO FELLOWSHIP, INC.",
+        "city": "CHEYENNE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.652528,
+          44.357472
+        ]
+      },
+      "properties": {
+        "id": "137786",
+        "call_sign": "KZWY-FM1",
+        "frequency": "94.9  MHz",
+        "service": "FB",
+        "owner": "LOVCOM, INC.",
+        "city": "BUFFALO",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.116444,
+          44.622167
+        ]
+      },
+      "properties": {
+        "id": "38627",
+        "call_sign": "KZWY",
+        "frequency": "94.9  MHz",
+        "service": "FM",
+        "owner": "LOVCOM, INC.",
+        "city": "SHERIDAN",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.931444,
+          44.798306
+        ]
+      },
+      "properties": {
+        "id": "38627",
+        "call_sign": "KZWY",
+        "frequency": "94.9  MHz",
+        "service": "FS",
+        "owner": "LOVCOM, INC.",
+        "city": "SHERIDAN",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.116444,
+          44.622167
+        ]
+      },
+      "properties": {
+        "id": "38627",
+        "call_sign": "KZWY",
+        "frequency": "94.9  MHz",
+        "service": "FS",
+        "owner": "LOVCOM, INC.",
+        "city": "SHERIDAN",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.361972,
+          42.856056
+        ]
+      },
+      "properties": {
+        "id": "202345",
+        "call_sign": "K236CX",
+        "frequency": "95.1  MHz",
+        "service": "FX",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "CASPER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.153194,
+          44.496056
+        ]
+      },
+      "properties": {
+        "id": "71807",
+        "call_sign": "K236BN",
+        "frequency": "95.1  MHz",
+        "service": "FX",
+        "owner": "WESTERN INSPIRATIONAL BROADCASTERS, INC.",
+        "city": "CODY",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.454583,
+          41.310278
+        ]
+      },
+      "properties": {
+        "id": "14753",
+        "call_sign": "KCGY",
+        "frequency": "95.1  MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "LARAMIE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.344028,
+          41.497194
+        ]
+      },
+      "properties": {
+        "id": "20482",
+        "call_sign": "KYCS",
+        "frequency": "95.1  MHz",
+        "service": "FM",
+        "owner": "WAGONWHEEL COMMUNICATIONS CORPORATION",
+        "city": "ROCK SPRINGS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.908778,
+          41.353333
+        ]
+      },
+      "properties": {
+        "id": "79176",
+        "call_sign": "K237FD",
+        "frequency": "95.3  MHz",
+        "service": "FX",
+        "owner": "WESTERN INSPIRATIONAL BROADCASTERS, INC.",
+        "city": "EVANSTON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.75325,
+          43.461028
+        ]
+      },
+      "properties": {
+        "id": "65279",
+        "call_sign": "KZJH",
+        "frequency": "95.3  MHz",
+        "service": "FM",
+        "owner": "JACKSON HOLE RADIO, LLC",
+        "city": "JACKSON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.753611,
+          43.461944
+        ]
+      },
+      "properties": {
+        "id": "65279",
+        "call_sign": "KZJH",
+        "frequency": "95.3  MHz",
+        "service": "FS",
+        "owner": "JACKSON HOLE RADIO, LLC",
+        "city": "JACKSON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.727889,
+          42.817722
+        ]
+      },
+      "properties": {
+        "id": "72900",
+        "call_sign": "K237CP",
+        "frequency": "95.3  MHz",
+        "service": "FX",
+        "owner": "EDWARDS COMMUNICATIONS LC",
+        "city": "LANDER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.900083,
+          44.020861
+        ]
+      },
+      "properties": {
+        "id": "194553",
+        "call_sign": "KXDM-LP",
+        "frequency": "95.3  MHz",
+        "service": "FL",
+        "owner": "DIVINE MERCY RADIO",
+        "city": "WORLAND",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.30725,
+          42.743583
+        ]
+      },
+      "properties": {
+        "id": "26300",
+        "call_sign": "KWYY",
+        "frequency": "95.5  MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "MIDWEST",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.129667,
+          41.424694
+        ]
+      },
+      "properties": {
+        "id": "183353",
+        "call_sign": "KYWY",
+        "frequency": "95.5  MHz",
+        "service": "FM",
+        "owner": "E MEDIA USA LLC",
+        "city": "PINE BLUFFS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.500278,
+          44.289444
+        ]
+      },
+      "properties": {
+        "id": "125905",
+        "call_sign": "KCOV-LP",
+        "frequency": "95.7  MHz",
+        "service": "FL",
+        "owner": "FIRST PRESBYTERIAN CHURCH",
+        "city": "GILLETTE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.309167,
+          42.743611
+        ]
+      },
+      "properties": {
+        "id": "200635",
+        "call_sign": "K240EW",
+        "frequency": "95.9  MHz",
+        "service": "FX",
+        "owner": "MT.",
+        "city": "CASPER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.751583,
+          43.462417
+        ]
+      },
+      "properties": {
+        "id": "158303",
+        "call_sign": "K240EK",
+        "frequency": "95.9  MHz",
+        "service": "FX",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "JACKSON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.117556,
+          44.623278
+        ]
+      },
+      "properties": {
+        "id": "142531",
+        "call_sign": "K240DW",
+        "frequency": "95.9  MHz",
+        "service": "FX",
+        "owner": "LOVCOM, INC.",
+        "city": "SHERIDAN",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.854167,
+          44.059278
+        ]
+      },
+      "properties": {
+        "id": "35896",
+        "call_sign": "KKLX",
+        "frequency": "96.1  MHz",
+        "service": "FM",
+        "owner": "LEGEND COMMUNICATIONS OF WYOMING, LLC",
+        "city": "WORLAND",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.753528,
+          43.461583
+        ]
+      },
+      "properties": {
+        "id": "65280",
+        "call_sign": "K242BU",
+        "frequency": "96.3  MHz",
+        "service": "FX",
+        "owner": "JACKSON HOLE RADIO, LLC",
+        "city": "JACKSON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.873306,
+          44.5755
+        ]
+      },
+      "properties": {
+        "id": "12698",
+        "call_sign": "KLGT",
+        "frequency": "96.5  MHz",
+        "service": "FM",
+        "owner": "LEGEND COMMUNICATIONS OF WYOMING, LLC",
+        "city": "BUFFALO",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.873306,
+          44.5755
+        ]
+      },
+      "properties": {
+        "id": "12698",
+        "call_sign": "KLGT",
+        "frequency": "96.5  MHz",
+        "service": "FM",
+        "owner": "LEGEND COMMUNICATIONS OF WYOMING, LLC",
+        "city": "BUFFALO",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.724222,
+          44.347194
+        ]
+      },
+      "properties": {
+        "id": "78048",
+        "call_sign": "KLGT-FM1",
+        "frequency": "96.5  MHz",
+        "service": "FB",
+        "owner": "LEGEND COMMUNICATIONS OF WYOMING, LLC",
+        "city": "BUFFALO",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.117611,
+          41.431611
+        ]
+      },
+      "properties": {
+        "id": "5300",
+        "call_sign": "KQSW",
+        "frequency": "96.5  MHz",
+        "service": "FM",
+        "owner": "BIG THICKET BROADCASTING COMPANY OF WYOMING, INC.",
+        "city": "ROCK SPRINGS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.241389,
+          41.626944
+        ]
+      },
+      "properties": {
+        "id": "5300",
+        "call_sign": "KQSW",
+        "frequency": "96.5  MHz",
+        "service": "FS",
+        "owner": "BIG THICKET BROADCASTING COMPANY OF WYOMING, INC.",
+        "city": "ROCK SPRINGS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.30725,
+          42.743583
+        ]
+      },
+      "properties": {
+        "id": "7360",
+        "call_sign": "KRNK",
+        "frequency": "96.7  MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "CASPER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.30725,
+          42.743583
+        ]
+      },
+      "properties": {
+        "id": "7360",
+        "call_sign": "KRNK",
+        "frequency": "96.7  MHz",
+        "service": "FS",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "CASPER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.154028,
+          44.497722
+        ]
+      },
+      "properties": {
+        "id": "150124",
+        "call_sign": "K244CG",
+        "frequency": "96.7  MHz",
+        "service": "FX",
+        "owner": "LEGEND COMMUNICATIONS OF WYOMING, LLC",
+        "city": "CODY",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.705944,
+          42.906611
+        ]
+      },
+      "properties": {
+        "id": "71820",
+        "call_sign": "K244DP",
+        "frequency": "96.7  MHz",
+        "service": "FX",
+        "owner": "WESTERN INSPIRATIONAL BROADCASTERS, INC.",
+        "city": "LANDER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.444417,
+          41.287472
+        ]
+      },
+      "properties": {
+        "id": "154899",
+        "call_sign": "K244FN",
+        "frequency": "96.7  MHz",
+        "service": "FX",
+        "owner": "WOLF CREEK RADIO BROADCASTING, LLC",
+        "city": "LARAMIE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.2615,
+          43.670222
+        ]
+      },
+      "properties": {
+        "id": "157682",
+        "call_sign": "K244EU",
+        "frequency": "96.7  MHz",
+        "service": "FX",
+        "owner": "ROBERT R SPAIN",
+        "city": "THERMOPOLIS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.903972,
+          44.816056
+        ]
+      },
+      "properties": {
+        "id": "71803",
+        "call_sign": "K245BH",
+        "frequency": "96.9  MHz",
+        "service": "FX",
+        "owner": "WESTERN INSPIRATIONAL BROADCASTERS, INC.",
+        "city": "COWLEY, ETC.",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.753528,
+          43.461583
+        ]
+      },
+      "properties": {
+        "id": "10339",
+        "call_sign": "KMTN",
+        "frequency": "96.9  MHz",
+        "service": "FM",
+        "owner": "JACKSON HOLE RADIO, LLC",
+        "city": "JACKSON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.753611,
+          43.461944
+        ]
+      },
+      "properties": {
+        "id": "10339",
+        "call_sign": "KMTN",
+        "frequency": "96.9  MHz",
+        "service": "FS",
+        "owner": "JACKSON HOLE RADIO, LLC",
+        "city": "JACKSON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.319944,
+          42.324861
+        ]
+      },
+      "properties": {
+        "id": "141766",
+        "call_sign": "K246CZ",
+        "frequency": "97.1  MHz",
+        "service": "FX",
+        "owner": "WESTERN INSPIRATIONAL BROADCASTERS, INC.",
+        "city": "BIG PINEY, LA BARGE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.802528,
+          41.135806
+        ]
+      },
+      "properties": {
+        "id": "158012",
+        "call_sign": "K246CI",
+        "frequency": "97.1  MHz",
+        "service": "FX",
+        "owner": "IHM LICENSES, LLC",
+        "city": "CHEYENNE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.99675,
+          43.437722
+        ]
+      },
+      "properties": {
+        "id": "166052",
+        "call_sign": "KTWY",
+        "frequency": "97.1  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "SHOSHONI",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.254694,
+          43.999139
+        ]
+      },
+      "properties": {
+        "id": "24211",
+        "call_sign": "KAML-FM",
+        "frequency": "97.3  MHz",
+        "service": "FM",
+        "owner": "LEGEND COMMUNICATIONS OF WYOMING, LLC",
+        "city": "GILLETTE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.751583,
+          43.462417
+        ]
+      },
+      "properties": {
+        "id": "158404",
+        "call_sign": "K247BC",
+        "frequency": "97.3  MHz",
+        "service": "FX",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "JACKSON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.802472,
+          41.135806
+        ]
+      },
+      "properties": {
+        "id": "148078",
+        "call_sign": "K248CZ",
+        "frequency": "97.5  MHz",
+        "service": "FX",
+        "owner": "MONTGOMERY BROADCASTING, LLC",
+        "city": "CHEYENNE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.765389,
+          42.820778
+        ]
+      },
+      "properties": {
+        "id": "22623",
+        "call_sign": "KDLY",
+        "frequency": "97.5  MHz",
+        "service": "FM",
+        "owner": "KAIROS BROADCASTING, LLC",
+        "city": "LANDER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.07325,
+          43.022972
+        ]
+      },
+      "properties": {
+        "id": "38918",
+        "call_sign": "K249CW",
+        "frequency": "97.7  MHz",
+        "service": "FX",
+        "owner": "LOWER STAR VALLEY TV ASSOCIATION",
+        "city": "FREEDOM",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.754083,
+          43.461583
+        ]
+      },
+      "properties": {
+        "id": "166043",
+        "call_sign": "KXJN",
+        "frequency": "97.7  MHz",
+        "service": "FM",
+        "owner": "COCHISE MEDIA LICENSES LLC",
+        "city": "MOOSE WILSON ROAD",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.309167,
+          42.741056
+        ]
+      },
+      "properties": {
+        "id": "166055",
+        "call_sign": "KCYA",
+        "frequency": "97.7  MHz",
+        "service": "FM",
+        "owner": "COCHISE MEDIA LICENSES LLC",
+        "city": "ROLLING HILLS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.197583,
+          40.894889
+        ]
+      },
+      "properties": {
+        "id": "7693",
+        "call_sign": "KXBG",
+        "frequency": "97.9  MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "CHEYENNE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.153472,
+          44.494944
+        ]
+      },
+      "properties": {
+        "id": "74354",
+        "call_sign": "KTAG",
+        "frequency": "97.9  MHz",
+        "service": "FM",
+        "owner": "LEGEND COMMUNICATIONS OF WYOMING, LLC",
+        "city": "CODY",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.346222,
+          41.496333
+        ]
+      },
+      "properties": {
+        "id": "162319",
+        "call_sign": "KZWB",
+        "frequency": "97.9  MHz",
+        "service": "FM",
+        "owner": "WAGONWHEEL COMMUNICATIONS CORPORATION",
+        "city": "GREEN RIVER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.245472,
+          41.789194
+        ]
+      },
+      "properties": {
+        "id": "788236",
+        "call_sign": "KRAW-LP",
+        "frequency": "97.9  MHz",
+        "service": "FL",
+        "owner": "LET'S TALK RAWLINS, INC.",
+        "city": "RAWLINS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.909333,
+          41.352722
+        ]
+      },
+      "properties": {
+        "id": "164152",
+        "call_sign": "KADQ-FM",
+        "frequency": "98.3  MHz",
+        "service": "FM",
+        "owner": "FRANDSEN MEDIA COMPANY, LLC",
+        "city": "EVANSTON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.873306,
+          44.5755
+        ]
+      },
+      "properties": {
+        "id": "89085",
+        "call_sign": "KZZS",
+        "frequency": "98.3  MHz",
+        "service": "FM",
+        "owner": "LEGEND COMMUNICATIONS OF WYOMING, LLC",
+        "city": "STORY",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.873306,
+          44.5755
+        ]
+      },
+      "properties": {
+        "id": "89085",
+        "call_sign": "KZZS",
+        "frequency": "98.3  MHz",
+        "service": "FM",
+        "owner": "LEGEND COMMUNICATIONS OF WYOMING, LLC",
+        "city": "STORY",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.201889,
+          41.994667
+        ]
+      },
+      "properties": {
+        "id": "46739",
+        "call_sign": "KERM",
+        "frequency": "98.3  MHz",
+        "service": "FM",
+        "owner": "KATH BROADCASTING CO, LLC",
+        "city": "TORRINGTON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8025,
+          41.135833
+        ]
+      },
+      "properties": {
+        "id": "196034",
+        "call_sign": "KWYG-LP",
+        "frequency": "98.5  MHz",
+        "service": "FL",
+        "owner": "FAITH BAPTIST CHURCH",
+        "city": "CHEYENNE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.468333,
+          44.209417
+        ]
+      },
+      "properties": {
+        "id": "71155",
+        "call_sign": "K253AZ",
+        "frequency": "98.5  MHz",
+        "service": "FX",
+        "owner": "BILL RAWLINGS",
+        "city": "GILLETTE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.309167,
+          42.741056
+        ]
+      },
+      "properties": {
+        "id": "88725",
+        "call_sign": "KGRK",
+        "frequency": "98.5  MHz",
+        "service": "FM",
+        "owner": "COCHISE BROADCASTING LLC",
+        "city": "GLENROCK",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8295,
+          43.609139
+        ]
+      },
+      "properties": {
+        "id": "158303",
+        "call_sign": "K240EK",
+        "frequency": "98.5  MHz",
+        "service": "FX",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "JACKSON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.980194,
+          42.850472
+        ]
+      },
+      "properties": {
+        "id": "72018",
+        "call_sign": "KRSV-FM",
+        "frequency": "98.7  MHz",
+        "service": "FM",
+        "owner": "SVI MEDIA, LLC",
+        "city": "AFTON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.453861,
+          41.310806
+        ]
+      },
+      "properties": {
+        "id": "82198",
+        "call_sign": "KRQU",
+        "frequency": "98.7  MHz",
+        "service": "FM",
+        "owner": "WOLF CREEK RADIO BROADCASTING, LLC",
+        "city": "LARAMIE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.346028,
+          41.496639
+        ]
+      },
+      "properties": {
+        "id": "171026",
+        "call_sign": "KAWR",
+        "frequency": "98.7  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "RELIANCE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.263222,
+          41.784472
+        ]
+      },
+      "properties": {
+        "id": "200637",
+        "call_sign": "K255DH",
+        "frequency": "98.9  MHz",
+        "service": "FX",
+        "owner": "MT.",
+        "city": "RAWLINS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.278778,
+          43.117417
+        ]
+      },
+      "properties": {
+        "id": "157052",
+        "call_sign": "K256CI",
+        "frequency": "99.1  MHz",
+        "service": "FX",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "BONDURANT",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.907944,
+          41.352722
+        ]
+      },
+      "properties": {
+        "id": "87470",
+        "call_sign": "KNYN",
+        "frequency": "99.1  MHz",
+        "service": "FM",
+        "owner": "KENT FRANDSEN",
+        "city": "FORT BRIDGER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.907944,
+          41.352722
+        ]
+      },
+      "properties": {
+        "id": "87470",
+        "call_sign": "KNYN",
+        "frequency": "99.1  MHz",
+        "service": "FM",
+        "owner": "KENT FRANDSEN",
+        "city": "FORT BRIDGER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.99425,
+          43.438278
+        ]
+      },
+      "properties": {
+        "id": "89088",
+        "call_sign": "KWYW",
+        "frequency": "99.1  MHz",
+        "service": "FM",
+        "owner": "EDWARDS COMMUNICATIONS LC",
+        "city": "LOST CABIN",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.529972,
+          42.728278
+        ]
+      },
+      "properties": {
+        "id": "17411",
+        "call_sign": "KKTS-FM",
+        "frequency": "99.3  MHz",
+        "service": "FM",
+        "owner": "DOUGLAS BROADCASTING, INC",
+        "city": "DOUGLAS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.925417,
+          42.844083
+        ]
+      },
+      "properties": {
+        "id": "71838",
+        "call_sign": "K257DP",
+        "frequency": "99.3  MHz",
+        "service": "FX",
+        "owner": "WESTERN INSPIRATIONAL BROADCASTERS, INC.",
+        "city": "PINEDALE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.236139,
+          41.679389
+        ]
+      },
+      "properties": {
+        "id": "164278",
+        "call_sign": "KTGA",
+        "frequency": "99.3  MHz",
+        "service": "FM",
+        "owner": "TOGA RADIO LLC",
+        "city": "SARATOGA",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.940611,
+          44.796056
+        ]
+      },
+      "properties": {
+        "id": "71799",
+        "call_sign": "K257EO",
+        "frequency": "99.3  MHz",
+        "service": "FX",
+        "owner": "WESTERN INSPIRATIONAL BROADCASTERS, INC.",
+        "city": "SHERIDAN",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.829361,
+          43.609083
+        ]
+      },
+      "properties": {
+        "id": "145826",
+        "call_sign": "K257FT",
+        "frequency": "99.3  MHz",
+        "service": "FX",
+        "owner": "TED W. AUSTIN, JR.",
+        "city": "TETON VILLAGE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.306667,
+          42.740778
+        ]
+      },
+      "properties": {
+        "id": "148047",
+        "call_sign": "K258DV",
+        "frequency": "99.5  MHz",
+        "service": "FX",
+        "owner": "BOTT COMMUNICATIONS, INC.",
+        "city": "CASPER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.669167,
+          41.116944
+        ]
+      },
+      "properties": {
+        "id": "202347",
+        "call_sign": "K258DN",
+        "frequency": "99.5  MHz",
+        "service": "FX",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "ORCHARD VALLEY",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.754083,
+          43.461583
+        ]
+      },
+      "properties": {
+        "id": "145935",
+        "call_sign": "K259CP",
+        "frequency": "99.7  MHz",
+        "service": "FX",
+        "owner": "TED W. AUSTIN, JR.",
+        "city": "HOBACK JUNCTION",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.117889,
+          41.433278
+        ]
+      },
+      "properties": {
+        "id": "63966",
+        "call_sign": "KSIT",
+        "frequency": "99.7  MHz",
+        "service": "FM",
+        "owner": "BIG THICKET BROADCASTING COMPANY OF WYOMING, INC.",
+        "city": "ROCK SPRINGS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.241389,
+          41.626944
+        ]
+      },
+      "properties": {
+        "id": "63966",
+        "call_sign": "KSIT",
+        "frequency": "99.7  MHz",
+        "service": "FS",
+        "owner": "BIG THICKET BROADCASTING COMPANY OF WYOMING, INC.",
+        "city": "ROCK SPRINGS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.194611,
+          43.458083
+        ]
+      },
+      "properties": {
+        "id": "791360",
+        "call_sign": "KWRI",
+        "frequency": "99.9  MHz",
+        "service": "FM",
+        "owner": "BUSINESS COUNCIL OF THE NORTHERN ARAPAHO TRIBE",
+        "city": "ETHETE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.436667,
+          44.292472
+        ]
+      },
+      "properties": {
+        "id": "88381",
+        "call_sign": "KGCC",
+        "frequency": "99.9  MHz",
+        "service": "FM",
+        "owner": "KEYHOLE BROADCASTING, LLC",
+        "city": "GILLETTE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.201889,
+          41.994667
+        ]
+      },
+      "properties": {
+        "id": "148860",
+        "call_sign": "K260DA",
+        "frequency": "99.9  MHz",
+        "service": "FX",
+        "owner": "KATH BROADCASTING CO., LLC",
+        "city": "TORRINGTON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.226528,
+          42.770361
+        ]
+      },
+      "properties": {
+        "id": "88501",
+        "call_sign": "KKTY-FM",
+        "frequency": "100.1 MHz",
+        "service": "FM",
+        "owner": "DOUGLAS BROADCASTING, INC.",
+        "city": "GLENDO",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.827972,
+          43.591028
+        ]
+      },
+      "properties": {
+        "id": "126477",
+        "call_sign": "KJHR-LP",
+        "frequency": "100.1 MHz",
+        "service": "FL",
+        "owner": "TETON VILLAGE ASSOCIATION",
+        "city": "TETON VILLAGE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.922861,
+          44.810778
+        ]
+      },
+      "properties": {
+        "id": "5248",
+        "call_sign": "KZMQ-FM",
+        "frequency": "100.3 MHz",
+        "service": "FM",
+        "owner": "LEGEND COMMUNICATIONS OF WYOMING, LLC",
+        "city": "GREYBULL",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.444139,
+          41.287472
+        ]
+      },
+      "properties": {
+        "id": "76791",
+        "call_sign": "K262AI",
+        "frequency": "100.3 MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL",
+        "city": "LARAMIE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.323611,
+          42.758278
+        ]
+      },
+      "properties": {
+        "id": "164285",
+        "call_sign": "KTED",
+        "frequency": "100.5 MHz",
+        "service": "FM",
+        "owner": "BRECK MEDIA GROUP WYOMING, INC.",
+        "city": "EVANSVILLE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.306722,
+          42.740944
+        ]
+      },
+      "properties": {
+        "id": "164285",
+        "call_sign": "KTED",
+        "frequency": "100.5 MHz",
+        "service": "FM",
+        "owner": "BRECK MEDIA GROUP WYOMING, INC.",
+        "city": "EVANSVILLE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.891639,
+          41.048583
+        ]
+      },
+      "properties": {
+        "id": "30225",
+        "call_sign": "KOLT-FM",
+        "frequency": "100.7 MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "CHEYENNE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.539139,
+          44.243028
+        ]
+      },
+      "properties": {
+        "id": "54044",
+        "call_sign": "KGWY",
+        "frequency": "100.7 MHz",
+        "service": "FM",
+        "owner": "LEGEND COMMUNICATIONS OF WYOMING, LLC",
+        "city": "GILLETTE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.753528,
+          43.46175
+        ]
+      },
+      "properties": {
+        "id": "65281",
+        "call_sign": "K264DC",
+        "frequency": "100.7 MHz",
+        "service": "FX",
+        "owner": "JACKSON HOLE RADIO, LLC",
+        "city": "JACKSON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.722167,
+          41.159583
+        ]
+      },
+      "properties": {
+        "id": "71836",
+        "call_sign": "K266CC",
+        "frequency": "101.1 MHz",
+        "service": "FX",
+        "owner": "K-LOVE, INC.",
+        "city": "CHEYENNE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.819833,
+          44.570222
+        ]
+      },
+      "properties": {
+        "id": "165999",
+        "call_sign": "KHMN",
+        "frequency": "101.1 MHz",
+        "service": "FM",
+        "owner": "HEART MOUNTAIN BROADCASTING LLC",
+        "city": "CODY",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.199306,
+          41.897361
+        ]
+      },
+      "properties": {
+        "id": "762582",
+        "call_sign": "KBHC",
+        "frequency": "101.1 MHz",
+        "service": "FM",
+        "owner": "NANETTE VALDEZ-SCHWARTZ",
+        "city": "MEDICINE BOW",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.92375,
+          42.844083
+        ]
+      },
+      "properties": {
+        "id": "77275",
+        "call_sign": "KPIN",
+        "frequency": "101.1 MHz",
+        "service": "FM",
+        "owner": "ROBERT RULE",
+        "city": "PINEDALE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.753528,
+          43.462139
+        ]
+      },
+      "properties": {
+        "id": "145929",
+        "call_sign": "K267BV",
+        "frequency": "101.3 MHz",
+        "service": "FX",
+        "owner": "TED W. AUSTIN, JR.",
+        "city": "JACKSON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9375,
+          41.099722
+        ]
+      },
+      "properties": {
+        "id": "788486",
+        "call_sign": "NEW",
+        "frequency": "101.5 MHz",
+        "service": "FL",
+        "owner": "UNITED GAYS AND LESBIANS OF WYOMING DBA WYOMING EQUALITY",
+        "city": "CHEYENNE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.254694,
+          43.999139
+        ]
+      },
+      "properties": {
+        "id": "165980",
+        "call_sign": "KDDV-FM",
+        "frequency": "101.5 MHz",
+        "service": "FM",
+        "owner": "LEGEND COMMUNICATIONS OF WYOMING, LLC",
+        "city": "WRIGHT",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.806944,
+          44.341111
+        ]
+      },
+      "properties": {
+        "id": "71831",
+        "call_sign": "K269DE",
+        "frequency": "101.7 MHz",
+        "service": "FX",
+        "owner": "WESTERN INSPIRATIONAL BROADCASTERS, INC.",
+        "city": "BUFFALO",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.238639,
+          41.770778
+        ]
+      },
+      "properties": {
+        "id": "71827",
+        "call_sign": "K269EG",
+        "frequency": "101.7 MHz",
+        "service": "FX",
+        "owner": "WESTERN INSPIRATIONAL BROADCASTERS, INC.",
+        "city": "RAWLINS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.99425,
+          43.438278
+        ]
+      },
+      "properties": {
+        "id": "88672",
+        "call_sign": "KDNO",
+        "frequency": "101.7 MHz",
+        "service": "FM",
+        "owner": "EDWARDS COMMUNICATIONS LC",
+        "city": "THERMOPOLIS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.946889,
+          42.0455
+        ]
+      },
+      "properties": {
+        "id": "60645",
+        "call_sign": "KZEW",
+        "frequency": "101.7 MHz",
+        "service": "FM",
+        "owner": "SMITH BROADCASTING, INCORPORATED",
+        "city": "WHEATLAND",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.955472,
+          43.492417
+        ]
+      },
+      "properties": {
+        "id": "145863",
+        "call_sign": "K269GA",
+        "frequency": "101.7 MHz",
+        "service": "FX",
+        "owner": "TED W. AUSTIN, JR.",
+        "city": "WILSON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.669111,
+          41.116917
+        ]
+      },
+      "properties": {
+        "id": "56234",
+        "call_sign": "KIGN",
+        "frequency": "101.9 MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "BURNS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.361972,
+          42.856056
+        ]
+      },
+      "properties": {
+        "id": "202346",
+        "call_sign": "K270CT",
+        "frequency": "101.9 MHz",
+        "service": "FX",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "CASPER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.346028,
+          41.496639
+        ]
+      },
+      "properties": {
+        "id": "171027",
+        "call_sign": "KLWR",
+        "frequency": "101.9 MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "NORTH ROCK SPRINGS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.526139,
+          41.633528
+        ]
+      },
+      "properties": {
+        "id": "166000",
+        "call_sign": "KBDY",
+        "frequency": "102.1 MHz",
+        "service": "FM",
+        "owner": "TOGA RADIO LLC",
+        "city": "HANNA",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.753528,
+          43.462139
+        ]
+      },
+      "properties": {
+        "id": "161675",
+        "call_sign": "KWFO-FM1",
+        "frequency": "102.1 MHz",
+        "service": "FB",
+        "owner": "RICH BROADCASTING IDAHO LS, LLC",
+        "city": "JACKSON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.153472,
+          44.496889
+        ]
+      },
+      "properties": {
+        "id": "5307",
+        "call_sign": "K272EU",
+        "frequency": "102.3 MHz",
+        "service": "FX",
+        "owner": "LEGEND COMMUNICATIONS OF WYOMING, LLC",
+        "city": "CODY",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.116444,
+          44.622167
+        ]
+      },
+      "properties": {
+        "id": "189506",
+        "call_sign": "KOWY",
+        "frequency": "102.3 MHz",
+        "service": "FM",
+        "owner": "LOVCOM, INC.",
+        "city": "DAYTON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.584722,
+          44.215556
+        ]
+      },
+      "properties": {
+        "id": "787943",
+        "call_sign": "KJFJ-LP",
+        "frequency": "102.3 MHz",
+        "service": "FL",
+        "owner": "JERICHO BAPTIST CHURCH",
+        "city": "GILLETTE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.234028,
+          41.113833
+        ]
+      },
+      "properties": {
+        "id": "27133",
+        "call_sign": "K272BI",
+        "frequency": "102.3 MHz",
+        "service": "FX",
+        "owner": "CENTRAL WYOMING COLLEGE",
+        "city": "MOUNTAIN VIEW, ETC.",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.309194,
+          42.743583
+        ]
+      },
+      "properties": {
+        "id": "15925",
+        "call_sign": "KHOC",
+        "frequency": "102.5 MHz",
+        "service": "FM",
+        "owner": "MT. RUSHMORE BROADCASTING, INC.",
+        "city": "CASPER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.440361,
+          43.043833
+        ]
+      },
+      "properties": {
+        "id": "71802",
+        "call_sign": "K273BY",
+        "frequency": "102.5 MHz",
+        "service": "FX",
+        "owner": "WESTERN INSPIRATIONAL BROADCASTERS, INC.",
+        "city": "RIVERTON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.92375,
+          42.844083
+        ]
+      },
+      "properties": {
+        "id": "199898",
+        "call_sign": "KAPK",
+        "frequency": "102.7 MHz",
+        "service": "FM",
+        "owner": "WIND RIVER BROADCASTING, INC.",
+        "city": "CORA",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.124361,
+          43.111028
+        ]
+      },
+      "properties": {
+        "id": "38925",
+        "call_sign": "K275AB",
+        "frequency": "102.9 MHz",
+        "service": "FX",
+        "owner": "LOWER STAR VALLEY TV ASSOCIATION",
+        "city": "FREEDOM",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.955472,
+          43.492694
+        ]
+      },
+      "properties": {
+        "id": "150599",
+        "call_sign": "K275BN",
+        "frequency": "102.9 MHz",
+        "service": "FX",
+        "owner": "RICH BROADCASTING IDAHO LS, LLC",
+        "city": "JACKSON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.696083,
+          40.876917
+        ]
+      },
+      "properties": {
+        "id": "10334",
+        "call_sign": "KARS-FM",
+        "frequency": "102.9 MHz",
+        "service": "FM",
+        "owner": "THE FORT COLLINS/LAFAYETTE DIVESTITURE TRUST",
+        "city": "LARAMIE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.747639,
+          42.907722
+        ]
+      },
+      "properties": {
+        "id": "166054",
+        "call_sign": "KXWY",
+        "frequency": "103.1 MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "HUDSON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.764667,
+          42.764111
+        ]
+      },
+      "properties": {
+        "id": "39251",
+        "call_sign": "K276AW",
+        "frequency": "103.1 MHz",
+        "service": "FX",
+        "owner": "LUSK TV CLUB",
+        "city": "LUSK",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.448833,
+          44.476361
+        ]
+      },
+      "properties": {
+        "id": "78241",
+        "call_sign": "KYDT",
+        "frequency": "103.1 MHz",
+        "service": "FM",
+        "owner": "TRI STATE COMMUNICATIONS, LLC",
+        "city": "PINE HAVEN",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.8195,
+          44.570444
+        ]
+      },
+      "properties": {
+        "id": "165998",
+        "call_sign": "KBEN-FM",
+        "frequency": "103.3 MHz",
+        "service": "FM",
+        "owner": "HEART MOUNTAIN BROADCASTING LLC",
+        "city": "COWLEY",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.722472,
+          41.159417
+        ]
+      },
+      "properties": {
+        "id": "166001",
+        "call_sign": "KRAN",
+        "frequency": "103.3 MHz",
+        "service": "FM",
+        "owner": "FREISLAND BROADCASTING CORP.",
+        "city": "WARREN AFB",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.725056,
+          44.346639
+        ]
+      },
+      "properties": {
+        "id": "155304",
+        "call_sign": "K278CJ",
+        "frequency": "103.5 MHz",
+        "service": "FX",
+        "owner": "LEGEND COMMUNICATIONS OF WYOMING, LLC",
+        "city": "BUFFALO",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.45525,
+          41.309972
+        ]
+      },
+      "properties": {
+        "id": "36554",
+        "call_sign": "K278CM",
+        "frequency": "103.5 MHz",
+        "service": "FX",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "LARAMIE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.132333,
+          41.424389
+        ]
+      },
+      "properties": {
+        "id": "202359",
+        "call_sign": "K278CV",
+        "frequency": "103.5 MHz",
+        "service": "FX",
+        "owner": "BIG THICKET BROADCASTING COMPANY OF WYOMING, INC.",
+        "city": "ROCK SPRINGS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.309194,
+          42.743583
+        ]
+      },
+      "properties": {
+        "id": "47878",
+        "call_sign": "KQLT",
+        "frequency": "103.7 MHz",
+        "service": "FM",
+        "owner": "MT. RUSHMORE BROADCASTING, INC.",
+        "city": "CASPER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.947861,
+          44.036611
+        ]
+      },
+      "properties": {
+        "id": "195059",
+        "call_sign": "KKSG-LP",
+        "frequency": "103.7 MHz",
+        "service": "FL",
+        "owner": "SOVEREIGN GRACE BIBLE CHURCH",
+        "city": "WORLAND",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.07325,
+          43.022972
+        ]
+      },
+      "properties": {
+        "id": "56354",
+        "call_sign": "K280EG",
+        "frequency": "103.9 MHz",
+        "service": "FX",
+        "owner": "BRIGHAM YOUNG UNIVERSITY-IDAHO",
+        "city": "FREEDOM",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.706306,
+          44.932139
+        ]
+      },
+      "properties": {
+        "id": "39763",
+        "call_sign": "K280CS",
+        "frequency": "103.9 MHz",
+        "service": "FX",
+        "owner": "MAMMOTH COMMUNITY TV & FM ASSOC.",
+        "city": "MAMMOTH HOT SPRINGS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.117556,
+          44.623278
+        ]
+      },
+      "properties": {
+        "id": "157071",
+        "call_sign": "K280GK",
+        "frequency": "103.9 MHz",
+        "service": "FX",
+        "owner": "LOVCOM, INC.",
+        "city": "SHERIDAN",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.802472,
+          41.135806
+        ]
+      },
+      "properties": {
+        "id": "143430",
+        "call_sign": "K281DD",
+        "frequency": "104.1 MHz",
+        "service": "FX",
+        "owner": "K-LOVE, INC.",
+        "city": "CHEYENNE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.034944,
+          42.34625
+        ]
+      },
+      "properties": {
+        "id": "164287",
+        "call_sign": "KANT",
+        "frequency": "104.1 MHz",
+        "service": "FM",
+        "owner": "PEAK RADIO LLC",
+        "city": "GUERNSEY",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.696306,
+          42.043306
+        ]
+      },
+      "properties": {
+        "id": "164287",
+        "call_sign": "KANT",
+        "frequency": "104.1 MHz",
+        "service": "FM",
+        "owner": "PEAK RADIO LLC",
+        "city": "GUERNSEY",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.153472,
+          44.494944
+        ]
+      },
+      "properties": {
+        "id": "43918",
+        "call_sign": "KCGL",
+        "frequency": "104.1 MHz",
+        "service": "FM",
+        "owner": "LEGEND COMMUNICATIONS OF WYOMING, LLC",
+        "city": "POWELL",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.726778,
+          42.8205
+        ]
+      },
+      "properties": {
+        "id": "155241",
+        "call_sign": "K281BF",
+        "frequency": "104.1 MHz",
+        "service": "FX",
+        "owner": "EDWARDS COMMUNICATIONS LC",
+        "city": "RIVERTON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.925139,
+          42.844083
+        ]
+      },
+      "properties": {
+        "id": "166004",
+        "call_sign": "KFZE",
+        "frequency": "104.3 MHz",
+        "service": "FM",
+        "owner": "WAGONWHEEL COMMUNICATIONS CORPORATION",
+        "city": "DANIEL",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.801861,
+          43.456861
+        ]
+      },
+      "properties": {
+        "id": "126884",
+        "call_sign": "KJHB-LP",
+        "frequency": "104.3 MHz",
+        "service": "FL",
+        "owner": "TETON COUNTY SCHOOL DISTRICT #1",
+        "city": "JACKSON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.44525,
+          41.284972
+        ]
+      },
+      "properties": {
+        "id": "190378",
+        "call_sign": "KIMX",
+        "frequency": "104.5 MHz",
+        "service": "FM",
+        "owner": "WOLF CREEK RADIO BROADCASTING",
+        "city": "CENTENNIAL",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.441333,
+          44.474694
+        ]
+      },
+      "properties": {
+        "id": "166003",
+        "call_sign": "KWBB",
+        "frequency": "104.5 MHz",
+        "service": "FM",
+        "owner": "BRECK MEDIA GROUP WYOMING, INC.",
+        "city": "UPTON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.074361,
+          43.023083
+        ]
+      },
+      "properties": {
+        "id": "146573",
+        "call_sign": "K284BI",
+        "frequency": "104.7 MHz",
+        "service": "FX",
+        "owner": "SVI MEDIA, LLC",
+        "city": "ALPINE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.30725,
+          42.743583
+        ]
+      },
+      "properties": {
+        "id": "26301",
+        "call_sign": "KTRS-FM",
+        "frequency": "104.7 MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "CASPER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.996,
+          40.871056
+        ]
+      },
+      "properties": {
+        "id": "20304",
+        "call_sign": "KNIV",
+        "frequency": "104.7 MHz",
+        "service": "FM",
+        "owner": "AEROSTAR COMMUNICATIONS, LLC",
+        "city": "LYMAN",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.517972,
+          40.633806
+        ]
+      },
+      "properties": {
+        "id": "20304",
+        "call_sign": "KNIV",
+        "frequency": "104.7 MHz",
+        "service": "FS",
+        "owner": "AEROSTAR COMMUNICATIONS, LLC",
+        "city": "LYMAN",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.85425,
+          44.059389
+        ]
+      },
+      "properties": {
+        "id": "154306",
+        "call_sign": "K284CJ",
+        "frequency": "104.7 MHz",
+        "service": "FX",
+        "owner": "LEGEND COMMUNICATIONS OF WYOMING, LLC",
+        "city": "WORLAND",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.992417,
+          42.636028
+        ]
+      },
+      "properties": {
+        "id": "56349",
+        "call_sign": "K285DF",
+        "frequency": "104.9 MHz",
+        "service": "FX",
+        "owner": "BRIGHAM YOUNG UNIVERSITY-IDAHO",
+        "city": "AFTON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.69225,
+          44.348306
+        ]
+      },
+      "properties": {
+        "id": "171259",
+        "call_sign": "KLQQ-FM1",
+        "frequency": "104.9 MHz",
+        "service": "FB",
+        "owner": "LOVCOM, INC.",
+        "city": "BUFFALO",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.692722,
+          41.134417
+        ]
+      },
+      "properties": {
+        "id": "35511",
+        "call_sign": "KRRR",
+        "frequency": "104.9 MHz",
+        "service": "FM",
+        "owner": "BRAHMIN BROADCASTING CORPORATION",
+        "city": "CHEYENNE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.116444,
+          44.622167
+        ]
+      },
+      "properties": {
+        "id": "165310",
+        "call_sign": "KLQQ",
+        "frequency": "104.9 MHz",
+        "service": "FM",
+        "owner": "LOVCOM, INC.",
+        "city": "CLEARMONT",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.931444,
+          44.798306
+        ]
+      },
+      "properties": {
+        "id": "165310",
+        "call_sign": "KLQQ",
+        "frequency": "104.9 MHz",
+        "service": "FS",
+        "owner": "LOVCOM, INC.",
+        "city": "CLEARMONT",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.707139,
+          44.933806
+        ]
+      },
+      "properties": {
+        "id": "39762",
+        "call_sign": "K285AF",
+        "frequency": "104.9 MHz",
+        "service": "FX",
+        "owner": "MAMMOTH COMMUNITY TV & ASSOCIATION",
+        "city": "MAMMOTH HOT SPRINGS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.344028,
+          41.497194
+        ]
+      },
+      "properties": {
+        "id": "154325",
+        "call_sign": "K285FG",
+        "frequency": "104.9 MHz",
+        "service": "FX",
+        "owner": "WAGONWHEEL COMMUNICATIONS CORPORATION",
+        "city": "ROCK SPRINGS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.397611,
+          42.761972
+        ]
+      },
+      "properties": {
+        "id": "126692",
+        "call_sign": "KFCB-LP",
+        "frequency": "105.1 MHz",
+        "service": "FL",
+        "owner": "DOUGLAS BAPTIST CHURCH, INC.",
+        "city": "DOUGLAS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.713444,
+          42.578278
+        ]
+      },
+      "properties": {
+        "id": "166002",
+        "call_sign": "KTUG",
+        "frequency": "105.1 MHz",
+        "service": "FM",
+        "owner": "MORCOM BROADCASTING, LLC",
+        "city": "HUDSON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.754194,
+          43.461722
+        ]
+      },
+      "properties": {
+        "id": "164154",
+        "call_sign": "KJXN",
+        "frequency": "105.1 MHz",
+        "service": "FM",
+        "owner": "COCHISE MEDIA LICENSES, LLC",
+        "city": "SOUTH PARK",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.503778,
+          41.838278
+        ]
+      },
+      "properties": {
+        "id": "77947",
+        "call_sign": "KDWY",
+        "frequency": "105.3 MHz",
+        "service": "FM",
+        "owner": "SVI MEDIA, LLC",
+        "city": "DIAMONDVILLE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.436667,
+          44.292472
+        ]
+      },
+      "properties": {
+        "id": "166086",
+        "call_sign": "KQOL",
+        "frequency": "105.3 MHz",
+        "service": "FM",
+        "owner": "KEYHOLE BROADCASTING, LLC",
+        "city": "SLEEPY HOLLOW",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.706306,
+          44.932139
+        ]
+      },
+      "properties": {
+        "id": "39758",
+        "call_sign": "K288DQ",
+        "frequency": "105.5 MHz",
+        "service": "FX",
+        "owner": "MAMMOTH COMMUNITY TV AND FM ASSOC.",
+        "city": "MAMMOTH HOT SPRINGS,",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.306944,
+          42.741611
+        ]
+      },
+      "properties": {
+        "id": "164289",
+        "call_sign": "KZQL",
+        "frequency": "105.5 MHz",
+        "service": "FM",
+        "owner": "BRECK MEDIA GROUP WYOMING, INC.",
+        "city": "MILLS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.234028,
+          41.113833
+        ]
+      },
+      "properties": {
+        "id": "27134",
+        "call_sign": "K288AV",
+        "frequency": "105.5 MHz",
+        "service": "FX",
+        "owner": "CENTRAL WYOMING COLLEGE",
+        "city": "MOUNT VIEW, ETC.",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.124361,
+          43.111028
+        ]
+      },
+      "properties": {
+        "id": "86839",
+        "call_sign": "K289AF",
+        "frequency": "105.7 MHz",
+        "service": "FX",
+        "owner": "LOWER STAR VALLEY TV ASSOCIATION",
+        "city": "FREEDOM",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.85425,
+          44.059389
+        ]
+      },
+      "properties": {
+        "id": "165979",
+        "call_sign": "KVGL",
+        "frequency": "105.7 MHz",
+        "service": "FM",
+        "owner": "LEGEND COMMUNICATIONS OF WYOMING, LLC",
+        "city": "MANDERSON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.69225,
+          44.348306
+        ]
+      },
+      "properties": {
+        "id": "142525",
+        "call_sign": "K290BM",
+        "frequency": "105.9 MHz",
+        "service": "FX",
+        "owner": "LOVCOM, INC.",
+        "city": "BUFFALO",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.95575,
+          43.491028
+        ]
+      },
+      "properties": {
+        "id": "56344",
+        "call_sign": "K290BT",
+        "frequency": "105.9 MHz",
+        "service": "FX",
+        "owner": "BRIGHAM YOUNG UNIVERSITY-IDAHO",
+        "city": "JACKSON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.116444,
+          44.622167
+        ]
+      },
+      "properties": {
+        "id": "71154",
+        "call_sign": "K290BL",
+        "frequency": "105.9 MHz",
+        "service": "FX",
+        "owner": "LOVCOM, INC.",
+        "city": "SHERIDAN",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.465028,
+          41.239167
+        ]
+      },
+      "properties": {
+        "id": "198141",
+        "call_sign": "KLMI-FM1",
+        "frequency": "106.1 MHz",
+        "service": "FB",
+        "owner": "WOLF CREEK RADIO BROADCASTING, LLC",
+        "city": "LARAMIE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.463056,
+          44.230528
+        ]
+      },
+      "properties": {
+        "id": "164171",
+        "call_sign": "KXXL",
+        "frequency": "106.1 MHz",
+        "service": "FM",
+        "owner": "KEYHOLE BROADCASTING, LLC",
+        "city": "MOORCROFT",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.052222,
+          41.484667
+        ]
+      },
+      "properties": {
+        "id": "164207",
+        "call_sign": "KLMI",
+        "frequency": "106.1 MHz",
+        "service": "FM",
+        "owner": "WOLF CREEK RADIO BROADCASTING, LLC",
+        "city": "ROCK RIVER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.364667,
+          42.823417
+        ]
+      },
+      "properties": {
+        "id": "787972",
+        "call_sign": "NEW",
+        "frequency": "106.3 MHz",
+        "service": "FL",
+        "owner": "CASPER 1 TV AT. HIGHER ELEVATION",
+        "city": "CASPER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.832472,
+          41.052472
+        ]
+      },
+      "properties": {
+        "id": "5991",
+        "call_sign": "KLEN",
+        "frequency": "106.3 MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "CHEYENNE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.650694,
+          43.491611
+        ]
+      },
+      "properties": {
+        "id": "56589",
+        "call_sign": "K292BA",
+        "frequency": "106.3 MHz",
+        "service": "FX",
+        "owner": "RIVERTON BCNG CO., INC.",
+        "city": "DUBOIS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.996,
+          40.871056
+        ]
+      },
+      "properties": {
+        "id": "20029",
+        "call_sign": "KBMG",
+        "frequency": "106.3 MHz",
+        "service": "FM",
+        "owner": "ALPHA MEDIA LICENSEE LLC",
+        "city": "EVANSTON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.996,
+          40.871056
+        ]
+      },
+      "properties": {
+        "id": "20029",
+        "call_sign": "KBMG",
+        "frequency": "106.3 MHz",
+        "service": "FM",
+        "owner": "ALPHA MEDIA LICENSEE LLC",
+        "city": "EVANSTON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.124361,
+          43.111028
+        ]
+      },
+      "properties": {
+        "id": "84016",
+        "call_sign": "K292EY",
+        "frequency": "106.3 MHz",
+        "service": "FX",
+        "owner": "LOWER STAR VALLEY TV ASSOCIATION",
+        "city": "FREEDOM",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.707139,
+          44.933806
+        ]
+      },
+      "properties": {
+        "id": "39761",
+        "call_sign": "K292BQ",
+        "frequency": "106.3 MHz",
+        "service": "FX",
+        "owner": "MAMMOTH COMMUNITY TV AND FM ASSOC.",
+        "city": "MAMMOTH",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.227694,
+          43.836917
+        ]
+      },
+      "properties": {
+        "id": "5474",
+        "call_sign": "K292DN",
+        "frequency": "106.3 MHz",
+        "service": "FX",
+        "owner": "UNIVERSITY OF NORTHWESTERN - ST. PAUL",
+        "city": "NEWCASTLE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.117556,
+          44.623278
+        ]
+      },
+      "properties": {
+        "id": "29893",
+        "call_sign": "K292DZ",
+        "frequency": "106.3 MHz",
+        "service": "FX",
+        "owner": "LOVCOM, INC.",
+        "city": "SHERIDAN",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.99675,
+          43.437722
+        ]
+      },
+      "properties": {
+        "id": "166053",
+        "call_sign": "KWWY",
+        "frequency": "106.5 MHz",
+        "service": "FM",
+        "owner": "THE UNIVERSITY OF WYOMING",
+        "city": "SHOSHONI",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.696333,
+          42.043278
+        ]
+      },
+      "properties": {
+        "id": "762455",
+        "call_sign": "KUYO-FM",
+        "frequency": "106.5 MHz",
+        "service": "FM",
+        "owner": "BOTT COMMUNICATIONS, INC.",
+        "city": "WHEATLAND",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.122694,
+          43.104917
+        ]
+      },
+      "properties": {
+        "id": "145943",
+        "call_sign": "K294CN",
+        "frequency": "106.7 MHz",
+        "service": "FX",
+        "owner": "SVI MEDIA, LLC",
+        "city": "ALPINE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.539167,
+          44.243056
+        ]
+      },
+      "properties": {
+        "id": "155774",
+        "call_sign": "K294BD",
+        "frequency": "106.7 MHz",
+        "service": "FX",
+        "owner": "LEGEND COMMUNICATIONS OF WYOMING, LLC",
+        "city": "GILLETTE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.132333,
+          41.424389
+        ]
+      },
+      "properties": {
+        "id": "164153",
+        "call_sign": "KMRZ-FM",
+        "frequency": "106.7 MHz",
+        "service": "FM",
+        "owner": "BIG THICKET BROADCASTING COMPANY OF WYOMING, INC.",
+        "city": "SUPERIOR",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.241389,
+          41.626944
+        ]
+      },
+      "properties": {
+        "id": "164153",
+        "call_sign": "KMRZ-FM",
+        "frequency": "106.7 MHz",
+        "service": "FS",
+        "owner": "BIG THICKET BROADCASTING COMPANY OF WYOMING, INC.",
+        "city": "SUPERIOR",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.309194,
+          42.743583
+        ]
+      },
+      "properties": {
+        "id": "43477",
+        "call_sign": "KASS",
+        "frequency": "106.9 MHz",
+        "service": "FM",
+        "owner": "MT. RUSHMORE BROADCASTING, INC.",
+        "city": "CASPER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.722167,
+          41.159583
+        ]
+      },
+      "properties": {
+        "id": "157711",
+        "call_sign": "K295DD",
+        "frequency": "106.9 MHz",
+        "service": "FX",
+        "owner": "MOUNTAIN COMMUNITY TRANSLATORS, LLC",
+        "city": "CHEYENNE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.117556,
+          44.623278
+        ]
+      },
+      "properties": {
+        "id": "158524",
+        "call_sign": "K295CP",
+        "frequency": "106.9 MHz",
+        "service": "FX",
+        "owner": "LOVCOM, INC.",
+        "city": "SHERIDAN",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.07325,
+          43.022972
+        ]
+      },
+      "properties": {
+        "id": "38926",
+        "call_sign": "K296EJ",
+        "frequency": "107.1 MHz",
+        "service": "FX",
+        "owner": "LOWER STAR VALLEY T.V. ASSOCIATION",
+        "city": "FREEDOM",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.765361,
+          42.820778
+        ]
+      },
+      "properties": {
+        "id": "194424",
+        "call_sign": "DKOFR-LP",
+        "frequency": "107.1 MHz",
+        "service": "FL",
+        "owner": "CHURCH OF THE HOLY ROSARY",
+        "city": "LANDER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.8195,
+          44.570444
+        ]
+      },
+      "properties": {
+        "id": "164288",
+        "call_sign": "KROW",
+        "frequency": "107.1 MHz",
+        "service": "FM",
+        "owner": "HEART MOUNTAIN BROADCASTING LLC",
+        "city": "LOVELL",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.706028,
+          44.931583
+        ]
+      },
+      "properties": {
+        "id": "39755",
+        "call_sign": "K296EF",
+        "frequency": "107.1 MHz",
+        "service": "FX",
+        "owner": "MAMMOTH COMMUNITY TV & FM ASSOC.",
+        "city": "MAMMOTH HOT SPRINGS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.95575,
+          43.491028
+        ]
+      },
+      "properties": {
+        "id": "145607",
+        "call_sign": "K296GL",
+        "frequency": "107.1 MHz",
+        "service": "FX",
+        "owner": "BRIGHAM YOUNG UNIVERSITY-IDAHO",
+        "city": "TETON COUNTY",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.2875,
+          42.881611
+        ]
+      },
+      "properties": {
+        "id": "150119",
+        "call_sign": "K297AV",
+        "frequency": "107.3 MHz",
+        "service": "FX",
+        "owner": "DOUGLAS BROADCASTING, INC.",
+        "city": "CASPER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.991028,
+          42.632417
+        ]
+      },
+      "properties": {
+        "id": "202531",
+        "call_sign": "K298CX",
+        "frequency": "107.5 MHz",
+        "service": "FX",
+        "owner": "SVI MEDIA, LLC",
+        "city": "AFTON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.713083,
+          42.578361
+        ]
+      },
+      "properties": {
+        "id": "762456",
+        "call_sign": "KRCK",
+        "frequency": "107.5 MHz",
+        "service": "FM",
+        "owner": "CEDAR COVE BROADCASTING, INC.",
+        "city": "ATLANTIC CITY",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.210722,
+          41.105333
+        ]
+      },
+      "properties": {
+        "id": "27136",
+        "call_sign": "K298CH",
+        "frequency": "107.5 MHz",
+        "service": "FX",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "MOUNT VIEW, ETC.",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.967472,
+          42.043556
+        ]
+      },
+      "properties": {
+        "id": "157083",
+        "call_sign": "K298AY",
+        "frequency": "107.5 MHz",
+        "service": "FX",
+        "owner": "UNIVERSITY OF WYOMING",
+        "city": "WHEATLAND",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.765389,
+          42.820778
+        ]
+      },
+      "properties": {
+        "id": "148074",
+        "call_sign": "K299BC",
+        "frequency": "107.7 MHz",
+        "service": "FX",
+        "owner": "KAIROS BROADCASTING, LLC",
+        "city": "LANDER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.159556,
+          41.656611
+        ]
+      },
+      "properties": {
+        "id": "71828",
+        "call_sign": "K299AG",
+        "frequency": "107.7 MHz",
+        "service": "FX",
+        "owner": "HI-LINE RADIO FELLOWSHIP, INC.",
+        "city": "ROCK SPRINGS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.30725,
+          42.743583
+        ]
+      },
+      "properties": {
+        "id": "88406",
+        "call_sign": "KRVK",
+        "frequency": "107.9 MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "VISTA WEST",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.833028,
+          41.053028
+        ]
+      },
+      "properties": {
+        "id": "30224",
+        "call_sign": "KGAB",
+        "frequency": "650   kHz",
+        "service": "AM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "ORCHARD VALLEY",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.833028,
+          41.053028
+        ]
+      },
+      "properties": {
+        "id": "30224",
+        "call_sign": "KGAB",
+        "frequency": "650   kHz",
+        "service": "AM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "ORCHARD VALLEY",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.204194,
+          42.871361
+        ]
+      },
+      "properties": {
+        "id": "11003",
+        "call_sign": "KUYO",
+        "frequency": "830   kHz",
+        "service": "AM",
+        "owner": "BOTT COMMUNICATIONS, INC.",
+        "city": "EVANSVILLE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.203917,
+          42.87025
+        ]
+      },
+      "properties": {
+        "id": "11003",
+        "call_sign": "KUYO",
+        "frequency": "830   kHz",
+        "service": "AM",
+        "owner": "BOTT COMMUNICATIONS, INC.",
+        "city": "EVANSVILLE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.931444,
+          44.798306
+        ]
+      },
+      "properties": {
+        "id": "38626",
+        "call_sign": "KROE",
+        "frequency": "930   kHz",
+        "service": "AM",
+        "owner": "LOVCOM, INC.",
+        "city": "SHERIDAN",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.931444,
+          44.798306
+        ]
+      },
+      "properties": {
+        "id": "38626",
+        "call_sign": "KROE",
+        "frequency": "930   kHz",
+        "service": "AM",
+        "owner": "LOVCOM, INC.",
+        "city": "SHERIDAN",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.546278,
+          41.799389
+        ]
+      },
+      "properties": {
+        "id": "10335",
+        "call_sign": "KMER",
+        "frequency": "940   kHz",
+        "service": "AM",
+        "owner": "SVI MEDIA, LLC",
+        "city": "KEMMERER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.546278,
+          41.799389
+        ]
+      },
+      "properties": {
+        "id": "10335",
+        "call_sign": "KMER",
+        "frequency": "940   kHz",
+        "service": "AM",
+        "owner": "SVI MEDIA, LLC",
+        "city": "KEMMERER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.219194,
+          42.84275
+        ]
+      },
+      "properties": {
+        "id": "11924",
+        "call_sign": "KTWO",
+        "frequency": "1030  kHz",
+        "service": "AM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "CASPER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.219194,
+          42.84275
+        ]
+      },
+      "properties": {
+        "id": "11924",
+        "call_sign": "KTWO",
+        "frequency": "1030  kHz",
+        "service": "AM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "CASPER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.049556,
+          44.450222
+        ]
+      },
+      "properties": {
+        "id": "5245",
+        "call_sign": "KZMQ",
+        "frequency": "1140  kHz",
+        "service": "AM",
+        "owner": "LEGEND COMMUNICATIONS OF WYOMING, LLC",
+        "city": "GREYBULL",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.961583,
+          42.722694
+        ]
+      },
+      "properties": {
+        "id": "72020",
+        "call_sign": "KRSV",
+        "frequency": "1210  kHz",
+        "service": "AM",
+        "owner": "SVI MEDIA, LLC",
+        "city": "AFTON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.550833,
+          41.25525
+        ]
+      },
+      "properties": {
+        "id": "10333",
+        "call_sign": "KHAT",
+        "frequency": "1210  kHz",
+        "service": "AM",
+        "owner": "WOLF CREEK RADIO BROADCASTING, LLC",
+        "city": "LARAMIE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.961583,
+          42.722694
+        ]
+      },
+      "properties": {
+        "id": "72020",
+        "call_sign": "KRSV",
+        "frequency": "1210  kHz",
+        "service": "AM",
+        "owner": "SVI MEDIA, LLC",
+        "city": "AFTON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.550833,
+          41.25525
+        ]
+      },
+      "properties": {
+        "id": "10333",
+        "call_sign": "KHAT",
+        "frequency": "1210  kHz",
+        "service": "AM",
+        "owner": "WOLF CREEK RADIO BROADCASTING, LLC",
+        "city": "LARAMIE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.296139,
+          42.834694
+        ]
+      },
+      "properties": {
+        "id": "35861",
+        "call_sign": "KVOC",
+        "frequency": "1230  kHz",
+        "service": "AM",
+        "owner": "MT. RUSHMORE BROADCASTING, INC.",
+        "city": "CASPER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.839972,
+          41.121361
+        ]
+      },
+      "properties": {
+        "id": "43629",
+        "call_sign": "KFBC",
+        "frequency": "1240  kHz",
+        "service": "AM",
+        "owner": "MONTGOMERY BROADCASTING L.L.C.",
+        "city": "CHEYENNE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.261722,
+          41.781917
+        ]
+      },
+      "properties": {
+        "id": "46736",
+        "call_sign": "KRAL",
+        "frequency": "1240  kHz",
+        "service": "AM",
+        "owner": "MT. RUSHMORE BROADCASTING, INC.",
+        "city": "RAWLINS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.213,
+          43.846361
+        ]
+      },
+      "properties": {
+        "id": "9288",
+        "call_sign": "KASL",
+        "frequency": "1240  kHz",
+        "service": "AM",
+        "owner": "VAL COOK",
+        "city": "NEWCASTLE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.761472,
+          44.716639
+        ]
+      },
+      "properties": {
+        "id": "10337",
+        "call_sign": "KPOW",
+        "frequency": "1260  kHz",
+        "service": "AM",
+        "owner": "MGR MEDIA, LLC",
+        "city": "POWELL",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.761472,
+          44.716639
+        ]
+      },
+      "properties": {
+        "id": "10337",
+        "call_sign": "KPOW",
+        "frequency": "1260  kHz",
+        "service": "AM",
+        "owner": "MGR MEDIA, LLC",
+        "city": "POWELL",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.581944,
+          41.283306
+        ]
+      },
+      "properties": {
+        "id": "24700",
+        "call_sign": "KOWB",
+        "frequency": "1290  kHz",
+        "service": "AM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "LARAMIE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.581944,
+          41.283306
+        ]
+      },
+      "properties": {
+        "id": "24700",
+        "call_sign": "KOWB",
+        "frequency": "1290  kHz",
+        "service": "AM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "LARAMIE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.745389,
+          42.842722
+        ]
+      },
+      "properties": {
+        "id": "22624",
+        "call_sign": "KOVE",
+        "frequency": "1330  kHz",
+        "service": "AM",
+        "owner": "KAIROS BROADCASTING, LLC",
+        "city": "LANDER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.745389,
+          42.842722
+        ]
+      },
+      "properties": {
+        "id": "22624",
+        "call_sign": "KOVE",
+        "frequency": "1330  kHz",
+        "service": "AM",
+        "owner": "KAIROS BROADCASTING, LLC",
+        "city": "LANDER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.971194,
+          44.017167
+        ]
+      },
+      "properties": {
+        "id": "35897",
+        "call_sign": "KWOR",
+        "frequency": "1340  kHz",
+        "service": "AM",
+        "owner": "LEGEND COMMUNICATIONS OF WYOMING, LLC",
+        "city": "WORLAND",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.946917,
+          42.045528
+        ]
+      },
+      "properties": {
+        "id": "60644",
+        "call_sign": "KYCN",
+        "frequency": "1340  kHz",
+        "service": "AM",
+        "owner": "SMITH BROADCASTING, INCORPORATED",
+        "city": "WHEATLAND",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.794361,
+          43.462417
+        ]
+      },
+      "properties": {
+        "id": "10338",
+        "call_sign": "KSGT",
+        "frequency": "1340  kHz",
+        "service": "AM",
+        "owner": "JACKSON HOLE RADIO, LLC",
+        "city": "JACKSON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.794361,
+          43.462417
+        ]
+      },
+      "properties": {
+        "id": "10338",
+        "call_sign": "KSGT",
+        "frequency": "1340  kHz",
+        "service": "AM",
+        "owner": "JACKSON HOLE RADIO, LLC",
+        "city": "JACKSON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.239583,
+          41.619972
+        ]
+      },
+      "properties": {
+        "id": "5301",
+        "call_sign": "KRKK",
+        "frequency": "1360  kHz",
+        "service": "AM",
+        "owner": "BIG THICKET BROADCASTING COMPANY OF WYOMING, INC.",
+        "city": "ROCK SPRINGS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.239583,
+          41.619972
+        ]
+      },
+      "properties": {
+        "id": "5301",
+        "call_sign": "KRKK",
+        "frequency": "1360  kHz",
+        "service": "AM",
+        "owner": "BIG THICKET BROADCASTING COMPANY OF WYOMING, INC.",
+        "city": "ROCK SPRINGS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.361972,
+          42.856083
+        ]
+      },
+      "properties": {
+        "id": "86873",
+        "call_sign": "KKTL",
+        "frequency": "1400  kHz",
+        "service": "AM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "CASPER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.05625,
+          44.512722
+        ]
+      },
+      "properties": {
+        "id": "74351",
+        "call_sign": "KODI",
+        "frequency": "1400  kHz",
+        "service": "AM",
+        "owner": "LEGEND COMMUNICATIONS OF WYOMING, LLC",
+        "city": "CODY",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.05625,
+          44.512722
+        ]
+      },
+      "properties": {
+        "id": "74351",
+        "call_sign": "KODI",
+        "frequency": "1400  kHz",
+        "service": "AM",
+        "owner": "LEGEND COMMUNICATIONS OF WYOMING, LLC",
+        "city": "CODY",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.931444,
+          44.798306
+        ]
+      },
+      "properties": {
+        "id": "12942",
+        "call_sign": "KWYO",
+        "frequency": "1410  kHz",
+        "service": "AM",
+        "owner": "LOVCOM, INC.",
+        "city": "SHERIDAN",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.931444,
+          44.798306
+        ]
+      },
+      "properties": {
+        "id": "12942",
+        "call_sign": "KWYO",
+        "frequency": "1410  kHz",
+        "service": "AM",
+        "owner": "LOVCOM, INC.",
+        "city": "SHERIDAN",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.3465,
+          43.026361
+        ]
+      },
+      "properties": {
+        "id": "56591",
+        "call_sign": "KVOW",
+        "frequency": "1450  kHz",
+        "service": "AM",
+        "owner": "EDWARDS COMMUNICATIONS LC",
+        "city": "RIVERTON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.682278,
+          44.342472
+        ]
+      },
+      "properties": {
+        "id": "32988",
+        "call_sign": "KBBS",
+        "frequency": "1450  kHz",
+        "service": "AM",
+        "owner": "LEGEND COMMUNICATIONS OF WYOMING, LLC",
+        "city": "BUFFALO",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.794361,
+          43.462417
+        ]
+      },
+      "properties": {
+        "id": "160983",
+        "call_sign": "KJCV",
+        "frequency": "1450  kHz",
+        "service": "AM",
+        "owner": "COMMUNITY BROADCASTING, INC.",
+        "city": "JACKSON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.794361,
+          43.462417
+        ]
+      },
+      "properties": {
+        "id": "160983",
+        "call_sign": "KJCV",
+        "frequency": "1450  kHz",
+        "service": "AM",
+        "owner": "COMMUNITY BROADCASTING, INC.",
+        "city": "JACKSON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.39275,
+          42.763306
+        ]
+      },
+      "properties": {
+        "id": "38387",
+        "call_sign": "KKTY",
+        "frequency": "1470  kHz",
+        "service": "AM",
+        "owner": "DOUGLAS BROADCASTING, INC.",
+        "city": "DOUGLAS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.39275,
+          42.763306
+        ]
+      },
+      "properties": {
+        "id": "38387",
+        "call_sign": "KKTY",
+        "frequency": "1470  kHz",
+        "service": "AM",
+        "owner": "DOUGLAS BROADCASTING, INC.",
+        "city": "DOUGLAS",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.839972,
+          41.121361
+        ]
+      },
+      "properties": {
+        "id": "35510",
+        "call_sign": "KRAE",
+        "frequency": "1480  kHz",
+        "service": "AM",
+        "owner": "PROSHOP RADIO BROADCASTING, LLC",
+        "city": "CHEYENNE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.839972,
+          41.121361
+        ]
+      },
+      "properties": {
+        "id": "35510",
+        "call_sign": "KRAE",
+        "frequency": "1480  kHz",
+        "service": "AM",
+        "owner": "PROSHOP RADIO BROADCASTING, LLC",
+        "city": "CHEYENNE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.437083,
+          41.515528
+        ]
+      },
+      "properties": {
+        "id": "70698",
+        "call_sign": "KUGR",
+        "frequency": "1490  kHz",
+        "service": "AM",
+        "owner": "WAGONWHEEL COMMUNICATIONS CORPORATION",
+        "city": "GREEN RIVER",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.228278,
+          42.072194
+        ]
+      },
+      "properties": {
+        "id": "46738",
+        "call_sign": "KGOS",
+        "frequency": "1490  kHz",
+        "service": "AM",
+        "owner": "KATH BROADCASTING CO, LLC",
+        "city": "TORRINGTON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.769361,
+          43.474361
+        ]
+      },
+      "properties": {
+        "id": "161525",
+        "call_sign": "KJNT",
+        "frequency": "1490  kHz",
+        "service": "AM",
+        "owner": "TED AUSTIN",
+        "city": "JACKSON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.769361,
+          43.474361
+        ]
+      },
+      "properties": {
+        "id": "161525",
+        "call_sign": "KJNT",
+        "frequency": "1490  kHz",
+        "service": "AM",
+        "owner": "TED AUSTIN",
+        "city": "JACKSON",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.287528,
+          42.881639
+        ]
+      },
+      "properties": {
+        "id": "161152",
+        "call_sign": "KKTS",
+        "frequency": "1580  kHz",
+        "service": "AM",
+        "owner": "DOUGLAS BROADCASTING, INC.",
+        "city": "EVANSVILLE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.287528,
+          42.881639
+        ]
+      },
+      "properties": {
+        "id": "161152",
+        "call_sign": "KKTS",
+        "frequency": "1580  kHz",
+        "service": "AM",
+        "owner": "DOUGLAS BROADCASTING, INC.",
+        "city": "EVANSVILLE",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.802472,
+          41.12275
+        ]
+      },
+      "properties": {
+        "id": "87155",
+        "call_sign": "KFBU",
+        "frequency": "1630  kHz",
+        "service": "AM",
+        "owner": "HI-LINE RADIO FELLOWSHIP, INC.",
+        "city": "FOX FARM",
+        "state": "WY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.802472,
+          41.12275
+        ]
+      },
+      "properties": {
+        "id": "87155",
+        "call_sign": "KFBU",
+        "frequency": "1630  kHz",
+        "service": "AM",
+        "owner": "HI-LINE RADIO FELLOWSHIP, INC.",
+        "city": "FOX FARM",
+        "state": "WY"
+      }
+    }
+  ],
+  "metadata": {
+    "cities": [
+      "AFTON",
+      "ALPINE",
+      "ALTA",
+      "ANTELOPE VALLEY-CRES",
+      "ATLANTIC CITY",
+      "BAR NUNN",
+      "BIG PINEY, LA BARGE",
+      "BONDURANT",
+      "BONNEVILLE",
+      "BUFFALO",
+      "BURNS",
+      "BYRON",
+      "CASPER",
+      "CENTENNIAL",
+      "CHEYENNE",
+      "CHUGWATER",
+      "CLEARMONT",
+      "CODY",
+      "CORA",
+      "COWLEY",
+      "COWLEY, ETC.",
+      "DANIEL",
+      "DAYTON",
+      "DIAMONDVILLE",
+      "DOUGLAS",
+      "DUBOIS",
+      "EDEN",
+      "ETHETE",
+      "EVANSTON",
+      "EVANSVILLE",
+      "FORT BRIDGER",
+      "FORT LARAMIE",
+      "FORT WASHAKIE",
+      "FOX FARM",
+      "FREEDOM",
+      "GILLETTE",
+      "GLENDO",
+      "GLENROCK",
+      "GRANITE",
+      "GREEN RIVER",
+      "GREYBULL",
+      "GUERNSEY",
+      "HANNA",
+      "HILLSDALE",
+      "HOBACK JUNCTION",
+      "HUDSON",
+      "JACKSON",
+      "JAMES TOWN",
+      "KAYCEE",
+      "KEMMERER",
+      "LANDER",
+      "LARAMIE",
+      "LINGLE",
+      "LOST CABIN",
+      "LOVELL",
+      "LUSK",
+      "LYMAN",
+      "MAMMOTH",
+      "MAMMOTH HOT SPRINGS",
+      "MAMMOTH HOT SPRINGS,",
+      "MANDERSON",
+      "MEDICINE BOW",
+      "MIDWEST",
+      "MILLS",
+      "MOORCROFT",
+      "MOOSE WILSON ROAD",
+      "MOUNT VIEW, ETC.",
+      "MOUNTAIN VIEW, ETC.",
+      "NEWCASTLE",
+      "NORTH ROCK SPRINGS",
+      "ORCHARD VALLEY",
+      "PINE BLUFFS",
+      "PINE HAVEN",
+      "PINEDALE",
+      "POWELL",
+      "RANCHESTER",
+      "RAWLINS",
+      "RELIANCE",
+      "RIVERTON",
+      "ROCK RIVER",
+      "ROCK SPRINGS",
+      "ROLLING HILLS",
+      "SARATOGA",
+      "SHERIDAN",
+      "SHERIDAN, ETC.",
+      "SHOSHONI",
+      "SINCLAIR",
+      "SLEEPY HOLLOW",
+      "SOUTH GREELEY",
+      "SOUTH PARK",
+      "STORY",
+      "SUNDANCE",
+      "SUPERIOR",
+      "TEN SLEEP",
+      "TETON COUNTY",
+      "TETON VILLAGE",
+      "THAYNE, AFTON",
+      "THERMOPOLIS",
+      "TORRINGTON",
+      "UPTON",
+      "VISTA WEST",
+      "WARREN AFB",
+      "WHEATLAND",
+      "WILSON",
+      "WINCHESTER",
+      "WORLAND",
+      "WRIGHT"
+    ],
+    "frequencies": [
+      "88.1  MHz",
+      "88.3  MHz",
+      "88.5  MHz",
+      "88.7  MHz",
+      "88.9  MHz",
+      "89.1  MHz",
+      "89.3  MHz",
+      "89.5  MHz",
+      "89.7  MHz",
+      "89.9  MHz",
+      "90.1  MHz",
+      "90.3  MHz",
+      "90.5  MHz",
+      "90.7  MHz",
+      "90.9  MHz",
+      "91.1  MHz",
+      "91.3  MHz",
+      "91.5  MHz",
+      "91.7  MHz",
+      "91.9  MHz",
+      "92.1  MHz",
+      "92.3  MHz",
+      "92.5  MHz",
+      "92.7  MHz",
+      "92.9  MHz",
+      "93.1  MHz",
+      "93.3  MHz",
+      "93.5  MHz",
+      "93.7  MHz",
+      "93.9  MHz",
+      "94.1  MHz",
+      "94.3  MHz",
+      "94.5  MHz",
+      "94.7  MHz",
+      "94.9  MHz",
+      "95.1  MHz",
+      "95.3  MHz",
+      "95.5  MHz",
+      "95.7  MHz",
+      "95.9  MHz",
+      "96.1  MHz",
+      "96.3  MHz",
+      "96.5  MHz",
+      "96.7  MHz",
+      "96.9  MHz",
+      "97.1  MHz",
+      "97.3  MHz",
+      "97.5  MHz",
+      "97.7  MHz",
+      "97.9  MHz",
+      "98.3  MHz",
+      "98.5  MHz",
+      "98.7  MHz",
+      "98.9  MHz",
+      "99.1  MHz",
+      "99.3  MHz",
+      "99.5  MHz",
+      "99.7  MHz",
+      "99.9  MHz",
+      "100.1 MHz",
+      "100.3 MHz",
+      "100.5 MHz",
+      "100.7 MHz",
+      "101.1 MHz",
+      "101.3 MHz",
+      "101.5 MHz",
+      "101.7 MHz",
+      "101.9 MHz",
+      "102.1 MHz",
+      "102.3 MHz",
+      "102.5 MHz",
+      "102.7 MHz",
+      "102.9 MHz",
+      "103.1 MHz",
+      "103.3 MHz",
+      "103.5 MHz",
+      "103.7 MHz",
+      "103.9 MHz",
+      "104.1 MHz",
+      "104.3 MHz",
+      "104.5 MHz",
+      "104.7 MHz",
+      "104.9 MHz",
+      "105.1 MHz",
+      "105.3 MHz",
+      "105.5 MHz",
+      "105.7 MHz",
+      "105.9 MHz",
+      "106.1 MHz",
+      "106.3 MHz",
+      "106.5 MHz",
+      "106.7 MHz",
+      "106.9 MHz",
+      "107.1 MHz",
+      "107.3 MHz",
+      "107.5 MHz",
+      "107.7 MHz",
+      "107.9 MHz",
+      "650   kHz",
+      "830   kHz",
+      "930   kHz",
+      "940   kHz",
+      "1030  kHz",
+      "1140  kHz",
+      "1210  kHz",
+      "1230  kHz",
+      "1240  kHz",
+      "1260  kHz",
+      "1290  kHz",
+      "1330  kHz",
+      "1340  kHz",
+      "1360  kHz",
+      "1400  kHz",
+      "1410  kHz",
+      "1450  kHz",
+      "1470  kHz",
+      "1480  kHz",
+      "1490  kHz",
+      "1580  kHz",
+      "1630  kHz"
+    ],
+    "owners": [
+      "AEROSTAR COMMUNICATIONS, LLC",
+      "ALPHA MEDIA LICENSEE LLC",
+      "APERIO RADIO, INC.",
+      "BIBLE BROADCASTING NETWORK, INC.",
+      "BIG THICKET BROADCASTING COMPANY OF WYOMING, INC.",
+      "BILL RAWLINGS",
+      "BOTT COMMUNICATIONS, INC.",
+      "BRAHMIN BROADCASTING CORPORATION",
+      "BRECK MEDIA GROUP WYOMING, INC.",
+      "BRIGHAM YOUNG UNIVERSITY-IDAHO",
+      "BUFFALO BAPTIST CHURCH",
+      "BUSINESS COUNCIL OF THE NORTHERN ARAPAHO TRIBE",
+      "CASPER 1 TV AT. HIGHER ELEVATION",
+      "CEDAR COVE BROADCASTING, INC.",
+      "CENTRAL WYOMING COLLEGE",
+      "CHURCH OF THE HOLY ROSARY",
+      "COCHISE BROADCASTING LLC",
+      "COCHISE MEDIA LICENSES LLC",
+      "COCHISE MEDIA LICENSES, LLC",
+      "COMMUNITY BROADCASTING, INC.",
+      "CSN INTERNATIONAL",
+      "CSN INTERNATIONAL, INC.",
+      "DIVINE MERCY RADIO",
+      "DOUGLAS BAPTIST CHURCH, INC.",
+      "DOUGLAS BROADCASTING, INC",
+      "DOUGLAS BROADCASTING, INC.",
+      "E MEDIA USA LLC",
+      "EDUCATIONAL MEDIA FOUNDATION",
+      "EDWARDS COMMUNICATIONS LC",
+      "FAITH BAPTIST CHURCH",
+      "FIRST PRESBYTERIAN CHURCH",
+      "FRANDSEN MEDIA COMPANY, LLC",
+      "FREISLAND BROADCASTING CORP.",
+      "GOSPEL MESSENGERS",
+      "HEART MOUNTAIN BROADCASTING LLC",
+      "HI-LINE RADIO FELLOWSHIP, INC",
+      "HI-LINE RADIO FELLOWSHIP, INC.",
+      "IHM LICENSES, LLC",
+      "JACKSON HOLE COMMUNITY RADIO, INCORPORATED",
+      "JACKSON HOLE RADIO, LLC",
+      "JERICHO BAPTIST CHURCH",
+      "K-LOVE, INC.",
+      "KAIROS BROADCASTING, LLC",
+      "KATH BROADCASTING CO, LLC",
+      "KATH BROADCASTING CO., LLC",
+      "KENT FRANDSEN",
+      "KEYHOLE BROADCASTING, LLC",
+      "LA RADIO MONTANESA: VOZ DE LA GENTE",
+      "LEGEND COMMUNICATIONS OF WYOMING, LLC",
+      "LET'S TALK RAWLINS, INC.",
+      "LOAM MEDIA, INC.",
+      "LOVCOM, INC.",
+      "LOWER STAR VALLEY T.V. ASSOCIATION",
+      "LOWER STAR VALLEY TV ASSOCIATION",
+      "LUSK TV CLUB",
+      "MAMMOTH COMMUNITY TV & ASSOCIATION",
+      "MAMMOTH COMMUNITY TV & FM ASSOC.",
+      "MAMMOTH COMMUNITY TV AND FM ASSOC.",
+      "MGR MEDIA, LLC",
+      "MONTANA STATE UNIVERSITY - BILLINGS",
+      "MONTGOMERY BROADCASTING L.L.C.",
+      "MONTGOMERY BROADCASTING, LLC",
+      "MORCOM BROADCASTING, LLC",
+      "MOUNTAIN COMMUNITY TRANSLATORS, LLC",
+      "MT.",
+      "MT. RUSHMORE BROADCASTING, INC.",
+      "NANETTE VALDEZ-SCHWARTZ",
+      "PAINT ROCK RADIO",
+      "PEAK RADIO LLC",
+      "PENSACOLA CHRISTIAN COLLEGE, INC.",
+      "PILOT BUTTE BROADCASTING LLC",
+      "PROSHOP RADIO BROADCASTING, LLC",
+      "REAL PRESENCE RADIO",
+      "RICH BROADCASTING IDAHO LS, LLC",
+      "RIVERTON BCNG CO., INC.",
+      "ROBERT R SPAIN",
+      "ROBERT RULE",
+      "SMITH BROADCASTING, INC.",
+      "SMITH BROADCASTING, INCORPORATED",
+      "SOVEREIGN GRACE BIBLE CHURCH",
+      "STAR VALLEY CHRISTIAN RADIO",
+      "SVI MEDIA, LLC",
+      "TED AUSTIN",
+      "TED W. AUSTIN, JR.",
+      "TETON COUNTY SCHOOL DISTRICT #1",
+      "TETON VILLAGE ASSOCIATION",
+      "THE FORT COLLINS/LAFAYETTE DIVESTITURE TRUST",
+      "THE MOODY BIBLE INSTITUTE OF CHICAGO",
+      "THE UNIVERSITY OF WYOMING",
+      "TOGA RADIO LLC",
+      "TOWNSQUARE LICENSE, LLC",
+      "TRI STATE COMMUNICATIONS, LLC",
+      "TRINITY BIBLE CHURCH",
+      "UNITED GAYS AND LESBIANS OF WYOMING DBA WYOMING EQUALITY",
+      "UNIVERSITY OF NORTHWESTERN - ST. PAUL",
+      "UNIVERSITY OF WYOMING",
+      "VAL COOK",
+      "WAGONWHEEL COMMUNICATIONS CORP",
+      "WAGONWHEEL COMMUNICATIONS CORPORATION",
+      "WCN, INC.",
+      "WESTERN INSPIRATIONAL BROADCASTERS, INC.",
+      "WESTERN WYOMING COMMUNITY COLLEGE",
+      "WIND RIVER BROADCASTING, INC.",
+      "WOLF CREEK RADIO BROADCASTING",
+      "WOLF CREEK RADIO BROADCASTING, LLC"
+    ],
+    "services": [
+      "AM",
+      "FB",
+      "FL",
+      "FM",
+      "FS",
+      "FX"
+    ]
+  }
+}

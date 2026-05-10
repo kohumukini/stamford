@@ -70,16 +70,21 @@ filterBarToggle.addEventListener('click', () => {
  */
 
 const STATION_MAP = {
+    id: (f) => f.properties.id,
     call_sign: (f) => f.properties.call_sign, 
     city: (f) => f.properties.city, 
     state: (f) => f.properties.state, 
+    frequency: (f) => f.properties.frequency, 
+    status: (f) => f.properties.status,
+    owner: (f) => f.properties.owner,
+    service: (f) => f.properties.owner,
 }
 
 // ==========================================
 // 4. Station Search & Dropdown Logic
 // ==========================================
 
-const data = ["Washington", "Arizona", "Utah", "Wyoming", "Montana", "California", "Florida", "Maine", "New York"]; 
+const data = []; 
 const limit = 8; 
 
 const input = document.getElementById("station-search");
@@ -168,8 +173,10 @@ function toggleMarkers() {
 // 6. Data Loading & Execution
 // ==========================================
 
-const allGenres = new Set(); 
 const allCities = new Set(); 
+const allFrequencies = new Set(); 
+const allServices = new Set(); 
+const allOwners = new Set(); 
 
 async function loadData() { 
     const filePath = './radio_data/wa_radio_stations.geojson'; 
@@ -185,7 +192,15 @@ async function loadData() {
 
         stations.features.forEach(station, () => {
             const city = STATION_MAP.city(station); 
-            const call_sign = STATION_MAP.
+            const frequency = STATION_MAP.frequency(station);
+            const service = STATION_MAP.service(station); 
+            const owner = STATION_MAP.owner(station); 
+
+            if (city) allCities.add(city); 
+            if (frequency) allFrequencies.add(frequency); 
+            if (service) allServices.add(service); 
+            if (owner) allOwners.add(owner); 
+
         })
 
         locationMarkersLayer.addData(stations); 

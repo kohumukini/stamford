@@ -1,0 +1,1489 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.666861,
+          39.757611
+        ]
+      },
+      "properties": {
+        "id": "90384",
+        "call_sign": "WMHS",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "RED CLAY CONSOLIDATED SCHOOL DISTRICT",
+        "city": "PIKE CREEK",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.579722,
+          38.891667
+        ]
+      },
+      "properties": {
+        "id": "90270",
+        "call_sign": "WKNZ",
+        "frequency": "88.7  MHz",
+        "service": "FM",
+        "owner": "THE BRIDGE OF HOPE, INC.",
+        "city": "HARRINGTON",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.662694,
+          39.677333
+        ]
+      },
+      "properties": {
+        "id": "73763",
+        "call_sign": "WXHL-FM",
+        "frequency": "89.1  MHz",
+        "service": "FM",
+        "owner": "PRIORITY RADIO, INC.",
+        "city": "CHRISTIANA",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.662694,
+          39.677333
+        ]
+      },
+      "properties": {
+        "id": "73763",
+        "call_sign": "WXHL-FM",
+        "frequency": "89.1  MHz",
+        "service": "FM",
+        "owner": "PRIORITY RADIO, INC.",
+        "city": "CHRISTIANA",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.507778,
+          39.013889
+        ]
+      },
+      "properties": {
+        "id": "175387",
+        "call_sign": "WDDE",
+        "frequency": "91.1  MHz",
+        "service": "FM",
+        "owner": "DELAWARE PUBLIC MEDIA CORPORATION",
+        "city": "DOVER",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.553611,
+          38.983611
+        ]
+      },
+      "properties": {
+        "id": "175387",
+        "call_sign": "WDDE",
+        "frequency": "91.1  MHz",
+        "service": "FM",
+        "owner": "DELAWARE PUBLIC MEDIA CORPORATION",
+        "city": "DOVER",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.756056,
+          39.690667
+        ]
+      },
+      "properties": {
+        "id": "69439",
+        "call_sign": "WVUD",
+        "frequency": "91.3  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF DELAWARE",
+        "city": "NEWARK",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.759444,
+          39.692778
+        ]
+      },
+      "properties": {
+        "id": "69439",
+        "call_sign": "WVUD",
+        "frequency": "91.3  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF DELAWARE",
+        "city": "NEWARK",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.564917,
+          39.200944
+        ]
+      },
+      "properties": {
+        "id": "65181",
+        "call_sign": "WRTX",
+        "frequency": "91.7  MHz",
+        "service": "FM",
+        "owner": "TEMPLE UNIVERSITY OF THE COMMONWEALTH SYSTEM OF HIGHER ED",
+        "city": "DOVER",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.182417,
+          38.725111
+        ]
+      },
+      "properties": {
+        "id": "89007",
+        "call_sign": "W219BZ",
+        "frequency": "91.7  MHz",
+        "service": "FX",
+        "owner": "BIBLE BROADCASTING NETWORK, INC.",
+        "city": "LEWES",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.506583,
+          39.773167
+        ]
+      },
+      "properties": {
+        "id": "6650",
+        "call_sign": "WMPH",
+        "frequency": "91.7  MHz",
+        "service": "FM",
+        "owner": "BRANDYWINE SCHOOL DIST, BRD OF EDUC",
+        "city": "WILMINGTON",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.723,
+          39.443722
+        ]
+      },
+      "properties": {
+        "id": "172314",
+        "call_sign": "WXHM",
+        "frequency": "91.9  MHz",
+        "service": "FM",
+        "owner": "PRIORITY RADIO, INC.",
+        "city": "MIDDLETOWN",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.139361,
+          38.422333
+        ]
+      },
+      "properties": {
+        "id": "28170",
+        "call_sign": "WLBW",
+        "frequency": "92.1  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "FENWICK ISLAND",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.139444,
+          38.422222
+        ]
+      },
+      "properties": {
+        "id": "28170",
+        "call_sign": "WLBW",
+        "frequency": "92.1  MHz",
+        "service": "FS",
+        "owner": "K-LOVE, INC.",
+        "city": "FENWICK ISLAND",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.199806,
+          38.704111
+        ]
+      },
+      "properties": {
+        "id": "55906",
+        "call_sign": "WGMD",
+        "frequency": "92.7  MHz",
+        "service": "FM",
+        "owner": "DATATECH DIGITAL LLC",
+        "city": "REHOBOTH BEACH",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.564917,
+          39.200944
+        ]
+      },
+      "properties": {
+        "id": "4676",
+        "call_sign": "WRDX",
+        "frequency": "92.9  MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "SMYRNA",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.233611,
+          38.626111
+        ]
+      },
+      "properties": {
+        "id": "151579",
+        "call_sign": "W226CW",
+        "frequency": "93.1  MHz",
+        "service": "FX",
+        "owner": "THE VOICE RADIO, LLC",
+        "city": "GEORGETOWN",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.297944,
+          38.524667
+        ]
+      },
+      "properties": {
+        "id": "25003",
+        "call_sign": "WZBH",
+        "frequency": "93.5  MHz",
+        "service": "FM",
+        "owner": "WBOC, INC.",
+        "city": "MILLSBORO",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.529361,
+          39.815944
+        ]
+      },
+      "properties": {
+        "id": "16459",
+        "call_sign": "WSTW",
+        "frequency": "93.7  MHz",
+        "service": "FM",
+        "owner": "WBOC, INC.",
+        "city": "WILMINGTON",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.529917,
+          39.816778
+        ]
+      },
+      "properties": {
+        "id": "16459",
+        "call_sign": "WSTW",
+        "frequency": "93.7  MHz",
+        "service": "FS",
+        "owner": "WBOC, INC.",
+        "city": "WILMINGTON",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.586306,
+          38.613167
+        ]
+      },
+      "properties": {
+        "id": "146617",
+        "call_sign": "W230CO",
+        "frequency": "93.9  MHz",
+        "service": "FX",
+        "owner": "RUBY J. LOPEZ",
+        "city": "SEAFORD",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.564917,
+          39.200944
+        ]
+      },
+      "properties": {
+        "id": "4669",
+        "call_sign": "WDSD",
+        "frequency": "94.7  MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "DOVER",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.564722,
+          39.201389
+        ]
+      },
+      "properties": {
+        "id": "4669",
+        "call_sign": "WDSD",
+        "frequency": "94.7  MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "DOVER",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.298194,
+          39.695361
+        ]
+      },
+      "properties": {
+        "id": "151086",
+        "call_sign": "W236EA",
+        "frequency": "95.1  MHz",
+        "service": "FX",
+        "owner": "LOUD MEDIA NJ LLC",
+        "city": "WILMINGTON",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.660472,
+          38.503444
+        ]
+      },
+      "properties": {
+        "id": "16661",
+        "call_sign": "WKDB",
+        "frequency": "95.3  MHz",
+        "service": "FM",
+        "owner": "THE VOICE RADIO, LLC",
+        "city": "LAUREL",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.541917,
+          39.742111
+        ]
+      },
+      "properties": {
+        "id": "196732",
+        "call_sign": "WHGE-LP",
+        "frequency": "95.3  MHz",
+        "service": "FL",
+        "owner": "AFRO-AMERICAN HISTORICAL SOCIETY OF DELAWARE",
+        "city": "WILMINGTON",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.488611,
+          38.928056
+        ]
+      },
+      "properties": {
+        "id": "151295",
+        "call_sign": "W271CX",
+        "frequency": "95.5  MHz",
+        "service": "FX",
+        "owner": "FM RADIO LICENSES, LLC",
+        "city": "MILFORD",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.139444,
+          38.422222
+        ]
+      },
+      "properties": {
+        "id": "4674",
+        "call_sign": "WKZP",
+        "frequency": "95.9  MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "BETHANY BEACH",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.539639,
+          39.135667
+        ]
+      },
+      "properties": {
+        "id": "132040",
+        "call_sign": "WIHW-LP",
+        "frequency": "96.1  MHz",
+        "service": "FL",
+        "owner": "CAPITOL BAPTIST CHURCH",
+        "city": "DOVER",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.53,
+          39.815611
+        ]
+      },
+      "properties": {
+        "id": "139424",
+        "call_sign": "W245CJ",
+        "frequency": "96.9  MHz",
+        "service": "FX",
+        "owner": "WBOC, INC.",
+        "city": "WILMINGTON",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.709944,
+          39.534556
+        ]
+      },
+      "properties": {
+        "id": "156585",
+        "call_sign": "W246BI",
+        "frequency": "97.1  MHz",
+        "service": "FX",
+        "owner": "FRANCIS TAFELSKI",
+        "city": "MIDDLETOWN",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.488528,
+          38.927611
+        ]
+      },
+      "properties": {
+        "id": "53482",
+        "call_sign": "WAFL",
+        "frequency": "97.7  MHz",
+        "service": "FM",
+        "owner": "FM RADIO LICENSES, LLC",
+        "city": "MILFORD",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.139361,
+          38.422333
+        ]
+      },
+      "properties": {
+        "id": "2200",
+        "call_sign": "WOCM",
+        "frequency": "98.1  MHz",
+        "service": "FM",
+        "owner": "IRIE RADIO, INC.",
+        "city": "SELBYVILLE",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.586306,
+          38.613167
+        ]
+      },
+      "properties": {
+        "id": "4340",
+        "call_sign": "WUSX",
+        "frequency": "98.5  MHz",
+        "service": "FM",
+        "owner": "DATATECH DIGITAL LLC",
+        "city": "SEAFORD",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.566028,
+          39.708722
+        ]
+      },
+      "properties": {
+        "id": "201388",
+        "call_sign": "W253CQ",
+        "frequency": "98.5  MHz",
+        "service": "FX",
+        "owner": "DELAWARE DEPARTMENT OF TRANSPORTATION",
+        "city": "WILMINGTON",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.121833,
+          38.7215
+        ]
+      },
+      "properties": {
+        "id": "192939",
+        "call_sign": "WWSX-LP",
+        "frequency": "99.1  MHz",
+        "service": "FL",
+        "owner": "EAST SUSSEX PUBLIC BROADCASTING COMPANY, INC.",
+        "city": "REHOBOTH BEACH",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.594222,
+          38.633806
+        ]
+      },
+      "properties": {
+        "id": "788193",
+        "call_sign": "WBOT-LP",
+        "frequency": "99.3  MHz",
+        "service": "FL",
+        "owner": "REACH OUT INC.",
+        "city": "SEAFORD",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.523806,
+          39.834
+        ]
+      },
+      "properties": {
+        "id": "14374",
+        "call_sign": "WVCW",
+        "frequency": "99.5  MHz",
+        "service": "FM",
+        "owner": "VCY AMERICA, INC.",
+        "city": "WILMINGTON",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.523806,
+          39.834
+        ]
+      },
+      "properties": {
+        "id": "14374",
+        "call_sign": "WVCW",
+        "frequency": "99.5  MHz",
+        "service": "FS",
+        "owner": "VCY AMERICA, INC.",
+        "city": "WILMINGTON",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.759583,
+          39.664306
+        ]
+      },
+      "properties": {
+        "id": "193728",
+        "call_sign": "WIZU-LP",
+        "frequency": "99.9  MHz",
+        "service": "FL",
+        "owner": "NEWARK COMMUNITY RADIO INC",
+        "city": "NEWARK",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.482722,
+          38.856139
+        ]
+      },
+      "properties": {
+        "id": "58763",
+        "call_sign": "WCHK-FM",
+        "frequency": "101.3 MHz",
+        "service": "FM",
+        "owner": "FM RADIO LICENSES, LLC",
+        "city": "MILFORD",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.29825,
+          38.523444
+        ]
+      },
+      "properties": {
+        "id": "53993",
+        "call_sign": "WZEB",
+        "frequency": "101.7 MHz",
+        "service": "FM",
+        "owner": "THE VOICE RADIO, LLC",
+        "city": "OCEAN VIEW",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.488611,
+          38.928056
+        ]
+      },
+      "properties": {
+        "id": "151295",
+        "call_sign": "W271CX",
+        "frequency": "102.1 MHz",
+        "service": "FX",
+        "owner": "FM RADIO LICENSES, LLC",
+        "city": "MILFORD",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.673194,
+          39.092556
+        ]
+      },
+      "properties": {
+        "id": "37475",
+        "call_sign": "WNJD",
+        "frequency": "102.3 MHz",
+        "service": "FM",
+        "owner": "MIGHTY VOICE BROADCASTING",
+        "city": "HARTLY",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.535278,
+          39.163333
+        ]
+      },
+      "properties": {
+        "id": "21076",
+        "call_sign": "W277AH",
+        "frequency": "103.3 MHz",
+        "service": "FX",
+        "owner": "K-LOVE, INC.",
+        "city": "DOVER",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.115722,
+          38.572611
+        ]
+      },
+      "properties": {
+        "id": "30858",
+        "call_sign": "WJKI-FM",
+        "frequency": "103.5 MHz",
+        "service": "FM",
+        "owner": "THE VOICE RADIO, LLC",
+        "city": "BETHANY BEACH",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.284083,
+          38.579278
+        ]
+      },
+      "properties": {
+        "id": "30858",
+        "call_sign": "WJKI-FM",
+        "frequency": "103.5 MHz",
+        "service": "FS",
+        "owner": "THE VOICE RADIO, LLC",
+        "city": "BETHANY BEACH",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.233528,
+          38.626222
+        ]
+      },
+      "properties": {
+        "id": "30858",
+        "call_sign": "WJKI-FM",
+        "frequency": "103.5 MHz",
+        "service": "FS",
+        "owner": "THE VOICE RADIO, LLC",
+        "city": "BETHANY BEACH",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.543889,
+          39.193333
+        ]
+      },
+      "properties": {
+        "id": "150268",
+        "call_sign": "W286BS",
+        "frequency": "105.1 MHz",
+        "service": "FX",
+        "owner": "EKO MEDIA GROUP, INC.",
+        "city": "MILFORD",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.216278,
+          38.643444
+        ]
+      },
+      "properties": {
+        "id": "53487",
+        "call_sign": "WXDE",
+        "frequency": "105.9 MHz",
+        "service": "FM",
+        "owner": "FM RADIO LICENSES, LLC",
+        "city": "LEWES",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.302944,
+          38.570389
+        ]
+      },
+      "properties": {
+        "id": "131943",
+        "call_sign": "WRBG-LP",
+        "frequency": "106.5 MHz",
+        "service": "FL",
+        "owner": "RHYTHM AND BLUES GROUP HARMONY ASSOCIATION, INC.",
+        "city": "MILLSBORO",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.543806,
+          39.193444
+        ]
+      },
+      "properties": {
+        "id": "37037",
+        "call_sign": "W294BN",
+        "frequency": "106.7 MHz",
+        "service": "FX",
+        "owner": "PRIORITY RADIO, INC.",
+        "city": "DOVER",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.610833,
+          38.654444
+        ]
+      },
+      "properties": {
+        "id": "200516",
+        "call_sign": "W294CH",
+        "frequency": "106.7 MHz",
+        "service": "FX",
+        "owner": "THE VOICE RADIO, LLC",
+        "city": "GEORGETOWN",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.523806,
+          39.834
+        ]
+      },
+      "properties": {
+        "id": "151209",
+        "call_sign": "W297CA",
+        "frequency": "107.3 MHz",
+        "service": "FX",
+        "owner": "PRIORITY RADIO, INC.",
+        "city": "WILMINGTON",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.566111,
+          39.708611
+        ]
+      },
+      "properties": {
+        "id": "142393",
+        "call_sign": "W299BH",
+        "frequency": "107.7 MHz",
+        "service": "FX",
+        "owner": "TEMPLE UNIVERSITY OF THE COMMONWEALTH SYSTEM OF HIGHER ED",
+        "city": "MARSHALLTON",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.663056,
+          39.400556
+        ]
+      },
+      "properties": {
+        "id": "787826",
+        "call_sign": "WVLV-LP",
+        "frequency": "107.7 MHz",
+        "service": "FL",
+        "owner": "PROJECT ANGEL COMMUNITY DEVELOPMENT CORPORATION",
+        "city": "TOWNSEND",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.404917,
+          38.707333
+        ]
+      },
+      "properties": {
+        "id": "25007",
+        "call_sign": "WJWL",
+        "frequency": "900   kHz",
+        "service": "AM",
+        "owner": "THE VOICE RADIO, LLC",
+        "city": "GEORGETOWN",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.404917,
+          38.707333
+        ]
+      },
+      "properties": {
+        "id": "25007",
+        "call_sign": "WJWL",
+        "frequency": "900   kHz",
+        "service": "AM",
+        "owner": "THE VOICE RADIO, LLC",
+        "city": "GEORGETOWN",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.488528,
+          38.927611
+        ]
+      },
+      "properties": {
+        "id": "53483",
+        "call_sign": "WNCL",
+        "frequency": "930   kHz",
+        "service": "AM",
+        "owner": "FM RADIO LICENSES, LLC",
+        "city": "MILFORD",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.488528,
+          38.927611
+        ]
+      },
+      "properties": {
+        "id": "53483",
+        "call_sign": "WNCL",
+        "frequency": "930   kHz",
+        "service": "AM",
+        "owner": "FM RADIO LICENSES, LLC",
+        "city": "MILFORD",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.529639,
+          39.815944
+        ]
+      },
+      "properties": {
+        "id": "16458",
+        "call_sign": "WDEL",
+        "frequency": "1150  kHz",
+        "service": "AM",
+        "owner": "WBOC, INC.",
+        "city": "WILMINGTON",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.529639,
+          39.815944
+        ]
+      },
+      "properties": {
+        "id": "16458",
+        "call_sign": "WDEL",
+        "frequency": "1150  kHz",
+        "service": "AM",
+        "owner": "WBOC, INC.",
+        "city": "WILMINGTON",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.586306,
+          38.613167
+        ]
+      },
+      "properties": {
+        "id": "4339",
+        "call_sign": "WSUX",
+        "frequency": "1280  kHz",
+        "service": "AM",
+        "owner": "RUBY LOPEZ",
+        "city": "SEAFORD",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.586306,
+          38.613167
+        ]
+      },
+      "properties": {
+        "id": "4339",
+        "call_sign": "WSUX",
+        "frequency": "1280  kHz",
+        "service": "AM",
+        "owner": "RUBY LOPEZ",
+        "city": "SEAFORD",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.528528,
+          39.734278
+        ]
+      },
+      "properties": {
+        "id": "14373",
+        "call_sign": "WWTX",
+        "frequency": "1290  kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "WILMINGTON",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.528528,
+          39.734278
+        ]
+      },
+      "properties": {
+        "id": "14373",
+        "call_sign": "WWTX",
+        "frequency": "1290  kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "WILMINGTON",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.607694,
+          39.700111
+        ]
+      },
+      "properties": {
+        "id": "48381",
+        "call_sign": "WTMC",
+        "frequency": "1380  kHz",
+        "service": "AM",
+        "owner": "DELAWARE DEPARTMENT OF TRANSPORTATION",
+        "city": "WILMINGTON",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.607694,
+          39.700111
+        ]
+      },
+      "properties": {
+        "id": "48381",
+        "call_sign": "WTMC",
+        "frequency": "1380  kHz",
+        "service": "AM",
+        "owner": "DELAWARE DEPARTMENT OF TRANSPORTATION",
+        "city": "WILMINGTON",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.564917,
+          39.200944
+        ]
+      },
+      "properties": {
+        "id": "4670",
+        "call_sign": "WDOV",
+        "frequency": "1410  kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "DOVER",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.564917,
+          39.200944
+        ]
+      },
+      "properties": {
+        "id": "4670",
+        "call_sign": "WDOV",
+        "frequency": "1410  kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "DOVER",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5285,
+          39.734222
+        ]
+      },
+      "properties": {
+        "id": "16438",
+        "call_sign": "WILM",
+        "frequency": "1450  kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "WILMINGTON",
+        "state": "DE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5285,
+          39.734222
+        ]
+      },
+      "properties": {
+        "id": "16438",
+        "call_sign": "WILM",
+        "frequency": "1450  kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "WILMINGTON",
+        "state": "DE"
+      }
+    }
+  ],
+  "metadata": {
+    "cities": [
+      "BETHANY BEACH",
+      "CHRISTIANA",
+      "DOVER",
+      "FENWICK ISLAND",
+      "GEORGETOWN",
+      "HARRINGTON",
+      "HARTLY",
+      "LAUREL",
+      "LEWES",
+      "MARSHALLTON",
+      "MIDDLETOWN",
+      "MILFORD",
+      "MILLSBORO",
+      "NEWARK",
+      "OCEAN VIEW",
+      "PIKE CREEK",
+      "REHOBOTH BEACH",
+      "SEAFORD",
+      "SELBYVILLE",
+      "SMYRNA",
+      "TOWNSEND",
+      "WILMINGTON"
+    ],
+    "frequencies": [
+      "88.1  MHz",
+      "88.7  MHz",
+      "89.1  MHz",
+      "91.1  MHz",
+      "91.3  MHz",
+      "91.7  MHz",
+      "91.9  MHz",
+      "92.1  MHz",
+      "92.7  MHz",
+      "92.9  MHz",
+      "93.1  MHz",
+      "93.5  MHz",
+      "93.7  MHz",
+      "93.9  MHz",
+      "94.7  MHz",
+      "95.1  MHz",
+      "95.3  MHz",
+      "95.5  MHz",
+      "95.9  MHz",
+      "96.1  MHz",
+      "96.9  MHz",
+      "97.1  MHz",
+      "97.7  MHz",
+      "98.1  MHz",
+      "98.5  MHz",
+      "99.1  MHz",
+      "99.3  MHz",
+      "99.5  MHz",
+      "99.9  MHz",
+      "101.3 MHz",
+      "101.7 MHz",
+      "102.1 MHz",
+      "102.3 MHz",
+      "103.3 MHz",
+      "103.5 MHz",
+      "105.1 MHz",
+      "105.9 MHz",
+      "106.5 MHz",
+      "106.7 MHz",
+      "107.3 MHz",
+      "107.7 MHz",
+      "900   kHz",
+      "930   kHz",
+      "1150  kHz",
+      "1280  kHz",
+      "1290  kHz",
+      "1380  kHz",
+      "1410  kHz",
+      "1450  kHz"
+    ],
+    "owners": [
+      "AFRO-AMERICAN HISTORICAL SOCIETY OF DELAWARE",
+      "BIBLE BROADCASTING NETWORK, INC.",
+      "BRANDYWINE SCHOOL DIST, BRD OF EDUC",
+      "CAPITOL BAPTIST CHURCH",
+      "DATATECH DIGITAL LLC",
+      "DELAWARE DEPARTMENT OF TRANSPORTATION",
+      "DELAWARE PUBLIC MEDIA CORPORATION",
+      "EAST SUSSEX PUBLIC BROADCASTING COMPANY, INC.",
+      "EKO MEDIA GROUP, INC.",
+      "FM RADIO LICENSES, LLC",
+      "FRANCIS TAFELSKI",
+      "IHM LICENSES, LLC",
+      "IRIE RADIO, INC.",
+      "K-LOVE, INC.",
+      "LOUD MEDIA NJ LLC",
+      "MIGHTY VOICE BROADCASTING",
+      "NEWARK COMMUNITY RADIO INC",
+      "PRIORITY RADIO, INC.",
+      "PROJECT ANGEL COMMUNITY DEVELOPMENT CORPORATION",
+      "REACH OUT INC.",
+      "RED CLAY CONSOLIDATED SCHOOL DISTRICT",
+      "RHYTHM AND BLUES GROUP HARMONY ASSOCIATION, INC.",
+      "RUBY J. LOPEZ",
+      "RUBY LOPEZ",
+      "TEMPLE UNIVERSITY OF THE COMMONWEALTH SYSTEM OF HIGHER ED",
+      "THE BRIDGE OF HOPE, INC.",
+      "THE VOICE RADIO, LLC",
+      "UNIVERSITY OF DELAWARE",
+      "VCY AMERICA, INC.",
+      "WBOC, INC."
+    ],
+    "services": [
+      "AM",
+      "FL",
+      "FM",
+      "FS",
+      "FX"
+    ]
+  }
+}
