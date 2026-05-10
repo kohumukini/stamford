@@ -72,13 +72,11 @@ let callsignData = null;
 let pathway = null; 
 
 function objectSearch(currentObject, targetKey, currentPath = []) {
-    Object.keys(currentObject).forEach(key, () => {
-        if (key == targetKey) {
-            return currentPath.push(key); 
-        }
+    if (currentObject.hasOwnProperty(targetKey)) return [...currentPath, targetKey];
 
+    Object.keys(currentObject).forEach(key, () => {
         if (typeof currentObject[key] == "object" && currentObject[key] !== null) {
-            const result = objectSearch(currentObject[key], targetKey, currentPath.push(key)); 
+            const result = objectSearch(currentObject[key], targetKey, [...currentPath, key]); 
             if (result !== null) return result; 
         }
     })
