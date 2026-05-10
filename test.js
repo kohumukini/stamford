@@ -66,31 +66,13 @@ filterBarToggle.addEventListener('click', () => {
 
 /**
  * @important Build validation functions later 
+ * @important Add other variables here later. 
  */
 
-let callsignData = null; 
-let pathway = null; 
-
-function objectSearch(currentObject, targetKey, currentPath = []) {
-    if (currentObject.hasOwnProperty(targetKey)) return [...currentPath, targetKey];
-
-    Object.keys(currentObject).forEach(key, () => {
-        if (typeof currentObject[key] == "object" && currentObject[key] !== null) {
-            const result = objectSearch(currentObject[key], targetKey, [...currentPath, key]); 
-            if (result !== null) return result; 
-        }
-    })
-
-    return null; 
-}
-
-function pathFinder(geoJsonObject, targetKey) {
-    firstFeature = geoJsonObject.features[0];
-    
-    pathInsideFeatures = deepSearch(geoJsonObject, targetKey); 
-
-    if (pathInsideFeatures == null) throw new Error("Key not found"); 
-    return pathInsideFeatures; 
+const STATION_MAP = {
+    call_sign: (f) => f.properties.call_sign, 
+    city: (f) => f.properties.city, 
+    state: (f) => f.properties.state, 
 }
 
 // ==========================================
@@ -186,7 +168,8 @@ function toggleMarkers() {
 // 6. Data Loading & Execution
 // ==========================================
 
-const KEYS_TO_FIND = ["call_sign"]
+const allGenres = new Set(); 
+const allCities = new Set(); 
 
 async function loadData() { 
     const filePath = './radio_data/wa_radio_stations.geojson'; 
@@ -199,6 +182,12 @@ async function loadData() {
         }
 
         stations = await response.json(); 
+
+        stations.features.forEach(station, () => {
+            const city = STATION_MAP.city(station); 
+            const call_sign = STATION_MAP.
+        })
+
         locationMarkersLayer.addData(stations); 
         console.log("GeoJSON data loaded and added to layer successfully!");
         

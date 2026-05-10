@@ -3,9 +3,15 @@ import requests
 import json
 import time
 import warnings
+
+from pathlib import Path
 warnings.filterwarnings("ignore")
 
 #Define variables
+current_dir = Path.cwd()
+target_directory = current_dir.parent / "radio_data"
+target_directory.mkdir(parents = True, exist_ok = True)
+
 def build_urls(state):
 
     FM_URL = f"https://transition.fcc.gov/fcc-bin/fmq?state={state}&call=&city=&freq=0.0&fre2=107.9&type=0&list=4&size=9&Nt=0&Nd=1"
@@ -46,8 +52,13 @@ def parse_stations(raw_text):
         
         try:
             call_sign = fields[0].strip()
+            frequency = fields[1].strip()
+            service = fields[2].strip()
+            status = fields[8].strip()
+            
             city = fields[9].strip()
             state = fields[10].strip()
+            facility_id = fields[17].strip()
 
             lat_dir = fields[18].strip()
             lat_deg = float(fields[19])
@@ -58,6 +69,8 @@ def parse_stations(raw_text):
             lon_deg = float(fields[23])
             lon_min = float(fields[24])
             lon_sec = float(fields[25])
+            
+            owner = fields[26].strip()
 
             if not call_sign or not city:
                 continue
@@ -71,7 +84,11 @@ def parse_stations(raw_text):
                 longitude = -longitude
                 
             stations.append ({
+                "facility_id": facility_id,
                 "call_sign": call_sign,
+                "frequency": frequency,
+                "service": service, 
+                "owner": owner,
                 "city": city,
                 "state": state,
                 "transmitter_location": {
@@ -133,7 +150,11 @@ def main():
                 ]
             },
             "properties": {
+                "id": station["facility_id"],
                 "call_sign": station["call_sign"],
+                "frequency": station["frequency"],
+                "service": station["service"],
+                "owner": station["owner"],
                 "city": station["city"],
                 "state": station["state"]
             }
@@ -141,7 +162,7 @@ def main():
         geoJson["features"].append(feature)
 
     #Save to file
-    output_file = f"{state.lower()}_radio_stations.geojson"
+    output_file = target_directory / f"{state.lower()}_radio_stations.geojson"
     with open(output_file, "w") as f:
         json.dump(geoJson, f, indent=2)
     
