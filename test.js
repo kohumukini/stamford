@@ -1,4 +1,11 @@
-// Map Initialization
+/**
+ * @important Consider splitting json files for organization for later sprints
+ */
+
+// ==========================================
+// 1. Map & Legend Initialization
+// ==========================================
+
 const map = L.map('map', { zoomControl: false }).setView([40, -95.46], 5);
 
 L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
@@ -19,14 +26,15 @@ L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
 
 */
 
-// Legend Initialization
 const legend = L.control({ position: "bottomright" }); 
 
-
-// Zoom Control
 L.control.zoom({
     position: 'topright'
 }).addTo(map); 
+
+// ==========================================
+// 2. UI Transitions & Animations
+// ==========================================
 
 // Filter Transitions 
 let reveals = document.querySelectorAll(".reveal");
@@ -52,7 +60,45 @@ filterBarToggle.addEventListener('click', () => {
     filterBar.classList.toggle('open');
 });
 
-// Section1 Dropdown
+// ==========================================
+// 3. Data Processing Utilities
+// ==========================================
+
+/**
+ * @important Build validation functions later 
+ */
+
+let callsignData = null; 
+let pathway = null; 
+
+function objectSearch(currentObject, targetKey, currentPath = []) {
+    Object.keys(currentObject).forEach(key, () => {
+        if (key == targetKey) {
+            return currentPath.push(key); 
+        }
+
+        if (typeof currentObject[key] == "object" && currentObject[key] !== null) {
+            const result = objectSearch(currentObject[key], targetKey, currentPath.push(key)); 
+            if (result !== null) return result; 
+        }
+    })
+
+    return null; 
+}
+
+function pathFinder(geoJsonObject, targetKey) {
+    firstFeature = geoJsonObject.features[0];
+    
+    pathInsideFeatures = deepSearch(geoJsonObject, targetKey); 
+
+    if (pathInsideFeatures == null) throw new Error("Key not found"); 
+    return pathInsideFeatures; 
+}
+
+// ==========================================
+// 4. Station Search & Dropdown Logic
+// ==========================================
+
 const data = ["Washington", "Arizona", "Utah", "Wyoming", "Montana", "California", "Florida", "Maine", "New York"]; 
 const limit = 8; 
 
@@ -91,7 +137,10 @@ document.addEventListener('click', (target) => {
     }
 })
 
-/* Leaflet mark*/ 
+// ==========================================
+// 5. Leaflet Layer Management
+// ==========================================
+
 /**
  * @important Make changes here in the future. This is hard-coded information
  */ 
@@ -99,28 +148,6 @@ let locationMarkersLayer = L.geoJSON();
 let stations = null; 
 let showMarkers = false; 
 let activeCircle = null; 
-
-
-async function loadData() { 
-    const filePath = './radio_data/wa_radio_stations.geojson'; 
-
-    try {
-        const response = await fetch(filePath); 
-        
-        if (!response.ok) {
-            throw new Error(`HTTP Error! Status: ${response.status}`); 
-        }
-
-        stations = await response.json(); 
-        locationMarkersLayer.addData(stations); 
-        console.log("GeoJSON data loaded and added to layer successfully!")
-        
-    } catch (error) {
-        console.log(`Couldn't load geojson data: ${error}`)
-    }
-}
-
-loadData();
 
 function showLocations() {
     locationMarkersLayer.addTo(map); 
@@ -156,3 +183,34 @@ function toggleMarkers() {
         map.flyTo([47.4, -121.5], 7);
     }
 }
+
+// ==========================================
+// 6. Data Loading & Execution
+// ==========================================
+
+const KEYS_TO_FIND = ["call_sign"]
+
+async function loadData() { 
+    const filePath = './radio_data/wa_radio_stations.geojson'; 
+
+    try {
+        const response = await fetch(filePath); 
+        
+        if (!response.ok) {
+            throw new Error(`HTTP Error! Status: ${response.status}`); 
+        }
+
+        stations = await response.json(); 
+        locationMarkersLayer.addData(stations); 
+        console.log("GeoJSON data loaded and added to layer successfully!");
+        
+    } catch (error) {
+        console.log(`Couldn't load geojson data: ${error}`)
+    }
+}
+
+loadData(); 
+
+// Path discovery call
+
+console.log(stations); 
