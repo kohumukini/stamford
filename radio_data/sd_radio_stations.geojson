@@ -1,0 +1,6123 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.503917,
+          45.47225
+        ]
+      },
+      "properties": {
+        "id": "768640",
+        "call_sign": "KFCA",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "AMERICAN CHRISTIAN RADIO, INC.",
+        "city": "ABERDEEN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.503917,
+          45.47225
+        ]
+      },
+      "properties": {
+        "id": "768640",
+        "call_sign": "KFCA",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "AMERICAN CHRISTIAN RADIO, INC.",
+        "city": "ABERDEEN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.503917,
+          45.47225
+        ]
+      },
+      "properties": {
+        "id": "768640",
+        "call_sign": "KFCA",
+        "frequency": "88.1  MHz",
+        "service": "FS",
+        "owner": "AMERICAN CHRISTIAN RADIO, INC.",
+        "city": "ABERDEEN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.847417,
+          44.656639
+        ]
+      },
+      "properties": {
+        "id": "62384",
+        "call_sign": "K201AP",
+        "frequency": "88.1  MHz",
+        "service": "FX",
+        "owner": "SOUTH DAKOTA BOARD OF DIRECTORS FOR ED TELECOMMUNICATIONS",
+        "city": "BELLE FOURCHE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.457972,
+          43.44275
+        ]
+      },
+      "properties": {
+        "id": "62386",
+        "call_sign": "K201AQ",
+        "frequency": "88.1  MHz",
+        "service": "FX",
+        "owner": "SOUTH DAKOTA BOARD OF DIRECTORS FOR ED TELECOMMUNICATIONS",
+        "city": "HOT SPRINGS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.244194,
+          44.342389
+        ]
+      },
+      "properties": {
+        "id": "93602",
+        "call_sign": "DDK209EM",
+        "frequency": "88.1  MHz",
+        "service": "FX",
+        "owner": "EDUCATIONAL MEDIA FOUNDATION",
+        "city": "HURON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.063417,
+          43.701361
+        ]
+      },
+      "properties": {
+        "id": "177168",
+        "call_sign": "KGRH",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "THE PRAISE NETWORK, INC.",
+        "city": "LOOMIS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.791528,
+          43.216944
+        ]
+      },
+      "properties": {
+        "id": "173502",
+        "call_sign": "KOYA",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "ROSEBUD SIOUX TRIBE",
+        "city": "ROSEBUD",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.738639,
+          43.526917
+        ]
+      },
+      "properties": {
+        "id": "42909",
+        "call_sign": "KRSD",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "MINNESOTA PUBLIC RADIO",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.228389,
+          44.336056
+        ]
+      },
+      "properties": {
+        "id": "58359",
+        "call_sign": "KESD",
+        "frequency": "88.3  MHz",
+        "service": "FM",
+        "owner": "SOUTH DAKOTA BOARD OF DIRECTORS FOR ED. TELECOMMUNICATIONS",
+        "city": "BROOKINGS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.352778,
+          44.311667
+        ]
+      },
+      "properties": {
+        "id": "767764",
+        "call_sign": "KCVP",
+        "frequency": "88.3  MHz",
+        "service": "FM",
+        "owner": "COMMUNITY BROADCASTING, INC.",
+        "city": "PIERRE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.834639,
+          44.328306
+        ]
+      },
+      "properties": {
+        "id": "88452",
+        "call_sign": "KLMP",
+        "frequency": "88.3  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF NORTHWESTERN - ST. PAUL",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.248528,
+          44.0925
+        ]
+      },
+      "properties": {
+        "id": "161655",
+        "call_sign": "KLMP-FM1",
+        "frequency": "88.3  MHz",
+        "service": "FB",
+        "owner": "UNIVERSITY OF NORTHWESTERN - ST. PAUL",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.248611,
+          44.0925
+        ]
+      },
+      "properties": {
+        "id": "88452",
+        "call_sign": "KLMP",
+        "frequency": "88.3  MHz",
+        "service": "FS",
+        "owner": "UNIVERSITY OF NORTHWESTERN - ST. PAUL",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.481,
+          43.74525
+        ]
+      },
+      "properties": {
+        "id": "62403",
+        "call_sign": "K203BN",
+        "frequency": "88.5  MHz",
+        "service": "FX",
+        "owner": "SOUTH DAKOTA BOARD OF DIRECTORS FOR ED TELECOMMUNICATIONS",
+        "city": "PRINGLE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.318417,
+          44.194167
+        ]
+      },
+      "properties": {
+        "id": "172376",
+        "call_sign": "KVCH",
+        "frequency": "88.7  MHz",
+        "service": "FM",
+        "owner": "VCY AMERICA INC.",
+        "city": "HURON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.835472,
+          44.327194
+        ]
+      },
+      "properties": {
+        "id": "62445",
+        "call_sign": "K204GC",
+        "frequency": "88.7  MHz",
+        "service": "FX",
+        "owner": "SOUTH DAKOTA BOARD OF DIRECTORS FOR ED TELECOMMUNICATIONS",
+        "city": "LEAD",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.652667,
+          42.829694
+        ]
+      },
+      "properties": {
+        "id": "176132",
+        "call_sign": "KVKR",
+        "frequency": "88.7  MHz",
+        "service": "FM",
+        "owner": "SOUTHERN CULTURAL FOUNDATION",
+        "city": "PINE RIDGE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.243806,
+          44.114444
+        ]
+      },
+      "properties": {
+        "id": "122161",
+        "call_sign": "K204FB",
+        "frequency": "88.7  MHz",
+        "service": "FX",
+        "owner": "LAKOTA COMMUNICATIONS, INC.",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.37625,
+          42.871194
+        ]
+      },
+      "properties": {
+        "id": "767513",
+        "call_sign": "KLRK",
+        "frequency": "88.7  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "YANKTON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.416472,
+          43.386639
+        ]
+      },
+      "properties": {
+        "id": "767462",
+        "call_sign": "KGGY",
+        "frequency": "88.9  MHz",
+        "service": "FM",
+        "owner": "THE PRAISE NETWORK, INC.",
+        "city": "GREGORY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.803167,
+          45.453583
+        ]
+      },
+      "properties": {
+        "id": "174859",
+        "call_sign": "KSJP",
+        "frequency": "88.9  MHz",
+        "service": "FM",
+        "owner": "REAL PRESENCE RADIO",
+        "city": "IPSWICH",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.768889,
+          44.339444
+        ]
+      },
+      "properties": {
+        "id": "149588",
+        "call_sign": "K206EQ",
+        "frequency": "89.1  MHz",
+        "service": "FX",
+        "owner": "VCY AMERICA, INC.",
+        "city": "BROOKINGS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.050833,
+          43.704417
+        ]
+      },
+      "properties": {
+        "id": "762343",
+        "call_sign": "KWSD",
+        "frequency": "89.1  MHz",
+        "service": "FM",
+        "owner": "SOUTH DAKOTA BOARD OF DIRECTORS FOR EDUCATIONAL TELECOMMUNICATIONS",
+        "city": "MITCHELL",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.358194,
+          44.425806
+        ]
+      },
+      "properties": {
+        "id": "90845",
+        "call_sign": "KVFL",
+        "frequency": "89.1  MHz",
+        "service": "FM",
+        "owner": "VCY AMERICA, INC.",
+        "city": "PIERRE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.738639,
+          43.526917
+        ]
+      },
+      "properties": {
+        "id": "3239",
+        "call_sign": "KAUR",
+        "frequency": "89.1  MHz",
+        "service": "FM",
+        "owner": "AUGUSTANA COLLEGE ASSOCIATION",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.87075,
+          44.496639
+        ]
+      },
+      "properties": {
+        "id": "5472",
+        "call_sign": "KBHU-FM",
+        "frequency": "89.1  MHz",
+        "service": "FM",
+        "owner": "BLACK HILLS STATE UNIVERSITY",
+        "city": "SPEARFISH",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.105333,
+          44.899111
+        ]
+      },
+      "properties": {
+        "id": "93041",
+        "call_sign": "KPGT",
+        "frequency": "89.1  MHz",
+        "service": "FM",
+        "owner": "HARVEST COMMUNITY BAPTIST CHURCH OF WATERTOWN SOUTH DAKOTA",
+        "city": "WATERTOWN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.186389,
+          44.482778
+        ]
+      },
+      "properties": {
+        "id": "767459",
+        "call_sign": "KGRL",
+        "frequency": "89.3  MHz",
+        "service": "FM",
+        "owner": "THE PRAISE NETWORK, INC.",
+        "city": "MILLER",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.244333,
+          44.052472
+        ]
+      },
+      "properties": {
+        "id": "58327",
+        "call_sign": "KBHE-FM",
+        "frequency": "89.3  MHz",
+        "service": "FM",
+        "owner": "SOUTH DAKOTA BOARD OF DIRECTORS FOR ED. TELECOMMUNICATIONS",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.592278,
+          43.617194
+        ]
+      },
+      "properties": {
+        "id": "77977",
+        "call_sign": "K208EX",
+        "frequency": "89.5  MHz",
+        "service": "FX",
+        "owner": "UNIVERSITY OF NORTHWESTERN - ST. PAUL",
+        "city": "BRANDON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.473389,
+          43.083028
+        ]
+      },
+      "properties": {
+        "id": "172838",
+        "call_sign": "KDKO",
+        "frequency": "89.5  MHz",
+        "service": "FM",
+        "owner": "NATIVE AMERICAN COMMUNITY BOARD, INC.",
+        "city": "LAKE ANDES",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.808722,
+          45.748306
+        ]
+      },
+      "properties": {
+        "id": "59762",
+        "call_sign": "KLND",
+        "frequency": "89.5  MHz",
+        "service": "FM",
+        "owner": "SEVENTH GENERATION MEDIA SVCS, INC.",
+        "city": "LITTLE EAGLE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.347056,
+          44.42025
+        ]
+      },
+      "properties": {
+        "id": "82017",
+        "call_sign": "K208FM",
+        "frequency": "89.5  MHz",
+        "service": "FX",
+        "owner": "THE MOODY BIBLE INSTITUTE OF CHICAGO",
+        "city": "PIERRE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.335833,
+          45.465833
+        ]
+      },
+      "properties": {
+        "id": "92651",
+        "call_sign": "K209FR",
+        "frequency": "89.7  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL, INC.",
+        "city": "ABERDEEN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.768944,
+          44.339417
+        ]
+      },
+      "properties": {
+        "id": "94117",
+        "call_sign": "K209DX",
+        "frequency": "89.7  MHz",
+        "service": "FX",
+        "owner": "FAMILY WORSHIP CENTER CHURCH, INC.",
+        "city": "BROOKINGS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.244194,
+          44.342389
+        ]
+      },
+      "properties": {
+        "id": "767500",
+        "call_sign": "KLUV",
+        "frequency": "89.7  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "HURON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9975,
+          43.703333
+        ]
+      },
+      "properties": {
+        "id": "91908",
+        "call_sign": "K209FX",
+        "frequency": "89.7  MHz",
+        "service": "FX",
+        "owner": "K-LOVE, INC.",
+        "city": "MITCHELL",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.786972,
+          43.049972
+        ]
+      },
+      "properties": {
+        "id": "58426",
+        "call_sign": "KUSD",
+        "frequency": "89.7  MHz",
+        "service": "FM",
+        "owner": "SOUTH DAKOTA BOARD OF DIRECTORS FOR ED. TELECOMMUNICATIONS",
+        "city": "VERMILLION",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.316222,
+          43.799722
+        ]
+      },
+      "properties": {
+        "id": "172515",
+        "call_sign": "KGRJ",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "THE PRAISE NETWORK, INC.",
+        "city": "CHAMBERLAIN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.834639,
+          44.328306
+        ]
+      },
+      "properties": {
+        "id": "90517",
+        "call_sign": "KJRC",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "REAL PRESENCE RADIO",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.060056,
+          45.563278
+        ]
+      },
+      "properties": {
+        "id": "171940",
+        "call_sign": "KXSW",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "CORPORATION FOR NATIVE BROADCASTING",
+        "city": "SISSETON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.504806,
+          45.47275
+        ]
+      },
+      "properties": {
+        "id": "122026",
+        "call_sign": "KEEA",
+        "frequency": "90.1  MHz",
+        "service": "FM",
+        "owner": "CHRISTIAN HERITAGE BROADCASTING, INC.",
+        "city": "ABERDEEN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.768889,
+          44.339444
+        ]
+      },
+      "properties": {
+        "id": "146399",
+        "call_sign": "K211GF",
+        "frequency": "90.1  MHz",
+        "service": "FX",
+        "owner": "REAL PRESENCE RADIO",
+        "city": "BROOKINGS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.939278,
+          44.985806
+        ]
+      },
+      "properties": {
+        "id": "65966",
+        "call_sign": "K211FQ",
+        "frequency": "90.1  MHz",
+        "service": "FX",
+        "owner": "THE MOODY BIBLE INSTITUTE OF CHICAGO",
+        "city": "GETTYSBURG",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.936028,
+          43.700722
+        ]
+      },
+      "properties": {
+        "id": "93575",
+        "call_sign": "K211GE",
+        "frequency": "90.1  MHz",
+        "service": "FX",
+        "owner": "FAMILY WORSHIP CENTER CHURCH, INC.",
+        "city": "MITCHELL",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.324028,
+          43.179972
+        ]
+      },
+      "properties": {
+        "id": "36443",
+        "call_sign": "KILI",
+        "frequency": "90.1  MHz",
+        "service": "FM",
+        "owner": "LAKOTA COMMUNICATIONS INC.",
+        "city": "PORCUPINE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.763722,
+          43.545083
+        ]
+      },
+      "properties": {
+        "id": "87828",
+        "call_sign": "KSFS",
+        "frequency": "90.1  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.107028,
+          44.860528
+        ]
+      },
+      "properties": {
+        "id": "93573",
+        "call_sign": "K211EC",
+        "frequency": "90.1  MHz",
+        "service": "FX",
+        "owner": "FAMILY WORSHIP CENTER CHURCH, INC.",
+        "city": "WATERTOWN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.408167,
+          44.371639
+        ]
+      },
+      "properties": {
+        "id": "174271",
+        "call_sign": "KSLP",
+        "frequency": "90.3  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF NORTHWESTERN - ST. PAUL",
+        "city": "FORT PIERRE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.25075,
+          44.070278
+        ]
+      },
+      "properties": {
+        "id": "88804",
+        "call_sign": "KASD",
+        "frequency": "90.3  MHz",
+        "service": "FM",
+        "owner": "COMMUNITY BROADCASTING, INC",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.945556,
+          45.019361
+        ]
+      },
+      "properties": {
+        "id": "171810",
+        "call_sign": "KJSD",
+        "frequency": "90.3  MHz",
+        "service": "FM",
+        "owner": "SOUTH DAKOTA BOARD OF DIRECTORS FOR EDUCATIONAL TELECOMMUNIC",
+        "city": "WATERTOWN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.442833,
+          43.489417
+        ]
+      },
+      "properties": {
+        "id": "92640",
+        "call_sign": "KVCF",
+        "frequency": "90.5  MHz",
+        "service": "FM",
+        "owner": "VCY AMERICA, INC.",
+        "city": "FREEMAN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.233611,
+          44.3375
+        ]
+      },
+      "properties": {
+        "id": "88553",
+        "call_sign": "K213CL",
+        "frequency": "90.5  MHz",
+        "service": "FX",
+        "owner": "THE MOODY BIBLE INSTITUTE OF CHICAGO",
+        "city": "HURON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.172861,
+          44.369139
+        ]
+      },
+      "properties": {
+        "id": "88553",
+        "call_sign": "K213CL",
+        "frequency": "90.5  MHz",
+        "service": "FX",
+        "owner": "THE MOODY BIBLE INSTITUTE OF CHICAGO",
+        "city": "HURON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.784194,
+          44.316889
+        ]
+      },
+      "properties": {
+        "id": "61073",
+        "call_sign": "KSDJ",
+        "frequency": "90.7  MHz",
+        "service": "FM",
+        "owner": "SOUTH DAKOTA STATE UNIVERSITY",
+        "city": "BROOKINGS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.734083,
+          43.369139
+        ]
+      },
+      "properties": {
+        "id": "62400",
+        "call_sign": "K214BN",
+        "frequency": "90.7  MHz",
+        "service": "FX",
+        "owner": "SOUTH DAKOTA BOARD OF DIRECTORS FOR ED TELECOMMUNICATIONS",
+        "city": "EDGEMONT",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.072861,
+          44.708861
+        ]
+      },
+      "properties": {
+        "id": "177344",
+        "call_sign": "KGHW",
+        "frequency": "90.7  MHz",
+        "service": "FM",
+        "owner": "RADIO 74 INTERNATIONALE",
+        "city": "ONIDA",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.834639,
+          44.328306
+        ]
+      },
+      "properties": {
+        "id": "92516",
+        "call_sign": "KJKT",
+        "frequency": "90.7  MHz",
+        "service": "FM",
+        "owner": "BLACK HILLS STATE UNIVERSITY",
+        "city": "SPEARFISH",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.834639,
+          44.328306
+        ]
+      },
+      "properties": {
+        "id": "92516",
+        "call_sign": "KJKT",
+        "frequency": "90.7  MHz",
+        "service": "FM",
+        "owner": "BLACK HILLS STATE UNIVERSITY",
+        "city": "SPEARFISH",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.537278,
+          42.908056
+        ]
+      },
+      "properties": {
+        "id": "93574",
+        "call_sign": "K214FC",
+        "frequency": "90.7  MHz",
+        "service": "FX",
+        "owner": "FAMILY WORSHIP CENTER CHURCH, INC.",
+        "city": "YANKTON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.481583,
+          43.744444
+        ]
+      },
+      "properties": {
+        "id": "90500",
+        "call_sign": "KWRC",
+        "frequency": "90.9  MHz",
+        "service": "FM",
+        "owner": "CSN INTERNATIONAL",
+        "city": "HERMOSA",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.046444,
+          43.697472
+        ]
+      },
+      "properties": {
+        "id": "62102",
+        "call_sign": "K215AI",
+        "frequency": "90.9  MHz",
+        "service": "FX",
+        "owner": "SOUTH DAKOTA BOARD OF DIRECTORS FOR ED. TELECOMMUNICATIONS",
+        "city": "MITCHELL",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.67675,
+          45.498556
+        ]
+      },
+      "properties": {
+        "id": "58324",
+        "call_sign": "KDSD-FM",
+        "frequency": "90.9  MHz",
+        "service": "FM",
+        "owner": "SOUTH DAKOTA BOARD OF DIRECTORS FOR ED. TELECOMMUNICATIONS",
+        "city": "PIERPONT",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.655583,
+          43.574417
+        ]
+      },
+      "properties": {
+        "id": "60485",
+        "call_sign": "KCSD",
+        "frequency": "90.9  MHz",
+        "service": "FM",
+        "owner": "SOUTH DAKOTA BOARD OF DIRECTORS FOR EDUCATIONAL TELECOMMUNIC",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.59925,
+          43.96525
+        ]
+      },
+      "properties": {
+        "id": "58326",
+        "call_sign": "KTSD-FM",
+        "frequency": "91.1  MHz",
+        "service": "FM",
+        "owner": "SOUTH DAKOTA BOARD OF DIRECTORS FOR ED. TELECOMMUNICATIONS",
+        "city": "RELIANCE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.924194,
+          42.783583
+        ]
+      },
+      "properties": {
+        "id": "66605",
+        "call_sign": "KAOR",
+        "frequency": "91.1  MHz",
+        "service": "FM",
+        "owner": "THE UNIVERSITY OF SOUTH DAKOTA",
+        "city": "VERMILLION",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.335833,
+          45.465833
+        ]
+      },
+      "properties": {
+        "id": "92767",
+        "call_sign": "K217GQ",
+        "frequency": "91.3  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL, INC.",
+        "city": "ABERDEEN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.442833,
+          43.489417
+        ]
+      },
+      "properties": {
+        "id": "175622",
+        "call_sign": "KSTJ",
+        "frequency": "91.3  MHz",
+        "service": "FM",
+        "owner": "REAL PRESENCE RADIO",
+        "city": "HARTFORD",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.225361,
+          44.361083
+        ]
+      },
+      "properties": {
+        "id": "58360",
+        "call_sign": "K217CE",
+        "frequency": "91.3  MHz",
+        "service": "FX",
+        "owner": "SOUTH DAKOTA BOARD OF DIRECTORS FOR ED. TELECOMMUNICATIONS",
+        "city": "HURON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2495,
+          44.088111
+        ]
+      },
+      "properties": {
+        "id": "172663",
+        "call_sign": "KTEQ-FM",
+        "frequency": "91.3  MHz",
+        "service": "FM",
+        "owner": "SOUTH DAKOTA SCHOOL OF MINES & TECHNOLOGY",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.52675,
+          45.451361
+        ]
+      },
+      "properties": {
+        "id": "58385",
+        "call_sign": "K219CM",
+        "frequency": "91.7  MHz",
+        "service": "FX",
+        "owner": "SOUTH DAKOTA BOARD OF DIRECTORS FOR ED. TELECOMMUNICATIONS",
+        "city": "ABERDEEN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.243889,
+          44.114444
+        ]
+      },
+      "properties": {
+        "id": "122160",
+        "call_sign": "K219LD",
+        "frequency": "91.7  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.986389,
+          45.277222
+        ]
+      },
+      "properties": {
+        "id": "58325",
+        "call_sign": "KQSD-FM",
+        "frequency": "91.9  MHz",
+        "service": "FM",
+        "owner": "SOUTH DAKOTA BOARD OF DIRECTORS FOR ED. TELECOMMUNICATIONS",
+        "city": "LOWRY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.891917,
+          44.484833
+        ]
+      },
+      "properties": {
+        "id": "174496",
+        "call_sign": "KYSD",
+        "frequency": "91.9  MHz",
+        "service": "FM",
+        "owner": "SOUTH DAKOTA BOARD OF DIRECTORS FOR EDUCATIONAL TELECOMMUNIC",
+        "city": "SPEARFISH",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.105889,
+          44.906333
+        ]
+      },
+      "properties": {
+        "id": "138402",
+        "call_sign": "K220IT",
+        "frequency": "91.9  MHz",
+        "service": "FX",
+        "owner": "UNIVERSITY OF NORTHWESTERN - ST. PAUL",
+        "city": "WATERTOWN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.105889,
+          44.906333
+        ]
+      },
+      "properties": {
+        "id": "138402",
+        "call_sign": "K220IT",
+        "frequency": "91.9  MHz",
+        "service": "FX",
+        "owner": "UNIVERSITY OF NORTHWESTERN - ST. PAUL",
+        "city": "WATERTOWN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.537222,
+          42.908056
+        ]
+      },
+      "properties": {
+        "id": "81221",
+        "call_sign": "K220FV",
+        "frequency": "91.9  MHz",
+        "service": "FX",
+        "owner": "THE PRAISE NETWORK, INC.",
+        "city": "YANKTON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.997583,
+          43.703306
+        ]
+      },
+      "properties": {
+        "id": "15267",
+        "call_sign": "KORN-FM",
+        "frequency": "92.1  MHz",
+        "service": "FM",
+        "owner": "NEDVED MEDIA, LLC",
+        "city": "PARKSTON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.868417,
+          43.301361
+        ]
+      },
+      "properties": {
+        "id": "86756",
+        "call_sign": "K222AL",
+        "frequency": "92.3  MHz",
+        "service": "FX",
+        "owner": "THE PRAISE NETWORK, INC.",
+        "city": "PLATTE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.251028,
+          44.068611
+        ]
+      },
+      "properties": {
+        "id": "78167",
+        "call_sign": "KQRQ",
+        "frequency": "92.3  MHz",
+        "service": "FM",
+        "owner": "RIVERFRONT BROADCASTING, LLC",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.251028,
+          44.068611
+        ]
+      },
+      "properties": {
+        "id": "78167",
+        "call_sign": "KQRQ",
+        "frequency": "92.3  MHz",
+        "service": "FM",
+        "owner": "RIVERFRONT BROADCASTING, LLC",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.535056,
+          43.518583
+        ]
+      },
+      "properties": {
+        "id": "41972",
+        "call_sign": "KTWB",
+        "frequency": "92.5  MHz",
+        "service": "FM",
+        "owner": "MIDWEST COMMUNICATIONS, INC.",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.577222,
+          43.503056
+        ]
+      },
+      "properties": {
+        "id": "41972",
+        "call_sign": "KTWB",
+        "frequency": "92.5  MHz",
+        "service": "FS",
+        "owner": "MIDWEST COMMUNICATIONS, INC.",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.835194,
+          44.492472
+        ]
+      },
+      "properties": {
+        "id": "153466",
+        "call_sign": "K223BT",
+        "frequency": "92.5  MHz",
+        "service": "FX",
+        "owner": "SPEARFISH RADIO, INC.",
+        "city": "SPEARFISH",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.455194,
+          43.419417
+        ]
+      },
+      "properties": {
+        "id": "196386",
+        "call_sign": "KJFP-LP",
+        "frequency": "92.7  MHz",
+        "service": "FL",
+        "owner": "JOY COMMUNITY FELLOWSHIP SBC",
+        "city": "HOT SPRINGS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.347361,
+          44.308306
+        ]
+      },
+      "properties": {
+        "id": "56818",
+        "call_sign": "KGFX-FM",
+        "frequency": "92.7  MHz",
+        "service": "FM",
+        "owner": "JAMES RIVER BROADCASTING COMPANY",
+        "city": "PIERRE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.652111,
+          43.033583
+        ]
+      },
+      "properties": {
+        "id": "194128",
+        "call_sign": "KJCD-LP",
+        "frequency": "92.9  MHz",
+        "service": "FL",
+        "owner": "RESTORATION RADIO MINISTRIES, INC",
+        "city": "PINE RIDGE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.635306,
+          43.53025
+        ]
+      },
+      "properties": {
+        "id": "194864",
+        "call_sign": "KRWH-LP",
+        "frequency": "92.9  MHz",
+        "service": "FL",
+        "owner": "WORDS OF HOPE MEDIA",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.987833,
+          45.175222
+        ]
+      },
+      "properties": {
+        "id": "20433",
+        "call_sign": "KSDR-FM",
+        "frequency": "92.9  MHz",
+        "service": "FM",
+        "owner": "ALPHA 3E LICENSEE LLC",
+        "city": "WATERTOWN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.539333,
+          44.33275
+        ]
+      },
+      "properties": {
+        "id": "9668",
+        "call_sign": "KRCS",
+        "frequency": "93.1  MHz",
+        "service": "FM",
+        "owner": "HOMESLICE MEDIA GROUP, LLC",
+        "city": "STURGIS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.403944,
+          42.73025
+        ]
+      },
+      "properties": {
+        "id": "60863",
+        "call_sign": "KKYA",
+        "frequency": "93.1  MHz",
+        "service": "FM",
+        "owner": "RIVERFRONT BROADCASTING LLC",
+        "city": "YANKTON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.796444,
+          43.55775
+        ]
+      },
+      "properties": {
+        "id": "94138",
+        "call_sign": "K227CZ",
+        "frequency": "93.3  MHz",
+        "service": "FX",
+        "owner": "CUP O' DIRT, LLC",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.318417,
+          44.194167
+        ]
+      },
+      "properties": {
+        "id": "89615",
+        "call_sign": "KJRV",
+        "frequency": "93.3  MHz",
+        "service": "FM",
+        "owner": "RIVERFRONT BROADCASTING, LLC",
+        "city": "WESSINGTON SPRINGS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.239861,
+          45.025528
+        ]
+      },
+      "properties": {
+        "id": "199400",
+        "call_sign": "KIPI",
+        "frequency": "93.5  MHz",
+        "service": "FM",
+        "owner": "CHEYENNE RIVER SIOUX TRIBE",
+        "city": "EAGLE BUTTE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.154778,
+          44.339389
+        ]
+      },
+      "properties": {
+        "id": "15261",
+        "call_sign": "KBRK-FM",
+        "frequency": "93.7  MHz",
+        "service": "FM",
+        "owner": "ALPHA 3E LICENSEE LLC",
+        "city": "BROOKINGS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.461417,
+          42.506389
+        ]
+      },
+      "properties": {
+        "id": "139165",
+        "call_sign": "K229BK",
+        "frequency": "93.7  MHz",
+        "service": "FX",
+        "owner": "UNIVERSITY OF NORTHWESTERN-ST. PAUL",
+        "city": "NORTH SIOUX CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.652667,
+          42.829694
+        ]
+      },
+      "properties": {
+        "id": "164093",
+        "call_sign": "KVAR",
+        "frequency": "93.7  MHz",
+        "service": "FM",
+        "owner": "ALLEYCAT COMMUNICATIONS",
+        "city": "PINE RIDGE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.867611,
+          43.296111
+        ]
+      },
+      "properties": {
+        "id": "42109",
+        "call_sign": "KWYR-FM",
+        "frequency": "93.7  MHz",
+        "service": "FM",
+        "owner": "MIDWEST RADIO CORP.",
+        "city": "WINNER",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.246306,
+          44.046944
+        ]
+      },
+      "properties": {
+        "id": "61325",
+        "call_sign": "KKMK",
+        "frequency": "93.9  MHz",
+        "service": "FM",
+        "owner": "HOMESLICE MEDIA GROUP, LLC",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.517306,
+          45.423861
+        ]
+      },
+      "properties": {
+        "id": "25118",
+        "call_sign": "KSDN-FM",
+        "frequency": "94.1  MHz",
+        "service": "FM",
+        "owner": "PRAIRIE WINDS BROADCASTING, INC.",
+        "city": "ABERDEEN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.020361,
+          43.716361
+        ]
+      },
+      "properties": {
+        "id": "139171",
+        "call_sign": "K231AR",
+        "frequency": "94.1  MHz",
+        "service": "FX",
+        "owner": "UNIVERSITY OF NORTHWESTERN-ST. PAUL",
+        "city": "MITCHELL",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.517306,
+          45.423861
+        ]
+      },
+      "properties": {
+        "id": "146394",
+        "call_sign": "K233BN",
+        "frequency": "94.5  MHz",
+        "service": "FX",
+        "owner": "PRAIRIE WINDS BROADCASTING, INC.",
+        "city": "ABERDEEN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.197778,
+          43.850278
+        ]
+      },
+      "properties": {
+        "id": "779412",
+        "call_sign": "KHFJ-LP",
+        "frequency": "94.5  MHz",
+        "service": "FL",
+        "owner": "HERMOSA LIFE STYLE RADIO CORPORATION",
+        "city": "HERMOSA",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6965,
+          43.9075
+        ]
+      },
+      "properties": {
+        "id": "40635",
+        "call_sign": "KPLO-FM",
+        "frequency": "94.5  MHz",
+        "service": "FM",
+        "owner": "JAMES RIVER BROADCASTING COMPANY",
+        "city": "RELIANCE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.613111,
+          43.641361
+        ]
+      },
+      "properties": {
+        "id": "60487",
+        "call_sign": "KGWD",
+        "frequency": "94.5  MHz",
+        "service": "FM",
+        "owner": "REAL PRESENCE RADIO",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.246306,
+          44.046944
+        ]
+      },
+      "properties": {
+        "id": "153441",
+        "call_sign": "K234BR",
+        "frequency": "94.7  MHz",
+        "service": "FX",
+        "owner": "REAL PRESENCE RADIO",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.335917,
+          45.465806
+        ]
+      },
+      "properties": {
+        "id": "9672",
+        "call_sign": "KLRJ",
+        "frequency": "94.9  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "ABERDEEN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.335917,
+          45.465806
+        ]
+      },
+      "properties": {
+        "id": "9672",
+        "call_sign": "KLRJ",
+        "frequency": "94.9  MHz",
+        "service": "FS",
+        "owner": "K-LOVE, INC.",
+        "city": "ABERDEEN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.836583,
+          44.33025
+        ]
+      },
+      "properties": {
+        "id": "3041",
+        "call_sign": "KSQY",
+        "frequency": "95.1  MHz",
+        "service": "FM",
+        "owner": "HAUGO BROADCASTING, INC.",
+        "city": "DEADWOOD",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.639583,
+          45.194417
+        ]
+      },
+      "properties": {
+        "id": "200514",
+        "call_sign": "K236CU",
+        "frequency": "95.1  MHz",
+        "service": "FX",
+        "owner": "PRAIRIE WINDS BROADCASTING, INC.",
+        "city": "MILBANK",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.260194,
+          44.021944
+        ]
+      },
+      "properties": {
+        "id": "137498",
+        "call_sign": "KSQY-FM1",
+        "frequency": "95.1  MHz",
+        "service": "FB",
+        "owner": "HAUGO BROADCASTING, INC.",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.155083,
+          44.303861
+        ]
+      },
+      "properties": {
+        "id": "148215",
+        "call_sign": "K237EL",
+        "frequency": "95.3  MHz",
+        "service": "FX",
+        "owner": "RIVERFRONT BROADCASTING, LLC",
+        "city": "HURON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.352917,
+          44.311639
+        ]
+      },
+      "properties": {
+        "id": "60860",
+        "call_sign": "KLXS-FM",
+        "frequency": "95.3  MHz",
+        "service": "FM",
+        "owner": "RIVERFRONT",
+        "city": "PIERRE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.784194,
+          44.316889
+        ]
+      },
+      "properties": {
+        "id": "142001",
+        "call_sign": "K238AX",
+        "frequency": "95.5  MHz",
+        "service": "FX",
+        "owner": "MINNESOTA PUBLIC RADIO",
+        "city": "BROOKINGS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.063417,
+          43.701361
+        ]
+      },
+      "properties": {
+        "id": "148217",
+        "call_sign": "K238BA",
+        "frequency": "95.5  MHz",
+        "service": "FX",
+        "owner": "SAGA COMMUNICATIONS OF SOUTH DAKOTA, LLC",
+        "city": "MITCHELL",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.807833,
+          43.763306
+        ]
+      },
+      "properties": {
+        "id": "76903",
+        "call_sign": "KELO-FM",
+        "frequency": "95.7  MHz",
+        "service": "FM",
+        "owner": "MIDWEST COMMUNICATIONS, INC.",
+        "city": "DELL RAPIDS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.726389,
+          43.542222
+        ]
+      },
+      "properties": {
+        "id": "76903",
+        "call_sign": "KELO-FM",
+        "frequency": "95.7  MHz",
+        "service": "FS",
+        "owner": "MIDWEST COMMUNICATIONS, INC.",
+        "city": "DELL RAPIDS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.835472,
+          44.326361
+        ]
+      },
+      "properties": {
+        "id": "38630",
+        "call_sign": "KZZI",
+        "frequency": "95.9  MHz",
+        "service": "FM",
+        "owner": "RIVERFRONT BROADCASTING, LLC",
+        "city": "BELLE FOURCHE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.987833,
+          45.175222
+        ]
+      },
+      "properties": {
+        "id": "60861",
+        "call_sign": "KIXX",
+        "frequency": "96.1  MHz",
+        "service": "FM",
+        "owner": "ALPHA 3E LICENSEE LLC",
+        "city": "WATERTOWN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.457972,
+          43.44275
+        ]
+      },
+      "properties": {
+        "id": "46712",
+        "call_sign": "KZMX-FM",
+        "frequency": "96.3  MHz",
+        "service": "FM",
+        "owner": "MT. RUSHMORE BROADCASTING, INC.",
+        "city": "HOT SPRINGS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.343472,
+          44.38275
+        ]
+      },
+      "properties": {
+        "id": "58386",
+        "call_sign": "K242CH",
+        "frequency": "96.3  MHz",
+        "service": "FX",
+        "owner": "SOUTH DAKOTA BOARD OF DIRECTORS FOR ED. TELECOMMUNICATIONS",
+        "city": "PIERRE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.251028,
+          44.068611
+        ]
+      },
+      "properties": {
+        "id": "158530",
+        "call_sign": "K242BK",
+        "frequency": "96.3  MHz",
+        "service": "FX",
+        "owner": "RIVERFRONT BROADCASTING, LLC",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.439333,
+          44.073444
+        ]
+      },
+      "properties": {
+        "id": "196435",
+        "call_sign": "KZZE-LP",
+        "frequency": "96.5  MHz",
+        "service": "FL",
+        "owner": "CROW CREEK SIOUX TRIBE",
+        "city": "FORT THOMPSON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.535056,
+          43.518583
+        ]
+      },
+      "properties": {
+        "id": "49776",
+        "call_sign": "KNWC-FM",
+        "frequency": "96.5  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF NORTHWESTERN-ST. PAUL",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.784778,
+          43.487194
+        ]
+      },
+      "properties": {
+        "id": "49776",
+        "call_sign": "KNWC-FM",
+        "frequency": "96.5  MHz",
+        "service": "FS",
+        "owner": "UNIVERSITY OF NORTHWESTERN-ST. PAUL",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.835194,
+          44.492472
+        ]
+      },
+      "properties": {
+        "id": "142015",
+        "call_sign": "K245BD",
+        "frequency": "96.9  MHz",
+        "service": "FX",
+        "owner": "SPEARFISH RADIO, INC.",
+        "city": "SPEARFISH",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.589778,
+          44.965778
+        ]
+      },
+      "properties": {
+        "id": "60865",
+        "call_sign": "KDLO-FM",
+        "frequency": "96.9  MHz",
+        "service": "FM",
+        "owner": "ALPHA 3E LICENSEE LLC",
+        "city": "WATERTOWN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.316444,
+          42.912778
+        ]
+      },
+      "properties": {
+        "id": "202251",
+        "call_sign": "K245DA",
+        "frequency": "96.9  MHz",
+        "service": "FX",
+        "owner": "SAGA COMMUNICATIONS OF SOUTH DAKOTA, LLC",
+        "city": "YANKTON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.2635,
+          45.053861
+        ]
+      },
+      "properties": {
+        "id": "62385",
+        "call_sign": "KPSD-FM",
+        "frequency": "97.1  MHz",
+        "service": "FM",
+        "owner": "SOUTH DAKOTA BOARD OF DIRECTORS FOR ED. TELECOMMUNICATIONS",
+        "city": "FAITH",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.087556,
+          43.729417
+        ]
+      },
+      "properties": {
+        "id": "64711",
+        "call_sign": "KKRC-FM",
+        "frequency": "97.3  MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.639222,
+          43.592472
+        ]
+      },
+      "properties": {
+        "id": "64711",
+        "call_sign": "KKRC-FM",
+        "frequency": "97.3  MHz",
+        "service": "FS",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.246306,
+          44.046944
+        ]
+      },
+      "properties": {
+        "id": "85678",
+        "call_sign": "K248BT",
+        "frequency": "97.5  MHz",
+        "service": "FX",
+        "owner": "HOMESLICE MEDIA GROUP, LLC",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.867611,
+          43.296111
+        ]
+      },
+      "properties": {
+        "id": "202099",
+        "call_sign": "K248DI",
+        "frequency": "97.5  MHz",
+        "service": "FX",
+        "owner": "MIDWEST RADIO CORP.",
+        "city": "WINNER",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.672611,
+          45.208306
+        ]
+      },
+      "properties": {
+        "id": "84240",
+        "call_sign": "KNBZ",
+        "frequency": "97.7  MHz",
+        "service": "FM",
+        "owner": "PRAIRIE WINDS BROADCASTING, INC.",
+        "city": "REDFIELD",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.834639,
+          44.328306
+        ]
+      },
+      "properties": {
+        "id": "21637",
+        "call_sign": "KVPC",
+        "frequency": "97.9  MHz",
+        "service": "FM",
+        "owner": "VCY AMERICA, INC.",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.248528,
+          44.0925
+        ]
+      },
+      "properties": {
+        "id": "158780",
+        "call_sign": "KVPC-FM1",
+        "frequency": "97.9  MHz",
+        "service": "FB",
+        "owner": "VCY AMERICA, INC.",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.083167,
+          44.849111
+        ]
+      },
+      "properties": {
+        "id": "149609",
+        "call_sign": "K251CX",
+        "frequency": "98.1  MHz",
+        "service": "FX",
+        "owner": "PRAIRIE WINDS BROADCASTING, INC.",
+        "city": "MILBANK",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.988333,
+          45.104722
+        ]
+      },
+      "properties": {
+        "id": "149609",
+        "call_sign": "K251CX",
+        "frequency": "98.1  MHz",
+        "service": "FX",
+        "owner": "PRAIRIE WINDS BROADCASTING, INC.",
+        "city": "MILBANK",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.577222,
+          43.503056
+        ]
+      },
+      "properties": {
+        "id": "77798",
+        "call_sign": "K251BH",
+        "frequency": "98.1  MHz",
+        "service": "FX",
+        "owner": "MIDWEST COMMUNICATIONS, INC.",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.412583,
+          43.759167
+        ]
+      },
+      "properties": {
+        "id": "42113",
+        "call_sign": "KUQL",
+        "frequency": "98.3  MHz",
+        "service": "FM",
+        "owner": "SAGA COMMUNICATIONS OF SOUTH DAKOTA, LLC",
+        "city": "ETHAN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.047556,
+          43.704972
+        ]
+      },
+      "properties": {
+        "id": "42113",
+        "call_sign": "KUQL",
+        "frequency": "98.3  MHz",
+        "service": "FS",
+        "owner": "SAGA COMMUNICATIONS OF SOUTH DAKOTA, LLC",
+        "city": "ETHAN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.476667,
+          43.456667
+        ]
+      },
+      "properties": {
+        "id": "202299",
+        "call_sign": "K252GD",
+        "frequency": "98.3  MHz",
+        "service": "FX",
+        "owner": "MT.",
+        "city": "HOT SPRINGS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.244722,
+          44.04
+        ]
+      },
+      "properties": {
+        "id": "132282",
+        "call_sign": "KFND-LP",
+        "frequency": "98.3  MHz",
+        "service": "FL",
+        "owner": "CALVARY CHAPEL OF THE BLACK HILLS",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.835194,
+          44.492472
+        ]
+      },
+      "properties": {
+        "id": "9660",
+        "call_sign": "K252DN",
+        "frequency": "98.3  MHz",
+        "service": "FX",
+        "owner": "HOMESLICE MEDIA GROUP, LLC",
+        "city": "SPEARFISH",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.337861,
+          45.461361
+        ]
+      },
+      "properties": {
+        "id": "72908",
+        "call_sign": "K253AB",
+        "frequency": "98.5  MHz",
+        "service": "FX",
+        "owner": "PRAIRIE WINDS BROADCASTING, INC.",
+        "city": "ABERDEEN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.517222,
+          45.423889
+        ]
+      },
+      "properties": {
+        "id": "72908",
+        "call_sign": "K253AB",
+        "frequency": "98.5  MHz",
+        "service": "FX",
+        "owner": "PRAIRIE WINDS BROADCASTING, INC.",
+        "city": "ABERDEEN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.25075,
+          44.070278
+        ]
+      },
+      "properties": {
+        "id": "14642",
+        "call_sign": "KOUT",
+        "frequency": "98.7  MHz",
+        "service": "FM",
+        "owner": "HOMESLICE MEDIA GROUP, LLC",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.352917,
+          44.311639
+        ]
+      },
+      "properties": {
+        "id": "200636",
+        "call_sign": "K255DE",
+        "frequency": "98.9  MHz",
+        "service": "FX",
+        "owner": "RIVERFRONT BROADCASTING, LLC",
+        "city": "PIERRE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.805611,
+          43.376639
+        ]
+      },
+      "properties": {
+        "id": "162271",
+        "call_sign": "KSOO-FM",
+        "frequency": "99.1  MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "LENNOX",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.945639,
+          45.019417
+        ]
+      },
+      "properties": {
+        "id": "15262",
+        "call_sign": "KXLG",
+        "frequency": "99.1  MHz",
+        "service": "FM",
+        "owner": "TMRG BROADCASTING, LLC",
+        "city": "MILBANK",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.764361,
+          43.856639
+        ]
+      },
+      "properties": {
+        "id": "89114",
+        "call_sign": "KRKI",
+        "frequency": "99.5  MHz",
+        "service": "FM",
+        "owner": "MID-CENTURY RADIO",
+        "city": "KEYSTONE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.063417,
+          43.701361
+        ]
+      },
+      "properties": {
+        "id": "83352",
+        "call_sign": "K258AG",
+        "frequency": "99.5  MHz",
+        "service": "FX",
+        "owner": "VCY AMERICA, INC.",
+        "city": "MITCHELL",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.34625,
+          45.535278
+        ]
+      },
+      "properties": {
+        "id": "43329",
+        "call_sign": "KOLY-FM",
+        "frequency": "99.5  MHz",
+        "service": "FM",
+        "owner": "JAMES RIVER BROADCASTING COMPANY",
+        "city": "MOBRIDGE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.248528,
+          44.0925
+        ]
+      },
+      "properties": {
+        "id": "164915",
+        "call_sign": "KRKI-FM1",
+        "frequency": "99.5  MHz",
+        "service": "FB",
+        "owner": "MID-CENTURY RADIO",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.169,
+          45.666667
+        ]
+      },
+      "properties": {
+        "id": "183354",
+        "call_sign": "KJKQ",
+        "frequency": "99.5  MHz",
+        "service": "FM",
+        "owner": "PRAIRIE WINDS BROADCASTING, INC.",
+        "city": "SISSETON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.243889,
+          44.114444
+        ]
+      },
+      "properties": {
+        "id": "154792",
+        "call_sign": "K260BT",
+        "frequency": "99.9  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.50675,
+          44.898028
+        ]
+      },
+      "properties": {
+        "id": "200464",
+        "call_sign": "K260DG",
+        "frequency": "99.9  MHz",
+        "service": "FX",
+        "owner": "GRAY GHOST BROADCASTING",
+        "city": "REDFIELD",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.316444,
+          42.912778
+        ]
+      },
+      "properties": {
+        "id": "154848",
+        "call_sign": "K260BO",
+        "frequency": "99.9  MHz",
+        "service": "FX",
+        "owner": "SAGA COMMUNICATIONS OF SOUTH DAKOTA, LLC",
+        "city": "YANKTON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.535056,
+          43.518583
+        ]
+      },
+      "properties": {
+        "id": "166031",
+        "call_sign": "KXRB-FM",
+        "frequency": "100.1 MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "BRANDON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.085083,
+          44.633028
+        ]
+      },
+      "properties": {
+        "id": "72909",
+        "call_sign": "K261CH",
+        "frequency": "100.1 MHz",
+        "service": "FX",
+        "owner": "THE MOODY BIBLE INSTITUTE OF CHICAGO",
+        "city": "CARPENTER",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.347361,
+          44.308306
+        ]
+      },
+      "properties": {
+        "id": "164144",
+        "call_sign": "KJBI",
+        "frequency": "100.1 MHz",
+        "service": "FM",
+        "owner": "JAMES RIVER BROADCASTING COMPANY",
+        "city": "FORT PIERRE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.650056,
+          45.220222
+        ]
+      },
+      "properties": {
+        "id": "93977",
+        "call_sign": "K262CK",
+        "frequency": "100.3 MHz",
+        "service": "FX",
+        "owner": "TMRG BROADCASTING, LLC",
+        "city": "MILBANK",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.25075,
+          44.070278
+        ]
+      },
+      "properties": {
+        "id": "66821",
+        "call_sign": "KFXS",
+        "frequency": "100.3 MHz",
+        "service": "FM",
+        "owner": "HOMESLICE MEDIA GROUP, LLC",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.347361,
+          44.308306
+        ]
+      },
+      "properties": {
+        "id": "41559",
+        "call_sign": "K263AW",
+        "frequency": "100.5 MHz",
+        "service": "FX",
+        "owner": "JILL BISSON",
+        "city": "PIERRE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.442833,
+          43.489417
+        ]
+      },
+      "properties": {
+        "id": "61328",
+        "call_sign": "KIKN-FM",
+        "frequency": "100.5 MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "SALEM",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.972889,
+          45.273889
+        ]
+      },
+      "properties": {
+        "id": "30210",
+        "call_sign": "KMLO",
+        "frequency": "100.7 MHz",
+        "service": "FM",
+        "owner": "JAMES RIVER BROADCASTING COMPANY",
+        "city": "LOWRY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.251028,
+          44.068611
+        ]
+      },
+      "properties": {
+        "id": "143016",
+        "call_sign": "K264CP",
+        "frequency": "100.7 MHz",
+        "service": "FX",
+        "owner": "RIVERFRONT BROADCASTING, LLC",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.296722,
+          43.080528
+        ]
+      },
+      "properties": {
+        "id": "166079",
+        "call_sign": "KXIN",
+        "frequency": "100.9 MHz",
+        "service": "FM",
+        "owner": "WAYNE HEEREN",
+        "city": "WAGNER",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.835472,
+          44.326361
+        ]
+      },
+      "properties": {
+        "id": "17689",
+        "call_sign": "KDDX",
+        "frequency": "101.1 MHz",
+        "service": "FM",
+        "owner": "RIVERFRONT BROADCASTING, LLC",
+        "city": "SPEARFISH",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.997583,
+          43.703306
+        ]
+      },
+      "properties": {
+        "id": "200638",
+        "call_sign": "K267CN",
+        "frequency": "101.3 MHz",
+        "service": "FX",
+        "owner": "NEDVED MEDIA, LLC",
+        "city": "MITCHELL",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.434,
+          43.128056
+        ]
+      },
+      "properties": {
+        "id": "73060",
+        "call_sign": "KVCX",
+        "frequency": "101.5 MHz",
+        "service": "FM",
+        "owner": "VCY AMERICA, INC",
+        "city": "GREGORY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.066167,
+          42.9225
+        ]
+      },
+      "properties": {
+        "id": "201285",
+        "call_sign": "K268DP",
+        "frequency": "101.5 MHz",
+        "service": "FX",
+        "owner": "5 STAR COMMUNICATIONS INC.",
+        "city": "VERMILLION",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.835472,
+          44.32775
+        ]
+      },
+      "properties": {
+        "id": "40636",
+        "call_sign": "KFMH",
+        "frequency": "101.9 MHz",
+        "service": "FM",
+        "owner": "MID-CENTURY RADIO",
+        "city": "BELLE FOURCHE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.342083,
+          45.530556
+        ]
+      },
+      "properties": {
+        "id": "202152",
+        "call_sign": "K270CU",
+        "frequency": "101.9 MHz",
+        "service": "FX",
+        "owner": "JAMES RIVER BROADCASTING COMPANY",
+        "city": "MOBRIDGE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.248528,
+          44.0925
+        ]
+      },
+      "properties": {
+        "id": "164913",
+        "call_sign": "KFMH-FM1",
+        "frequency": "101.9 MHz",
+        "service": "FB",
+        "owner": "MID-CENTURY RADIO",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.888778,
+          43.749556
+        ]
+      },
+      "properties": {
+        "id": "34950",
+        "call_sign": "KQSF",
+        "frequency": "101.9 MHz",
+        "service": "FM",
+        "owner": "MIDWEST COMMUNICATIONS, INC.",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.726389,
+          43.542222
+        ]
+      },
+      "properties": {
+        "id": "34950",
+        "call_sign": "KQSF",
+        "frequency": "101.9 MHz",
+        "service": "FS",
+        "owner": "MIDWEST COMMUNICATIONS, INC.",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.517306,
+          45.423861
+        ]
+      },
+      "properties": {
+        "id": "142013",
+        "call_sign": "K271CN",
+        "frequency": "102.1 MHz",
+        "service": "FX",
+        "owner": "PRAIRIE WINDS BROADCASTING, INC.",
+        "city": "ABERDEEN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.419778,
+          42.874972
+        ]
+      },
+      "properties": {
+        "id": "200679",
+        "call_sign": "K271CW",
+        "frequency": "102.1 MHz",
+        "service": "FX",
+        "owner": "RIVERFRONT BROADCASTING, LLC",
+        "city": "YANKTON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.685056,
+          43.479972
+        ]
+      },
+      "properties": {
+        "id": "201094",
+        "call_sign": "K272FZ",
+        "frequency": "102.3 MHz",
+        "service": "FX",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.732139,
+          44.374694
+        ]
+      },
+      "properties": {
+        "id": "62448",
+        "call_sign": "K272CS",
+        "frequency": "102.3 MHz",
+        "service": "FX",
+        "owner": "SPEARFISH RADIO, INC.",
+        "city": "SPEARFISH",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.956444,
+          44.250222
+        ]
+      },
+      "properties": {
+        "id": "9663",
+        "call_sign": "KKQQ",
+        "frequency": "102.3 MHz",
+        "service": "FM",
+        "owner": "ALPHA 3E LICENSEE LLC",
+        "city": "VOLGA",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.554306,
+          43.434972
+        ]
+      },
+      "properties": {
+        "id": "59466",
+        "call_sign": "KZSD-FM",
+        "frequency": "102.5 MHz",
+        "service": "FM",
+        "owner": "SOUTH DAKOTA BOARD OF DIRECTORS FOR ED. TELECOMMUNICATIONS",
+        "city": "MARTIN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.248528,
+          44.0925
+        ]
+      },
+      "properties": {
+        "id": "164109",
+        "call_sign": "KXMZ",
+        "frequency": "102.7 MHz",
+        "service": "FM",
+        "owner": "HAUGO BROADCASTING, INC.",
+        "city": "BOX ELDER",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.685056,
+          43.479972
+        ]
+      },
+      "properties": {
+        "id": "15308",
+        "call_sign": "KYBB",
+        "frequency": "102.7 MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "CANTON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.414528,
+          45.614389
+        ]
+      },
+      "properties": {
+        "id": "36355",
+        "call_sign": "KBWS-FM",
+        "frequency": "102.9 MHz",
+        "service": "FM",
+        "owner": "PRAIRIE WINDS BROADCASTING, INC.",
+        "city": "SISSETON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.128667,
+          43.985528
+        ]
+      },
+      "properties": {
+        "id": "39578",
+        "call_sign": "KMZM",
+        "frequency": "103.1 MHz",
+        "service": "FM",
+        "owner": "CHRISTENSEN BROADCAST GROUP, INC.",
+        "city": "MADISON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.128667,
+          43.985528
+        ]
+      },
+      "properties": {
+        "id": "39578",
+        "call_sign": "KMZM",
+        "frequency": "103.1 MHz",
+        "service": "FM",
+        "owner": "CHRISTENSEN BROADCAST GROUP, INC.",
+        "city": "MADISON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.347361,
+          44.308306
+        ]
+      },
+      "properties": {
+        "id": "202151",
+        "call_sign": "K276GT",
+        "frequency": "103.1 MHz",
+        "service": "FX",
+        "owner": "JAMES RIVER BROADCASTING COMPANY",
+        "city": "PIERRE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.063417,
+          43.701361
+        ]
+      },
+      "properties": {
+        "id": "142012",
+        "call_sign": "K278BJ",
+        "frequency": "103.5 MHz",
+        "service": "FX",
+        "owner": "SAGA COMMUNICATIONS OF SOUTH DAKOTA, LLC",
+        "city": "MITCHELL",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.835528,
+          44.32625
+        ]
+      },
+      "properties": {
+        "id": "67365",
+        "call_sign": "K278AM",
+        "frequency": "103.5 MHz",
+        "service": "FX",
+        "owner": "RIVERFRONT BROADCASTING, LLC",
+        "city": "SPEARFISH",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.109806,
+          44.871083
+        ]
+      },
+      "properties": {
+        "id": "153473",
+        "call_sign": "K278BK",
+        "frequency": "103.5 MHz",
+        "service": "FX",
+        "owner": "VCY AMERICA, INC.",
+        "city": "WATERTOWN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.251389,
+          44.068889
+        ]
+      },
+      "properties": {
+        "id": "17677",
+        "call_sign": "K279DF",
+        "frequency": "103.7 MHz",
+        "service": "FX",
+        "owner": "RIVERFRONT BROADCASTING, LLC",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.672611,
+          45.208306
+        ]
+      },
+      "properties": {
+        "id": "70081",
+        "call_sign": "KGIM-FM",
+        "frequency": "103.7 MHz",
+        "service": "FM",
+        "owner": "PRAIRIE WINDS BROADCASTING, INC.",
+        "city": "REDFIELD",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.670889,
+          43.45775
+        ]
+      },
+      "properties": {
+        "id": "59814",
+        "call_sign": "KRRO",
+        "frequency": "103.7 MHz",
+        "service": "FM",
+        "owner": "MIDWEST COMMUNICATIONS, INC.",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.577222,
+          43.503056
+        ]
+      },
+      "properties": {
+        "id": "59814",
+        "call_sign": "KRRO",
+        "frequency": "103.7 MHz",
+        "service": "FS",
+        "owner": "MIDWEST COMMUNICATIONS, INC.",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.567389,
+          43.927472
+        ]
+      },
+      "properties": {
+        "id": "9659",
+        "call_sign": "K280AJ",
+        "frequency": "103.9 MHz",
+        "service": "FX",
+        "owner": "HOMESLICE MEDIA GROUP, LLC",
+        "city": "HILL CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.259611,
+          44.021917
+        ]
+      },
+      "properties": {
+        "id": "67310",
+        "call_sign": "KIQK",
+        "frequency": "104.1 MHz",
+        "service": "FM",
+        "owner": "HAUGO BROADCASTING, INC.",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.056139,
+          42.639972
+        ]
+      },
+      "properties": {
+        "id": "57839",
+        "call_sign": "WNAX-FM",
+        "frequency": "104.1 MHz",
+        "service": "FM",
+        "owner": "SAGA COMMUNICATIONS OF SOUTH DAKOTA, LLC",
+        "city": "YANKTON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.316389,
+          42.912778
+        ]
+      },
+      "properties": {
+        "id": "57839",
+        "call_sign": "WNAX-FM",
+        "frequency": "104.1 MHz",
+        "service": "FS",
+        "owner": "SAGA COMMUNICATIONS OF SOUTH DAKOTA, LLC",
+        "city": "YANKTON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.316444,
+          42.912778
+        ]
+      },
+      "properties": {
+        "id": "57839",
+        "call_sign": "WNAX-FM",
+        "frequency": "104.1 MHz",
+        "service": "FS",
+        "owner": "SAGA COMMUNICATIONS OF SOUTH DAKOTA, LLC",
+        "city": "YANKTON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.987583,
+          45.174972
+        ]
+      },
+      "properties": {
+        "id": "63598",
+        "call_sign": "KKSD",
+        "frequency": "104.3 MHz",
+        "service": "FM",
+        "owner": "ALPHA 3E LICENSEE LLC",
+        "city": "MILBANK",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.666111,
+          43.528889
+        ]
+      },
+      "properties": {
+        "id": "787042",
+        "call_sign": "KTGN-LP",
+        "frequency": "104.3 MHz",
+        "service": "FL",
+        "owner": "CALVARY CHAPEL SIOUX FALLS",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.352917,
+          44.311639
+        ]
+      },
+      "properties": {
+        "id": "190370",
+        "call_sign": "KCCR-FM",
+        "frequency": "104.5 MHz",
+        "service": "FM",
+        "owner": "RIVERFRONT BROADCASTING LLC",
+        "city": "BLUNT",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.246306,
+          44.046944
+        ]
+      },
+      "properties": {
+        "id": "153445",
+        "call_sign": "K284BA",
+        "frequency": "104.7 MHz",
+        "service": "FX",
+        "owner": "HOMESLICE MEDIA GROUP, LLC",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.087556,
+          43.729417
+        ]
+      },
+      "properties": {
+        "id": "61324",
+        "call_sign": "KKLS-FM",
+        "frequency": "104.7 MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.198611,
+          45.918056
+        ]
+      },
+      "properties": {
+        "id": "203216",
+        "call_sign": "K285HH",
+        "frequency": "104.9 MHz",
+        "service": "FX",
+        "owner": "RADD MEDIA, LLC",
+        "city": "LEMMON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.335111,
+          44.368583
+        ]
+      },
+      "properties": {
+        "id": "132351",
+        "call_sign": "KPGN-LP",
+        "frequency": "105.1 MHz",
+        "service": "FL",
+        "owner": "PIERRE EDUCATIONAL RADIO, INC.",
+        "city": "PIERRE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.726444,
+          43.542194
+        ]
+      },
+      "properties": {
+        "id": "21594",
+        "call_sign": "K286CN",
+        "frequency": "105.1 MHz",
+        "service": "FX",
+        "owner": "MIDWEST COMMUNICATIONS, INC.",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.801417,
+          44.307444
+        ]
+      },
+      "properties": {
+        "id": "72915",
+        "call_sign": "K288EV",
+        "frequency": "105.5 MHz",
+        "service": "FX",
+        "owner": "UNIVERSITY OF NORTHWESTERN - ST. PAUL",
+        "city": "BROOKINGS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.803167,
+          45.453583
+        ]
+      },
+      "properties": {
+        "id": "164208",
+        "call_sign": "KMOM",
+        "frequency": "105.5 MHz",
+        "service": "FM",
+        "owner": "DAKOTA BROADCASTING, LLC",
+        "city": "ROSCOE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.784833,
+          43.487222
+        ]
+      },
+      "properties": {
+        "id": "138081",
+        "call_sign": "K288GA",
+        "frequency": "105.5 MHz",
+        "service": "FX",
+        "owner": "UNIVERSITY OF NORTHWESTERN - ST. PAUL",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.513,
+          44.42375
+        ]
+      },
+      "properties": {
+        "id": "200213",
+        "call_sign": "K288HB",
+        "frequency": "105.5 MHz",
+        "service": "FX",
+        "owner": "HOMESLICE MEDIA GROUP, LLC",
+        "city": "STURGIS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.260194,
+          44.021944
+        ]
+      },
+      "properties": {
+        "id": "5473",
+        "call_sign": "K289AI",
+        "frequency": "105.7 MHz",
+        "service": "FX",
+        "owner": "HAUGO BROADCASTING, INC.",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.244528,
+          43.73775
+        ]
+      },
+      "properties": {
+        "id": "43239",
+        "call_sign": "KMIT",
+        "frequency": "105.9 MHz",
+        "service": "FM",
+        "owner": "SAGA COMMUNICATIONS OF SOUTH DAKOTA, LLC",
+        "city": "MITCHELL",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.047556,
+          43.704972
+        ]
+      },
+      "properties": {
+        "id": "43239",
+        "call_sign": "KMIT",
+        "frequency": "105.9 MHz",
+        "service": "FS",
+        "owner": "SAGA COMMUNICATIONS OF SOUTH DAKOTA, LLC",
+        "city": "MITCHELL",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.251028,
+          44.068611
+        ]
+      },
+      "properties": {
+        "id": "76967",
+        "call_sign": "KZLK",
+        "frequency": "106.3 MHz",
+        "service": "FM",
+        "owner": "RIVERFRONT BROADCASTING, LLC",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.251028,
+          44.068611
+        ]
+      },
+      "properties": {
+        "id": "76967",
+        "call_sign": "KZLK",
+        "frequency": "106.3 MHz",
+        "service": "FM",
+        "owner": "RIVERFRONT BROADCASTING, LLC",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.066167,
+          42.9225
+        ]
+      },
+      "properties": {
+        "id": "14708",
+        "call_sign": "KVHT",
+        "frequency": "106.3 MHz",
+        "service": "FM",
+        "owner": "5 STAR COMMUNICATIONS INC.",
+        "city": "VERMILLION",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.763667,
+          43.544972
+        ]
+      },
+      "properties": {
+        "id": "138726",
+        "call_sign": "K293BQ",
+        "frequency": "106.5 MHz",
+        "service": "FX",
+        "owner": "VCY AMERICA, INC.",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.335917,
+          45.465806
+        ]
+      },
+      "properties": {
+        "id": "9670",
+        "call_sign": "KBFO",
+        "frequency": "106.7 MHz",
+        "service": "FM",
+        "owner": "PRAIRIE WINDS BROADCASTING, INC.",
+        "city": "ABERDEEN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.455278,
+          43.442833
+        ]
+      },
+      "properties": {
+        "id": "29892",
+        "call_sign": "K294DL",
+        "frequency": "106.7 MHz",
+        "service": "FX",
+        "owner": "UNIVERSITY OF NORTHWESTERN-ST. PAUL",
+        "city": "HOT SPRINGS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.25075,
+          44.066667
+        ]
+      },
+      "properties": {
+        "id": "141264",
+        "call_sign": "K294BT",
+        "frequency": "106.7 MHz",
+        "service": "FX",
+        "owner": "BLACK HILLS BROADCASTING, L.L.C.",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.287361,
+          45.424694
+        ]
+      },
+      "properties": {
+        "id": "139933",
+        "call_sign": "K295AR",
+        "frequency": "106.9 MHz",
+        "service": "FX",
+        "owner": "ISABEL BAPTIST CHURCH",
+        "city": "FIRESTEEL",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.517306,
+          45.423861
+        ]
+      },
+      "properties": {
+        "id": "141996",
+        "call_sign": "K296FW",
+        "frequency": "107.1 MHz",
+        "service": "FX",
+        "owner": "PRAIRIE WINDS BROADCASTING, INC.",
+        "city": "ABERDEEN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.664222,
+          44.593583
+        ]
+      },
+      "properties": {
+        "id": "87411",
+        "call_sign": "KDBX",
+        "frequency": "107.1 MHz",
+        "service": "FM",
+        "owner": "ALPHA 3E LICENSEE LLC",
+        "city": "CLEAR LAKE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.352639,
+          45.538889
+        ]
+      },
+      "properties": {
+        "id": "144846",
+        "call_sign": "K296FK",
+        "frequency": "107.1 MHz",
+        "service": "FX",
+        "owner": "MOBRIDGE CHRISTIAN RADIO",
+        "city": "MOBRIDGE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.248528,
+          44.0925
+        ]
+      },
+      "properties": {
+        "id": "161668",
+        "call_sign": "KSLT-FM1",
+        "frequency": "107.1 MHz",
+        "service": "FB",
+        "owner": "UNIVERSITY OF NORTHWESTERN - ST. PAUL",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.834639,
+          44.328306
+        ]
+      },
+      "properties": {
+        "id": "5475",
+        "call_sign": "KSLT",
+        "frequency": "107.1 MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF NORTHWESTERN - ST. PAUL",
+        "city": "SPEARFISH",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.248611,
+          44.0925
+        ]
+      },
+      "properties": {
+        "id": "5475",
+        "call_sign": "KSLT",
+        "frequency": "107.1 MHz",
+        "service": "FS",
+        "owner": "UNIVERSITY OF NORTHWESTERN - ST. PAUL",
+        "city": "SPEARFISH",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9995,
+          43.703861
+        ]
+      },
+      "properties": {
+        "id": "35503",
+        "call_sign": "KQRN",
+        "frequency": "107.3 MHz",
+        "service": "FM",
+        "owner": "NEDVED MEDIA, LLC",
+        "city": "MITCHELL",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.407889,
+          44.373861
+        ]
+      },
+      "properties": {
+        "id": "149245",
+        "call_sign": "K297CF",
+        "frequency": "107.3 MHz",
+        "service": "FX",
+        "owner": "JAMES RIVER BROADCASTING COMPANY",
+        "city": "PIERRE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.784778,
+          43.487194
+        ]
+      },
+      "properties": {
+        "id": "202254",
+        "call_sign": "K298CY",
+        "frequency": "107.5 MHz",
+        "service": "FX",
+        "owner": "UNIVERSITY OF NORTHWESTERN-ST. PAUL",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.803167,
+          45.453583
+        ]
+      },
+      "properties": {
+        "id": "164222",
+        "call_sign": "KABD",
+        "frequency": "107.7 MHz",
+        "service": "FM",
+        "owner": "DAKOTA BROADCASTING, LLC",
+        "city": "IPSWICH",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.323417,
+          43.788861
+        ]
+      },
+      "properties": {
+        "id": "138415",
+        "call_sign": "K300AN",
+        "frequency": "107.9 MHz",
+        "service": "FX",
+        "owner": "JILL BISSON",
+        "city": "CHAMBERLAIN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.820056,
+          43.965528
+        ]
+      },
+      "properties": {
+        "id": "36933",
+        "call_sign": "KELQ",
+        "frequency": "107.9 MHz",
+        "service": "FM",
+        "owner": "MIDWEST COMMUNICATIONS, INC.",
+        "city": "FLANDREAU",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.835472,
+          44.32775
+        ]
+      },
+      "properties": {
+        "id": "164201",
+        "call_sign": "KXZT",
+        "frequency": "107.9 MHz",
+        "service": "FM",
+        "owner": "MID-CENTURY RADIO",
+        "city": "NEWELL",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.316444,
+          42.913056
+        ]
+      },
+      "properties": {
+        "id": "57846",
+        "call_sign": "WNAX",
+        "frequency": "570   kHz",
+        "service": "AM",
+        "owner": "SAGA COMMUNICATIONS OF SOUTH DAKOTA, LLC",
+        "city": "YANKTON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.316444,
+          42.913056
+        ]
+      },
+      "properties": {
+        "id": "57846",
+        "call_sign": "WNAX",
+        "frequency": "570   kHz",
+        "service": "AM",
+        "owner": "SAGA COMMUNICATIONS OF SOUTH DAKOTA, LLC",
+        "city": "YANKTON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.476583,
+          43.456639
+        ]
+      },
+      "properties": {
+        "id": "46713",
+        "call_sign": "KZMX",
+        "frequency": "580   kHz",
+        "service": "AM",
+        "owner": "MT. RUSHMORE BROADCASTING, INC.",
+        "city": "HOT SPRINGS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.476583,
+          43.456639
+        ]
+      },
+      "properties": {
+        "id": "46713",
+        "call_sign": "KZMX",
+        "frequency": "580   kHz",
+        "service": "AM",
+        "owner": "MT. RUSHMORE BROADCASTING, INC.",
+        "city": "HOT SPRINGS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.427417,
+          44.423306
+        ]
+      },
+      "properties": {
+        "id": "9673",
+        "call_sign": "KBHB",
+        "frequency": "810   kHz",
+        "service": "AM",
+        "owner": "HOMESLICE MEDIA GROUP, LLC",
+        "city": "STURGIS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.427417,
+          44.423306
+        ]
+      },
+      "properties": {
+        "id": "9673",
+        "call_sign": "KBHB",
+        "frequency": "810   kHz",
+        "service": "AM",
+        "owner": "HOMESLICE MEDIA GROUP, LLC",
+        "city": "STURGIS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.956444,
+          44.25025
+        ]
+      },
+      "properties": {
+        "id": "9677",
+        "call_sign": "KJJQ",
+        "frequency": "910   kHz",
+        "service": "AM",
+        "owner": "ALPHA 3E LICENSEE LLC",
+        "city": "VOLGA",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.956444,
+          44.25025
+        ]
+      },
+      "properties": {
+        "id": "9677",
+        "call_sign": "KJJQ",
+        "frequency": "910   kHz",
+        "service": "AM",
+        "owner": "ALPHA 3E LICENSEE LLC",
+        "city": "VOLGA",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.176667,
+          44.061667
+        ]
+      },
+      "properties": {
+        "id": "61320",
+        "call_sign": "KKLS",
+        "frequency": "920   kHz",
+        "service": "AM",
+        "owner": "HOMESLICE MEDIA GROUP, LLC",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.176,
+          44.061944
+        ]
+      },
+      "properties": {
+        "id": "61320",
+        "call_sign": "KKLS",
+        "frequency": "920   kHz",
+        "service": "AM",
+        "owner": "HOMESLICE MEDIA GROUP, LLC",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.176667,
+          44.061667
+        ]
+      },
+      "properties": {
+        "id": "61320",
+        "call_sign": "KKLS",
+        "frequency": "920   kHz",
+        "service": "AM",
+        "owner": "HOMESLICE MEDIA GROUP, LLC",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.176,
+          44.061944
+        ]
+      },
+      "properties": {
+        "id": "61320",
+        "call_sign": "KKLS",
+        "frequency": "920   kHz",
+        "service": "AM",
+        "owner": "HOMESLICE MEDIA GROUP, LLC",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.518056,
+          45.424694
+        ]
+      },
+      "properties": {
+        "id": "25120",
+        "call_sign": "KSDN",
+        "frequency": "930   kHz",
+        "service": "AM",
+        "owner": "PRAIRIE WINDS BROADCASTING, INC.",
+        "city": "ABERDEEN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.518056,
+          45.424694
+        ]
+      },
+      "properties": {
+        "id": "25120",
+        "call_sign": "KSDN",
+        "frequency": "930   kHz",
+        "service": "AM",
+        "owner": "PRAIRIE WINDS BROADCASTING, INC.",
+        "city": "ABERDEEN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.113972,
+          44.869972
+        ]
+      },
+      "properties": {
+        "id": "60856",
+        "call_sign": "KWAT",
+        "frequency": "950   kHz",
+        "service": "AM",
+        "owner": "ALPHA 3E LICENSEE LLC",
+        "city": "WATERTOWN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.113972,
+          44.869972
+        ]
+      },
+      "properties": {
+        "id": "60856",
+        "call_sign": "KWAT",
+        "frequency": "950   kHz",
+        "service": "AM",
+        "owner": "ALPHA 3E LICENSEE LLC",
+        "city": "WATERTOWN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.662694,
+          44.382472
+        ]
+      },
+      "properties": {
+        "id": "24553",
+        "call_sign": "KDSJ",
+        "frequency": "980   kHz",
+        "service": "AM",
+        "owner": "RIVERFRONT BROADCASTING, LLC",
+        "city": "DEADWOOD",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.662694,
+          44.382472
+        ]
+      },
+      "properties": {
+        "id": "24553",
+        "call_sign": "KDSJ",
+        "frequency": "980   kHz",
+        "service": "AM",
+        "owner": "RIVERFRONT BROADCASTING, LLC",
+        "city": "DEADWOOD",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.597,
+          43.486917
+        ]
+      },
+      "properties": {
+        "id": "61322",
+        "call_sign": "KSOO",
+        "frequency": "1000  kHz",
+        "service": "AM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.597,
+          43.486917
+        ]
+      },
+      "properties": {
+        "id": "61322",
+        "call_sign": "KSOO",
+        "frequency": "1000  kHz",
+        "service": "AM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.33875,
+          44.286639
+        ]
+      },
+      "properties": {
+        "id": "30209",
+        "call_sign": "KGFX",
+        "frequency": "1060  kHz",
+        "service": "AM",
+        "owner": "JAMES RIVER BROADCASTING COMPANY",
+        "city": "PIERRE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.33875,
+          44.286639
+        ]
+      },
+      "properties": {
+        "id": "30209",
+        "call_sign": "KGFX",
+        "frequency": "1060  kHz",
+        "service": "AM",
+        "owner": "JAMES RIVER BROADCASTING COMPANY",
+        "city": "PIERRE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.685611,
+          43.480528
+        ]
+      },
+      "properties": {
+        "id": "64710",
+        "call_sign": "KXRB",
+        "frequency": "1140  kHz",
+        "service": "AM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.685611,
+          43.480528
+        ]
+      },
+      "properties": {
+        "id": "64710",
+        "call_sign": "KXRB",
+        "frequency": "1140  kHz",
+        "service": "AM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.112111,
+          44.076111
+        ]
+      },
+      "properties": {
+        "id": "66820",
+        "call_sign": "KIMM",
+        "frequency": "1150  kHz",
+        "service": "AM",
+        "owner": "BLACK HILLS BROADCASTING, L.L.C.",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.112111,
+          44.076111
+        ]
+      },
+      "properties": {
+        "id": "66820",
+        "call_sign": "KIMM",
+        "frequency": "1150  kHz",
+        "service": "AM",
+        "owner": "BLACK HILLS BROADCASTING, L.L.C.",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.152861,
+          44.362194
+        ]
+      },
+      "properties": {
+        "id": "15268",
+        "call_sign": "KOKK",
+        "frequency": "1210  kHz",
+        "service": "AM",
+        "owner": "RIVERFRONT BROADCASTING, LLC",
+        "city": "HURON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.152861,
+          44.362194
+        ]
+      },
+      "properties": {
+        "id": "15268",
+        "call_sign": "KOKK",
+        "frequency": "1210  kHz",
+        "service": "AM",
+        "owner": "RIVERFRONT BROADCASTING, LLC",
+        "city": "HURON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.152861,
+          44.362194
+        ]
+      },
+      "properties": {
+        "id": "15268",
+        "call_sign": "KOKK",
+        "frequency": "1210  kHz",
+        "service": "AM",
+        "owner": "RIVERFRONT BROADCASTING, LLC",
+        "city": "HURON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.152861,
+          44.362194
+        ]
+      },
+      "properties": {
+        "id": "15268",
+        "call_sign": "KOKK",
+        "frequency": "1210  kHz",
+        "service": "AM",
+        "owner": "RIVERFRONT BROADCASTING, LLC",
+        "city": "HURON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.670889,
+          43.45775
+        ]
+      },
+      "properties": {
+        "id": "59813",
+        "call_sign": "KWSN",
+        "frequency": "1230  kHz",
+        "service": "AM",
+        "owner": "MIDWEST COMMUNICATIONS, INC.",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.670889,
+          43.45775
+        ]
+      },
+      "properties": {
+        "id": "59813",
+        "call_sign": "KWSN",
+        "frequency": "1230  kHz",
+        "service": "AM",
+        "owner": "MIDWEST COMMUNICATIONS, INC.",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.319306,
+          44.350528
+        ]
+      },
+      "properties": {
+        "id": "60858",
+        "call_sign": "KCCR",
+        "frequency": "1240  kHz",
+        "service": "AM",
+        "owner": "RIVERFRONT BROADCASTING LLC",
+        "city": "PIERRE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.910944,
+          43.385556
+        ]
+      },
+      "properties": {
+        "id": "42112",
+        "call_sign": "KWYR",
+        "frequency": "1260  kHz",
+        "service": "AM",
+        "owner": "MIDWEST RADIO CORP.",
+        "city": "WINNER",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.910944,
+          43.385556
+        ]
+      },
+      "properties": {
+        "id": "42112",
+        "call_sign": "KWYR",
+        "frequency": "1260  kHz",
+        "service": "AM",
+        "owner": "MIDWEST RADIO CORP.",
+        "city": "WINNER",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.765056,
+          43.28525
+        ]
+      },
+      "properties": {
+        "id": "49774",
+        "call_sign": "KNWC",
+        "frequency": "1270  kHz",
+        "service": "AM",
+        "owner": "UNIVERSITY OF NORTHWESTERN-ST. PAUL",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.765056,
+          43.28525
+        ]
+      },
+      "properties": {
+        "id": "49774",
+        "call_sign": "KNWC",
+        "frequency": "1270  kHz",
+        "service": "AM",
+        "owner": "UNIVERSITY OF NORTHWESTERN-ST. PAUL",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.34625,
+          45.535278
+        ]
+      },
+      "properties": {
+        "id": "43330",
+        "call_sign": "KOLY",
+        "frequency": "1300  kHz",
+        "service": "AM",
+        "owner": "JAMES RIVER BROADCASTING COMPANY",
+        "city": "MOBRIDGE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.34625,
+          45.535278
+        ]
+      },
+      "properties": {
+        "id": "43330",
+        "call_sign": "KOLY",
+        "frequency": "1300  kHz",
+        "service": "AM",
+        "owner": "JAMES RIVER BROADCASTING COMPANY",
+        "city": "MOBRIDGE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.637556,
+          43.488028
+        ]
+      },
+      "properties": {
+        "id": "41981",
+        "call_sign": "KELO",
+        "frequency": "1320  kHz",
+        "service": "AM",
+        "owner": "MIDWEST COMMUNICATIONS, INC.",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.637556,
+          43.488028
+        ]
+      },
+      "properties": {
+        "id": "41981",
+        "call_sign": "KELO",
+        "frequency": "1320  kHz",
+        "service": "AM",
+        "owner": "MIDWEST COMMUNICATIONS, INC.",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.170167,
+          44.068333
+        ]
+      },
+      "properties": {
+        "id": "67309",
+        "call_sign": "KTOQ",
+        "frequency": "1340  kHz",
+        "service": "AM",
+        "owner": "HAUGO BROADCASTING, INC.",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.210083,
+          44.345806
+        ]
+      },
+      "properties": {
+        "id": "15264",
+        "call_sign": "KIJV",
+        "frequency": "1340  kHz",
+        "service": "AM",
+        "owner": "RIVERFRONT BROADCASTING, LLC",
+        "city": "HURON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.210083,
+          44.345806
+        ]
+      },
+      "properties": {
+        "id": "15264",
+        "call_sign": "KIJV",
+        "frequency": "1340  kHz",
+        "service": "AM",
+        "owner": "RIVERFRONT BROADCASTING, LLC",
+        "city": "HURON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.50675,
+          44.898028
+        ]
+      },
+      "properties": {
+        "id": "70083",
+        "call_sign": "KQKD",
+        "frequency": "1380  kHz",
+        "service": "AM",
+        "owner": "GRAY GHOST BROADCASTING",
+        "city": "REDFIELD",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.187944,
+          44.033333
+        ]
+      },
+      "properties": {
+        "id": "17678",
+        "call_sign": "KOTA",
+        "frequency": "1380  kHz",
+        "service": "AM",
+        "owner": "RIVERFRONT BROADCASTING, LLC",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.50675,
+          44.898028
+        ]
+      },
+      "properties": {
+        "id": "70083",
+        "call_sign": "KQKD",
+        "frequency": "1380  kHz",
+        "service": "AM",
+        "owner": "GRAY GHOST BROADCASTING",
+        "city": "REDFIELD",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.50675,
+          44.898028
+        ]
+      },
+      "properties": {
+        "id": "70083",
+        "call_sign": "KQKD",
+        "frequency": "1380  kHz",
+        "service": "AM",
+        "owner": "GRAY GHOST BROADCASTING",
+        "city": "REDFIELD",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.187944,
+          44.033333
+        ]
+      },
+      "properties": {
+        "id": "17678",
+        "call_sign": "KOTA",
+        "frequency": "1380  kHz",
+        "service": "AM",
+        "owner": "RIVERFRONT BROADCASTING, LLC",
+        "city": "RAPID CITY",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.50675,
+          44.898028
+        ]
+      },
+      "properties": {
+        "id": "70083",
+        "call_sign": "KQKD",
+        "frequency": "1380  kHz",
+        "service": "AM",
+        "owner": "GRAY GHOST BROADCASTING",
+        "city": "REDFIELD",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.172,
+          44.01025
+        ]
+      },
+      "properties": {
+        "id": "39580",
+        "call_sign": "KJAM",
+        "frequency": "1390  kHz",
+        "service": "AM",
+        "owner": "CHRISTENSEN BROADCAST GROUP, INC.",
+        "city": "MADISON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.172,
+          44.01025
+        ]
+      },
+      "properties": {
+        "id": "39580",
+        "call_sign": "KJAM",
+        "frequency": "1390  kHz",
+        "service": "AM",
+        "owner": "CHRISTENSEN BROADCAST GROUP, INC.",
+        "city": "MADISON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.199056,
+          45.918056
+        ]
+      },
+      "properties": {
+        "id": "40994",
+        "call_sign": "KBJM",
+        "frequency": "1400  kHz",
+        "service": "AM",
+        "owner": "RADD MEDIA, LLC",
+        "city": "LEMMON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.518611,
+          45.424167
+        ]
+      },
+      "properties": {
+        "id": "1172",
+        "call_sign": "KGIM",
+        "frequency": "1420  kHz",
+        "service": "AM",
+        "owner": "PRAIRIE WINDS BROADCASTING, INC.",
+        "city": "ABERDEEN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.518611,
+          45.424167
+        ]
+      },
+      "properties": {
+        "id": "1172",
+        "call_sign": "KGIM",
+        "frequency": "1420  kHz",
+        "service": "AM",
+        "owner": "PRAIRIE WINDS BROADCASTING, INC.",
+        "city": "ABERDEEN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.767278,
+          44.303306
+        ]
+      },
+      "properties": {
+        "id": "15263",
+        "call_sign": "KBRK",
+        "frequency": "1430  kHz",
+        "service": "AM",
+        "owner": "ALPHA 3E LICENSEE LLC",
+        "city": "BROOKINGS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.767278,
+          44.303306
+        ]
+      },
+      "properties": {
+        "id": "15263",
+        "call_sign": "KBRK",
+        "frequency": "1430  kHz",
+        "service": "AM",
+        "owner": "ALPHA 3E LICENSEE LLC",
+        "city": "BROOKINGS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.856583,
+          44.667194
+        ]
+      },
+      "properties": {
+        "id": "68739",
+        "call_sign": "KBFS",
+        "frequency": "1450  kHz",
+        "service": "AM",
+        "owner": "TRI STATE COMMUNICATIONS, LLC",
+        "city": "BELLE FOURCHE",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.419778,
+          42.891667
+        ]
+      },
+      "properties": {
+        "id": "60857",
+        "call_sign": "KYNT",
+        "frequency": "1450  kHz",
+        "service": "AM",
+        "owner": "RIVERFRONT BROADCASTING, LLC",
+        "city": "YANKTON",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.105639,
+          44.93275
+        ]
+      },
+      "properties": {
+        "id": "20432",
+        "call_sign": "KSDR",
+        "frequency": "1480  kHz",
+        "service": "AM",
+        "owner": "ALPHA 3E LICENSEE LLC",
+        "city": "WATERTOWN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.105639,
+          44.93275
+        ]
+      },
+      "properties": {
+        "id": "20432",
+        "call_sign": "KSDR",
+        "frequency": "1480  kHz",
+        "service": "AM",
+        "owner": "ALPHA 3E LICENSEE LLC",
+        "city": "WATERTOWN",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.583806,
+          43.717472
+        ]
+      },
+      "properties": {
+        "id": "43913",
+        "call_sign": "KFCR",
+        "frequency": "1490  kHz",
+        "service": "AM",
+        "owner": "MT. RUSHMORE BROADCASTING, INC.",
+        "city": "CUSTER",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.999528,
+          43.703861
+        ]
+      },
+      "properties": {
+        "id": "35420",
+        "call_sign": "KORN",
+        "frequency": "1490  kHz",
+        "service": "AM",
+        "owner": "NEDVED MEDIA, LLC",
+        "city": "MITCHELL",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6395,
+          45.194417
+        ]
+      },
+      "properties": {
+        "id": "63599",
+        "call_sign": "KMSD",
+        "frequency": "1510  kHz",
+        "service": "AM",
+        "owner": "PRAIRIE WINDS BROADCASTING, INC.",
+        "city": "MILBANK",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6395,
+          45.194417
+        ]
+      },
+      "properties": {
+        "id": "63599",
+        "call_sign": "KMSD",
+        "frequency": "1510  kHz",
+        "service": "AM",
+        "owner": "PRAIRIE WINDS BROADCASTING, INC.",
+        "city": "MILBANK",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6395,
+          45.194417
+        ]
+      },
+      "properties": {
+        "id": "63599",
+        "call_sign": "KMSD",
+        "frequency": "1510  kHz",
+        "service": "AM",
+        "owner": "PRAIRIE WINDS BROADCASTING, INC.",
+        "city": "MILBANK",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.796444,
+          43.55775
+        ]
+      },
+      "properties": {
+        "id": "48026",
+        "call_sign": "KZOY",
+        "frequency": "1520  kHz",
+        "service": "AM",
+        "owner": "CUP O' DIRT, LLC",
+        "city": "SIOUX FALLS",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.066167,
+          42.9225
+        ]
+      },
+      "properties": {
+        "id": "14709",
+        "call_sign": "KVTK",
+        "frequency": "1570  kHz",
+        "service": "AM",
+        "owner": "5 STAR COMMUNICATIONS INC.",
+        "city": "VERMILLION",
+        "state": "SD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.066167,
+          42.9225
+        ]
+      },
+      "properties": {
+        "id": "14709",
+        "call_sign": "KVTK",
+        "frequency": "1570  kHz",
+        "service": "AM",
+        "owner": "5 STAR COMMUNICATIONS INC.",
+        "city": "VERMILLION",
+        "state": "SD"
+      }
+    }
+  ],
+  "metadata": {
+    "cities": [
+      "ABERDEEN",
+      "BELLE FOURCHE",
+      "BLUNT",
+      "BOX ELDER",
+      "BRANDON",
+      "BROOKINGS",
+      "CANTON",
+      "CARPENTER",
+      "CHAMBERLAIN",
+      "CLEAR LAKE",
+      "CUSTER",
+      "DEADWOOD",
+      "DELL RAPIDS",
+      "EAGLE BUTTE",
+      "EDGEMONT",
+      "ETHAN",
+      "FAITH",
+      "FIRESTEEL",
+      "FLANDREAU",
+      "FORT PIERRE",
+      "FORT THOMPSON",
+      "FREEMAN",
+      "GETTYSBURG",
+      "GREGORY",
+      "HARTFORD",
+      "HERMOSA",
+      "HILL CITY",
+      "HOT SPRINGS",
+      "HURON",
+      "IPSWICH",
+      "KEYSTONE",
+      "LAKE ANDES",
+      "LEAD",
+      "LEMMON",
+      "LENNOX",
+      "LITTLE EAGLE",
+      "LOOMIS",
+      "LOWRY",
+      "MADISON",
+      "MARTIN",
+      "MILBANK",
+      "MILLER",
+      "MITCHELL",
+      "MOBRIDGE",
+      "NEWELL",
+      "NORTH SIOUX CITY",
+      "ONIDA",
+      "PARKSTON",
+      "PIERPONT",
+      "PIERRE",
+      "PINE RIDGE",
+      "PLATTE",
+      "PORCUPINE",
+      "PRINGLE",
+      "RAPID CITY",
+      "REDFIELD",
+      "RELIANCE",
+      "ROSCOE",
+      "ROSEBUD",
+      "SALEM",
+      "SIOUX FALLS",
+      "SISSETON",
+      "SPEARFISH",
+      "STURGIS",
+      "VERMILLION",
+      "VOLGA",
+      "WAGNER",
+      "WATERTOWN",
+      "WESSINGTON SPRINGS",
+      "WINNER",
+      "YANKTON"
+    ],
+    "frequencies": [
+      "88.1  MHz",
+      "88.3  MHz",
+      "88.5  MHz",
+      "88.7  MHz",
+      "88.9  MHz",
+      "89.1  MHz",
+      "89.3  MHz",
+      "89.5  MHz",
+      "89.7  MHz",
+      "89.9  MHz",
+      "90.1  MHz",
+      "90.3  MHz",
+      "90.5  MHz",
+      "90.7  MHz",
+      "90.9  MHz",
+      "91.1  MHz",
+      "91.3  MHz",
+      "91.7  MHz",
+      "91.9  MHz",
+      "92.1  MHz",
+      "92.3  MHz",
+      "92.5  MHz",
+      "92.7  MHz",
+      "92.9  MHz",
+      "93.1  MHz",
+      "93.3  MHz",
+      "93.5  MHz",
+      "93.7  MHz",
+      "93.9  MHz",
+      "94.1  MHz",
+      "94.5  MHz",
+      "94.7  MHz",
+      "94.9  MHz",
+      "95.1  MHz",
+      "95.3  MHz",
+      "95.5  MHz",
+      "95.7  MHz",
+      "95.9  MHz",
+      "96.1  MHz",
+      "96.3  MHz",
+      "96.5  MHz",
+      "96.9  MHz",
+      "97.1  MHz",
+      "97.3  MHz",
+      "97.5  MHz",
+      "97.7  MHz",
+      "97.9  MHz",
+      "98.1  MHz",
+      "98.3  MHz",
+      "98.5  MHz",
+      "98.7  MHz",
+      "98.9  MHz",
+      "99.1  MHz",
+      "99.5  MHz",
+      "99.9  MHz",
+      "100.1 MHz",
+      "100.3 MHz",
+      "100.5 MHz",
+      "100.7 MHz",
+      "100.9 MHz",
+      "101.1 MHz",
+      "101.3 MHz",
+      "101.5 MHz",
+      "101.9 MHz",
+      "102.1 MHz",
+      "102.3 MHz",
+      "102.5 MHz",
+      "102.7 MHz",
+      "102.9 MHz",
+      "103.1 MHz",
+      "103.5 MHz",
+      "103.7 MHz",
+      "103.9 MHz",
+      "104.1 MHz",
+      "104.3 MHz",
+      "104.5 MHz",
+      "104.7 MHz",
+      "104.9 MHz",
+      "105.1 MHz",
+      "105.5 MHz",
+      "105.7 MHz",
+      "105.9 MHz",
+      "106.3 MHz",
+      "106.5 MHz",
+      "106.7 MHz",
+      "106.9 MHz",
+      "107.1 MHz",
+      "107.3 MHz",
+      "107.5 MHz",
+      "107.7 MHz",
+      "107.9 MHz",
+      "570   kHz",
+      "580   kHz",
+      "810   kHz",
+      "910   kHz",
+      "920   kHz",
+      "930   kHz",
+      "950   kHz",
+      "980   kHz",
+      "1000  kHz",
+      "1060  kHz",
+      "1140  kHz",
+      "1150  kHz",
+      "1210  kHz",
+      "1230  kHz",
+      "1240  kHz",
+      "1260  kHz",
+      "1270  kHz",
+      "1300  kHz",
+      "1320  kHz",
+      "1340  kHz",
+      "1380  kHz",
+      "1390  kHz",
+      "1400  kHz",
+      "1420  kHz",
+      "1430  kHz",
+      "1450  kHz",
+      "1480  kHz",
+      "1490  kHz",
+      "1510  kHz",
+      "1520  kHz",
+      "1570  kHz"
+    ],
+    "owners": [
+      "5 STAR COMMUNICATIONS INC.",
+      "ALLEYCAT COMMUNICATIONS",
+      "ALPHA 3E LICENSEE LLC",
+      "AMERICAN CHRISTIAN RADIO, INC.",
+      "AUGUSTANA COLLEGE ASSOCIATION",
+      "BLACK HILLS BROADCASTING, L.L.C.",
+      "BLACK HILLS STATE UNIVERSITY",
+      "CALVARY CHAPEL OF THE BLACK HILLS",
+      "CALVARY CHAPEL SIOUX FALLS",
+      "CHEYENNE RIVER SIOUX TRIBE",
+      "CHRISTENSEN BROADCAST GROUP, INC.",
+      "CHRISTIAN HERITAGE BROADCASTING, INC.",
+      "COMMUNITY BROADCASTING, INC",
+      "COMMUNITY BROADCASTING, INC.",
+      "CORPORATION FOR NATIVE BROADCASTING",
+      "CROW CREEK SIOUX TRIBE",
+      "CSN INTERNATIONAL",
+      "CSN INTERNATIONAL, INC.",
+      "CUP O' DIRT, LLC",
+      "DAKOTA BROADCASTING, LLC",
+      "EDUCATIONAL MEDIA FOUNDATION",
+      "FAMILY WORSHIP CENTER CHURCH, INC.",
+      "GRAY GHOST BROADCASTING",
+      "HARVEST COMMUNITY BAPTIST CHURCH OF WATERTOWN SOUTH DAKOTA",
+      "HAUGO BROADCASTING, INC.",
+      "HERMOSA LIFE STYLE RADIO CORPORATION",
+      "HOMESLICE MEDIA GROUP, LLC",
+      "ISABEL BAPTIST CHURCH",
+      "JAMES RIVER BROADCASTING COMPANY",
+      "JILL BISSON",
+      "JOY COMMUNITY FELLOWSHIP SBC",
+      "K-LOVE, INC.",
+      "LAKOTA COMMUNICATIONS INC.",
+      "LAKOTA COMMUNICATIONS, INC.",
+      "MID-CENTURY RADIO",
+      "MIDWEST COMMUNICATIONS, INC.",
+      "MIDWEST RADIO CORP.",
+      "MINNESOTA PUBLIC RADIO",
+      "MOBRIDGE CHRISTIAN RADIO",
+      "MT.",
+      "MT. RUSHMORE BROADCASTING, INC.",
+      "NATIVE AMERICAN COMMUNITY BOARD, INC.",
+      "NEDVED MEDIA, LLC",
+      "PIERRE EDUCATIONAL RADIO, INC.",
+      "PRAIRIE WINDS BROADCASTING, INC.",
+      "RADD MEDIA, LLC",
+      "RADIO 74 INTERNATIONALE",
+      "REAL PRESENCE RADIO",
+      "RESTORATION RADIO MINISTRIES, INC",
+      "RIVERFRONT",
+      "RIVERFRONT BROADCASTING LLC",
+      "RIVERFRONT BROADCASTING, LLC",
+      "ROSEBUD SIOUX TRIBE",
+      "SAGA COMMUNICATIONS OF SOUTH DAKOTA, LLC",
+      "SEVENTH GENERATION MEDIA SVCS, INC.",
+      "SOUTH DAKOTA BOARD OF DIRECTORS FOR ED TELECOMMUNICATIONS",
+      "SOUTH DAKOTA BOARD OF DIRECTORS FOR ED. TELECOMMUNICATIONS",
+      "SOUTH DAKOTA BOARD OF DIRECTORS FOR EDUCATIONAL TELECOMMUNIC",
+      "SOUTH DAKOTA BOARD OF DIRECTORS FOR EDUCATIONAL TELECOMMUNICATIONS",
+      "SOUTH DAKOTA SCHOOL OF MINES & TECHNOLOGY",
+      "SOUTH DAKOTA STATE UNIVERSITY",
+      "SOUTHERN CULTURAL FOUNDATION",
+      "SPEARFISH RADIO, INC.",
+      "THE MOODY BIBLE INSTITUTE OF CHICAGO",
+      "THE PRAISE NETWORK, INC.",
+      "THE UNIVERSITY OF SOUTH DAKOTA",
+      "TMRG BROADCASTING, LLC",
+      "TOWNSQUARE LICENSE, LLC",
+      "TRI STATE COMMUNICATIONS, LLC",
+      "UNIVERSITY OF NORTHWESTERN - ST. PAUL",
+      "UNIVERSITY OF NORTHWESTERN-ST. PAUL",
+      "VCY AMERICA INC.",
+      "VCY AMERICA, INC",
+      "VCY AMERICA, INC.",
+      "WAYNE HEEREN",
+      "WORDS OF HOPE MEDIA"
+    ],
+    "services": [
+      "AM",
+      "FB",
+      "FL",
+      "FM",
+      "FS",
+      "FX"
+    ]
+  }
+}

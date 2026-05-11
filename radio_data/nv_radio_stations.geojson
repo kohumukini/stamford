@@ -1,0 +1,8086 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.902833,
+          40.700194
+        ]
+      },
+      "properties": {
+        "id": "175328",
+        "call_sign": "KTQQ",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "RADIO 74 INTERNATIONALE",
+        "city": "ELKO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.006917,
+          36.008583
+        ]
+      },
+      "properties": {
+        "id": "50390",
+        "call_sign": "KCEP",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "ECONOMIC OPPORTUNITY BOARD OF CLARK COUNTY",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.062139,
+          36.818056
+        ]
+      },
+      "properties": {
+        "id": "48357",
+        "call_sign": "K201HX",
+        "frequency": "88.1  MHz",
+        "service": "FX",
+        "owner": "NEVADA PUBLIC RADIO",
+        "city": "MESQUITE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.791556,
+          39.216278
+        ]
+      },
+      "properties": {
+        "id": "21091",
+        "call_sign": "K201HO",
+        "frequency": "88.1  MHz",
+        "service": "FX",
+        "owner": "YOUR CHRISTIAN COMPANION NETWORK, INC.",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.259222,
+          37.299917
+        ]
+      },
+      "properties": {
+        "id": "49874",
+        "call_sign": "K201BF",
+        "frequency": "88.1  MHz",
+        "service": "FX",
+        "owner": "NEVADA PUBLIC RADIO",
+        "city": "SCOTTY'S JUNCTION",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.770389,
+          41.0085
+        ]
+      },
+      "properties": {
+        "id": "92129",
+        "call_sign": "K201FF",
+        "frequency": "88.1  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL",
+        "city": "WINNEMUCCA",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.467611,
+          39.760944
+        ]
+      },
+      "properties": {
+        "id": "124888",
+        "call_sign": "KYSA",
+        "frequency": "88.3  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "SPARKS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.697861,
+          40.5585
+        ]
+      },
+      "properties": {
+        "id": "122156",
+        "call_sign": "K203DP",
+        "frequency": "88.5  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL",
+        "city": "ARGENTA",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.186583,
+          36.116111
+        ]
+      },
+      "properties": {
+        "id": "138864",
+        "call_sign": "K203FR",
+        "frequency": "88.5  MHz",
+        "service": "FX",
+        "owner": "EDUCATIONAL RADIO FOUNDATION OF EAST TEXAS, INC.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.514139,
+          36.683306
+        ]
+      },
+      "properties": {
+        "id": "76248",
+        "call_sign": "KVID",
+        "frequency": "88.5  MHz",
+        "service": "FM",
+        "owner": "EDUCATIONAL RADIO FOUNDATION OF EAST TEXAS, INC.",
+        "city": "MESQUITE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.843944,
+          40.928806
+        ]
+      },
+      "properties": {
+        "id": "92229",
+        "call_sign": "K204EU",
+        "frequency": "88.7  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL",
+        "city": "ELKO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.728472,
+          40.118222
+        ]
+      },
+      "properties": {
+        "id": "92131",
+        "call_sign": "K204FR",
+        "frequency": "88.7  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL",
+        "city": "LOVELOCK",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.089444,
+          39.314917
+        ]
+      },
+      "properties": {
+        "id": "90472",
+        "call_sign": "KWPR",
+        "frequency": "88.7  MHz",
+        "service": "FM",
+        "owner": "NEVADA PUBLIC RADIO",
+        "city": "LUND",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.705444,
+          39.259361
+        ]
+      },
+      "properties": {
+        "id": "69001",
+        "call_sign": "KUNR",
+        "frequency": "88.7  MHz",
+        "service": "FM",
+        "owner": "BOARD OF REGENTS OF THE NEVADA SYSTEM OF HIGHER EDUCATION",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.813444,
+          39.541611
+        ]
+      },
+      "properties": {
+        "id": "69001",
+        "call_sign": "KUNR",
+        "frequency": "88.7  MHz",
+        "service": "FS",
+        "owner": "BOARD OF REGENTS OF THE NEVADA SYSTEM OF HIGHER EDUCATION",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.884444,
+          39.316389
+        ]
+      },
+      "properties": {
+        "id": "69001",
+        "call_sign": "KUNR",
+        "frequency": "88.7  MHz",
+        "service": "FS",
+        "owner": "BOARD OF REGENTS OF THE NEVADA SYSTEM OF HIGHER EDUCATION",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5005,
+          35.96525
+        ]
+      },
+      "properties": {
+        "id": "79047",
+        "call_sign": "KNPR",
+        "frequency": "88.9  MHz",
+        "service": "FM",
+        "owner": "NEVADA PUBLIC RADIO",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5005,
+          35.96525
+        ]
+      },
+      "properties": {
+        "id": "79047",
+        "call_sign": "KNPR",
+        "frequency": "88.9  MHz",
+        "service": "FS",
+        "owner": "NEVADA PUBLIC RADIO",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.224417,
+          37.726722
+        ]
+      },
+      "properties": {
+        "id": "175110",
+        "call_sign": "KGFN",
+        "frequency": "89.1  MHz",
+        "service": "FM",
+        "owner": "RADIO GOLDFIELD BROADCASTING INC.",
+        "city": "GOLDFIELD",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.467667,
+          39.760167
+        ]
+      },
+      "properties": {
+        "id": "172600",
+        "call_sign": "KVNV",
+        "frequency": "89.1  MHz",
+        "service": "FM",
+        "owner": "NEVADA PUBLIC RADIO",
+        "city": "SUN VALLEY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.850333,
+          40.921583
+        ]
+      },
+      "properties": {
+        "id": "174342",
+        "call_sign": "KLKR",
+        "frequency": "89.3  MHz",
+        "service": "FM",
+        "owner": "NEVADA PUBLIC RADIO",
+        "city": "ELKO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.006361,
+          36.009556
+        ]
+      },
+      "properties": {
+        "id": "198454",
+        "call_sign": "KAER-FM2",
+        "frequency": "89.3  MHz",
+        "service": "FB",
+        "owner": "K-LOVE, INC.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.585833,
+          36.601083
+        ]
+      },
+      "properties": {
+        "id": "93355",
+        "call_sign": "KAER",
+        "frequency": "89.3  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "MESQUITE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.006389,
+          36.009417
+        ]
+      },
+      "properties": {
+        "id": "93355",
+        "call_sign": "KAER",
+        "frequency": "89.3  MHz",
+        "service": "FS",
+        "owner": "K-LOVE, INC.",
+        "city": "MESQUITE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.006389,
+          36.009417
+        ]
+      },
+      "properties": {
+        "id": "93355",
+        "call_sign": "KAER",
+        "frequency": "89.3  MHz",
+        "service": "FS",
+        "owner": "K-LOVE, INC.",
+        "city": "MESQUITE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9995,
+          38.656306
+        ]
+      },
+      "properties": {
+        "id": "92879",
+        "call_sign": "K207CY",
+        "frequency": "89.3  MHz",
+        "service": "FX",
+        "owner": "SMOKY VALLEY TELEVISION DISTRICT",
+        "city": "ROUND MOUNTAIN",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.881361,
+          39.043056
+        ]
+      },
+      "properties": {
+        "id": "89733",
+        "call_sign": "K207CP",
+        "frequency": "89.3  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL, INC.",
+        "city": "SOUTH LAKE TAHOE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.881306,
+          39.042972
+        ]
+      },
+      "properties": {
+        "id": "89733",
+        "call_sign": "K207CP",
+        "frequency": "89.3  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL, INC.",
+        "city": "SOUTH LAKE TAHOE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.965528,
+          39.511111
+        ]
+      },
+      "properties": {
+        "id": "71801",
+        "call_sign": "K208BR",
+        "frequency": "89.5  MHz",
+        "service": "FX",
+        "owner": "WESTERN INSPIRATIONAL BROADCASTERS, INC.",
+        "city": "EUREKA",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.356917,
+          40.652278
+        ]
+      },
+      "properties": {
+        "id": "174022",
+        "call_sign": "KLAP",
+        "frequency": "89.5  MHz",
+        "service": "FM",
+        "owner": "KLAP FM RADIO",
+        "city": "GERLACH",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.743556,
+          35.246917
+        ]
+      },
+      "properties": {
+        "id": "48353",
+        "call_sign": "K208BB",
+        "frequency": "89.5  MHz",
+        "service": "FX",
+        "owner": "NEVADA PUBLIC RADIO",
+        "city": "LAUGHLIN, ETC.",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.45625,
+          40.191
+        ]
+      },
+      "properties": {
+        "id": "149480",
+        "call_sign": "K208EW",
+        "frequency": "89.5  MHz",
+        "service": "FX",
+        "owner": "RADIO BY GRACE, INC.",
+        "city": "LOVELOCK",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.79875,
+          39.584083
+        ]
+      },
+      "properties": {
+        "id": "78489",
+        "call_sign": "KNCJ",
+        "frequency": "89.5  MHz",
+        "service": "FM",
+        "owner": "BOARD OF REGENTS OF THE NEVADA SYSTEM OF HIGHER EDUCATION",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.225889,
+          38.051583
+        ]
+      },
+      "properties": {
+        "id": "93152",
+        "call_sign": "K208ET",
+        "frequency": "89.5  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL",
+        "city": "TONOPAH",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.501667,
+          35.965778
+        ]
+      },
+      "properties": {
+        "id": "48348",
+        "call_sign": "KCNV",
+        "frequency": "89.7  MHz",
+        "service": "FM",
+        "owner": "NEVADA PUBLIC RADIO",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.578583,
+          37.893833
+        ]
+      },
+      "properties": {
+        "id": "175553",
+        "call_sign": "KLYX",
+        "frequency": "89.7  MHz",
+        "service": "FM",
+        "owner": "LINCOLN COUNTY SCHOOL DISTRICT",
+        "city": "PIOCHE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.780528,
+          39.439778
+        ]
+      },
+      "properties": {
+        "id": "176348",
+        "call_sign": "KQNV",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "LUCKY BOY EDUCATIONAL MEDIA, INC.",
+        "city": "FALLON",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.922667,
+          39.912694
+        ]
+      },
+      "properties": {
+        "id": "176348",
+        "call_sign": "KQNV",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "LUCKY BOY EDUCATIONAL MEDIA, INC.",
+        "city": "FALLON",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.922389,
+          39.247944
+        ]
+      },
+      "properties": {
+        "id": "69187",
+        "call_sign": "K210AK",
+        "frequency": "89.9  MHz",
+        "service": "FX",
+        "owner": "BOARD OF REGENTS OF THE NEVADA SYSTEM OF HIGHER EDUCATION",
+        "city": "INCLINE VILLAGE, ETC",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.519972,
+          36.68525
+        ]
+      },
+      "properties": {
+        "id": "48352",
+        "call_sign": "K210ET",
+        "frequency": "89.9  MHz",
+        "service": "FX",
+        "owner": "NEVADA PUBLIC RADIO",
+        "city": "MOAPA, ETC.",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.232444,
+          38.071667
+        ]
+      },
+      "properties": {
+        "id": "767775",
+        "call_sign": "KHIQ",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "LUCKY BOY EDUCATIONAL MEDIA, INC.",
+        "city": "TONOPAH",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.770389,
+          41.0085
+        ]
+      },
+      "properties": {
+        "id": "92263",
+        "call_sign": "K211FE",
+        "frequency": "89.9  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL",
+        "city": "WINNEMUCCA",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.688694,
+          40.621278
+        ]
+      },
+      "properties": {
+        "id": "71822",
+        "call_sign": "K211FG",
+        "frequency": "90.1  MHz",
+        "service": "FX",
+        "owner": "WESTERN INSPIRATIONAL BROADCASTERS, INC.",
+        "city": "BATTLE MOUNTAIN",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.968694,
+          36.918833
+        ]
+      },
+      "properties": {
+        "id": "766048",
+        "call_sign": "NEW",
+        "frequency": "90.1  MHz",
+        "service": "FM",
+        "owner": "-",
+        "city": "CRYSTAL",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.239944,
+          37.709833
+        ]
+      },
+      "properties": {
+        "id": "767998",
+        "call_sign": "KXXS",
+        "frequency": "90.1  MHz",
+        "service": "FM",
+        "owner": "LUCKY BOY EDUCATIONAL MEDIA, INC.",
+        "city": "GOLDFIELD",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.622417,
+          38.523861
+        ]
+      },
+      "properties": {
+        "id": "79036",
+        "call_sign": "KQMC",
+        "frequency": "90.1  MHz",
+        "service": "FM",
+        "owner": "LUCKY BOY EDUCATIONAL MEDIA, INC.",
+        "city": "HAWTHORNE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.765389,
+          38.457694
+        ]
+      },
+      "properties": {
+        "id": "79036",
+        "call_sign": "KQMC",
+        "frequency": "90.1  MHz",
+        "service": "FM",
+        "owner": "LUCKY BOY EDUCATIONAL MEDIA, INC.",
+        "city": "HAWTHORNE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.155528,
+          36.147944
+        ]
+      },
+      "properties": {
+        "id": "78969",
+        "call_sign": "K211DC",
+        "frequency": "90.1  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL, INC.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.998611,
+          36.176917
+        ]
+      },
+      "properties": {
+        "id": "78969",
+        "call_sign": "K211DC",
+        "frequency": "90.1  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL, INC.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.007472,
+          36.007583
+        ]
+      },
+      "properties": {
+        "id": "78969",
+        "call_sign": "K211DC",
+        "frequency": "90.1  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL, INC.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.770389,
+          41.0085
+        ]
+      },
+      "properties": {
+        "id": "92263",
+        "call_sign": "K211FE",
+        "frequency": "90.1  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL",
+        "city": "WINNEMUCCA",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.761639,
+          36.90575
+        ]
+      },
+      "properties": {
+        "id": "767540",
+        "call_sign": "KQMB",
+        "frequency": "90.3  MHz",
+        "service": "FM",
+        "owner": "LUCKY BOY EDUCATIONAL MEDIA, INC.",
+        "city": "BEATTY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.903389,
+          40.699917
+        ]
+      },
+      "properties": {
+        "id": "19397",
+        "call_sign": "K212AM",
+        "frequency": "90.3  MHz",
+        "service": "FX",
+        "owner": "FAITH COMMUNICATIONS CORP.",
+        "city": "CARLIN, ETC.",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.214639,
+          38.695528
+        ]
+      },
+      "properties": {
+        "id": "762651",
+        "call_sign": "KHRM",
+        "frequency": "90.3  MHz",
+        "service": "FM",
+        "owner": "RADIO GOLDFIELD BROADCASTING INC.",
+        "city": "ROUND MOUNTAIN",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.006361,
+          36.008028
+        ]
+      },
+      "properties": {
+        "id": "20528",
+        "call_sign": "KSOS",
+        "frequency": "90.5  MHz",
+        "service": "FM",
+        "owner": "FAITH COMMUNICATIONS CORP.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.764472,
+          38.456833
+        ]
+      },
+      "properties": {
+        "id": "71812",
+        "call_sign": "K214FA",
+        "frequency": "90.7  MHz",
+        "service": "FX",
+        "owner": "WESTERN INSPIRATIONAL BROADCASTERS, INC.",
+        "city": "HAWTHORNE, ETC.",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.700333,
+          40.811583
+        ]
+      },
+      "properties": {
+        "id": "173285",
+        "call_sign": "KNVQ",
+        "frequency": "90.7  MHz",
+        "service": "FM",
+        "owner": "WESTERN INSPIRATIONAL BROADCASTERS, INC.",
+        "city": "SPRING CREEK",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7675,
+          41.010694
+        ]
+      },
+      "properties": {
+        "id": "71824",
+        "call_sign": "K214EV",
+        "frequency": "90.7  MHz",
+        "service": "FX",
+        "owner": "WESTERN INSPIRATIONAL BROADCASTERS, INC.",
+        "city": "WINNEMUCCA",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.770444,
+          39.213833
+        ]
+      },
+      "properties": {
+        "id": "144149",
+        "call_sign": "K215FJ",
+        "frequency": "90.9  MHz",
+        "service": "FX",
+        "owner": "K-LOVE, INC.",
+        "city": "CARSON CITY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.188611,
+          38.041861
+        ]
+      },
+      "properties": {
+        "id": "762903",
+        "call_sign": "KDYR",
+        "frequency": "90.9  MHz",
+        "service": "FM",
+        "owner": "RADIO GOLDFIELD BROADCASTING INC.",
+        "city": "DYER",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.965528,
+          39.511111
+        ]
+      },
+      "properties": {
+        "id": "88142",
+        "call_sign": "K215CM",
+        "frequency": "90.9  MHz",
+        "service": "FX",
+        "owner": "BOARD OF REGENTS OF THE NEVADA SYSTEM OF HIGHER EDUCATION",
+        "city": "EUREKA, ETC.",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.728472,
+          40.118222
+        ]
+      },
+      "properties": {
+        "id": "92320",
+        "call_sign": "K215CX",
+        "frequency": "90.9  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL",
+        "city": "LOVELOCK",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.281639,
+          36.295
+        ]
+      },
+      "properties": {
+        "id": "48349",
+        "call_sign": "K215FA",
+        "frequency": "90.9  MHz",
+        "service": "FX",
+        "owner": "EDUCATIONAL RADIO FOUNDATION OF EAST TEXAS, INC.",
+        "city": "NORTH LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.057278,
+          36.271889
+        ]
+      },
+      "properties": {
+        "id": "763859",
+        "call_sign": "KIYQ",
+        "frequency": "90.9  MHz",
+        "service": "FM",
+        "owner": "READING, WRITING, ARITHMETIC, INC.",
+        "city": "PAHRUMP",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.162306,
+          38.693806
+        ]
+      },
+      "properties": {
+        "id": "91591",
+        "call_sign": "K215DX",
+        "frequency": "90.9  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL",
+        "city": "ROUND MOUNTAIN",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.799611,
+          39.583778
+        ]
+      },
+      "properties": {
+        "id": "8420",
+        "call_sign": "K215FK",
+        "frequency": "90.9  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL",
+        "city": "SPARKS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.699861,
+          40.813194
+        ]
+      },
+      "properties": {
+        "id": "19388",
+        "call_sign": "K216BB",
+        "frequency": "91.1  MHz",
+        "service": "FX",
+        "owner": "FAITH COMMUNICATIONS CORP.",
+        "city": "ELKO, ETC.",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.274139,
+          35.628028
+        ]
+      },
+      "properties": {
+        "id": "88719",
+        "call_sign": "KVKL",
+        "frequency": "91.1  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.044722,
+          35.945806
+        ]
+      },
+      "properties": {
+        "id": "88719",
+        "call_sign": "KVKL",
+        "frequency": "91.1  MHz",
+        "service": "FS",
+        "owner": "K-LOVE, INC.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.519972,
+          36.684972
+        ]
+      },
+      "properties": {
+        "id": "93131",
+        "call_sign": "K216EV",
+        "frequency": "91.1  MHz",
+        "service": "FX",
+        "owner": "FAITH COMMUNICATIONS CORPORATION",
+        "city": "LOGANDALE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.710306,
+          39.258583
+        ]
+      },
+      "properties": {
+        "id": "71818",
+        "call_sign": "KNIS",
+        "frequency": "91.3  MHz",
+        "service": "FM",
+        "owner": "WESTERN INSPIRATIONAL BROADCASTERS, INC.",
+        "city": "CARSON CITY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.710306,
+          39.258583
+        ]
+      },
+      "properties": {
+        "id": "71818",
+        "call_sign": "KNIS",
+        "frequency": "91.3  MHz",
+        "service": "FS",
+        "owner": "WESTERN INSPIRATIONAL BROADCASTERS, INC.",
+        "city": "CARSON CITY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.165722,
+          36.490583
+        ]
+      },
+      "properties": {
+        "id": "767961",
+        "call_sign": "KXXP",
+        "frequency": "91.3  MHz",
+        "service": "FM",
+        "owner": "LUCKY BOY EDUCATIONAL MEDIA, INC.",
+        "city": "CRYSTAL",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.840306,
+          41.785444
+        ]
+      },
+      "properties": {
+        "id": "92575",
+        "call_sign": "KBSJ",
+        "frequency": "91.3  MHz",
+        "service": "FM",
+        "owner": "IDAHO STATE BOARD OF EDUCATION",
+        "city": "JACKPOT",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.840306,
+          41.785444
+        ]
+      },
+      "properties": {
+        "id": "92575",
+        "call_sign": "KBSJ",
+        "frequency": "91.3  MHz",
+        "service": "FM",
+        "owner": "IDAHO STATE BOARD OF EDUCATION",
+        "city": "JACKPOT",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.089444,
+          39.314917
+        ]
+      },
+      "properties": {
+        "id": "93087",
+        "call_sign": "K217DN",
+        "frequency": "91.3  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL",
+        "city": "RIEPETOWN/ELY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.770194,
+          41.008056
+        ]
+      },
+      "properties": {
+        "id": "69223",
+        "call_sign": "K217AX",
+        "frequency": "91.3  MHz",
+        "service": "FX",
+        "owner": "BOARD OF REGENTS OF THE NEVADA SYSTEM OF HIGHER EDUCATION",
+        "city": "WINNEMUCCA",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.697861,
+          40.5585
+        ]
+      },
+      "properties": {
+        "id": "93262",
+        "call_sign": "K218EV",
+        "frequency": "91.5  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL",
+        "city": "BATTLE MOUNTAIN",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.629778,
+          40.894639
+        ]
+      },
+      "properties": {
+        "id": "49582",
+        "call_sign": "KNCC",
+        "frequency": "91.5  MHz",
+        "service": "FM",
+        "owner": "BOARD OF REGENTS OF THE NEVADA SYSTEM OF HIGHER EDUCATION",
+        "city": "ELKO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.357861,
+          40.65175
+        ]
+      },
+      "properties": {
+        "id": "175807",
+        "call_sign": "KFBR",
+        "frequency": "91.5  MHz",
+        "service": "FM",
+        "owner": "BURNING MAN PROJECT",
+        "city": "GERLACH",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.764528,
+          38.456972
+        ]
+      },
+      "properties": {
+        "id": "69009",
+        "call_sign": "K218AO",
+        "frequency": "91.5  MHz",
+        "service": "FX",
+        "owner": "BOARD OF REGENTS OF THE NEVADA SYSTEM OF HIGHER EDUCATION",
+        "city": "HAWTHORNE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.043972,
+          35.945861
+        ]
+      },
+      "properties": {
+        "id": "68921",
+        "call_sign": "KUNV",
+        "frequency": "91.5  MHz",
+        "service": "FM",
+        "owner": "BOARD OF REGENTS, NEVADA SYSTEM OF HIGHER EDUCATION",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.850333,
+          36.93575
+        ]
+      },
+      "properties": {
+        "id": "49873",
+        "call_sign": "K219AV",
+        "frequency": "91.7  MHz",
+        "service": "FX",
+        "owner": "NEVADA PUBLIC RADIO",
+        "city": "BEATTY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7215,
+          41.649611
+        ]
+      },
+      "properties": {
+        "id": "50707",
+        "call_sign": "K219BT",
+        "frequency": "91.7  MHz",
+        "service": "FX",
+        "owner": "OROVADA COMMUNITY CHURCH",
+        "city": "OROVADA",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.578583,
+          37.893833
+        ]
+      },
+      "properties": {
+        "id": "48350",
+        "call_sign": "KLNR",
+        "frequency": "91.7  MHz",
+        "service": "FM",
+        "owner": "NEVADA PUBLIC RADIO",
+        "city": "PANACA",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.225889,
+          38.051861
+        ]
+      },
+      "properties": {
+        "id": "48356",
+        "call_sign": "KTPH",
+        "frequency": "91.7  MHz",
+        "service": "FM",
+        "owner": "NEVADA PUBLIC RADIO",
+        "city": "TONOPAH",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.939639,
+          39.577111
+        ]
+      },
+      "properties": {
+        "id": "69279",
+        "call_sign": "K219AR",
+        "frequency": "91.7  MHz",
+        "service": "FX",
+        "owner": "BOARD OF REGENTS OF THE NEVADA SYSTEM OF HIGHER EDUCATION",
+        "city": "VERDI",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.843944,
+          40.928806
+        ]
+      },
+      "properties": {
+        "id": "92319",
+        "call_sign": "K220HG",
+        "frequency": "91.9  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL",
+        "city": "ELKO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.893639,
+          39.264667
+        ]
+      },
+      "properties": {
+        "id": "71826",
+        "call_sign": "K220DT",
+        "frequency": "91.9  MHz",
+        "service": "FX",
+        "owner": "WESTERN INSPIRATIONAL BROADCASTERS, INC.",
+        "city": "ELY, ETC.",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.622639,
+          38.523972
+        ]
+      },
+      "properties": {
+        "id": "176372",
+        "call_sign": "KELC",
+        "frequency": "91.9  MHz",
+        "service": "FM",
+        "owner": "LUCKY BOY EDUCATIONAL MEDIA, INC.",
+        "city": "HAWTHORNE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.998611,
+          36.176917
+        ]
+      },
+      "properties": {
+        "id": "122267",
+        "call_sign": "K220JW",
+        "frequency": "91.9  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL INC.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.155528,
+          36.147944
+        ]
+      },
+      "properties": {
+        "id": "122267",
+        "call_sign": "K220JW",
+        "frequency": "91.9  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL INC.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.007472,
+          36.007583
+        ]
+      },
+      "properties": {
+        "id": "122267",
+        "call_sign": "K220JW",
+        "frequency": "91.9  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL INC.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.244028,
+          38.987389
+        ]
+      },
+      "properties": {
+        "id": "69363",
+        "call_sign": "K220BC",
+        "frequency": "91.9  MHz",
+        "service": "FX",
+        "owner": "BOARD OF REGENTS OF THE NEVADA SYSTEM OF HIGHER EDUCATION",
+        "city": "YERINGTON, ETC.",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.774222,
+          36.927722
+        ]
+      },
+      "properties": {
+        "id": "4452",
+        "call_sign": "K221BF",
+        "frequency": "92.1  MHz",
+        "service": "FX",
+        "owner": "BEATTY TOWN ADVISORY COUNCIL",
+        "city": "BEATTY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.770472,
+          39.213806
+        ]
+      },
+      "properties": {
+        "id": "199465",
+        "call_sign": "KRAT-FM2",
+        "frequency": "92.1  MHz",
+        "service": "FB",
+        "owner": "EVANS BROADCAST COMPANY, INC.",
+        "city": "CARSON CITY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.769222,
+          39.214556
+        ]
+      },
+      "properties": {
+        "id": "199465",
+        "call_sign": "KRAT-FM2",
+        "frequency": "92.1  MHz",
+        "service": "FB",
+        "owner": "EVANS BROADCAST COMPANY, INC.",
+        "city": "CARSON CITY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.761778,
+          38.460194
+        ]
+      },
+      "properties": {
+        "id": "42706",
+        "call_sign": "K221AR",
+        "frequency": "92.1  MHz",
+        "service": "FX",
+        "owner": "MINERAL TELEVISION DISTRICT #1",
+        "city": "HAWTHORNE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9995,
+          38.656306
+        ]
+      },
+      "properties": {
+        "id": "86133",
+        "call_sign": "K221DR",
+        "frequency": "92.1  MHz",
+        "service": "FX",
+        "owner": "SMOKY VALLEY TELEVISION DISTRICT",
+        "city": "ROUND MOUNTAIN",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.802667,
+          39.584056
+        ]
+      },
+      "properties": {
+        "id": "13528",
+        "call_sign": "KRAT",
+        "frequency": "92.1  MHz",
+        "service": "FM",
+        "owner": "EVANS BROADCAST COMPANY, INC.",
+        "city": "SPARKS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.501667,
+          35.965778
+        ]
+      },
+      "properties": {
+        "id": "38451",
+        "call_sign": "KOMP",
+        "frequency": "92.3  MHz",
+        "service": "FM",
+        "owner": "LOTUS BROADCASTING CORP.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.04275,
+          35.945528
+        ]
+      },
+      "properties": {
+        "id": "38451",
+        "call_sign": "KOMP",
+        "frequency": "92.3  MHz",
+        "service": "FS",
+        "owner": "LOTUS BROADCASTING CORP.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.185417,
+          38.684889
+        ]
+      },
+      "properties": {
+        "id": "88665",
+        "call_sign": "KSVL",
+        "frequency": "92.3  MHz",
+        "service": "FM",
+        "owner": "EVANS BROADCAST COMPANY, INC.",
+        "city": "SMITH",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.358056,
+          40.650278
+        ]
+      },
+      "properties": {
+        "id": "784852",
+        "call_sign": "KBRU-LP",
+        "frequency": "92.5  MHz",
+        "service": "FL",
+        "owner": "STEWARDS OF THE BLACK ROCK DESERT, INC.",
+        "city": "GERLACH",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.922222,
+          39.247222
+        ]
+      },
+      "properties": {
+        "id": "788565",
+        "call_sign": "NEW",
+        "frequency": "92.5  MHz",
+        "service": "FL",
+        "owner": "CARSON TAHOE COMMUNITY MEDIA FOUNDATION",
+        "city": "INCLINE VILLAGE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.799611,
+          39.583778
+        ]
+      },
+      "properties": {
+        "id": "83337",
+        "call_sign": "K223AL",
+        "frequency": "92.5  MHz",
+        "service": "FX",
+        "owner": "RENO MEDIA GROUP, L.P.",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.944194,
+          41.197139
+        ]
+      },
+      "properties": {
+        "id": "106680",
+        "call_sign": "K223AM",
+        "frequency": "92.5  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL",
+        "city": "WELLS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.774222,
+          36.927722
+        ]
+      },
+      "properties": {
+        "id": "4447",
+        "call_sign": "K224AR",
+        "frequency": "92.7  MHz",
+        "service": "FX",
+        "owner": "BEATTY TOWN ADVISORY COUNCIL",
+        "city": "BEATTY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.928333,
+          39.246028
+        ]
+      },
+      "properties": {
+        "id": "63558",
+        "call_sign": "KDSS",
+        "frequency": "92.7  MHz",
+        "service": "FM",
+        "owner": "COATES BROADCASTING, INC.",
+        "city": "ELY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.362222,
+          36.333306
+        ]
+      },
+      "properties": {
+        "id": "171488",
+        "call_sign": "KRRN-FM2",
+        "frequency": "92.7  MHz",
+        "service": "FB",
+        "owner": "ENTRAVISION HOLDINGS, LLC",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.585833,
+          36.601083
+        ]
+      },
+      "properties": {
+        "id": "27982",
+        "call_sign": "KRRN",
+        "frequency": "92.7  MHz",
+        "service": "FM",
+        "owner": "ENTRAVISION HOLDINGS, LLC",
+        "city": "MOAPA VALLEY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.362222,
+          36.333306
+        ]
+      },
+      "properties": {
+        "id": "27982",
+        "call_sign": "KRRN",
+        "frequency": "92.7  MHz",
+        "service": "FS",
+        "owner": "ENTRAVISION HOLDINGS, LLC",
+        "city": "MOAPA VALLEY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.767333,
+          41.011
+        ]
+      },
+      "properties": {
+        "id": "60047",
+        "call_sign": "KWNA-FM",
+        "frequency": "92.7  MHz",
+        "service": "FM",
+        "owner": "ELKO BROADCASTING COMPANY, INC.",
+        "city": "WINNEMUCCA",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.802667,
+          39.584056
+        ]
+      },
+      "properties": {
+        "id": "64055",
+        "call_sign": "KLRH",
+        "frequency": "92.9  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.770444,
+          39.213833
+        ]
+      },
+      "properties": {
+        "id": "86510",
+        "call_sign": "K226AL",
+        "frequency": "93.1  MHz",
+        "service": "FX",
+        "owner": "K-LOVE, INC.",
+        "city": "CARSON CITY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.500861,
+          35.96525
+        ]
+      },
+      "properties": {
+        "id": "6893",
+        "call_sign": "KYMT",
+        "frequency": "93.1  MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.006389,
+          36.00775
+        ]
+      },
+      "properties": {
+        "id": "6893",
+        "call_sign": "KYMT",
+        "frequency": "93.1  MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.779361,
+          39.51575
+        ]
+      },
+      "properties": {
+        "id": "193411",
+        "call_sign": "KBOK-LP",
+        "frequency": "93.3  MHz",
+        "service": "FL",
+        "owner": "SONRISE CHURCH D/B/A CALVARY CHAPEL OF NORTHWEST RENO",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.711028,
+          39.257139
+        ]
+      },
+      "properties": {
+        "id": "18541",
+        "call_sign": "K228DA",
+        "frequency": "93.5  MHz",
+        "service": "FX",
+        "owner": "RENO MEDIA GROUP, L.P.",
+        "city": "CARSON CITY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.001861,
+          36.110278
+        ]
+      },
+      "properties": {
+        "id": "790332",
+        "call_sign": "KADD-FM3",
+        "frequency": "93.5  MHz",
+        "service": "FB",
+        "owner": "RADIO ACTIVO BROADCASTING LICENSE, LLC",
+        "city": "HENDERSON",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.06,
+          36.210472
+        ]
+      },
+      "properties": {
+        "id": "790331",
+        "call_sign": "KADD-FM2",
+        "frequency": "93.5  MHz",
+        "service": "FB",
+        "owner": "RADIO ACTIVO BROADCASTING LICENSE, LLC",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.122444,
+          36.63525
+        ]
+      },
+      "properties": {
+        "id": "72528",
+        "call_sign": "KADD",
+        "frequency": "93.5  MHz",
+        "service": "FM",
+        "owner": "RADIO ACTIVO BROADCASTING LICENSE, LLC",
+        "city": "LOGANDALE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.975,
+          36.333833
+        ]
+      },
+      "properties": {
+        "id": "177819",
+        "call_sign": "KADD-FM1",
+        "frequency": "93.5  MHz",
+        "service": "FB",
+        "owner": "RADIO ACTIVO BROADCASTING LICENSE, LLC",
+        "city": "LOGANDALE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.975,
+          36.333861
+        ]
+      },
+      "properties": {
+        "id": "72528",
+        "call_sign": "KADD",
+        "frequency": "93.5  MHz",
+        "service": "FS",
+        "owner": "RADIO ACTIVO BROADCASTING LICENSE, LLC",
+        "city": "LOGANDALE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.975,
+          36.333861
+        ]
+      },
+      "properties": {
+        "id": "177819",
+        "call_sign": "KADD-FM1",
+        "frequency": "93.5  MHz",
+        "service": "FB",
+        "owner": "RADIO ACTIVO BROADCASTING LICENSE, LLC",
+        "city": "NORTH LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.167778,
+          37.359444
+        ]
+      },
+      "properties": {
+        "id": "787796",
+        "call_sign": "NEW",
+        "frequency": "93.7  MHz",
+        "service": "FL",
+        "owner": "COMMUNITY RESILIENCY FOUNDATION",
+        "city": "ALAMO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.849778,
+          40.922139
+        ]
+      },
+      "properties": {
+        "id": "19370",
+        "call_sign": "KLKO",
+        "frequency": "93.7  MHz",
+        "service": "FM",
+        "owner": "ELKO BROADCASTING COMPANY, INC.",
+        "city": "ELKO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.043889,
+          35.945806
+        ]
+      },
+      "properties": {
+        "id": "56170",
+        "call_sign": "K229CT",
+        "frequency": "93.7  MHz",
+        "service": "FX",
+        "owner": "ADVANCE MINISTRIES, INC. D/B/A/ NEW LIFE CHRISTIAN SCHOOL",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.799333,
+          39.583778
+        ]
+      },
+      "properties": {
+        "id": "77800",
+        "call_sign": "KPGF",
+        "frequency": "93.7  MHz",
+        "service": "FM",
+        "owner": "WORLD MATTERS INC",
+        "city": "SUN VALLEY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.773333,
+          39.467778
+        ]
+      },
+      "properties": {
+        "id": "126241",
+        "call_sign": "KAVS-LP",
+        "frequency": "93.9  MHz",
+        "service": "FL",
+        "owner": "OASIS CHRISTIAN RADIO GROUP",
+        "city": "FALLON",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.922667,
+          39.912694
+        ]
+      },
+      "properties": {
+        "id": "190451",
+        "call_sign": "KDJJ",
+        "frequency": "94.1  MHz",
+        "service": "FM",
+        "owner": "NORTHWAY BROADCASTING, LLC",
+        "city": "FERNLEY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.006389,
+          36.008306
+        ]
+      },
+      "properties": {
+        "id": "51676",
+        "call_sign": "KMXB",
+        "frequency": "94.1  MHz",
+        "service": "FM",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "HENDERSON",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.0465,
+          36.267806
+        ]
+      },
+      "properties": {
+        "id": "51676",
+        "call_sign": "KMXB",
+        "frequency": "94.1  MHz",
+        "service": "FS",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "HENDERSON",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.79875,
+          39.584083
+        ]
+      },
+      "properties": {
+        "id": "138802",
+        "call_sign": "K231CS",
+        "frequency": "94.1  MHz",
+        "service": "FX",
+        "owner": "LOTUS RADIO CORP.",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.770472,
+          39.213806
+        ]
+      },
+      "properties": {
+        "id": "86396",
+        "call_sign": "K232EA",
+        "frequency": "94.3  MHz",
+        "service": "FX",
+        "owner": "LOTUS RADIO CORP.",
+        "city": "CARSON CITY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.770111,
+          41.008222
+        ]
+      },
+      "properties": {
+        "id": "28107",
+        "call_sign": "K232BK",
+        "frequency": "94.3  MHz",
+        "service": "FX",
+        "owner": "NOMADIC BROADCASTING LLC",
+        "city": "WINNEMUCCA",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.850333,
+          40.921583
+        ]
+      },
+      "properties": {
+        "id": "164140",
+        "call_sign": "KUOL",
+        "frequency": "94.5  MHz",
+        "service": "FM",
+        "owner": "GLOBAL ONE MEDIA, INC",
+        "city": "ELKO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.001861,
+          36.110278
+        ]
+      },
+      "properties": {
+        "id": "790349",
+        "call_sign": "KXLI-FM3",
+        "frequency": "94.5  MHz",
+        "service": "FB",
+        "owner": "RADIO ACTIVO BROADCASTING LICENSE, LLC",
+        "city": "HENDERSON",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.06,
+          36.210472
+        ]
+      },
+      "properties": {
+        "id": "762666",
+        "call_sign": "KXLI-FM2",
+        "frequency": "94.5  MHz",
+        "service": "FB",
+        "owner": "RADIO ACTIVO BROADCASTING LICENSE, LLC",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.122444,
+          36.63525
+        ]
+      },
+      "properties": {
+        "id": "164097",
+        "call_sign": "KXLI",
+        "frequency": "94.5  MHz",
+        "service": "FM",
+        "owner": "RADIO ACTIVO BROADCASTING LICENSE, LLC",
+        "city": "MOAPA",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.931111,
+          36.323306
+        ]
+      },
+      "properties": {
+        "id": "164097",
+        "call_sign": "KXLI",
+        "frequency": "94.5  MHz",
+        "service": "FS",
+        "owner": "RADIO ACTIVO BROADCASTING LICENSE, LLC",
+        "city": "MOAPA",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.975,
+          36.333861
+        ]
+      },
+      "properties": {
+        "id": "164097",
+        "call_sign": "KXLI",
+        "frequency": "94.5  MHz",
+        "service": "FS",
+        "owner": "RADIO ACTIVO BROADCASTING LICENSE, LLC",
+        "city": "MOAPA",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.975,
+          36.333861
+        ]
+      },
+      "properties": {
+        "id": "177861",
+        "call_sign": "KXLI-FM1",
+        "frequency": "94.5  MHz",
+        "service": "FB",
+        "owner": "RADIO ACTIVO BROADCASTING LICENSE, LLC",
+        "city": "NORTH LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.799056,
+          39.583778
+        ]
+      },
+      "properties": {
+        "id": "83586",
+        "call_sign": "KTHX-FM",
+        "frequency": "94.5  MHz",
+        "service": "FM",
+        "owner": "LOTUS RADIO CORP.",
+        "city": "SUN VALLEY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.79875,
+          39.584083
+        ]
+      },
+      "properties": {
+        "id": "83586",
+        "call_sign": "KTHX-FM",
+        "frequency": "94.5  MHz",
+        "service": "FS",
+        "owner": "LOTUS RADIO CORP.",
+        "city": "SUN VALLEY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.730722,
+          38.910722
+        ]
+      },
+      "properties": {
+        "id": "126654",
+        "call_sign": "KYHW-LP",
+        "frequency": "94.7  MHz",
+        "service": "FL",
+        "owner": "CALVARY CHAPEL OF CARSON VALLEY",
+        "city": "GARDNERVILLE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.044722,
+          35.945806
+        ]
+      },
+      "properties": {
+        "id": "156220",
+        "call_sign": "K234BS",
+        "frequency": "94.7  MHz",
+        "service": "FX",
+        "owner": "K-LOVE, INC.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.2775,
+          36.300833
+        ]
+      },
+      "properties": {
+        "id": "788239",
+        "call_sign": "KSWR-LP",
+        "frequency": "94.9  MHz",
+        "service": "FL",
+        "owner": "LAS VEGAS COMMUNITY RADIO",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.975,
+          36.333861
+        ]
+      },
+      "properties": {
+        "id": "781474",
+        "call_sign": "KVPZ-LP",
+        "frequency": "94.9  MHz",
+        "service": "FL",
+        "owner": "CT GLOBAL INC",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.802667,
+          39.584056
+        ]
+      },
+      "properties": {
+        "id": "156756",
+        "call_sign": "K235DC",
+        "frequency": "94.9  MHz",
+        "service": "FX",
+        "owner": "THE EVANS BROADCAST COMPANY, INC.",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.129417,
+          36.773056
+        ]
+      },
+      "properties": {
+        "id": "196337",
+        "call_sign": "KRBV-LP",
+        "frequency": "95.1  MHz",
+        "service": "FL",
+        "owner": "BUNKERVILLE VOLUNTEER FIRE DEPARTMENT",
+        "city": "BUNKERVILLE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.791639,
+          39.216306
+        ]
+      },
+      "properties": {
+        "id": "193729",
+        "call_sign": "KNVC-LP",
+        "frequency": "95.1  MHz",
+        "service": "FL",
+        "owner": "THE END OF THE TRAIL BROADCAST PROJECT",
+        "city": "CARSON CITY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.753472,
+          39.489361
+        ]
+      },
+      "properties": {
+        "id": "149455",
+        "call_sign": "K236AP",
+        "frequency": "95.1  MHz",
+        "service": "FX",
+        "owner": "K-LOVE, INC.",
+        "city": "FALLON",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.006389,
+          36.009556
+        ]
+      },
+      "properties": {
+        "id": "93213",
+        "call_sign": "K236BM",
+        "frequency": "95.1  MHz",
+        "service": "FX",
+        "owner": "K-LOVE, INC.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.036389,
+          36.197722
+        ]
+      },
+      "properties": {
+        "id": "78350",
+        "call_sign": "KNYE",
+        "frequency": "95.1  MHz",
+        "service": "FM",
+        "owner": "PAHRUMP RADIO, INC.",
+        "city": "PAHRUMP",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.944167,
+          39.021667
+        ]
+      },
+      "properties": {
+        "id": "788730",
+        "call_sign": "NEW",
+        "frequency": "95.1  MHz",
+        "service": "FL",
+        "owner": "BREWERY ARTS CENTER",
+        "city": "STATELINE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.50775,
+          37.623278
+        ]
+      },
+      "properties": {
+        "id": "20543",
+        "call_sign": "K237AX",
+        "frequency": "95.3  MHz",
+        "service": "FX",
+        "owner": "FAITH COMMUNICATIONS CORPORATION",
+        "city": "CALIENTE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.818944,
+          40.909639
+        ]
+      },
+      "properties": {
+        "id": "27460",
+        "call_sign": "KRJC",
+        "frequency": "95.3  MHz",
+        "service": "FM",
+        "owner": "ELKO BROADCASTING COMPANY, INC.",
+        "city": "ELKO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.451639,
+          37.922167
+        ]
+      },
+      "properties": {
+        "id": "20533",
+        "call_sign": "K237AY",
+        "frequency": "95.3  MHz",
+        "service": "FX",
+        "owner": "FAITH COMMUNICATIONS CORPORATION",
+        "city": "PIOCHE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.006917,
+          36.008583
+        ]
+      },
+      "properties": {
+        "id": "61527",
+        "call_sign": "KWNR",
+        "frequency": "95.5  MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "HENDERSON",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.705444,
+          39.259361
+        ]
+      },
+      "properties": {
+        "id": "11244",
+        "call_sign": "KNEV",
+        "frequency": "95.5  MHz",
+        "service": "FM",
+        "owner": "RADIO LICENSE HOLDING CBC, LLC",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.798778,
+          39.584056
+        ]
+      },
+      "properties": {
+        "id": "11244",
+        "call_sign": "KNEV",
+        "frequency": "95.5  MHz",
+        "service": "FS",
+        "owner": "RADIO LICENSE HOLDING CBC, LLC",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.699778,
+          40.812972
+        ]
+      },
+      "properties": {
+        "id": "8878",
+        "call_sign": "K240AI",
+        "frequency": "95.9  MHz",
+        "service": "FX",
+        "owner": "ELKO BROADCASTING COMPANY",
+        "city": "CARLIN",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.297778,
+          39.488056
+        ]
+      },
+      "properties": {
+        "id": "142426",
+        "call_sign": "K240FG",
+        "frequency": "95.9  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL",
+        "city": "FERNLEY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.142222,
+          36.146944
+        ]
+      },
+      "properties": {
+        "id": "192224",
+        "call_sign": "KFDG-LP",
+        "frequency": "95.9  MHz",
+        "service": "FL",
+        "owner": "IGLESIA CRISTIANA VOZ DE SALVACION",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.960556,
+          36.206889
+        ]
+      },
+      "properties": {
+        "id": "189474",
+        "call_sign": "KACP",
+        "frequency": "95.9  MHz",
+        "service": "FM",
+        "owner": "ACE COUNTRY RADIO LLC",
+        "city": "PAHRUMP",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.066611,
+          36.200361
+        ]
+      },
+      "properties": {
+        "id": "787094",
+        "call_sign": "KCPV-LP",
+        "frequency": "95.9  MHz",
+        "service": "FL",
+        "owner": "CALVARY CHAPEL PAHRUMP VALLEY",
+        "city": "PAHRUMP",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.799611,
+          39.583778
+        ]
+      },
+      "properties": {
+        "id": "87691",
+        "call_sign": "K241AK",
+        "frequency": "96.1  MHz",
+        "service": "FX",
+        "owner": "AMERICOM LIMITED PARTNERSHIP",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.006361,
+          36.008028
+        ]
+      },
+      "properties": {
+        "id": "40757",
+        "call_sign": "KKLZ",
+        "frequency": "96.3  MHz",
+        "service": "FM",
+        "owner": "BEASLEY MEDIA GROUP LICENSES, LLC",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.006389,
+          36.009972
+        ]
+      },
+      "properties": {
+        "id": "40757",
+        "call_sign": "KKLZ",
+        "frequency": "96.3  MHz",
+        "service": "FS",
+        "owner": "BEASLEY MEDIA GROUP LICENSES, LLC",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.883278,
+          37.15525
+        ]
+      },
+      "properties": {
+        "id": "164142",
+        "call_sign": "KYLI",
+        "frequency": "96.7  MHz",
+        "service": "FM",
+        "owner": "CHAVEZ MEDIA",
+        "city": "BUNKERVILLE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.883333,
+          37.155278
+        ]
+      },
+      "properties": {
+        "id": "164142",
+        "call_sign": "KYLI",
+        "frequency": "96.7  MHz",
+        "service": "FS",
+        "owner": "CHAVEZ MEDIA",
+        "city": "BUNKERVILLE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.931111,
+          36.323306
+        ]
+      },
+      "properties": {
+        "id": "164142",
+        "call_sign": "KYLI",
+        "frequency": "96.7  MHz",
+        "service": "FS",
+        "owner": "CHAVEZ MEDIA",
+        "city": "BUNKERVILLE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.850333,
+          40.921583
+        ]
+      },
+      "properties": {
+        "id": "84839",
+        "call_sign": "KHIX",
+        "frequency": "96.7  MHz",
+        "service": "FM",
+        "owner": "GLOBAL ONE MEDIA, INC",
+        "city": "CARLIN",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.155556,
+          36.147444
+        ]
+      },
+      "properties": {
+        "id": "153545",
+        "call_sign": "K244EX",
+        "frequency": "96.7  MHz",
+        "service": "FX",
+        "owner": "CHAVEZ MEDIA",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.955278,
+          36.203833
+        ]
+      },
+      "properties": {
+        "id": "54320",
+        "call_sign": "K244CE",
+        "frequency": "96.7  MHz",
+        "service": "FX",
+        "owner": "LOW POTOSI, LLC",
+        "city": "PAHRUMP",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.711028,
+          39.257139
+        ]
+      },
+      "properties": {
+        "id": "202050",
+        "call_sign": "K245DC",
+        "frequency": "96.9  MHz",
+        "service": "FX",
+        "owner": "AMERICOM LIMITED PARTNERSHIP",
+        "city": "CARSON CITY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.799611,
+          39.583778
+        ]
+      },
+      "properties": {
+        "id": "142118",
+        "call_sign": "K245BV",
+        "frequency": "96.9  MHz",
+        "service": "FX",
+        "owner": "RENO MEDIA GROUP, L.P.",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5025,
+          35.967167
+        ]
+      },
+      "properties": {
+        "id": "38450",
+        "call_sign": "KXPT",
+        "frequency": "97.1  MHz",
+        "service": "FM",
+        "owner": "LOTUS BROADCASTING CORP.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.04275,
+          35.945528
+        ]
+      },
+      "properties": {
+        "id": "38450",
+        "call_sign": "KXPT",
+        "frequency": "97.1  MHz",
+        "service": "FS",
+        "owner": "LOTUS BROADCASTING CORP.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.711028,
+          39.257139
+        ]
+      },
+      "properties": {
+        "id": "53706",
+        "call_sign": "KOLC",
+        "frequency": "97.3  MHz",
+        "service": "FM",
+        "owner": "AMERICOM LIMITED PARTNERSHIP",
+        "city": "CARSON CITY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.711028,
+          39.257139
+        ]
+      },
+      "properties": {
+        "id": "53706",
+        "call_sign": "KOLC",
+        "frequency": "97.3  MHz",
+        "service": "FS",
+        "owner": "AMERICOM LIMITED PARTNERSHIP",
+        "city": "CARSON CITY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.006111,
+          36.009972
+        ]
+      },
+      "properties": {
+        "id": "92496",
+        "call_sign": "KVEG-FM1",
+        "frequency": "97.5  MHz",
+        "service": "FB",
+        "owner": "KEMP BROADCASTING, INC.",
+        "city": "HENDERSON",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.601111,
+          36.584972
+        ]
+      },
+      "properties": {
+        "id": "83278",
+        "call_sign": "KVEG",
+        "frequency": "97.5  MHz",
+        "service": "FM",
+        "owner": "KEMP BROADCASTING, INC.",
+        "city": "MESQUITE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.601111,
+          36.584972
+        ]
+      },
+      "properties": {
+        "id": "83278",
+        "call_sign": "KVEG",
+        "frequency": "97.5  MHz",
+        "service": "FS",
+        "owner": "KEMP BROADCASTING, INC.",
+        "city": "MESQUITE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.711028,
+          39.257139
+        ]
+      },
+      "properties": {
+        "id": "139518",
+        "call_sign": "K249ES",
+        "frequency": "97.7  MHz",
+        "service": "FX",
+        "owner": "RENO MEDIA GROUP, L.P.",
+        "city": "CARSON CITY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.973056,
+          36.227722
+        ]
+      },
+      "properties": {
+        "id": "191768",
+        "call_sign": "KPFF-LP",
+        "frequency": "97.7  MHz",
+        "service": "FL",
+        "owner": "PAHRUMP FILM FESTIVAL INC",
+        "city": "PAHRUMP",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.799611,
+          39.583778
+        ]
+      },
+      "properties": {
+        "id": "195719",
+        "call_sign": "KWNK-LP",
+        "frequency": "97.7  MHz",
+        "service": "FL",
+        "owner": "THE HOLLAND PROJECT",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.134167,
+          36.206389
+        ]
+      },
+      "properties": {
+        "id": "788265",
+        "call_sign": "NEW",
+        "frequency": "97.9  MHz",
+        "service": "FL",
+        "owner": "VICTOR B COHEN FOUNDATION",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.714556,
+          40.966833
+        ]
+      },
+      "properties": {
+        "id": "126278",
+        "call_sign": "KKTT-LP",
+        "frequency": "97.9  MHz",
+        "service": "FL",
+        "owner": "WINNEMUCCA CHRISTIAN BROADCASTING ASSOCIATION",
+        "city": "WINNEMUCCA",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.702667,
+          39.258778
+        ]
+      },
+      "properties": {
+        "id": "11245",
+        "call_sign": "KBUL-FM",
+        "frequency": "98.1  MHz",
+        "service": "FM",
+        "owner": "RADIO LICENSE HOLDING CBC, LLC",
+        "city": "CARSON CITY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.702667,
+          39.258778
+        ]
+      },
+      "properties": {
+        "id": "11245",
+        "call_sign": "KBUL-FM",
+        "frequency": "98.1  MHz",
+        "service": "FS",
+        "owner": "RADIO LICENSE HOLDING CBC, LLC",
+        "city": "CARSON CITY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.044694,
+          35.945806
+        ]
+      },
+      "properties": {
+        "id": "48502",
+        "call_sign": "K251BS",
+        "frequency": "98.1  MHz",
+        "service": "FX",
+        "owner": "LATINO HUSTLE GROUP LLC",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.025,
+          36.179667
+        ]
+      },
+      "properties": {
+        "id": "191831",
+        "call_sign": "KPFV-LP",
+        "frequency": "98.1  MHz",
+        "service": "FL",
+        "owner": "RADIO EDUCATION NETWORK INC",
+        "city": "PAHRUMP",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.850056,
+          36.936306
+        ]
+      },
+      "properties": {
+        "id": "189484",
+        "call_sign": "KACE",
+        "frequency": "98.3  MHz",
+        "service": "FM",
+        "owner": "SMITH AND FITZGERALD, PARTNERSHIP",
+        "city": "BEATTY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.864917,
+          39.264306
+        ]
+      },
+      "properties": {
+        "id": "201462",
+        "call_sign": "K253CJ",
+        "frequency": "98.5  MHz",
+        "service": "FX",
+        "owner": "ELY RADIO, LLC",
+        "city": "ELY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.779611,
+          39.125444
+        ]
+      },
+      "properties": {
+        "id": "141498",
+        "call_sign": "K253BH",
+        "frequency": "98.5  MHz",
+        "service": "FX",
+        "owner": "K-LOVE, INC.",
+        "city": "GARDNERVILLE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.006361,
+          36.008028
+        ]
+      },
+      "properties": {
+        "id": "47744",
+        "call_sign": "KLUC-FM",
+        "frequency": "98.5  MHz",
+        "service": "FM",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.0465,
+          36.267806
+        ]
+      },
+      "properties": {
+        "id": "47744",
+        "call_sign": "KLUC-FM",
+        "frequency": "98.5  MHz",
+        "service": "FS",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.0465,
+          36.267806
+        ]
+      },
+      "properties": {
+        "id": "47744",
+        "call_sign": "KLUC-FM",
+        "frequency": "98.5  MHz",
+        "service": "FS",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.534444,
+          39.5525
+        ]
+      },
+      "properties": {
+        "id": "788718",
+        "call_sign": "NEW",
+        "frequency": "98.5  MHz",
+        "service": "FL",
+        "owner": "RENO SPARKS COMMUNITY MEDIA PROJECT",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.622611,
+          38.523972
+        ]
+      },
+      "properties": {
+        "id": "164094",
+        "call_sign": "KAVB",
+        "frequency": "98.7  MHz",
+        "service": "FM",
+        "owner": "NYX COMMUNICATIONS, INC.",
+        "city": "HAWTHORNE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.798778,
+          39.584056
+        ]
+      },
+      "properties": {
+        "id": "20892",
+        "call_sign": "K254AK",
+        "frequency": "98.7  MHz",
+        "service": "FX",
+        "owner": "LOAM MEDIA, INC.",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.69975,
+          40.813111
+        ]
+      },
+      "properties": {
+        "id": "76168",
+        "call_sign": "K255CE",
+        "frequency": "98.9  MHz",
+        "service": "FX",
+        "owner": "ELKO BROADCASTING COMPANY, INC.",
+        "city": "ELKO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1555,
+          36.147361
+        ]
+      },
+      "properties": {
+        "id": "38447",
+        "call_sign": "K255CT",
+        "frequency": "98.9  MHz",
+        "service": "FX",
+        "owner": "LOTUS BROADCASTING CORP.",
+        "city": "HENDERSON",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.477222,
+          40.166944
+        ]
+      },
+      "properties": {
+        "id": "787910",
+        "call_sign": "NEW",
+        "frequency": "98.9  MHz",
+        "service": "FL",
+        "owner": "PERSHING COUNTY",
+        "city": "LOVELOCK",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.711111,
+          39.258056
+        ]
+      },
+      "properties": {
+        "id": "9136",
+        "call_sign": "KKFT",
+        "frequency": "99.1  MHz",
+        "service": "FM",
+        "owner": "EVANS BROADCAST COMPANY, INC.",
+        "city": "GARDNERVILLE-MINDEN",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.942667,
+          38.960417
+        ]
+      },
+      "properties": {
+        "id": "185499",
+        "call_sign": "KKFT-FM1",
+        "frequency": "99.1  MHz",
+        "service": "FB",
+        "owner": "THE EVANS BROADCASTING COMPANY, INC.",
+        "city": "STATELINE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.942667,
+          38.960417
+        ]
+      },
+      "properties": {
+        "id": "790680",
+        "call_sign": "KKFT-FM2",
+        "frequency": "99.1  MHz",
+        "service": "FB",
+        "owner": "EVANS BROADCAST COMPANY, INC.",
+        "city": "STATELINE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.942667,
+          38.960417
+        ]
+      },
+      "properties": {
+        "id": "185499",
+        "call_sign": "KKFT-FM1",
+        "frequency": "99.1  MHz",
+        "service": "FB",
+        "owner": "THE EVANS BROADCASTING COMPANY, INC.",
+        "city": "STATELINE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.695083,
+          40.536
+        ]
+      },
+      "properties": {
+        "id": "36494",
+        "call_sign": "K257AX",
+        "frequency": "99.3  MHz",
+        "service": "FX",
+        "owner": "LANDER COUNTY GENERAL IMPROVEMENT DISTRICT #1",
+        "city": "BATTLE MOUNTAIN",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.743,
+          35.246639
+        ]
+      },
+      "properties": {
+        "id": "157072",
+        "call_sign": "K257FM",
+        "frequency": "99.3  MHz",
+        "service": "FX",
+        "owner": "CAMERON BROADCASTING, INC.",
+        "city": "LAUGHLIN",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.006389,
+          36.009694
+        ]
+      },
+      "properties": {
+        "id": "11614",
+        "call_sign": "KRGT",
+        "frequency": "99.3  MHz",
+        "service": "FM",
+        "owner": "LATINO MEDIA NETWORK, LLC",
+        "city": "SUNRISE MANOR",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.819889,
+          39.490472
+        ]
+      },
+      "properties": {
+        "id": "36244",
+        "call_sign": "KKTU-FM",
+        "frequency": "99.5  MHz",
+        "service": "FM",
+        "owner": "LAHONTAN VALLEY BROADCASTING COMPANY, LLC",
+        "city": "FALLON",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.676167,
+          36.878833
+        ]
+      },
+      "properties": {
+        "id": "81206",
+        "call_sign": "K258AF",
+        "frequency": "99.5  MHz",
+        "service": "FX",
+        "owner": "BEATTY TOWN ADVISORY COUNCIL",
+        "city": "OASIS VALLEY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.939639,
+          39.577139
+        ]
+      },
+      "properties": {
+        "id": "203",
+        "call_sign": "K258BN",
+        "frequency": "99.5  MHz",
+        "service": "FX",
+        "owner": "AMERICOM LIMITED PARTNERSHIP",
+        "city": "VERDI",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.770472,
+          39.213806
+        ]
+      },
+      "properties": {
+        "id": "86398",
+        "call_sign": "K259AK",
+        "frequency": "99.7  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL",
+        "city": "CARSON CITY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.04275,
+          35.945528
+        ]
+      },
+      "properties": {
+        "id": "178524",
+        "call_sign": "KHYZ-FM2",
+        "frequency": "99.7  MHz",
+        "service": "FB",
+        "owner": "HEFTEL BROADCASTING COMPANY LLC",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.802389,
+          39.584333
+        ]
+      },
+      "properties": {
+        "id": "154473",
+        "call_sign": "K259AY",
+        "frequency": "99.7  MHz",
+        "service": "FX",
+        "owner": "YOUR CHRISTIAN COMPANION NETWORK, INC.",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.06,
+          36.271389
+        ]
+      },
+      "properties": {
+        "id": "788590",
+        "call_sign": "NEW",
+        "frequency": "99.9  MHz",
+        "service": "FL",
+        "owner": "SIN CITY RADIO",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.060028,
+          36.462444
+        ]
+      },
+      "properties": {
+        "id": "165946",
+        "call_sign": "KHWG-FM",
+        "frequency": "100.1 MHz",
+        "service": "FM",
+        "owner": "PRESIDENT OF THE LIBERTY CHURCH OF NEVADA AND HIS SUCCESSORS",
+        "city": "CRYSTAL",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.706833,
+          39.259361
+        ]
+      },
+      "properties": {
+        "id": "48685",
+        "call_sign": "KXZZ",
+        "frequency": "100.1 MHz",
+        "service": "FM",
+        "owner": "LOTUS RADIO CORP.",
+        "city": "DAYTON",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.884611,
+          39.310444
+        ]
+      },
+      "properties": {
+        "id": "48685",
+        "call_sign": "KXZZ",
+        "frequency": "100.1 MHz",
+        "service": "FS",
+        "owner": "LOTUS RADIO CORP.",
+        "city": "DAYTON",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.883722,
+          39.31325
+        ]
+      },
+      "properties": {
+        "id": "48685",
+        "call_sign": "KXZZ",
+        "frequency": "100.1 MHz",
+        "service": "FS",
+        "owner": "LOTUS RADIO CORP.",
+        "city": "DAYTON",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.092917,
+          36.106444
+        ]
+      },
+      "properties": {
+        "id": "195413",
+        "call_sign": "KHSJ-LP",
+        "frequency": "100.1 MHz",
+        "service": "FL",
+        "owner": "RADIO PARADISE, INC.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.259722,
+          36.156139
+        ]
+      },
+      "properties": {
+        "id": "149465",
+        "call_sign": "K261ES",
+        "frequency": "100.1 MHz",
+        "service": "FX",
+        "owner": "LAS VEGAS BROADCASTERS, INC.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.495278,
+          35.89275
+        ]
+      },
+      "properties": {
+        "id": "54321",
+        "call_sign": "K261BZ",
+        "frequency": "100.1 MHz",
+        "service": "FX",
+        "owner": "LOW POTOSI, LLC",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.239944,
+          37.709833
+        ]
+      },
+      "properties": {
+        "id": "189485",
+        "call_sign": "KACG",
+        "frequency": "100.3 MHz",
+        "service": "FM",
+        "owner": "SMITH AND FITZGERALD, PARTNERSHIP",
+        "city": "GOLDFIELD",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.235056,
+          37.70825
+        ]
+      },
+      "properties": {
+        "id": "189485",
+        "call_sign": "KACG",
+        "frequency": "100.3 MHz",
+        "service": "FM",
+        "owner": "SMITH AND FITZGERALD, PARTNERSHIP",
+        "city": "GOLDFIELD",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.695083,
+          40.569333
+        ]
+      },
+      "properties": {
+        "id": "36496",
+        "call_sign": "K263AB",
+        "frequency": "100.5 MHz",
+        "service": "FX",
+        "owner": "LANDER COUNTY GENERAL IMPROVEMENT DISTRICT #1",
+        "city": "BATTLE MOUNTAIN",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.710278,
+          39.258556
+        ]
+      },
+      "properties": {
+        "id": "147869",
+        "call_sign": "K263BL",
+        "frequency": "100.5 MHz",
+        "service": "FX",
+        "owner": "NEVADA PUBLIC RADIO",
+        "city": "CARSON CITY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.006389,
+          36.008306
+        ]
+      },
+      "properties": {
+        "id": "12560",
+        "call_sign": "KXQQ-FM",
+        "frequency": "100.5 MHz",
+        "service": "FM",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "HENDERSON",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.0465,
+          36.267806
+        ]
+      },
+      "properties": {
+        "id": "12560",
+        "call_sign": "KXQQ-FM",
+        "frequency": "100.5 MHz",
+        "service": "FS",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "HENDERSON",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.801,
+          39.502389
+        ]
+      },
+      "properties": {
+        "id": "194486",
+        "call_sign": "KJLR-LP",
+        "frequency": "100.5 MHz",
+        "service": "FL",
+        "owner": "MINISTERIO PALABRA DE VIDA, INC.",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.699778,
+          40.812972
+        ]
+      },
+      "properties": {
+        "id": "85900",
+        "call_sign": "K263BD",
+        "frequency": "100.5 MHz",
+        "service": "FX",
+        "owner": "GLOBAL ONE MEDIA, INC",
+        "city": "SPRING CREEK",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.769222,
+          39.214556
+        ]
+      },
+      "properties": {
+        "id": "790678",
+        "call_sign": "KRFN-FM2",
+        "frequency": "100.9 MHz",
+        "service": "FB",
+        "owner": "EVANS BROADCAST COMPANY, INC.",
+        "city": "CARSON CITY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.769222,
+          39.214556
+        ]
+      },
+      "properties": {
+        "id": "790677",
+        "call_sign": "KRFN-FM1",
+        "frequency": "100.9 MHz",
+        "service": "FB",
+        "owner": "EVANS BROADCAST COMPANY, INC.",
+        "city": "CARSON CITY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.772528,
+          39.099417
+        ]
+      },
+      "properties": {
+        "id": "790679",
+        "call_sign": "KRFN-FM3",
+        "frequency": "100.9 MHz",
+        "service": "FB",
+        "owner": "EVANS BROADCAST COMPANY, INC.",
+        "city": "CARSON CITY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.006389,
+          36.008028
+        ]
+      },
+      "properties": {
+        "id": "147567",
+        "call_sign": "K265EZ",
+        "frequency": "100.9 MHz",
+        "service": "FX",
+        "owner": "LOTUS BROADCASTING CORP.",
+        "city": "HENDERSON",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.75025,
+          35.252222
+        ]
+      },
+      "properties": {
+        "id": "30451",
+        "call_sign": "K265CJ",
+        "frequency": "100.9 MHz",
+        "service": "FX",
+        "owner": "SMOKE AND MIRRORS, LLC",
+        "city": "LAUGHLIN",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.786278,
+          39.367667
+        ]
+      },
+      "properties": {
+        "id": "48683",
+        "call_sign": "KRFN",
+        "frequency": "100.9 MHz",
+        "service": "FM",
+        "owner": "EVANS BROADCAST COMPANY, INC.",
+        "city": "SPARKS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.088944,
+          36.316667
+        ]
+      },
+      "properties": {
+        "id": "87384",
+        "call_sign": "KPKK",
+        "frequency": "101.1 MHz",
+        "service": "FM",
+        "owner": "SKY MEDIA, L.L.C.",
+        "city": "AMARGOSA VALLEY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.398917,
+          36.640778
+        ]
+      },
+      "properties": {
+        "id": "87384",
+        "call_sign": "KPKK",
+        "frequency": "101.1 MHz",
+        "service": "FM",
+        "owner": "SKY MEDIA, L.L.C.",
+        "city": "AMARGOSA VALLEY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.699778,
+          40.812972
+        ]
+      },
+      "properties": {
+        "id": "19403",
+        "call_sign": "K266AB",
+        "frequency": "101.1 MHz",
+        "service": "FX",
+        "owner": "GLOBAL ONE MEDIA, INC",
+        "city": "ELKO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.237,
+          36.19525
+        ]
+      },
+      "properties": {
+        "id": "192574",
+        "call_sign": "KVXL-LP",
+        "frequency": "101.1 MHz",
+        "service": "FL",
+        "owner": "LIBERTY BAPTIST CHURCH OF LAS VEGAS",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.52,
+          36.685
+        ]
+      },
+      "properties": {
+        "id": "788226",
+        "call_sign": "NEW",
+        "frequency": "101.1 MHz",
+        "service": "FL",
+        "owner": "MOAPA VALLEY FIRE DISTRICT",
+        "city": "LOGANDALE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.728472,
+          40.117944
+        ]
+      },
+      "properties": {
+        "id": "71804",
+        "call_sign": "K266AO",
+        "frequency": "101.1 MHz",
+        "service": "FX",
+        "owner": "WESTERN INSPIRATIONAL BROADCASTERS, INC.",
+        "city": "LOVELOCK",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.172111,
+          39.708222
+        ]
+      },
+      "properties": {
+        "id": "60327",
+        "call_sign": "KRNG",
+        "frequency": "101.3 MHz",
+        "service": "FM",
+        "owner": "JUAN RODRIGUEZ",
+        "city": "FALLON",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.922389,
+          39.247944
+        ]
+      },
+      "properties": {
+        "id": "2102",
+        "call_sign": "K267AA",
+        "frequency": "101.3 MHz",
+        "service": "FX",
+        "owner": "RENO MEDIA GROUP, L.P.",
+        "city": "INCLINE VILLAGE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.463778,
+          39.651833
+        ]
+      },
+      "properties": {
+        "id": "90322",
+        "call_sign": "KRNG-FM1",
+        "frequency": "101.3 MHz",
+        "service": "FB",
+        "owner": "JUAN RODRIGUEZ",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.155,
+          36.148556
+        ]
+      },
+      "properties": {
+        "id": "157046",
+        "call_sign": "K268CS",
+        "frequency": "101.5 MHz",
+        "service": "FX",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.711028,
+          39.257139
+        ]
+      },
+      "properties": {
+        "id": "2093",
+        "call_sign": "K269DB",
+        "frequency": "101.7 MHz",
+        "service": "FX",
+        "owner": "RENO MEDIA GROUP, L.P.",
+        "city": "CARSON CITY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.802722,
+          39.584222
+        ]
+      },
+      "properties": {
+        "id": "148597",
+        "call_sign": "K269FC",
+        "frequency": "101.7 MHz",
+        "service": "FX",
+        "owner": "RENO MEDIA GROUP, L.P.",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.226167,
+          38.052139
+        ]
+      },
+      "properties": {
+        "id": "24948",
+        "call_sign": "K269AV",
+        "frequency": "101.7 MHz",
+        "service": "FX",
+        "owner": "KATIE DAVIS",
+        "city": "TONOPAH & GOLDFIELD",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.636667,
+          35.168889
+        ]
+      },
+      "properties": {
+        "id": "156670",
+        "call_sign": "K270CX",
+        "frequency": "101.9 MHz",
+        "service": "FX",
+        "owner": "AIRCRAFT STORAGE SOLUTIONS, LLC",
+        "city": "CALNEVAIR",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.04275,
+          35.945528
+        ]
+      },
+      "properties": {
+        "id": "55503",
+        "call_sign": "KWID",
+        "frequency": "101.9 MHz",
+        "service": "FM",
+        "owner": "LOTUS BROADCASTING CORP.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.798778,
+          39.584056
+        ]
+      },
+      "properties": {
+        "id": "50305",
+        "call_sign": "KRNV-FM",
+        "frequency": "102.1 MHz",
+        "service": "FM",
+        "owner": "ENTRAVISION HOLDINGS, LLC",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.761778,
+          38.460194
+        ]
+      },
+      "properties": {
+        "id": "42700",
+        "call_sign": "K272AE",
+        "frequency": "102.3 MHz",
+        "service": "FX",
+        "owner": "MINERAL TELEVISION DISTRICT #1",
+        "city": "HAWTHORNE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.155556,
+          36.147528
+        ]
+      },
+      "properties": {
+        "id": "157240",
+        "call_sign": "K272EE",
+        "frequency": "102.3 MHz",
+        "service": "FX",
+        "owner": "S&R BROADCASTING, INC.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.366611,
+          35.032778
+        ]
+      },
+      "properties": {
+        "id": "63410",
+        "call_sign": "KJJJ",
+        "frequency": "102.3 MHz",
+        "service": "FM",
+        "owner": "STEVEN GREELEY",
+        "city": "LAUGHLIN",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.743622,
+          35.246758
+        ]
+      },
+      "properties": {
+        "id": "63410",
+        "call_sign": "KJJJ",
+        "frequency": "102.3 MHz",
+        "service": "FS",
+        "owner": "STEVEN GREELEY",
+        "city": "LAUGHLIN",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.194667,
+          34.55
+        ]
+      },
+      "properties": {
+        "id": "63410",
+        "call_sign": "KJJJ",
+        "frequency": "102.3 MHz",
+        "service": "FS",
+        "owner": "STEVEN GREELEY",
+        "city": "LAUGHLIN",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.568111,
+          41.121972
+        ]
+      },
+      "properties": {
+        "id": "84328",
+        "call_sign": "KVUW",
+        "frequency": "102.3 MHz",
+        "service": "FM",
+        "owner": "ALEXANDRA ORTEGA",
+        "city": "WENDOVER",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.63,
+          40.894444
+        ]
+      },
+      "properties": {
+        "id": "792517",
+        "call_sign": "KVUW-FM1",
+        "frequency": "102.3 MHz",
+        "service": "FB",
+        "owner": "ALEXANDRA ORTEGA",
+        "city": "WENDOVER",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.711222,
+          39.257944
+        ]
+      },
+      "properties": {
+        "id": "13529",
+        "call_sign": "K273AF",
+        "frequency": "102.5 MHz",
+        "service": "FX",
+        "owner": "THE EVANS BROADCAST COMPANY, INC.",
+        "city": "CARSON CITY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.778667,
+          39.473417
+        ]
+      },
+      "properties": {
+        "id": "190452",
+        "call_sign": "KNVR",
+        "frequency": "102.5 MHz",
+        "service": "FM",
+        "owner": "NORTHWAY BROADCASTING, LLC",
+        "city": "FALLON",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.043611,
+          35.946083
+        ]
+      },
+      "properties": {
+        "id": "57281",
+        "call_sign": "KCYE",
+        "frequency": "102.7 MHz",
+        "service": "FM",
+        "owner": "BEASLEY MEDIA GROUP LICENSES, LLC",
+        "city": "BOULDER CITY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.043583,
+          35.946083
+        ]
+      },
+      "properties": {
+        "id": "57281",
+        "call_sign": "KCYE",
+        "frequency": "102.7 MHz",
+        "service": "FS",
+        "owner": "BEASLEY MEDIA GROUP LICENSES, LLC",
+        "city": "BOULDER CITY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.006389,
+          36.009972
+        ]
+      },
+      "properties": {
+        "id": "57281",
+        "call_sign": "KCYE",
+        "frequency": "102.7 MHz",
+        "service": "FS",
+        "owner": "BEASLEY MEDIA GROUP LICENSES, LLC",
+        "city": "BOULDER CITY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.770111,
+          41.008222
+        ]
+      },
+      "properties": {
+        "id": "171502",
+        "call_sign": "KHYX",
+        "frequency": "102.7 MHz",
+        "service": "FM",
+        "owner": "NOMADIC BROADCASTING LLC",
+        "city": "WINNEMUCCA",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.770111,
+          41.008222
+        ]
+      },
+      "properties": {
+        "id": "171502",
+        "call_sign": "KHYX",
+        "frequency": "102.7 MHz",
+        "service": "FS",
+        "owner": "NOMADIC BROADCASTING LLC",
+        "city": "WINNEMUCCA",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.043611,
+          35.946111
+        ]
+      },
+      "properties": {
+        "id": "203222",
+        "call_sign": "K276GX",
+        "frequency": "103.1 MHz",
+        "service": "FX",
+        "owner": "AUTOPILOTFM, LLC",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.960556,
+          36.206889
+        ]
+      },
+      "properties": {
+        "id": "189474",
+        "call_sign": "KACP",
+        "frequency": "103.1 MHz",
+        "service": "FM",
+        "owner": "ACE COUNTRY RADIO LLC",
+        "city": "PAHRUMP",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.050306,
+          36.284111
+        ]
+      },
+      "properties": {
+        "id": "189474",
+        "call_sign": "KACP",
+        "frequency": "103.1 MHz",
+        "service": "FM",
+        "owner": "ACE COUNTRY RADIO LLC",
+        "city": "PAHRUMP",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.494167,
+          35.961083
+        ]
+      },
+      "properties": {
+        "id": "20510",
+        "call_sign": "K276BL",
+        "frequency": "103.1 MHz",
+        "service": "FX",
+        "owner": "FAITH COMMUNICATIONS CORPORATION",
+        "city": "PAHRUMP",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.960556,
+          36.206889
+        ]
+      },
+      "properties": {
+        "id": "189474",
+        "call_sign": "KACP",
+        "frequency": "103.1 MHz",
+        "service": "FS",
+        "owner": "ACE COUNTRY RADIO LLC",
+        "city": "PAHRUMP",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.928667,
+          39.589472
+        ]
+      },
+      "properties": {
+        "id": "82391",
+        "call_sign": "K277BW",
+        "frequency": "103.3 MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2325,
+          38.071389
+        ]
+      },
+      "properties": {
+        "id": "762226",
+        "call_sign": "KNTC",
+        "frequency": "103.3 MHz",
+        "service": "FM",
+        "owner": "RXDIO.COM LLC",
+        "city": "TONOPAH",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.711222,
+          39.257944
+        ]
+      },
+      "properties": {
+        "id": "201663",
+        "call_sign": "K277DL",
+        "frequency": "103.3 MHz",
+        "service": "FX",
+        "owner": "SILVER STATE BROADCASTING LLC",
+        "city": "WASHOE VALLEY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.786389,
+          39.367778
+        ]
+      },
+      "properties": {
+        "id": "201663",
+        "call_sign": "K277DL",
+        "frequency": "103.3 MHz",
+        "service": "FX",
+        "owner": "SILVER STATE BROADCASTING LLC",
+        "city": "WASHOE VALLEY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.006361,
+          36.008028
+        ]
+      },
+      "properties": {
+        "id": "28893",
+        "call_sign": "KISF",
+        "frequency": "103.5 MHz",
+        "service": "FM",
+        "owner": "LATINO MEDIA NETWORK, LLC",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.006361,
+          36.008028
+        ]
+      },
+      "properties": {
+        "id": "28893",
+        "call_sign": "KISF",
+        "frequency": "103.5 MHz",
+        "service": "FM",
+        "owner": "LATINO MEDIA NETWORK, LLC",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.155,
+          36.148556
+        ]
+      },
+      "properties": {
+        "id": "966",
+        "call_sign": "K280DD",
+        "frequency": "103.9 MHz",
+        "service": "FX",
+        "owner": "ADVANCE MINISTRIES, INC. D/B/A/ NEW LIFE CHRISTIAN SCHOOL",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.850333,
+          40.921583
+        ]
+      },
+      "properties": {
+        "id": "166019",
+        "call_sign": "KBGZ",
+        "frequency": "103.9 MHz",
+        "service": "FM",
+        "owner": "GLOBAL ONE MEDIA, INC",
+        "city": "SPRING CREEK",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.850333,
+          40.921583
+        ]
+      },
+      "properties": {
+        "id": "166019",
+        "call_sign": "KBGZ",
+        "frequency": "103.9 MHz",
+        "service": "FS",
+        "owner": "GLOBAL ONE MEDIA, INC",
+        "city": "SPRING CREEK",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.922667,
+          39.912694
+        ]
+      },
+      "properties": {
+        "id": "165338",
+        "call_sign": "KUEZ",
+        "frequency": "104.1 MHz",
+        "service": "FM",
+        "owner": "BIG HORN MEDIA, INC.",
+        "city": "FALLON",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.80275,
+          39.584306
+        ]
+      },
+      "properties": {
+        "id": "181097",
+        "call_sign": "KUEZ-FM1",
+        "frequency": "104.1 MHz",
+        "service": "FB",
+        "owner": "BIG HORN MEDIA, INC.",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5025,
+          35.967167
+        ]
+      },
+      "properties": {
+        "id": "19062",
+        "call_sign": "KVPH",
+        "frequency": "104.3 MHz",
+        "service": "FM",
+        "owner": "VCY AMERICA, INC.",
+        "city": "NORTH LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5025,
+          35.967167
+        ]
+      },
+      "properties": {
+        "id": "19062",
+        "call_sign": "KVPH",
+        "frequency": "104.3 MHz",
+        "service": "FS",
+        "owner": "VCY AMERICA, INC.",
+        "city": "NORTH LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.043306,
+          35.945528
+        ]
+      },
+      "properties": {
+        "id": "19062",
+        "call_sign": "KVPH",
+        "frequency": "104.3 MHz",
+        "service": "FS",
+        "owner": "VCY AMERICA, INC.",
+        "city": "NORTH LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.884056,
+          39.313222
+        ]
+      },
+      "properties": {
+        "id": "38457",
+        "call_sign": "KDOT",
+        "frequency": "104.5 MHz",
+        "service": "FM",
+        "owner": "LOTUS RADIO CORP.",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.884056,
+          39.313222
+        ]
+      },
+      "properties": {
+        "id": "38457",
+        "call_sign": "KDOT",
+        "frequency": "104.5 MHz",
+        "service": "FM",
+        "owner": "LOTUS RADIO CORP.",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.79875,
+          39.584083
+        ]
+      },
+      "properties": {
+        "id": "38457",
+        "call_sign": "KDOT",
+        "frequency": "104.5 MHz",
+        "service": "FS",
+        "owner": "LOTUS RADIO CORP.",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.849778,
+          40.922139
+        ]
+      },
+      "properties": {
+        "id": "189486",
+        "call_sign": "KEAU",
+        "frequency": "104.7 MHz",
+        "service": "FM",
+        "owner": "ELKO BROADCASTING COMPANY, INC.",
+        "city": "ELKO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.514139,
+          36.683306
+        ]
+      },
+      "properties": {
+        "id": "63769",
+        "call_sign": "KJUL",
+        "frequency": "104.7 MHz",
+        "service": "FM",
+        "owner": "SUMMIT AMERICAN, INC.",
+        "city": "MOAPA VALLEY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.695083,
+          40.569333
+        ]
+      },
+      "properties": {
+        "id": "36495",
+        "call_sign": "K285EK",
+        "frequency": "104.9 MHz",
+        "service": "FX",
+        "owner": "LANDER COUNTY GENERAL IMPROVEMENT DISTRICT #1",
+        "city": "BATTLE MOUNTAIN",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.75025,
+          35.252222
+        ]
+      },
+      "properties": {
+        "id": "164263",
+        "call_sign": "KISK",
+        "frequency": "104.9 MHz",
+        "service": "FM",
+        "owner": "SMOKE AND MIRRORS, LLC",
+        "city": "CAL-NEV-ARI",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.050944,
+          38.394361
+        ]
+      },
+      "properties": {
+        "id": "42703",
+        "call_sign": "K285EH",
+        "frequency": "104.9 MHz",
+        "service": "FX",
+        "owner": "MINERAL TELEVISION DISTRICT #1",
+        "city": "MINA, ETC.",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.578583,
+          37.893833
+        ]
+      },
+      "properties": {
+        "id": "20538",
+        "call_sign": "K285AT",
+        "frequency": "104.9 MHz",
+        "service": "FX",
+        "owner": "FAITH COMMUNICATIONS CORPORATION",
+        "city": "PIOCHE, ETC.",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.799611,
+          39.583778
+        ]
+      },
+      "properties": {
+        "id": "2094",
+        "call_sign": "K285EQ",
+        "frequency": "104.9 MHz",
+        "service": "FX",
+        "owner": "RENO MEDIA GROUP, L.P.",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.943361,
+          41.197694
+        ]
+      },
+      "properties": {
+        "id": "20514",
+        "call_sign": "K285BO",
+        "frequency": "104.9 MHz",
+        "service": "FX",
+        "owner": "FAITH COMMUNICATIONS CORPORATION",
+        "city": "WELLS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.711222,
+          39.257944
+        ]
+      },
+      "properties": {
+        "id": "81843",
+        "call_sign": "K286AG",
+        "frequency": "105.1 MHz",
+        "service": "FX",
+        "owner": "THE EVANS BROADCAST COMPANY, INC.",
+        "city": "CARSON CITY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.362222,
+          36.333306
+        ]
+      },
+      "properties": {
+        "id": "51731",
+        "call_sign": "KQRT",
+        "frequency": "105.1 MHz",
+        "service": "FM",
+        "owner": "ENTRAVISION HOLDINGS, LLC",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.922667,
+          39.912694
+        ]
+      },
+      "properties": {
+        "id": "189473",
+        "call_sign": "KZTI",
+        "frequency": "105.3 MHz",
+        "service": "FM",
+        "owner": "LAZER LICENSES, LLC",
+        "city": "FALLON STATION",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.059722,
+          36.831944
+        ]
+      },
+      "properties": {
+        "id": "788351",
+        "call_sign": "KNVM-LP",
+        "frequency": "105.3 MHz",
+        "service": "FL",
+        "owner": "CITY OF MESQUITE",
+        "city": "MESQUITE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.80275,
+          39.584306
+        ]
+      },
+      "properties": {
+        "id": "190469",
+        "call_sign": "KZTI-FM1",
+        "frequency": "105.3 MHz",
+        "service": "FB",
+        "owner": "LAZER LICENSES, LLC",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.052,
+          40.935722
+        ]
+      },
+      "properties": {
+        "id": "8880",
+        "call_sign": "K288AU",
+        "frequency": "105.5 MHz",
+        "service": "FX",
+        "owner": "ELKO BROADCASTING COMPANY",
+        "city": "CARLIN",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.675889,
+          36.877722
+        ]
+      },
+      "properties": {
+        "id": "4451",
+        "call_sign": "K288CE",
+        "frequency": "105.5 MHz",
+        "service": "FX",
+        "owner": "BEATTY TOWN ADVISORY COUNCIL",
+        "city": "OASIS VALLEY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.155,
+          36.148556
+        ]
+      },
+      "properties": {
+        "id": "132721",
+        "call_sign": "KOAS-FM1",
+        "frequency": "105.7 MHz",
+        "service": "FB",
+        "owner": "BEASLEY MEDIA GROUP LICENSES, LLC",
+        "city": "HENDERSON",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.884056,
+          39.313222
+        ]
+      },
+      "properties": {
+        "id": "38452",
+        "call_sign": "KOZZ-FM",
+        "frequency": "105.7 MHz",
+        "service": "FM",
+        "owner": "LOTUS RADIO CORP.",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.884056,
+          39.313222
+        ]
+      },
+      "properties": {
+        "id": "38452",
+        "call_sign": "KOZZ-FM",
+        "frequency": "105.7 MHz",
+        "service": "FM",
+        "owner": "LOTUS RADIO CORP.",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.79875,
+          39.584083
+        ]
+      },
+      "properties": {
+        "id": "38452",
+        "call_sign": "KOZZ-FM",
+        "frequency": "105.7 MHz",
+        "service": "FS",
+        "owner": "LOTUS RADIO CORP.",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.398944,
+          36.642444
+        ]
+      },
+      "properties": {
+        "id": "170180",
+        "call_sign": "KRZQ",
+        "frequency": "105.9 MHz",
+        "service": "FM",
+        "owner": "SHAMROCK COMMUNICATIONS, INC.",
+        "city": "AMARGOSA VALLEY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.398917,
+          36.640778
+        ]
+      },
+      "properties": {
+        "id": "170180",
+        "call_sign": "KRZQ",
+        "frequency": "105.9 MHz",
+        "service": "FS",
+        "owner": "SHAMROCK COMMUNICATIONS, INC.",
+        "city": "AMARGOSA VALLEY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.088944,
+          36.316667
+        ]
+      },
+      "properties": {
+        "id": "170180",
+        "call_sign": "KRZQ",
+        "frequency": "106.1 MHz",
+        "service": "FM",
+        "owner": "SHAMROCK COMMUNICATIONS, INC.",
+        "city": "AMARGOSA VALLEY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.897583,
+          40.5935
+        ]
+      },
+      "properties": {
+        "id": "36498",
+        "call_sign": "K291AA",
+        "frequency": "106.1 MHz",
+        "service": "FX",
+        "owner": "LANDER COUNTY GENERAL IMPROVEMENT DISTRICT #1",
+        "city": "BATTLE MOUNTAIN",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.135833,
+          36.161889
+        ]
+      },
+      "properties": {
+        "id": "157179",
+        "call_sign": "K291BX",
+        "frequency": "106.1 MHz",
+        "service": "FX",
+        "owner": "SHAMROCK COMMUNICATIONS, INC.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.922111,
+          39.247389
+        ]
+      },
+      "properties": {
+        "id": "205",
+        "call_sign": "K292EP",
+        "frequency": "106.3 MHz",
+        "service": "FX",
+        "owner": "AMERICOM LIMITED PARTNERSHIP",
+        "city": "INCLINE VILLAGE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.922667,
+          39.912694
+        ]
+      },
+      "properties": {
+        "id": "164200",
+        "call_sign": "KWNZ",
+        "frequency": "106.3 MHz",
+        "service": "FM",
+        "owner": "LAZER LICENSES, LLC",
+        "city": "LOVELOCK",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7275,
+          40.118
+        ]
+      },
+      "properties": {
+        "id": "164200",
+        "call_sign": "KWNZ",
+        "frequency": "106.3 MHz",
+        "service": "FS",
+        "owner": "LAZER LICENSES, LLC",
+        "city": "LOVELOCK",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.675889,
+          36.877722
+        ]
+      },
+      "properties": {
+        "id": "4455",
+        "call_sign": "K292BS",
+        "frequency": "106.3 MHz",
+        "service": "FX",
+        "owner": "BEATTY TOWN ADVISORY COUNCIL",
+        "city": "OASIS VALLEY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.80275,
+          39.584306
+        ]
+      },
+      "properties": {
+        "id": "190208",
+        "call_sign": "KWNZ-FM1",
+        "frequency": "106.3 MHz",
+        "service": "FB",
+        "owner": "LAZER LICENSES, LLC",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.695083,
+          40.569333
+        ]
+      },
+      "properties": {
+        "id": "36497",
+        "call_sign": "K293AA",
+        "frequency": "106.5 MHz",
+        "service": "FX",
+        "owner": "LANDER COUNTY GENERAL IMPROVEMENT DISTRICT #1",
+        "city": "BATTLE MOUNTAIN",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.711028,
+          39.257139
+        ]
+      },
+      "properties": {
+        "id": "138833",
+        "call_sign": "K293CA",
+        "frequency": "106.5 MHz",
+        "service": "FX",
+        "owner": "RENO MEDIA GROUP, L.P.",
+        "city": "CARSON CITY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.006389,
+          36.008306
+        ]
+      },
+      "properties": {
+        "id": "71525",
+        "call_sign": "KSNE-FM",
+        "frequency": "106.5 MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.74375,
+          35.246756
+        ]
+      },
+      "properties": {
+        "id": "27983",
+        "call_sign": "K293DB",
+        "frequency": "106.5 MHz",
+        "service": "FX",
+        "owner": "STEVEN GREELEY",
+        "city": "LAUGHLIN",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.975,
+          36.333556
+        ]
+      },
+      "properties": {
+        "id": "181108",
+        "call_sign": "KVGQ-FM1",
+        "frequency": "106.9 MHz",
+        "service": "FB",
+        "owner": "KEMP COMMUNICATIONS, INC.",
+        "city": "APEX",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.940278,
+          36.0075
+        ]
+      },
+      "properties": {
+        "id": "778865",
+        "call_sign": "NEW",
+        "frequency": "106.9 MHz",
+        "service": "FL",
+        "owner": "MI TV",
+        "city": "HENDERSON",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.884694,
+          39.310167
+        ]
+      },
+      "properties": {
+        "id": "204",
+        "call_sign": "KRNO",
+        "frequency": "106.9 MHz",
+        "service": "FM",
+        "owner": "AMERICOM LIMITED PARTNERSHIP",
+        "city": "INCLINE VILLAGE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.884611,
+          39.310444
+        ]
+      },
+      "properties": {
+        "id": "204",
+        "call_sign": "KRNO",
+        "frequency": "106.9 MHz",
+        "service": "FM",
+        "owner": "AMERICOM LIMITED PARTNERSHIP",
+        "city": "INCLINE VILLAGE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.884611,
+          39.310444
+        ]
+      },
+      "properties": {
+        "id": "204",
+        "call_sign": "KRNO",
+        "frequency": "106.9 MHz",
+        "service": "FM",
+        "owner": "AMERICOM LIMITED PARTNERSHIP",
+        "city": "INCLINE VILLAGE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.705444,
+          39.259361
+        ]
+      },
+      "properties": {
+        "id": "204",
+        "call_sign": "KRNO",
+        "frequency": "106.9 MHz",
+        "service": "FS",
+        "owner": "AMERICOM LIMITED PARTNERSHIP",
+        "city": "INCLINE VILLAGE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.705556,
+          39.259444
+        ]
+      },
+      "properties": {
+        "id": "204",
+        "call_sign": "KRNO",
+        "frequency": "106.9 MHz",
+        "service": "FS",
+        "owner": "AMERICOM LIMITED PARTNERSHIP",
+        "city": "INCLINE VILLAGE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.556694,
+          36.966389
+        ]
+      },
+      "properties": {
+        "id": "164204",
+        "call_sign": "KVGQ",
+        "frequency": "106.9 MHz",
+        "service": "FM",
+        "owner": "KEMP COMMUNICATIONS, INC.",
+        "city": "OVERTON",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.045583,
+          36.306889
+        ]
+      },
+      "properties": {
+        "id": "191832",
+        "call_sign": "KMRG-LP",
+        "frequency": "106.9 MHz",
+        "service": "FL",
+        "owner": "MRBROADCASTING",
+        "city": "PAHRUMP",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.155944,
+          36.214528
+        ]
+      },
+      "properties": {
+        "id": "202925",
+        "call_sign": "K296HP",
+        "frequency": "107.1 MHz",
+        "service": "FX",
+        "owner": "UBC, INC.",
+        "city": "NORTH LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.903389,
+          40.699917
+        ]
+      },
+      "properties": {
+        "id": "19392",
+        "call_sign": "K297BC",
+        "frequency": "107.3 MHz",
+        "service": "FX",
+        "owner": "ELKO BROADCASTING COMPANY",
+        "city": "CARLIN, ETC.",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.922667,
+          39.912694
+        ]
+      },
+      "properties": {
+        "id": "166018",
+        "call_sign": "KNEZ",
+        "frequency": "107.3 MHz",
+        "service": "FS",
+        "owner": "LAZER LICENSES, LLC",
+        "city": "FERNLEY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.922667,
+          39.912694
+        ]
+      },
+      "properties": {
+        "id": "166018",
+        "call_sign": "KNEZ",
+        "frequency": "107.3 MHz",
+        "service": "FM",
+        "owner": "LAZER LICENSES, LLC",
+        "city": "HAZEN",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.80275,
+          39.584306
+        ]
+      },
+      "properties": {
+        "id": "180965",
+        "call_sign": "KNEZ-FM1",
+        "frequency": "107.3 MHz",
+        "service": "FB",
+        "owner": "LAZER LICENSES, LLC",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.501667,
+          35.965778
+        ]
+      },
+      "properties": {
+        "id": "2100",
+        "call_sign": "KXTE",
+        "frequency": "107.5 MHz",
+        "service": "FM",
+        "owner": "BEASLEY MEDIA GROUP LICENSES, LLC",
+        "city": "PAHRUMP",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.006306,
+          36.010111
+        ]
+      },
+      "properties": {
+        "id": "2100",
+        "call_sign": "KXTE",
+        "frequency": "107.5 MHz",
+        "service": "FS",
+        "owner": "BEASLEY MEDIA GROUP LICENSES, LLC",
+        "city": "PAHRUMP",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.630611,
+          40.894361
+        ]
+      },
+      "properties": {
+        "id": "138272",
+        "call_sign": "K299AN",
+        "frequency": "107.7 MHz",
+        "service": "FX",
+        "owner": "GLOBAL ONE MEDIA, INC",
+        "city": "ELKO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.155,
+          36.148556
+        ]
+      },
+      "properties": {
+        "id": "132722",
+        "call_sign": "KCYE-FM1",
+        "frequency": "107.9 MHz",
+        "service": "FB",
+        "owner": "BEASLEY MEDIA GROUP LICENSES, LLC",
+        "city": "HENDERSON",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.847694,
+          39.573528
+        ]
+      },
+      "properties": {
+        "id": "50304",
+        "call_sign": "KPLY",
+        "frequency": "630   kHz",
+        "service": "AM",
+        "owner": "LOTUS RADIO CORP.",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.847694,
+          39.573528
+        ]
+      },
+      "properties": {
+        "id": "50304",
+        "call_sign": "KPLY",
+        "frequency": "630   kHz",
+        "service": "AM",
+        "owner": "LOTUS RADIO CORP.",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.352222,
+          36.384417
+        ]
+      },
+      "properties": {
+        "id": "122525",
+        "call_sign": "KMZQ",
+        "frequency": "670   kHz",
+        "service": "AM",
+        "owner": "KEMP COMMUNICATIONS, INC.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.352222,
+          36.384417
+        ]
+      },
+      "properties": {
+        "id": "122525",
+        "call_sign": "KMZQ",
+        "frequency": "670   kHz",
+        "service": "AM",
+        "owner": "KEMP COMMUNICATIONS, INC.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.802694,
+          39.677972
+        ]
+      },
+      "properties": {
+        "id": "11236",
+        "call_sign": "KKOH",
+        "frequency": "780   kHz",
+        "service": "AM",
+        "owner": "RADIO LICENSE HOLDING CBC, LLC",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.802694,
+          39.677972
+        ]
+      },
+      "properties": {
+        "id": "11236",
+        "call_sign": "KKOH",
+        "frequency": "780   kHz",
+        "service": "AM",
+        "owner": "RADIO LICENSE HOLDING CBC, LLC",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.003889,
+          36.109972
+        ]
+      },
+      "properties": {
+        "id": "136292",
+        "call_sign": "KBET",
+        "frequency": "790   kHz",
+        "service": "AM",
+        "owner": "AUTOPILOTFM LLC",
+        "city": "WINCHESTER",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.003056,
+          36.109972
+        ]
+      },
+      "properties": {
+        "id": "136292",
+        "call_sign": "KBET",
+        "frequency": "790   kHz",
+        "service": "AM",
+        "owner": "AUTOPILOTFM LLC",
+        "city": "WINCHESTER",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.003056,
+          36.109972
+        ]
+      },
+      "properties": {
+        "id": "136292",
+        "call_sign": "KBET",
+        "frequency": "790   kHz",
+        "service": "AM",
+        "owner": "AUTOPILOTFM LLC",
+        "city": "WINCHESTER",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.916667,
+          36.398028
+        ]
+      },
+      "properties": {
+        "id": "33068",
+        "call_sign": "KXNT",
+        "frequency": "840   kHz",
+        "service": "AM",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "NORTH LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.916667,
+          36.398028
+        ]
+      },
+      "properties": {
+        "id": "33068",
+        "call_sign": "KXNT",
+        "frequency": "840   kHz",
+        "service": "AM",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "NORTH LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.951667,
+          35.976361
+        ]
+      },
+      "properties": {
+        "id": "36694",
+        "call_sign": "KLSQ",
+        "frequency": "870   kHz",
+        "service": "AM",
+        "owner": "LATINO MEDIA NETWORK, LLC",
+        "city": "WHITNEY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.951667,
+          35.976361
+        ]
+      },
+      "properties": {
+        "id": "36694",
+        "call_sign": "KLSQ",
+        "frequency": "870   kHz",
+        "service": "AM",
+        "owner": "LATINO MEDIA NETWORK, LLC",
+        "city": "WHITNEY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.177222,
+          36.19025
+        ]
+      },
+      "properties": {
+        "id": "38448",
+        "call_sign": "KRLV",
+        "frequency": "920   kHz",
+        "service": "AM",
+        "owner": "LOTUS BROADCASTING CORP.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.715472,
+          39.513806
+        ]
+      },
+      "properties": {
+        "id": "53707",
+        "call_sign": "KIHM",
+        "frequency": "920   kHz",
+        "service": "AM",
+        "owner": "RELEVANT RADIO, INC.",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.177778,
+          36.191111
+        ]
+      },
+      "properties": {
+        "id": "38448",
+        "call_sign": "KRLV",
+        "frequency": "920   kHz",
+        "service": "AM",
+        "owner": "LOTUS BROADCASTING CORP.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.177222,
+          36.19025
+        ]
+      },
+      "properties": {
+        "id": "38448",
+        "call_sign": "KRLV",
+        "frequency": "920   kHz",
+        "service": "AM",
+        "owner": "LOTUS BROADCASTING CORP.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.715472,
+          39.513806
+        ]
+      },
+      "properties": {
+        "id": "53707",
+        "call_sign": "KIHM",
+        "frequency": "920   kHz",
+        "service": "AM",
+        "owner": "RELEVANT RADIO, INC.",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.177778,
+          36.191111
+        ]
+      },
+      "properties": {
+        "id": "38448",
+        "call_sign": "KRLV",
+        "frequency": "920   kHz",
+        "service": "AM",
+        "owner": "LOTUS BROADCASTING CORP.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.241944,
+          36.011083
+        ]
+      },
+      "properties": {
+        "id": "33074",
+        "call_sign": "KNIH",
+        "frequency": "970   kHz",
+        "service": "AM",
+        "owner": "RELEVANT RADIO, INC.",
+        "city": "PARADISE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.241944,
+          36.011083
+        ]
+      },
+      "properties": {
+        "id": "33074",
+        "call_sign": "KNIH",
+        "frequency": "970   kHz",
+        "service": "AM",
+        "owner": "RELEVANT RADIO, INC.",
+        "city": "PARADISE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.814889,
+          39.496306
+        ]
+      },
+      "properties": {
+        "id": "36243",
+        "call_sign": "KVLV",
+        "frequency": "980   kHz",
+        "service": "AM",
+        "owner": "LAHONTAN VALLEY BROADCASTING COMPANY, LLC",
+        "city": "FALLON",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.847694,
+          39.573528
+        ]
+      },
+      "properties": {
+        "id": "160030",
+        "call_sign": "KFOY",
+        "frequency": "1060  kHz",
+        "service": "AM",
+        "owner": "LOTUS RADIO CORP.",
+        "city": "SPARKS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.259722,
+          36.156083
+        ]
+      },
+      "properties": {
+        "id": "36642",
+        "call_sign": "KKVV",
+        "frequency": "1060  kHz",
+        "service": "AM",
+        "owner": "LAS VEGAS BROADCASTERS, INC.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.847694,
+          39.573528
+        ]
+      },
+      "properties": {
+        "id": "160030",
+        "call_sign": "KFOY",
+        "frequency": "1060  kHz",
+        "service": "AM",
+        "owner": "LOTUS RADIO CORP.",
+        "city": "SPARKS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.259722,
+          36.156083
+        ]
+      },
+      "properties": {
+        "id": "36642",
+        "call_sign": "KKVV",
+        "frequency": "1060  kHz",
+        "service": "AM",
+        "owner": "LAS VEGAS BROADCASTERS, INC.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.177778,
+          36.191944
+        ]
+      },
+      "properties": {
+        "id": "137871",
+        "call_sign": "KWWN",
+        "frequency": "1100  kHz",
+        "service": "AM",
+        "owner": "LOTUS BROADCASTING CORP.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.163333,
+          36.212472
+        ]
+      },
+      "properties": {
+        "id": "137871",
+        "call_sign": "KWWN",
+        "frequency": "1100  kHz",
+        "service": "AM",
+        "owner": "LOTUS BROADCASTING CORP.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.163333,
+          36.212472
+        ]
+      },
+      "properties": {
+        "id": "137871",
+        "call_sign": "KWWN",
+        "frequency": "1100  kHz",
+        "service": "AM",
+        "owner": "LOTUS BROADCASTING CORP.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.177778,
+          36.191944
+        ]
+      },
+      "properties": {
+        "id": "137871",
+        "call_sign": "KWWN",
+        "frequency": "1100  kHz",
+        "service": "AM",
+        "owner": "LOTUS BROADCASTING CORP.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.863639,
+          39.262444
+        ]
+      },
+      "properties": {
+        "id": "55462",
+        "call_sign": "KELY",
+        "frequency": "1230  kHz",
+        "service": "AM",
+        "owner": "ELY RADIO, LLC",
+        "city": "ELY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.716028,
+          39.513806
+        ]
+      },
+      "properties": {
+        "id": "202",
+        "call_sign": "KBZZ",
+        "frequency": "1230  kHz",
+        "service": "AM",
+        "owner": "AMERICOM LIMITED PARTNERSHIP",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.163333,
+          36.213028
+        ]
+      },
+      "properties": {
+        "id": "70690",
+        "call_sign": "KLAV",
+        "frequency": "1230  kHz",
+        "service": "AM",
+        "owner": "LOTUS BROADCASTING CORP.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.716028,
+          39.513806
+        ]
+      },
+      "properties": {
+        "id": "202",
+        "call_sign": "KBZZ",
+        "frequency": "1230  kHz",
+        "service": "AM",
+        "owner": "AMERICOM LIMITED PARTNERSHIP",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.163333,
+          36.213028
+        ]
+      },
+      "properties": {
+        "id": "70690",
+        "call_sign": "KLAV",
+        "frequency": "1230  kHz",
+        "service": "AM",
+        "owner": "LOTUS BROADCASTING CORP.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.177778,
+          36.191944
+        ]
+      },
+      "properties": {
+        "id": "70690",
+        "call_sign": "KLAV",
+        "frequency": "1240  kHz",
+        "service": "AM",
+        "owner": "LOTUS BROADCASTING CORP.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.720222,
+          40.865528
+        ]
+      },
+      "properties": {
+        "id": "19371",
+        "call_sign": "KELK",
+        "frequency": "1240  kHz",
+        "service": "AM",
+        "owner": "ELKO BROADCASTING COMPANY, INC.",
+        "city": "ELKO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.720222,
+          40.865528
+        ]
+      },
+      "properties": {
+        "id": "19371",
+        "call_sign": "KELK",
+        "frequency": "1240  kHz",
+        "service": "AM",
+        "owner": "ELKO BROADCASTING COMPANY, INC.",
+        "city": "ELKO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.663806,
+          39.533806
+        ]
+      },
+      "properties": {
+        "id": "48684",
+        "call_sign": "KZTQ",
+        "frequency": "1270  kHz",
+        "service": "AM",
+        "owner": "AMERICOM LIMITED PARTNERSHIP",
+        "city": "SPARKS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.663806,
+          39.533806
+        ]
+      },
+      "properties": {
+        "id": "48684",
+        "call_sign": "KZTQ",
+        "frequency": "1270  kHz",
+        "service": "AM",
+        "owner": "AMERICOM LIMITED PARTNERSHIP",
+        "city": "SPARKS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.163889,
+          36.210806
+        ]
+      },
+      "properties": {
+        "id": "58317",
+        "call_sign": "KQLL",
+        "frequency": "1280  kHz",
+        "service": "AM",
+        "owner": "S & R BROADCASTING, INC.",
+        "city": "HENDERSON",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.163889,
+          36.210806
+        ]
+      },
+      "properties": {
+        "id": "58317",
+        "call_sign": "KQLL",
+        "frequency": "1280  kHz",
+        "service": "AM",
+        "owner": "S & R BROADCASTING, INC.",
+        "city": "HENDERSON",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.726833,
+          39.166028
+        ]
+      },
+      "properties": {
+        "id": "40801",
+        "call_sign": "KCMY",
+        "frequency": "1300  kHz",
+        "service": "AM",
+        "owner": "EVANS BROADCASTING COMPANY, INC.",
+        "city": "CARSON CITY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.726833,
+          39.166028
+        ]
+      },
+      "properties": {
+        "id": "40801",
+        "call_sign": "KCMY",
+        "frequency": "1300  kHz",
+        "service": "AM",
+        "owner": "EVANS BROADCASTING COMPANY, INC.",
+        "city": "CARSON CITY",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.742417,
+          39.517972
+        ]
+      },
+      "properties": {
+        "id": "57445",
+        "call_sign": "KXEQ",
+        "frequency": "1340  kHz",
+        "service": "AM",
+        "owner": "AZTECA BROADCASTING CORPORATION",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.155944,
+          36.214528
+        ]
+      },
+      "properties": {
+        "id": "40756",
+        "call_sign": "KKGK",
+        "frequency": "1340  kHz",
+        "service": "AM",
+        "owner": "LOTUS BROADCASTING CORP.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.163333,
+          36.213028
+        ]
+      },
+      "properties": {
+        "id": "40756",
+        "call_sign": "KKGK",
+        "frequency": "1340  kHz",
+        "service": "AM",
+        "owner": "LOTUS BROADCASTING CORP.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.155944,
+          36.214528
+        ]
+      },
+      "properties": {
+        "id": "40756",
+        "call_sign": "KKGK",
+        "frequency": "1340  kHz",
+        "service": "AM",
+        "owner": "LOTUS BROADCASTING CORP.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.163333,
+          36.213028
+        ]
+      },
+      "properties": {
+        "id": "40756",
+        "call_sign": "KKGK",
+        "frequency": "1340  kHz",
+        "service": "AM",
+        "owner": "LOTUS BROADCASTING CORP.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.751861,
+          39.569361
+        ]
+      },
+      "properties": {
+        "id": "89558",
+        "call_sign": "KNNR",
+        "frequency": "1400  kHz",
+        "service": "AM",
+        "owner": "SILVER STATE BROADCASTING LLC",
+        "city": "SPARKS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.163889,
+          36.210806
+        ]
+      },
+      "properties": {
+        "id": "55502",
+        "call_sign": "KSHP",
+        "frequency": "1400  kHz",
+        "service": "AM",
+        "owner": "UBC, INC.",
+        "city": "NORTH LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.751861,
+          39.569361
+        ]
+      },
+      "properties": {
+        "id": "89558",
+        "call_sign": "KNNR",
+        "frequency": "1400  kHz",
+        "service": "AM",
+        "owner": "SILVER STATE BROADCASTING LLC",
+        "city": "SPARKS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.163889,
+          36.210806
+        ]
+      },
+      "properties": {
+        "id": "55502",
+        "call_sign": "KSHP",
+        "frequency": "1400  kHz",
+        "service": "AM",
+        "owner": "UBC, INC.",
+        "city": "NORTH LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.847694,
+          39.574083
+        ]
+      },
+      "properties": {
+        "id": "38458",
+        "call_sign": "KHIT",
+        "frequency": "1450  kHz",
+        "service": "AM",
+        "owner": "LOTUS RADIO CORP.",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.847694,
+          39.574083
+        ]
+      },
+      "properties": {
+        "id": "38458",
+        "call_sign": "KHIT",
+        "frequency": "1450  kHz",
+        "service": "AM",
+        "owner": "LOTUS RADIO CORP.",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.177222,
+          36.19025
+        ]
+      },
+      "properties": {
+        "id": "38449",
+        "call_sign": "KENO",
+        "frequency": "1460  kHz",
+        "service": "AM",
+        "owner": "LOTUS BROADCASTING CORP.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.177861,
+          36.191361
+        ]
+      },
+      "properties": {
+        "id": "38449",
+        "call_sign": "KENO",
+        "frequency": "1460  kHz",
+        "service": "AM",
+        "owner": "LOTUS BROADCASTING CORP.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.177222,
+          36.19025
+        ]
+      },
+      "properties": {
+        "id": "38449",
+        "call_sign": "KENO",
+        "frequency": "1460  kHz",
+        "service": "AM",
+        "owner": "LOTUS BROADCASTING CORP.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.177861,
+          36.191361
+        ]
+      },
+      "properties": {
+        "id": "38449",
+        "call_sign": "KENO",
+        "frequency": "1460  kHz",
+        "service": "AM",
+        "owner": "LOTUS BROADCASTING CORP.",
+        "city": "LAS VEGAS",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.241944,
+          36.011083
+        ]
+      },
+      "properties": {
+        "id": "160781",
+        "call_sign": "KENT",
+        "frequency": "1540  kHz",
+        "service": "AM",
+        "owner": "EL SEMBRADOR MINISTRIES",
+        "city": "ENTERPRISE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.241944,
+          36.011083
+        ]
+      },
+      "properties": {
+        "id": "160781",
+        "call_sign": "KENT",
+        "frequency": "1540  kHz",
+        "service": "AM",
+        "owner": "EL SEMBRADOR MINISTRIES",
+        "city": "ENTERPRISE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.241944,
+          36.011083
+        ]
+      },
+      "properties": {
+        "id": "160781",
+        "call_sign": "KENT",
+        "frequency": "1540  kHz",
+        "service": "AM",
+        "owner": "EL SEMBRADOR MINISTRIES",
+        "city": "ENTERPRISE",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.848806,
+          39.577417
+        ]
+      },
+      "properties": {
+        "id": "21530",
+        "call_sign": "KXTO",
+        "frequency": "1550  kHz",
+        "service": "AM",
+        "owner": "CHRISTIAN MINISTRIES OF THE VALLEY, INC.",
+        "city": "RENO",
+        "state": "NV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.848806,
+          39.577417
+        ]
+      },
+      "properties": {
+        "id": "21530",
+        "call_sign": "KXTO",
+        "frequency": "1550  kHz",
+        "service": "AM",
+        "owner": "CHRISTIAN MINISTRIES OF THE VALLEY, INC.",
+        "city": "RENO",
+        "state": "NV"
+      }
+    }
+  ],
+  "metadata": {
+    "cities": [
+      "ALAMO",
+      "AMARGOSA VALLEY",
+      "APEX",
+      "ARGENTA",
+      "BATTLE MOUNTAIN",
+      "BEATTY",
+      "BOULDER CITY",
+      "BUNKERVILLE",
+      "CAL-NEV-ARI",
+      "CALIENTE",
+      "CALNEVAIR",
+      "CARLIN",
+      "CARLIN, ETC.",
+      "CARSON CITY",
+      "CRYSTAL",
+      "DAYTON",
+      "DYER",
+      "ELKO",
+      "ELKO, ETC.",
+      "ELY",
+      "ELY, ETC.",
+      "ENTERPRISE",
+      "EUREKA",
+      "EUREKA, ETC.",
+      "FALLON",
+      "FALLON STATION",
+      "FERNLEY",
+      "GARDNERVILLE",
+      "GARDNERVILLE-MINDEN",
+      "GERLACH",
+      "GOLDFIELD",
+      "HAWTHORNE",
+      "HAWTHORNE, ETC.",
+      "HAZEN",
+      "HENDERSON",
+      "INCLINE VILLAGE",
+      "INCLINE VILLAGE, ETC",
+      "JACKPOT",
+      "LAS VEGAS",
+      "LAUGHLIN",
+      "LAUGHLIN, ETC.",
+      "LOGANDALE",
+      "LOVELOCK",
+      "LUND",
+      "MESQUITE",
+      "MINA, ETC.",
+      "MOAPA",
+      "MOAPA VALLEY",
+      "MOAPA, ETC.",
+      "NORTH LAS VEGAS",
+      "OASIS VALLEY",
+      "OROVADA",
+      "OVERTON",
+      "PAHRUMP",
+      "PANACA",
+      "PARADISE",
+      "PIOCHE",
+      "PIOCHE, ETC.",
+      "RENO",
+      "RIEPETOWN/ELY",
+      "ROUND MOUNTAIN",
+      "SCOTTY'S JUNCTION",
+      "SMITH",
+      "SOUTH LAKE TAHOE",
+      "SPARKS",
+      "SPRING CREEK",
+      "STATELINE",
+      "SUN VALLEY",
+      "SUNRISE MANOR",
+      "TONOPAH",
+      "TONOPAH & GOLDFIELD",
+      "VERDI",
+      "WASHOE VALLEY",
+      "WELLS",
+      "WENDOVER",
+      "WHITNEY",
+      "WINCHESTER",
+      "WINNEMUCCA",
+      "YERINGTON, ETC."
+    ],
+    "frequencies": [
+      "88.1  MHz",
+      "88.3  MHz",
+      "88.5  MHz",
+      "88.7  MHz",
+      "88.9  MHz",
+      "89.1  MHz",
+      "89.3  MHz",
+      "89.5  MHz",
+      "89.7  MHz",
+      "89.9  MHz",
+      "90.1  MHz",
+      "90.3  MHz",
+      "90.5  MHz",
+      "90.7  MHz",
+      "90.9  MHz",
+      "91.1  MHz",
+      "91.3  MHz",
+      "91.5  MHz",
+      "91.7  MHz",
+      "91.9  MHz",
+      "92.1  MHz",
+      "92.3  MHz",
+      "92.5  MHz",
+      "92.7  MHz",
+      "92.9  MHz",
+      "93.1  MHz",
+      "93.3  MHz",
+      "93.5  MHz",
+      "93.7  MHz",
+      "93.9  MHz",
+      "94.1  MHz",
+      "94.3  MHz",
+      "94.5  MHz",
+      "94.7  MHz",
+      "94.9  MHz",
+      "95.1  MHz",
+      "95.3  MHz",
+      "95.5  MHz",
+      "95.9  MHz",
+      "96.1  MHz",
+      "96.3  MHz",
+      "96.7  MHz",
+      "96.9  MHz",
+      "97.1  MHz",
+      "97.3  MHz",
+      "97.5  MHz",
+      "97.7  MHz",
+      "97.9  MHz",
+      "98.1  MHz",
+      "98.3  MHz",
+      "98.5  MHz",
+      "98.7  MHz",
+      "98.9  MHz",
+      "99.1  MHz",
+      "99.3  MHz",
+      "99.5  MHz",
+      "99.7  MHz",
+      "99.9  MHz",
+      "100.1 MHz",
+      "100.3 MHz",
+      "100.5 MHz",
+      "100.9 MHz",
+      "101.1 MHz",
+      "101.3 MHz",
+      "101.5 MHz",
+      "101.7 MHz",
+      "101.9 MHz",
+      "102.1 MHz",
+      "102.3 MHz",
+      "102.5 MHz",
+      "102.7 MHz",
+      "103.1 MHz",
+      "103.3 MHz",
+      "103.5 MHz",
+      "103.9 MHz",
+      "104.1 MHz",
+      "104.3 MHz",
+      "104.5 MHz",
+      "104.7 MHz",
+      "104.9 MHz",
+      "105.1 MHz",
+      "105.3 MHz",
+      "105.5 MHz",
+      "105.7 MHz",
+      "105.9 MHz",
+      "106.1 MHz",
+      "106.3 MHz",
+      "106.5 MHz",
+      "106.9 MHz",
+      "107.1 MHz",
+      "107.3 MHz",
+      "107.5 MHz",
+      "107.7 MHz",
+      "107.9 MHz",
+      "630   kHz",
+      "670   kHz",
+      "780   kHz",
+      "790   kHz",
+      "840   kHz",
+      "870   kHz",
+      "920   kHz",
+      "970   kHz",
+      "980   kHz",
+      "1060  kHz",
+      "1100  kHz",
+      "1230  kHz",
+      "1240  kHz",
+      "1270  kHz",
+      "1280  kHz",
+      "1300  kHz",
+      "1340  kHz",
+      "1400  kHz",
+      "1450  kHz",
+      "1460  kHz",
+      "1540  kHz",
+      "1550  kHz"
+    ],
+    "owners": [
+      "-",
+      "ACE COUNTRY RADIO LLC",
+      "ADVANCE MINISTRIES, INC. D/B/A/ NEW LIFE CHRISTIAN SCHOOL",
+      "AIRCRAFT STORAGE SOLUTIONS, LLC",
+      "ALEXANDRA ORTEGA",
+      "AMERICOM LIMITED PARTNERSHIP",
+      "AUDACY LICENSE, LLC",
+      "AUTOPILOTFM LLC",
+      "AUTOPILOTFM, LLC",
+      "AZTECA BROADCASTING CORPORATION",
+      "BEASLEY MEDIA GROUP LICENSES, LLC",
+      "BEATTY TOWN ADVISORY COUNCIL",
+      "BIG HORN MEDIA, INC.",
+      "BOARD OF REGENTS OF THE NEVADA SYSTEM OF HIGHER EDUCATION",
+      "BOARD OF REGENTS, NEVADA SYSTEM OF HIGHER EDUCATION",
+      "BREWERY ARTS CENTER",
+      "BUNKERVILLE VOLUNTEER FIRE DEPARTMENT",
+      "BURNING MAN PROJECT",
+      "CALVARY CHAPEL OF CARSON VALLEY",
+      "CALVARY CHAPEL PAHRUMP VALLEY",
+      "CAMERON BROADCASTING, INC.",
+      "CARSON TAHOE COMMUNITY MEDIA FOUNDATION",
+      "CHAVEZ MEDIA",
+      "CHRISTIAN MINISTRIES OF THE VALLEY, INC.",
+      "CITY OF MESQUITE",
+      "COATES BROADCASTING, INC.",
+      "COMMUNITY RESILIENCY FOUNDATION",
+      "CSN INTERNATIONAL",
+      "CSN INTERNATIONAL INC.",
+      "CSN INTERNATIONAL, INC.",
+      "CT GLOBAL INC",
+      "ECONOMIC OPPORTUNITY BOARD OF CLARK COUNTY",
+      "EDUCATIONAL RADIO FOUNDATION OF EAST TEXAS, INC.",
+      "EL SEMBRADOR MINISTRIES",
+      "ELKO BROADCASTING COMPANY",
+      "ELKO BROADCASTING COMPANY, INC.",
+      "ELY RADIO, LLC",
+      "ENTRAVISION HOLDINGS, LLC",
+      "EVANS BROADCAST COMPANY, INC.",
+      "EVANS BROADCASTING COMPANY, INC.",
+      "FAITH COMMUNICATIONS CORP.",
+      "FAITH COMMUNICATIONS CORPORATION",
+      "GLOBAL ONE MEDIA, INC",
+      "HEFTEL BROADCASTING COMPANY LLC",
+      "IDAHO STATE BOARD OF EDUCATION",
+      "IGLESIA CRISTIANA VOZ DE SALVACION",
+      "IHM LICENSES, LLC",
+      "JUAN RODRIGUEZ",
+      "K-LOVE, INC.",
+      "KATIE DAVIS",
+      "KEMP BROADCASTING, INC.",
+      "KEMP COMMUNICATIONS, INC.",
+      "KLAP FM RADIO",
+      "LAHONTAN VALLEY BROADCASTING COMPANY, LLC",
+      "LANDER COUNTY GENERAL IMPROVEMENT DISTRICT #1",
+      "LAS VEGAS BROADCASTERS, INC.",
+      "LAS VEGAS COMMUNITY RADIO",
+      "LATINO HUSTLE GROUP LLC",
+      "LATINO MEDIA NETWORK, LLC",
+      "LAZER LICENSES, LLC",
+      "LIBERTY BAPTIST CHURCH OF LAS VEGAS",
+      "LINCOLN COUNTY SCHOOL DISTRICT",
+      "LOAM MEDIA, INC.",
+      "LOTUS BROADCASTING CORP.",
+      "LOTUS RADIO CORP.",
+      "LOW POTOSI, LLC",
+      "LUCKY BOY EDUCATIONAL MEDIA, INC.",
+      "MI TV",
+      "MINERAL TELEVISION DISTRICT #1",
+      "MINISTERIO PALABRA DE VIDA, INC.",
+      "MOAPA VALLEY FIRE DISTRICT",
+      "MRBROADCASTING",
+      "NEVADA PUBLIC RADIO",
+      "NOMADIC BROADCASTING LLC",
+      "NORTHWAY BROADCASTING, LLC",
+      "NYX COMMUNICATIONS, INC.",
+      "OASIS CHRISTIAN RADIO GROUP",
+      "OROVADA COMMUNITY CHURCH",
+      "PAHRUMP FILM FESTIVAL INC",
+      "PAHRUMP RADIO, INC.",
+      "PERSHING COUNTY",
+      "PRESIDENT OF THE LIBERTY CHURCH OF NEVADA AND HIS SUCCESSORS",
+      "RADIO 74 INTERNATIONALE",
+      "RADIO ACTIVO BROADCASTING LICENSE, LLC",
+      "RADIO BY GRACE, INC.",
+      "RADIO EDUCATION NETWORK INC",
+      "RADIO GOLDFIELD BROADCASTING INC.",
+      "RADIO LICENSE HOLDING CBC, LLC",
+      "RADIO PARADISE, INC.",
+      "READING, WRITING, ARITHMETIC, INC.",
+      "RELEVANT RADIO, INC.",
+      "RENO MEDIA GROUP, L.P.",
+      "RENO SPARKS COMMUNITY MEDIA PROJECT",
+      "RXDIO.COM LLC",
+      "S & R BROADCASTING, INC.",
+      "S&R BROADCASTING, INC.",
+      "SHAMROCK COMMUNICATIONS, INC.",
+      "SILVER STATE BROADCASTING LLC",
+      "SIN CITY RADIO",
+      "SKY MEDIA, L.L.C.",
+      "SMITH AND FITZGERALD, PARTNERSHIP",
+      "SMOKE AND MIRRORS, LLC",
+      "SMOKY VALLEY TELEVISION DISTRICT",
+      "SONRISE CHURCH D/B/A CALVARY CHAPEL OF NORTHWEST RENO",
+      "STEVEN GREELEY",
+      "STEWARDS OF THE BLACK ROCK DESERT, INC.",
+      "SUMMIT AMERICAN, INC.",
+      "THE END OF THE TRAIL BROADCAST PROJECT",
+      "THE EVANS BROADCAST COMPANY, INC.",
+      "THE EVANS BROADCASTING COMPANY, INC.",
+      "THE HOLLAND PROJECT",
+      "UBC, INC.",
+      "VCY AMERICA, INC.",
+      "VICTOR B COHEN FOUNDATION",
+      "WESTERN INSPIRATIONAL BROADCASTERS, INC.",
+      "WINNEMUCCA CHRISTIAN BROADCASTING ASSOCIATION",
+      "WORLD MATTERS INC",
+      "YOUR CHRISTIAN COMPANION NETWORK, INC."
+    ],
+    "services": [
+      "AM",
+      "FB",
+      "FL",
+      "FM",
+      "FS",
+      "FX"
+    ]
+  }
+}

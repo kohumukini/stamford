@@ -1,0 +1,5616 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.924222,
+          44.107861
+        ]
+      },
+      "properties": {
+        "id": "123284",
+        "call_sign": "WMEY",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "LIGHT OF LIFE MINISTRIES, INC.",
+        "city": "BOWDOIN",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.800639,
+          43.418111
+        ]
+      },
+      "properties": {
+        "id": "171239",
+        "call_sign": "WMEK",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "WORD RADIO EDUCATIONAL FOUNDATION",
+        "city": "KENNEBUNKPORT",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.557833,
+          47.258361
+        ]
+      },
+      "properties": {
+        "id": "762381",
+        "call_sign": "WBSJ",
+        "frequency": "88.3  MHz",
+        "service": "FM",
+        "owner": "MAINE PUBLIC BROADCASTING CORPORATION",
+        "city": "FRENCHVILLE",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.140306,
+          43.765611
+        ]
+      },
+      "properties": {
+        "id": "78242",
+        "call_sign": "WYAR",
+        "frequency": "88.3  MHz",
+        "service": "FM",
+        "owner": "HERITAGE RADIO SOCIETY, INC.",
+        "city": "YARMOUTH",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.357222,
+          45.1295
+        ]
+      },
+      "properties": {
+        "id": "3665",
+        "call_sign": "WHCF",
+        "frequency": "88.5  MHz",
+        "service": "FM",
+        "owner": "LIGHTHOUSE RADIO NETWORK, INC.",
+        "city": "BANGOR",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.507833,
+          43.686194
+        ]
+      },
+      "properties": {
+        "id": "172500",
+        "call_sign": "WRKJ",
+        "frequency": "88.5  MHz",
+        "service": "FM",
+        "owner": "WORD RADIO EDUCATIONAL FOUNDATION",
+        "city": "WESTBROOK",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.809083,
+          46.55075
+        ]
+      },
+      "properties": {
+        "id": "762438",
+        "call_sign": "WFAS",
+        "frequency": "88.7  MHz",
+        "service": "FM",
+        "owner": "MAINE PUBLIC BROADCASTING CORPORATION",
+        "city": "FORT FAIRFIELD",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.971389,
+          43.223889
+        ]
+      },
+      "properties": {
+        "id": "73718",
+        "call_sign": "WSEW",
+        "frequency": "88.7  MHz",
+        "service": "FM",
+        "owner": "WORD RADIO EDUCATIONAL FOUNDATION",
+        "city": "SANFORD",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.422833,
+          44.250611
+        ]
+      },
+      "properties": {
+        "id": "92341",
+        "call_sign": "WMDR-FM",
+        "frequency": "88.9  MHz",
+        "service": "FM",
+        "owner": "LIGHT OF LIFE MINISTRIES, INC.",
+        "city": "OAKLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.422722,
+          44.250667
+        ]
+      },
+      "properties": {
+        "id": "92341",
+        "call_sign": "WMDR-FM",
+        "frequency": "88.9  MHz",
+        "service": "FS",
+        "owner": "LIGHT OF LIFE MINISTRIES, INC.",
+        "city": "OAKLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.252167,
+          46.024139
+        ]
+      },
+      "properties": {
+        "id": "174218",
+        "call_sign": "WRPB",
+        "frequency": "89.1  MHz",
+        "service": "FM",
+        "owner": "LIGHT OF LIFE MINISTRIES, INC.",
+        "city": "BENEDICTA",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.793639,
+          44.829528
+        ]
+      },
+      "properties": {
+        "id": "28151",
+        "call_sign": "WHSN",
+        "frequency": "89.3  MHz",
+        "service": "FM",
+        "owner": "HUSSON UNIVERSITY",
+        "city": "BANGOR",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3245,
+          43.762583
+        ]
+      },
+      "properties": {
+        "id": "17483",
+        "call_sign": "WMSJ",
+        "frequency": "89.3  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "FREEPORT",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.657889,
+          44.351889
+        ]
+      },
+      "properties": {
+        "id": "172331",
+        "call_sign": "WWTP",
+        "frequency": "89.5  MHz",
+        "service": "FM",
+        "owner": "RELEVANT RADIO, INC.",
+        "city": "AUGUSTA",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.507778,
+          45.344722
+        ]
+      },
+      "properties": {
+        "id": "768737",
+        "call_sign": "WRMO",
+        "frequency": "89.5  MHz",
+        "service": "FM",
+        "owner": "LIGHT OF LIFE MINISTRIES INC.",
+        "city": "HOWLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.507778,
+          45.344722
+        ]
+      },
+      "properties": {
+        "id": "768737",
+        "call_sign": "WRMO",
+        "frequency": "89.5  MHz",
+        "service": "FM",
+        "owner": "LIGHT OF LIFE MINISTRIES INC.",
+        "city": "HOWLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.625833,
+          43.879139
+        ]
+      },
+      "properties": {
+        "id": "170898",
+        "call_sign": "WTBP",
+        "frequency": "89.7  MHz",
+        "service": "FM",
+        "owner": "RELEVANT RADIO, INC.",
+        "city": "BATH",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.323333,
+          45.02925
+        ]
+      },
+      "properties": {
+        "id": "39646",
+        "call_sign": "WMED",
+        "frequency": "89.7  MHz",
+        "service": "FM",
+        "owner": "MAINE PUBLIC BROADCASTING CORPORATION",
+        "city": "CALAIS",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.584167,
+          45.416944
+        ]
+      },
+      "properties": {
+        "id": "762375",
+        "call_sign": "WMHD",
+        "frequency": "89.7  MHz",
+        "service": "FM",
+        "owner": "MAINE PUBLIC BROADCASTING CORPORATION",
+        "city": "GREENVILLE",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.663083,
+          44.565889
+        ]
+      },
+      "properties": {
+        "id": "65947",
+        "call_sign": "WMHB",
+        "frequency": "89.7  MHz",
+        "service": "FM",
+        "owner": "THE MAYFLOWER HILL BROADCASTING CORP.",
+        "city": "WATERVILLE",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.589333,
+          44.43325
+        ]
+      },
+      "properties": {
+        "id": "58726",
+        "call_sign": "WERU-FM",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "SALT POND COMMUNITY BROADCASTING COMPANY",
+        "city": "BLUE HILL",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.797778,
+          45.716083
+        ]
+      },
+      "properties": {
+        "id": "762700",
+        "call_sign": "WBSP",
+        "frequency": "90.1  MHz",
+        "service": "FM",
+        "owner": "MAINE PUBLIC BROADCASTING CORPORATION",
+        "city": "MILLINOCKET",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.710889,
+          43.858417
+        ]
+      },
+      "properties": {
+        "id": "39655",
+        "call_sign": "WMEA",
+        "frequency": "90.1  MHz",
+        "service": "FM",
+        "owner": "MAINE PUBLIC BROADCASTING CORPORATION",
+        "city": "PORTLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.804222,
+          43.41675
+        ]
+      },
+      "properties": {
+        "id": "39655",
+        "call_sign": "WMEA",
+        "frequency": "90.1  MHz",
+        "service": "FS",
+        "owner": "MAINE PUBLIC BROADCASTING CORPORATION",
+        "city": "PORTLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.194444,
+          46.8675
+        ]
+      },
+      "properties": {
+        "id": "763718",
+        "call_sign": "WCEC",
+        "frequency": "90.3  MHz",
+        "service": "FM",
+        "owner": "CHRISTIAN EDUCATION CENTER",
+        "city": "CARIBOU",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.190333,
+          45.057278
+        ]
+      },
+      "properties": {
+        "id": "177407",
+        "call_sign": "WXBP",
+        "frequency": "90.3  MHz",
+        "service": "FM",
+        "owner": "RELEVANT RADIO, INC.",
+        "city": "CORINTH",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.151139,
+          44.211167
+        ]
+      },
+      "properties": {
+        "id": "92566",
+        "call_sign": "WMEP",
+        "frequency": "90.5  MHz",
+        "service": "FM",
+        "owner": "MAINE PUBLIC BROADCASTING CORPORATION",
+        "city": "CAMDEN",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.509222,
+          44.935056
+        ]
+      },
+      "properties": {
+        "id": "172799",
+        "call_sign": "WRGY",
+        "frequency": "90.5  MHz",
+        "service": "FM",
+        "owner": "TRANET",
+        "city": "RANGELEY",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.605972,
+          44.962389
+        ]
+      },
+      "properties": {
+        "id": "172799",
+        "call_sign": "WRGY",
+        "frequency": "90.5  MHz",
+        "service": "FS",
+        "owner": "TRANET",
+        "city": "RANGELEY",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.323333,
+          45.029167
+        ]
+      },
+      "properties": {
+        "id": "762698",
+        "call_sign": "WBEM",
+        "frequency": "90.7  MHz",
+        "service": "FM",
+        "owner": "MAINE PUBLIC BROADCASTING CORPORATION",
+        "city": "EASTPORT",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.252167,
+          46.024139
+        ]
+      },
+      "properties": {
+        "id": "768784",
+        "call_sign": "WISF",
+        "frequency": "90.7  MHz",
+        "service": "FM",
+        "owner": "LIGHT OF LIFE MINISTRIES",
+        "city": "ISLAND FALLS",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.726889,
+          44.713306
+        ]
+      },
+      "properties": {
+        "id": "762544",
+        "call_sign": "WXNZ",
+        "frequency": "90.7  MHz",
+        "service": "FM",
+        "owner": "WESSERUNSETT ARTS COUNCIL, INC.",
+        "city": "SKOWHEGAN",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.565583,
+          44.762583
+        ]
+      },
+      "properties": {
+        "id": "39650",
+        "call_sign": "WMEH",
+        "frequency": "90.9  MHz",
+        "service": "FM",
+        "owner": "MAINE PUBLIC BROADCASTING CORPORATION",
+        "city": "BANGOR",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.333056,
+          43.743889
+        ]
+      },
+      "properties": {
+        "id": "69132",
+        "call_sign": "WMPG",
+        "frequency": "90.9  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF MAINE SYSTEM",
+        "city": "GORHAM",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.449194,
+          43.680611
+        ]
+      },
+      "properties": {
+        "id": "69132",
+        "call_sign": "WMPG",
+        "frequency": "90.9  MHz",
+        "service": "FS",
+        "owner": "UNIVERSITY OF MAINE SYSTEM",
+        "city": "GORHAM",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.963083,
+          43.905889
+        ]
+      },
+      "properties": {
+        "id": "66276",
+        "call_sign": "WBOR",
+        "frequency": "91.1  MHz",
+        "service": "FM",
+        "owner": "BOWDOIN COLLEGE",
+        "city": "BRUNSWICK",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.455861,
+          44.707111
+        ]
+      },
+      "properties": {
+        "id": "172503",
+        "call_sign": "WUMM",
+        "frequency": "91.1  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF MAINE SYSTEM",
+        "city": "MACHIAS",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.584167,
+          45.416944
+        ]
+      },
+      "properties": {
+        "id": "762808",
+        "call_sign": "WBSQ",
+        "frequency": "91.1  MHz",
+        "service": "FM",
+        "owner": "MAINE PUBLIC BROADCASTING CORPORATION",
+        "city": "MONSON",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.016111,
+          46.670833
+        ]
+      },
+      "properties": {
+        "id": "762669",
+        "call_sign": "WUPI",
+        "frequency": "91.1  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF MAINE SYSTEM",
+        "city": "PRESQUE ISLE",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.556667,
+          44.545556
+        ]
+      },
+      "properties": {
+        "id": "767693",
+        "call_sign": "WMPF-FM",
+        "frequency": "91.1  MHz",
+        "service": "FM",
+        "owner": "RIVER VALLEY COMMUNITY ASSOCIATION",
+        "city": "RUMFORD",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.556667,
+          44.545556
+        ]
+      },
+      "properties": {
+        "id": "193854",
+        "call_sign": "DWMPF-LP",
+        "frequency": "91.1  MHz",
+        "service": "FL",
+        "owner": "RIVER VALLEY COMMUNITY ASSOCIATION",
+        "city": "RUMFORD",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.257667,
+          44.257944
+        ]
+      },
+      "properties": {
+        "id": "766537",
+        "call_sign": "WYTO",
+        "frequency": "91.1  MHz",
+        "service": "FM",
+        "owner": "CALVARY BAPTIST CHURCH OF TURNER",
+        "city": "TURNER",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.778889,
+          44.428333
+        ]
+      },
+      "properties": {
+        "id": "762449",
+        "call_sign": "WBEO",
+        "frequency": "91.3  MHz",
+        "service": "FM",
+        "owner": "MAINE PUBLIC BROADCASTING CORPORATION",
+        "city": "BETHEL",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.262583,
+          43.65925
+        ]
+      },
+      "properties": {
+        "id": "145419",
+        "call_sign": "W217CJ",
+        "frequency": "91.3  MHz",
+        "service": "FX",
+        "owner": "LIGHT OF LIFE MINISTRIES, INC.",
+        "city": "PORTLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.650861,
+          44.489778
+        ]
+      },
+      "properties": {
+        "id": "39645",
+        "call_sign": "WMEW",
+        "frequency": "91.3  MHz",
+        "service": "FM",
+        "owner": "MAINE PUBLIC BROADCASTING CORPORATION",
+        "city": "WATERVILLE",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.146111,
+          44.668139
+        ]
+      },
+      "properties": {
+        "id": "174338",
+        "call_sign": "WUMF",
+        "frequency": "91.5  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF MAINE SYSTEM",
+        "city": "FARMINGTON",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.208361,
+          44.105056
+        ]
+      },
+      "properties": {
+        "id": "53405",
+        "call_sign": "WRBC",
+        "frequency": "91.5  MHz",
+        "service": "FM",
+        "owner": "PRESIDENT & TRUSTEES OF BATES COLLEGE",
+        "city": "LEWISTON",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.507778,
+          45.344722
+        ]
+      },
+      "properties": {
+        "id": "174228",
+        "call_sign": "WWLN",
+        "frequency": "91.5  MHz",
+        "service": "FM",
+        "owner": "LIGHT OF LIFE MINISTRIES, INC.",
+        "city": "LINCOLN",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.507778,
+          45.344722
+        ]
+      },
+      "properties": {
+        "id": "174228",
+        "call_sign": "WWLN",
+        "frequency": "91.5  MHz",
+        "service": "FM",
+        "owner": "LIGHT OF LIFE MINISTRIES, INC.",
+        "city": "LINCOLN",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.710056,
+          43.89425
+        ]
+      },
+      "properties": {
+        "id": "766838",
+        "call_sign": "WGWM",
+        "frequency": "91.5  MHz",
+        "service": "FM",
+        "owner": "BARTERS ISLAND BAPTIST CHURCH",
+        "city": "TREVETT",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.989417,
+          44.908389
+        ]
+      },
+      "properties": {
+        "id": "60040",
+        "call_sign": "WSHD",
+        "frequency": "91.7  MHz",
+        "service": "FM",
+        "owner": "SHEAD MEMORIAL HIGH SCHOOL",
+        "city": "EASTPORT",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.401972,
+          44.517861
+        ]
+      },
+      "properties": {
+        "id": "174242",
+        "call_sign": "WRNM",
+        "frequency": "91.7  MHz",
+        "service": "FM",
+        "owner": "LIGHT OF LIFE MINISTRIES, INC.",
+        "city": "ELLSWORTH",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.401972,
+          44.517861
+        ]
+      },
+      "properties": {
+        "id": "174242",
+        "call_sign": "WRNM",
+        "frequency": "91.7  MHz",
+        "service": "FS",
+        "owner": "LIGHT OF LIFE MINISTRIES, INC.",
+        "city": "ELLSWORTH",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.710833,
+          43.858333
+        ]
+      },
+      "properties": {
+        "id": "174153",
+        "call_sign": "WBQF",
+        "frequency": "91.7  MHz",
+        "service": "FM",
+        "owner": "MAINE PUBLIC BROADCASTING CORPORATION",
+        "city": "FRYEBURG",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.993639,
+          43.737306
+        ]
+      },
+      "properties": {
+        "id": "17482",
+        "call_sign": "WYFP",
+        "frequency": "91.9  MHz",
+        "service": "FM",
+        "owner": "BIBLE BROADCASTING NETWORK, INC.",
+        "city": "HARPSWELL",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.666139,
+          44.918944
+        ]
+      },
+      "properties": {
+        "id": "69267",
+        "call_sign": "WMEB-FM",
+        "frequency": "91.9  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF MAINE SYSTEM",
+        "city": "ORONO",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.666139,
+          44.918944
+        ]
+      },
+      "properties": {
+        "id": "69267",
+        "call_sign": "WMEB-FM",
+        "frequency": "91.9  MHz",
+        "service": "FS",
+        "owner": "UNIVERSITY OF MAINE SYSTEM",
+        "city": "ORONO",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.458694,
+          44.53725
+        ]
+      },
+      "properties": {
+        "id": "767079",
+        "call_sign": "WGYS",
+        "frequency": "91.9  MHz",
+        "service": "FM",
+        "owner": "RIVER VALLEY COMMUNITY MINISTRIES",
+        "city": "RUMFORD",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.393361,
+          44.520639
+        ]
+      },
+      "properties": {
+        "id": "147879",
+        "call_sign": "W221BO",
+        "frequency": "92.1  MHz",
+        "service": "FX",
+        "owner": "LIGHTHOUSE RADIO NETWORK, INC.",
+        "city": "ELLSWORTH",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.802,
+          43.419806
+        ]
+      },
+      "properties": {
+        "id": "74067",
+        "call_sign": "WPKC-FM",
+        "frequency": "92.1  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "SANFORD",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.683083,
+          44.335333
+        ]
+      },
+      "properties": {
+        "id": "52605",
+        "call_sign": "WMME-FM",
+        "frequency": "92.3  MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "AUGUSTA",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.683083,
+          44.335333
+        ]
+      },
+      "properties": {
+        "id": "52605",
+        "call_sign": "WMME-FM",
+        "frequency": "92.3  MHz",
+        "service": "FS",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "AUGUSTA",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.263639,
+          43.654778
+        ]
+      },
+      "properties": {
+        "id": "145407",
+        "call_sign": "W223BH",
+        "frequency": "92.5  MHz",
+        "service": "FX",
+        "owner": "ATLANTIC COAST RADIO, LLC",
+        "city": "PORTLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.276639,
+          45.167278
+        ]
+      },
+      "properties": {
+        "id": "73915",
+        "call_sign": "WQDY-FM",
+        "frequency": "92.7  MHz",
+        "service": "FM",
+        "owner": "WQDY, INC.",
+        "city": "CALAIS",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.617556,
+          44.296444
+        ]
+      },
+      "properties": {
+        "id": "67698",
+        "call_sign": "WOXO-FM",
+        "frequency": "92.7  MHz",
+        "service": "FM",
+        "owner": "BENNETT RADIO GROUP, LLC",
+        "city": "NORWAY",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5545,
+          44.206722
+        ]
+      },
+      "properties": {
+        "id": "67698",
+        "call_sign": "WOXO-FM",
+        "frequency": "92.7  MHz",
+        "service": "FS",
+        "owner": "BENNETT RADIO GROUP, LLC",
+        "city": "NORWAY",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.56475,
+          44.759778
+        ]
+      },
+      "properties": {
+        "id": "17673",
+        "call_sign": "WEZQ",
+        "frequency": "92.9  MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "BANGOR",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.257,
+          43.688139
+        ]
+      },
+      "properties": {
+        "id": "58548",
+        "call_sign": "WMGX",
+        "frequency": "93.1  MHz",
+        "service": "FM",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "PORTLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.257,
+          43.688139
+        ]
+      },
+      "properties": {
+        "id": "58548",
+        "call_sign": "WMGX",
+        "frequency": "93.1  MHz",
+        "service": "FS",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "PORTLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.270889,
+          43.663417
+        ]
+      },
+      "properties": {
+        "id": "58548",
+        "call_sign": "WMGX",
+        "frequency": "93.1  MHz",
+        "service": "FS",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "PORTLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.988861,
+          44.907278
+        ]
+      },
+      "properties": {
+        "id": "196329",
+        "call_sign": "WSHD-LP",
+        "frequency": "93.3  MHz",
+        "service": "FL",
+        "owner": "SHEAD MEMORIAL HIGH SCHOOL",
+        "city": "EASTPORT",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.801861,
+          44.844389
+        ]
+      },
+      "properties": {
+        "id": "157973",
+        "call_sign": "W227BE",
+        "frequency": "93.3  MHz",
+        "service": "FX",
+        "owner": "LIGHTHOUSE RADIO NETWORK, INC.",
+        "city": "ORONO",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.111417,
+          44.110333
+        ]
+      },
+      "properties": {
+        "id": "124066",
+        "call_sign": "WRFR-LP",
+        "frequency": "93.3  MHz",
+        "service": "FL",
+        "owner": "THE OLD SCHOOL",
+        "city": "ROCKLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.403944,
+          43.543972
+        ]
+      },
+      "properties": {
+        "id": "200011",
+        "call_sign": "W228EE",
+        "frequency": "93.5  MHz",
+        "service": "FX",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "BIDDEFORD",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.691694,
+          44.745056
+        ]
+      },
+      "properties": {
+        "id": "46353",
+        "call_sign": "WCTB",
+        "frequency": "93.5  MHz",
+        "service": "FM",
+        "owner": "J. HANSON COMPANY, INC.",
+        "city": "FAIRFIELD",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.596667,
+          44.530833
+        ]
+      },
+      "properties": {
+        "id": "46353",
+        "call_sign": "WCTB",
+        "frequency": "93.5  MHz",
+        "service": "FS",
+        "owner": "J. HANSON COMPANY, INC.",
+        "city": "FAIRFIELD",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.840556,
+          46.039194
+        ]
+      },
+      "properties": {
+        "id": "139333",
+        "call_sign": "W229AT",
+        "frequency": "93.7  MHz",
+        "service": "FX",
+        "owner": "LIGHTHOUSE RADIO NETWORK, INC.",
+        "city": "HODGDON",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.171139,
+          44.642583
+        ]
+      },
+      "properties": {
+        "id": "84096",
+        "call_sign": "WBQE",
+        "frequency": "93.7  MHz",
+        "service": "FM",
+        "owner": "MAINE PUBLIC BROADCASTING CORPORATION",
+        "city": "MILBRIDGE",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.022278,
+          44.144528
+        ]
+      },
+      "properties": {
+        "id": "26389",
+        "call_sign": "WARX",
+        "frequency": "93.9  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "LEWISTON",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.678722,
+          44.847167
+        ]
+      },
+      "properties": {
+        "id": "85386",
+        "call_sign": "W231CH",
+        "frequency": "94.1  MHz",
+        "service": "FX",
+        "owner": "PORT BROADCASTING, LLC",
+        "city": "BANGOR",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.403944,
+          43.54425
+        ]
+      },
+      "properties": {
+        "id": "22880",
+        "call_sign": "WCYY",
+        "frequency": "94.3  MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "BIDDEFORD",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.604194,
+          44.658667
+        ]
+      },
+      "properties": {
+        "id": "341",
+        "call_sign": "WKSQ",
+        "frequency": "94.5  MHz",
+        "service": "FM",
+        "owner": "BLUEBERRY BROADCASTING, LLC",
+        "city": "ELLSWORTH",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.970722,
+          44.388194
+        ]
+      },
+      "properties": {
+        "id": "782739",
+        "call_sign": "WRCP-LP",
+        "frequency": "94.5  MHz",
+        "service": "FL",
+        "owner": "TOWN OF READFIELD",
+        "city": "READFIELD",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.764444,
+          44.328139
+        ]
+      },
+      "properties": {
+        "id": "145328",
+        "call_sign": "W234DQ",
+        "frequency": "94.7  MHz",
+        "service": "FX",
+        "owner": "LIGHT OF LIFE MINISTRIES, INC.",
+        "city": "AUGUSTA",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.036444,
+          43.903417
+        ]
+      },
+      "properties": {
+        "id": "145339",
+        "call_sign": "W234CG",
+        "frequency": "94.7  MHz",
+        "service": "FX",
+        "owner": "LIGHT OF LIFE MINISTRIES, INC.",
+        "city": "BRUNSWICK",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.81725,
+          46.341722
+        ]
+      },
+      "properties": {
+        "id": "170487",
+        "call_sign": "WBCQ-FM",
+        "frequency": "94.7  MHz",
+        "service": "FM",
+        "owner": "ALLAN H. WEINER & BARBARA A. WEINER, D/B/A WBCQ RADIO",
+        "city": "MONTICELLO",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.677333,
+          44.47675
+        ]
+      },
+      "properties": {
+        "id": "145328",
+        "call_sign": "W234DQ",
+        "frequency": "94.7  MHz",
+        "service": "FX",
+        "owner": "LIGHT OF LIFE MINISTRIES, INC.",
+        "city": "WATERVILLE",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.797806,
+          45.716139
+        ]
+      },
+      "properties": {
+        "id": "33470",
+        "call_sign": "WSYY-FM",
+        "frequency": "94.9  MHz",
+        "service": "FM",
+        "owner": "KATAHDIN COMMUNICATIONS, INC.",
+        "city": "MILLINOCKET",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.512528,
+          45.623194
+        ]
+      },
+      "properties": {
+        "id": "33470",
+        "call_sign": "WSYY-FM",
+        "frequency": "94.9  MHz",
+        "service": "FM",
+        "owner": "KATAHDIN COMMUNICATIONS, INC.",
+        "city": "MILLINOCKET",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.606389,
+          44.656944
+        ]
+      },
+      "properties": {
+        "id": "201411",
+        "call_sign": "W236DP",
+        "frequency": "95.1  MHz",
+        "service": "FX",
+        "owner": "PORT BROADCASTING, LLC",
+        "city": "BALD MOUNTAIN",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.503833,
+          44.734861
+        ]
+      },
+      "properties": {
+        "id": "54578",
+        "call_sign": "WALZ-FM",
+        "frequency": "95.3  MHz",
+        "service": "FM",
+        "owner": "WILLIAM MCVICAR & ROGER HOLST, GEN. PARTNERSHIP",
+        "city": "MACHIAS",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.726972,
+          44.713389
+        ]
+      },
+      "properties": {
+        "id": "37467",
+        "call_sign": "WWWA",
+        "frequency": "95.3  MHz",
+        "service": "FM",
+        "owner": "LIGHT OF LIFE MINISTRIES, INC.",
+        "city": "WINSLOW",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.677333,
+          44.47675
+        ]
+      },
+      "properties": {
+        "id": "37467",
+        "call_sign": "WWWA",
+        "frequency": "95.3  MHz",
+        "service": "FS",
+        "owner": "LIGHT OF LIFE MINISTRIES, INC.",
+        "city": "WINSLOW",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.693083,
+          43.223694
+        ]
+      },
+      "properties": {
+        "id": "35218",
+        "call_sign": "WTBU",
+        "frequency": "95.3  MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "YORK CENTER",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.638389,
+          43.247583
+        ]
+      },
+      "properties": {
+        "id": "35218",
+        "call_sign": "WTBU",
+        "frequency": "95.3  MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "YORK CENTER",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.036417,
+          43.903389
+        ]
+      },
+      "properties": {
+        "id": "12160",
+        "call_sign": "WPPI",
+        "frequency": "95.5  MHz",
+        "service": "FM",
+        "owner": "ATLANTIC COAST RADIO, LLC",
+        "city": "TOPSHAM",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.605028,
+          44.658667
+        ]
+      },
+      "properties": {
+        "id": "17670",
+        "call_sign": "WWMJ",
+        "frequency": "95.7  MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "ELLSWORTH",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.605028,
+          44.658667
+        ]
+      },
+      "properties": {
+        "id": "17670",
+        "call_sign": "WWMJ",
+        "frequency": "95.7  MHz",
+        "service": "FS",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "ELLSWORTH",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.552556,
+          44.204667
+        ]
+      },
+      "properties": {
+        "id": "200149",
+        "call_sign": "W239ET",
+        "frequency": "95.7  MHz",
+        "service": "FX",
+        "owner": "BENNETT RADIO GROUP, LLC",
+        "city": "LEWISTON",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.773667,
+          44.291722
+        ]
+      },
+      "properties": {
+        "id": "141380",
+        "call_sign": "W240DH",
+        "frequency": "95.9  MHz",
+        "service": "FX",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "AUGUSTA",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.403972,
+          43.543917
+        ]
+      },
+      "properties": {
+        "id": "69640",
+        "call_sign": "WPEI",
+        "frequency": "95.9  MHz",
+        "service": "FM",
+        "owner": "ATLANTIC COAST RADIO, LLC",
+        "city": "SACO",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.508111,
+          43.55675
+        ]
+      },
+      "properties": {
+        "id": "69640",
+        "call_sign": "WPEI",
+        "frequency": "95.9  MHz",
+        "service": "FS",
+        "owner": "ATLANTIC COAST RADIO, LLC",
+        "city": "SACO",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.678722,
+          44.847167
+        ]
+      },
+      "properties": {
+        "id": "200815",
+        "call_sign": "W241CP",
+        "frequency": "96.1  MHz",
+        "service": "FX",
+        "owner": "PORT BROADCASTING, LLC",
+        "city": "BANGOR",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.809194,
+          46.547556
+        ]
+      },
+      "properties": {
+        "id": "9422",
+        "call_sign": "WQHR",
+        "frequency": "96.1  MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE MEDIA PRESQUE ISLE LICENSE, LLC",
+        "city": "PRESQUE ISLE",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.420611,
+          44.250917
+        ]
+      },
+      "properties": {
+        "id": "9180",
+        "call_sign": "WJJB-FM",
+        "frequency": "96.3  MHz",
+        "service": "FM",
+        "owner": "ATLANTIC COAST RADIO, LLC",
+        "city": "GRAY",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.606972,
+          44.658417
+        ]
+      },
+      "properties": {
+        "id": "145024",
+        "call_sign": "W243EU",
+        "frequency": "96.5  MHz",
+        "service": "FX",
+        "owner": "J. HANSON COMPANY, INC.",
+        "city": "BANGOR",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.570889,
+          44.025361
+        ]
+      },
+      "properties": {
+        "id": "4090",
+        "call_sign": "WBQA",
+        "frequency": "96.7  MHz",
+        "service": "FM",
+        "owner": "MAINE PUBLIC BROADCASTING CORPORATION",
+        "city": "BOOTHBAY HARBOR",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.262806,
+          43.653667
+        ]
+      },
+      "properties": {
+        "id": "24950",
+        "call_sign": "W245AA",
+        "frequency": "96.9  MHz",
+        "service": "FX",
+        "owner": "WBIN MEDIA CO., INC.",
+        "city": "PORTLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.989194,
+          46.764472
+        ]
+      },
+      "properties": {
+        "id": "22184",
+        "call_sign": "WBPW",
+        "frequency": "96.9  MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE MEDIA LICENSEE OF PEORIA, INC.",
+        "city": "PRESQUE ISLE",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5545,
+          44.206722
+        ]
+      },
+      "properties": {
+        "id": "145614",
+        "call_sign": "W245CQ",
+        "frequency": "96.9  MHz",
+        "service": "FX",
+        "owner": "BENNETT RADIO GROUP, LLC",
+        "city": "SOUTH PARIS",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.079222,
+          44.703417
+        ]
+      },
+      "properties": {
+        "id": "3671",
+        "call_sign": "WBFB",
+        "frequency": "97.1  MHz",
+        "service": "FM",
+        "owner": "BLUEBERRY BROADCASTING, LLC",
+        "city": "BANGOR",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.937528,
+          43.801056
+        ]
+      },
+      "properties": {
+        "id": "194127",
+        "call_sign": "WHPW-LP",
+        "frequency": "97.3  MHz",
+        "service": "FL",
+        "owner": "HARPSWELL RADIO PROJECT, INC.",
+        "city": "HARPSWELL",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.249778,
+          44.063139
+        ]
+      },
+      "properties": {
+        "id": "202492",
+        "call_sign": "W247DK",
+        "frequency": "97.3  MHz",
+        "service": "FX",
+        "owner": "BLUE JEY BROADCASTING COMPANY, INC",
+        "city": "LEWISTON",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7645,
+          44.328111
+        ]
+      },
+      "properties": {
+        "id": "139794",
+        "call_sign": "W248CB",
+        "frequency": "97.5  MHz",
+        "service": "FX",
+        "owner": "BIBLE BROADCASTING NETWORK, INC.",
+        "city": "AUGUSTA",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.540333,
+          47.255583
+        ]
+      },
+      "properties": {
+        "id": "192783",
+        "call_sign": "WFHP-LP",
+        "frequency": "97.5  MHz",
+        "service": "FL",
+        "owner": "FORT KENT KNIGHTS OF COLUMBUS, INC.",
+        "city": "FORT KENT",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.968944,
+          44.792278
+        ]
+      },
+      "properties": {
+        "id": "28684",
+        "call_sign": "WQSK",
+        "frequency": "97.5  MHz",
+        "service": "FM",
+        "owner": "BLUEBERRY BROADCASTING, LLC",
+        "city": "MADISON",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.918056,
+          46.790583
+        ]
+      },
+      "properties": {
+        "id": "65497",
+        "call_sign": "WCXU",
+        "frequency": "97.7  MHz",
+        "service": "FM",
+        "owner": "BENNETT RADIO GROUP, LLC",
+        "city": "CARIBOU",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.109333,
+          44.484194
+        ]
+      },
+      "properties": {
+        "id": "66712",
+        "call_sign": "WNSX",
+        "frequency": "97.7  MHz",
+        "service": "FM",
+        "owner": "CODIN BROADCASTING, LLC",
+        "city": "WINTER HARBOR",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.327278,
+          43.85175
+        ]
+      },
+      "properties": {
+        "id": "3134",
+        "call_sign": "WJBQ",
+        "frequency": "97.9  MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "PORTLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.961417,
+          47.167833
+        ]
+      },
+      "properties": {
+        "id": "76041",
+        "call_sign": "WCXV",
+        "frequency": "98.1  MHz",
+        "service": "FM",
+        "owner": "BENNETT RADIO GROUP, LLC",
+        "city": "VAN BUREN",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.036389,
+          43.903333
+        ]
+      },
+      "properties": {
+        "id": "202215",
+        "call_sign": "W252EI",
+        "frequency": "98.3  MHz",
+        "service": "FX",
+        "owner": "ATLANTIC COAST RADIO, LLC",
+        "city": "BRUNSWICK",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.81725,
+          46.341722
+        ]
+      },
+      "properties": {
+        "id": "201363",
+        "call_sign": "W252DW",
+        "frequency": "98.3  MHz",
+        "service": "FX",
+        "owner": "ALLAN H WEINER",
+        "city": "MONTICELLO",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.317556,
+          43.690639
+        ]
+      },
+      "properties": {
+        "id": "201994",
+        "call_sign": "W253DA",
+        "frequency": "98.5  MHz",
+        "service": "FX",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "PORTLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.610306,
+          44.5645
+        ]
+      },
+      "properties": {
+        "id": "52608",
+        "call_sign": "WEBB",
+        "frequency": "98.5  MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "WATERVILLE",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9945,
+          43.927861
+        ]
+      },
+      "properties": {
+        "id": "56569",
+        "call_sign": "WCLZ",
+        "frequency": "98.9  MHz",
+        "service": "FM",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "NORTH YARMOUTH",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.257,
+          43.688139
+        ]
+      },
+      "properties": {
+        "id": "56569",
+        "call_sign": "WCLZ",
+        "frequency": "98.9  MHz",
+        "service": "FS",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "NORTH YARMOUTH",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.257,
+          43.688139
+        ]
+      },
+      "properties": {
+        "id": "56569",
+        "call_sign": "WCLZ",
+        "frequency": "98.9  MHz",
+        "service": "FS",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "NORTH YARMOUTH",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.022222,
+          44.444806
+        ]
+      },
+      "properties": {
+        "id": "62289",
+        "call_sign": "WBFE",
+        "frequency": "99.1  MHz",
+        "service": "FM",
+        "owner": "BLUEBERRY BROADCASTING, LLC",
+        "city": "BAR HARBOR",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.197014,
+          44.655147
+        ]
+      },
+      "properties": {
+        "id": "22323",
+        "call_sign": "WKTJ-FM",
+        "frequency": "99.3  MHz",
+        "service": "FM",
+        "owner": "KATAHDIN COMMUNICATIONS, INC.",
+        "city": "FARMINGTON",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.436972,
+          43.404528
+        ]
+      },
+      "properties": {
+        "id": "69854",
+        "call_sign": "WBQQ",
+        "frequency": "99.3  MHz",
+        "service": "FM",
+        "owner": "WBIN MEDIA CO., INC.",
+        "city": "KENNEBUNK",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.284722,
+          44.234722
+        ]
+      },
+      "properties": {
+        "id": "778366",
+        "call_sign": "WJAH-LP",
+        "frequency": "99.3  MHz",
+        "service": "FL",
+        "owner": "FOR HIS GLORY BIBLE BAPTIST CHURCH",
+        "city": "UNION",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.024417,
+          43.911639
+        ]
+      },
+      "properties": {
+        "id": "200836",
+        "call_sign": "W258DI",
+        "frequency": "99.5  MHz",
+        "service": "FX",
+        "owner": "JAMES B. BLEIKAMP",
+        "city": "BRUNSWICK",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.167806,
+          44.803111
+        ]
+      },
+      "properties": {
+        "id": "421",
+        "call_sign": "WJCX",
+        "frequency": "99.5  MHz",
+        "service": "FM",
+        "owner": "CALVARY CHAPEL OF BANGOR",
+        "city": "PITTSFIELD",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.651444,
+          44.489222
+        ]
+      },
+      "properties": {
+        "id": "142052",
+        "call_sign": "W259BY",
+        "frequency": "99.7  MHz",
+        "service": "FX",
+        "owner": "MAINE PUBLIC BROADCASTING CORPORATION",
+        "city": "WATERVILLE",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.295611,
+          43.952028
+        ]
+      },
+      "properties": {
+        "id": "24949",
+        "call_sign": "WTHT",
+        "frequency": "99.9  MHz",
+        "service": "FM",
+        "owner": "WBIN MEDIA CO., INC.",
+        "city": "AUBURN",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.423361,
+          44.004167
+        ]
+      },
+      "properties": {
+        "id": "24949",
+        "call_sign": "WTHT",
+        "frequency": "99.9  MHz",
+        "service": "FS",
+        "owner": "WBIN MEDIA CO., INC.",
+        "city": "AUBURN",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.111778,
+          46.143083
+        ]
+      },
+      "properties": {
+        "id": "52037",
+        "call_sign": "WHOU-FM",
+        "frequency": "100.1 MHz",
+        "service": "FM",
+        "owner": "NORTHERN MAINE MEDIA, INC.",
+        "city": "HOULTON",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.753639,
+          44.677583
+        ]
+      },
+      "properties": {
+        "id": "25747",
+        "call_sign": "WKIT",
+        "frequency": "100.3 MHz",
+        "service": "FM",
+        "owner": "J. HANSON COMPANY, INC.",
+        "city": "BREWER",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.606972,
+          44.658417
+        ]
+      },
+      "properties": {
+        "id": "25747",
+        "call_sign": "WKIT",
+        "frequency": "100.3 MHz",
+        "service": "FS",
+        "owner": "J. HANSON COMPANY, INC.",
+        "city": "BREWER",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.009722,
+          44.261611
+        ]
+      },
+      "properties": {
+        "id": "202491",
+        "call_sign": "W262DP",
+        "frequency": "100.3 MHz",
+        "service": "FX",
+        "owner": "MAINE INVESTS, INC.",
+        "city": "GARDINER",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.009722,
+          44.154167
+        ]
+      },
+      "properties": {
+        "id": "202491",
+        "call_sign": "W262DP",
+        "frequency": "100.3 MHz",
+        "service": "FX",
+        "owner": "MAINE INVESTS, INC.",
+        "city": "GARDINER",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.333111,
+          43.743972
+        ]
+      },
+      "properties": {
+        "id": "150133",
+        "call_sign": "W263BZ",
+        "frequency": "100.5 MHz",
+        "service": "FX",
+        "owner": "ATLANTIC COAST RADIO, LLC",
+        "city": "PORTLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.79975,
+          44.843111
+        ]
+      },
+      "properties": {
+        "id": "145527",
+        "call_sign": "W264BQ",
+        "frequency": "100.7 MHz",
+        "service": "FX",
+        "owner": "LIGHT OF LIFE MINISTRIES, INC.",
+        "city": "BANGOR",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.632556,
+          44.582278
+        ]
+      },
+      "properties": {
+        "id": "46323",
+        "call_sign": "WIGY-FM",
+        "frequency": "100.7 MHz",
+        "service": "FM",
+        "owner": "BENNETT RADIO GROUP, LLC",
+        "city": "MEXICO",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.63725,
+          44.582556
+        ]
+      },
+      "properties": {
+        "id": "194721",
+        "call_sign": "WTNP-LP",
+        "frequency": "100.7 MHz",
+        "service": "FL",
+        "owner": "SONLIGHT MEDIA GROUP",
+        "city": "WATERVILLE",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.827528,
+          44.309778
+        ]
+      },
+      "properties": {
+        "id": "200907",
+        "call_sign": "W265DP",
+        "frequency": "100.9 MHz",
+        "service": "FX",
+        "owner": "LIGHT OF LIFE MINISTRIES, INC.",
+        "city": "AUGUSTA",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.013722,
+          44.429528
+        ]
+      },
+      "properties": {
+        "id": "193342",
+        "call_sign": "WBFY-LP",
+        "frequency": "100.9 MHz",
+        "service": "FL",
+        "owner": "CITY OF BELFAST, ME",
+        "city": "BELFAST",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.317556,
+          43.690639
+        ]
+      },
+      "properties": {
+        "id": "58536",
+        "call_sign": "WYNZ",
+        "frequency": "100.9 MHz",
+        "service": "FM",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "SOUTH PORTLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.270889,
+          43.663417
+        ]
+      },
+      "properties": {
+        "id": "58536",
+        "call_sign": "WYNZ",
+        "frequency": "100.9 MHz",
+        "service": "FS",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "WESTBROOK",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.022222,
+          44.444806
+        ]
+      },
+      "properties": {
+        "id": "165949",
+        "call_sign": "WTUX",
+        "frequency": "101.1 MHz",
+        "service": "FM",
+        "owner": "BLUEBERRY BROADCASTING, LLC",
+        "city": "GOULDSBORO",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.830333,
+          44.310056
+        ]
+      },
+      "properties": {
+        "id": "68660",
+        "call_sign": "WVQM",
+        "frequency": "101.3 MHz",
+        "service": "FM",
+        "owner": "BLUEBERRY BROADCASTING, LLC",
+        "city": "AUGUSTA",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.317556,
+          43.690639
+        ]
+      },
+      "properties": {
+        "id": "148099",
+        "call_sign": "W268CS",
+        "frequency": "101.5 MHz",
+        "service": "FX",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "PORTLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.895861,
+          44.580889
+        ]
+      },
+      "properties": {
+        "id": "59505",
+        "call_sign": "WSVV",
+        "frequency": "101.7 MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "SEARSPORT",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.276667,
+          45.167306
+        ]
+      },
+      "properties": {
+        "id": "139334",
+        "call_sign": "W270BD",
+        "frequency": "101.9 MHz",
+        "service": "FX",
+        "owner": "LIGHTHOUSE RADIO NETWORK, INC.",
+        "city": "CALAIS",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.320333,
+          43.75925
+        ]
+      },
+      "properties": {
+        "id": "49982",
+        "call_sign": "WPOR",
+        "frequency": "101.9 MHz",
+        "service": "FM",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "PORTLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.270889,
+          43.663417
+        ]
+      },
+      "properties": {
+        "id": "49982",
+        "call_sign": "WPOR",
+        "frequency": "101.9 MHz",
+        "service": "FS",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "PORTLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.809194,
+          46.547556
+        ]
+      },
+      "properties": {
+        "id": "41007",
+        "call_sign": "WOZI",
+        "frequency": "101.9 MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE MEDIA PRESQUE ISLE LICENSE, LLC",
+        "city": "PRESQUE ISLE",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.24975,
+          45.0445
+        ]
+      },
+      "properties": {
+        "id": "28685",
+        "call_sign": "WZVV",
+        "frequency": "102.1 MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "DEXTER",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.340056,
+          47.330861
+        ]
+      },
+      "properties": {
+        "id": "65498",
+        "call_sign": "WCXX",
+        "frequency": "102.3 MHz",
+        "service": "FM",
+        "owner": "BENNETT RADIO GROUP, LLC",
+        "city": "MADAWASKA",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.804222,
+          43.41675
+        ]
+      },
+      "properties": {
+        "id": "148888",
+        "call_sign": "W272CG",
+        "frequency": "102.3 MHz",
+        "service": "FX",
+        "owner": "MAINE PUBLIC BROADCASTING CORPORATION",
+        "city": "SANFORD",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.140639,
+          44.126917
+        ]
+      },
+      "properties": {
+        "id": "41104",
+        "call_sign": "WQSS",
+        "frequency": "102.5 MHz",
+        "service": "FM",
+        "owner": "BLUEBERRY BROADCASTING, LLC",
+        "city": "CAMDEN",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.720556,
+          45.673889
+        ]
+      },
+      "properties": {
+        "id": "200276",
+        "call_sign": "W273DJ",
+        "frequency": "102.5 MHz",
+        "service": "FX",
+        "owner": "KATAHDIN COMMUNICATIONS, INC.",
+        "city": "MILLINOCKET",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.006694,
+          46.603083
+        ]
+      },
+      "properties": {
+        "id": "76345",
+        "call_sign": "W274AF",
+        "frequency": "102.7 MHz",
+        "service": "FX",
+        "owner": "LIGHTHOUSE RADIO NETWORK, INC.",
+        "city": "PRESQUE ISLE",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.678722,
+          44.847167
+        ]
+      },
+      "properties": {
+        "id": "200817",
+        "call_sign": "W275CQ",
+        "frequency": "102.9 MHz",
+        "service": "FX",
+        "owner": "MAINEINVESTS, LLC",
+        "city": "BANGOR",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.323056,
+          45.028972
+        ]
+      },
+      "properties": {
+        "id": "6782",
+        "call_sign": "WCRQ",
+        "frequency": "102.9 MHz",
+        "service": "FM",
+        "owner": "WQDY, INC.",
+        "city": "DENNYSVILLE",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.490889,
+          43.924806
+        ]
+      },
+      "properties": {
+        "id": "22878",
+        "call_sign": "WBLM",
+        "frequency": "102.9 MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "PORTLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.320333,
+          43.75925
+        ]
+      },
+      "properties": {
+        "id": "22878",
+        "call_sign": "WBLM",
+        "frequency": "102.9 MHz",
+        "service": "FS",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "PORTLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.327083,
+          43.851667
+        ]
+      },
+      "properties": {
+        "id": "22878",
+        "call_sign": "WBLM",
+        "frequency": "102.9 MHz",
+        "service": "FS",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "PORTLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.082806,
+          45.093778
+        ]
+      },
+      "properties": {
+        "id": "12882",
+        "call_sign": "WZLO",
+        "frequency": "103.1 MHz",
+        "service": "FM",
+        "owner": "J. HANSON COMPANY, INC.",
+        "city": "DOVER-FOXCROFT",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.59225,
+          47.265306
+        ]
+      },
+      "properties": {
+        "id": "8555",
+        "call_sign": "W276AY",
+        "frequency": "103.1 MHz",
+        "service": "FX",
+        "owner": "BENNETT RADIO GROUP, LLC",
+        "city": "FORT KENT",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.317556,
+          43.690639
+        ]
+      },
+      "properties": {
+        "id": "149580",
+        "call_sign": "W277AM",
+        "frequency": "103.3 MHz",
+        "service": "FX",
+        "owner": "BIBLE BROADCASTING NETWORK, INC.",
+        "city": "PORTLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.140639,
+          44.126917
+        ]
+      },
+      "properties": {
+        "id": "57301",
+        "call_sign": "WMCM",
+        "frequency": "103.3 MHz",
+        "service": "FM",
+        "owner": "BLUEBERRY BROADCASTING, LLC",
+        "city": "ROCKLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.35725,
+          45.1295
+        ]
+      },
+      "properties": {
+        "id": "4092",
+        "call_sign": "WVOM-FM",
+        "frequency": "103.9 MHz",
+        "service": "FM",
+        "owner": "BLUEBERRY BROADCASTING, LLC",
+        "city": "HOWLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.604194,
+          44.658667
+        ]
+      },
+      "properties": {
+        "id": "4092",
+        "call_sign": "WVOM-FM",
+        "frequency": "103.9 MHz",
+        "service": "FS",
+        "owner": "BLUEBERRY BROADCASTING, LLC",
+        "city": "HOWLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.250583,
+          43.670333
+        ]
+      },
+      "properties": {
+        "id": "87718",
+        "call_sign": "W281AC",
+        "frequency": "104.1 MHz",
+        "service": "FX",
+        "owner": "MAINE PUBLIC BROADCASTING CORPORATION",
+        "city": "PORTLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.830306,
+          44.310056
+        ]
+      },
+      "properties": {
+        "id": "68297",
+        "call_sign": "WABK-FM",
+        "frequency": "104.3 MHz",
+        "service": "FM",
+        "owner": "BLUEBERRY BROADCASTING, LLC",
+        "city": "GARDINER",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8025,
+          43.419722
+        ]
+      },
+      "properties": {
+        "id": "201465",
+        "call_sign": "W282CS",
+        "frequency": "104.3 MHz",
+        "service": "FX",
+        "owner": "PORT BROADCASTING, LLC",
+        "city": "SANFORD",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.896972,
+          44.580889
+        ]
+      },
+      "properties": {
+        "id": "25411",
+        "call_sign": "WBAK",
+        "frequency": "104.7 MHz",
+        "service": "FM",
+        "owner": "BLUEBERRY BROADCASTING, LLC",
+        "city": "BELFAST",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.436972,
+          43.404528
+        ]
+      },
+      "properties": {
+        "id": "69855",
+        "call_sign": "WHTP-FM",
+        "frequency": "104.7 MHz",
+        "service": "FM",
+        "owner": "MAINESTREAM MEDIA, LLC",
+        "city": "KENNEBUNKPORT",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.494222,
+          43.663694
+        ]
+      },
+      "properties": {
+        "id": "202494",
+        "call_sign": "W286DR",
+        "frequency": "105.1 MHz",
+        "service": "FX",
+        "owner": "BLUE JEY BROADCASTING COMPANY, INC",
+        "city": "GORHAM",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.403944,
+          43.543972
+        ]
+      },
+      "properties": {
+        "id": "138684",
+        "call_sign": "W286CU",
+        "frequency": "105.1 MHz",
+        "service": "FX",
+        "owner": "BIBLE BROADCASTING NETWORK, INC.",
+        "city": "SACO",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.313389,
+          45.031694
+        ]
+      },
+      "properties": {
+        "id": "46352",
+        "call_sign": "WTOS-FM",
+        "frequency": "105.1 MHz",
+        "service": "FM",
+        "owner": "BLUEBERRY BROADCASTING, LLC",
+        "city": "SKOWHEGAN",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.747222,
+          44.780889
+        ]
+      },
+      "properties": {
+        "id": "202176",
+        "call_sign": "W287DM",
+        "frequency": "105.3 MHz",
+        "service": "FX",
+        "owner": "BLUEBERRY BROADCASTING, LLC",
+        "city": "BANGOR",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.847,
+          43.87675
+        ]
+      },
+      "properties": {
+        "id": "201072",
+        "call_sign": "W287DD",
+        "frequency": "105.3 MHz",
+        "service": "FX",
+        "owner": "BLUE JEY BROADCASTING COMPANY, INC",
+        "city": "BATH",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.780028,
+          43.174528
+        ]
+      },
+      "properties": {
+        "id": "4380",
+        "call_sign": "WSHK",
+        "frequency": "105.3 MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "KITTERY",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.837833,
+          43.173972
+        ]
+      },
+      "properties": {
+        "id": "4380",
+        "call_sign": "WSHK",
+        "frequency": "105.3 MHz",
+        "service": "FS",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "KITTERY",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.969472,
+          44.316194
+        ]
+      },
+      "properties": {
+        "id": "41105",
+        "call_sign": "WBYA",
+        "frequency": "105.5 MHz",
+        "service": "FM",
+        "owner": "WBIN MEDIA CO., INC.",
+        "city": "ISLESBORO",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.24725,
+          44.115056
+        ]
+      },
+      "properties": {
+        "id": "152283",
+        "call_sign": "W288CW",
+        "frequency": "105.5 MHz",
+        "service": "FX",
+        "owner": "BENNETT RADIO GROUP, LLC",
+        "city": "LEWISTON",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.317556,
+          43.690639
+        ]
+      },
+      "properties": {
+        "id": "150422",
+        "call_sign": "W288CU",
+        "frequency": "105.5 MHz",
+        "service": "FX",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "PORTLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.506139,
+          45.343944
+        ]
+      },
+      "properties": {
+        "id": "49690",
+        "call_sign": "WHMX",
+        "frequency": "105.7 MHz",
+        "service": "FM",
+        "owner": "LIGHTHOUSE RADIO NETWORK, INC.",
+        "city": "LINCOLN",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.798333,
+          43.419833
+        ]
+      },
+      "properties": {
+        "id": "192785",
+        "call_sign": "WSVP-LP",
+        "frequency": "105.7 MHz",
+        "service": "FL",
+        "owner": "SPRINGVALE COUNCIL KNIGHTS OF COLUMBUS",
+        "city": "SPRINGVALE",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.923917,
+          44.069222
+        ]
+      },
+      "properties": {
+        "id": "33288",
+        "call_sign": "WBCI",
+        "frequency": "105.9 MHz",
+        "service": "FM",
+        "owner": "BLOUNT COMMUNICATIONS, INC. OF MAINE",
+        "city": "BATH",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.565583,
+          44.762583
+        ]
+      },
+      "properties": {
+        "id": "139337",
+        "call_sign": "W291CO",
+        "frequency": "106.1 MHz",
+        "service": "FX",
+        "owner": "MAINE PUBLIC BROADCASTING CORPORATION",
+        "city": "BANGOR",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.809083,
+          46.55075
+        ]
+      },
+      "properties": {
+        "id": "39661",
+        "call_sign": "WMEM",
+        "frequency": "106.1 MHz",
+        "service": "FM",
+        "owner": "MAINE PUBLIC BROADCASTING CORPORATION",
+        "city": "PRESQUE ISLE",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.372,
+          43.589528
+        ]
+      },
+      "properties": {
+        "id": "73885",
+        "call_sign": "WHXR",
+        "frequency": "106.3 MHz",
+        "service": "FM",
+        "owner": "WBIN MEDIA CO., INC.",
+        "city": "SCARBOROUGH",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.190306,
+          45.057278
+        ]
+      },
+      "properties": {
+        "id": "9284",
+        "call_sign": "WQCB",
+        "frequency": "106.5 MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "BREWER",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.557806,
+          47.258361
+        ]
+      },
+      "properties": {
+        "id": "39653",
+        "call_sign": "WMEF",
+        "frequency": "106.5 MHz",
+        "service": "FM",
+        "owner": "MAINE PUBLIC BROADCASTING CORPORATION",
+        "city": "FORT KENT",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.327278,
+          43.85175
+        ]
+      },
+      "properties": {
+        "id": "59534",
+        "call_sign": "WXTP",
+        "frequency": "106.7 MHz",
+        "service": "FM",
+        "owner": "RELEVANT RADIO, INC.",
+        "city": "NORTH WINDHAM",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.15725,
+          44.108389
+        ]
+      },
+      "properties": {
+        "id": "49564",
+        "call_sign": "WBQX",
+        "frequency": "106.9 MHz",
+        "service": "FM",
+        "owner": "WBIN MEDIA CO., INC.",
+        "city": "THOMASTON",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.257,
+          43.688139
+        ]
+      },
+      "properties": {
+        "id": "145635",
+        "call_sign": "W296CZ",
+        "frequency": "107.1 MHz",
+        "service": "FX",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "PORTLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.748389,
+          45.012611
+        ]
+      },
+      "properties": {
+        "id": "18535",
+        "call_sign": "WBZN",
+        "frequency": "107.3 MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "OLD TOWN",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.423361,
+          44.004167
+        ]
+      },
+      "properties": {
+        "id": "65675",
+        "call_sign": "WFNK",
+        "frequency": "107.5 MHz",
+        "service": "FM",
+        "owner": "WBIN MEDIA CO., INC.",
+        "city": "LEWISTON",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.761444,
+          43.845639
+        ]
+      },
+      "properties": {
+        "id": "65675",
+        "call_sign": "WFNK",
+        "frequency": "107.5 MHz",
+        "service": "FS",
+        "owner": "WBIN MEDIA CO., INC.",
+        "city": "LEWISTON",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.392833,
+          44.51975
+        ]
+      },
+      "properties": {
+        "id": "40925",
+        "call_sign": "WBKA",
+        "frequency": "107.7 MHz",
+        "service": "FM",
+        "owner": "BLUEBERRY BROADCASTING, LLC",
+        "city": "TRENTON",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.263833,
+          43.656944
+        ]
+      },
+      "properties": {
+        "id": "124197",
+        "call_sign": "WJZP-LP",
+        "frequency": "107.9 MHz",
+        "service": "FL",
+        "owner": "ALL INCLUSIVE, INC.",
+        "city": "PORTLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.740889,
+          44.5545
+        ]
+      },
+      "properties": {
+        "id": "26388",
+        "call_sign": "WFMX",
+        "frequency": "107.9 MHz",
+        "service": "FM",
+        "owner": "J. HANSON COMPANY, INC.",
+        "city": "SKOWHEGAN",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.596667,
+          44.530833
+        ]
+      },
+      "properties": {
+        "id": "26388",
+        "call_sign": "WFMX",
+        "frequency": "107.9 MHz",
+        "service": "FS",
+        "owner": "J. HANSON COMPANY, INC.",
+        "city": "SKOWHEGAN",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.317556,
+          43.690083
+        ]
+      },
+      "properties": {
+        "id": "58544",
+        "call_sign": "WGAN",
+        "frequency": "560   kHz",
+        "service": "AM",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "PORTLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.317556,
+          43.690083
+        ]
+      },
+      "properties": {
+        "id": "58544",
+        "call_sign": "WGAN",
+        "frequency": "560   kHz",
+        "service": "AM",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "PORTLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.045028,
+          46.886722
+        ]
+      },
+      "properties": {
+        "id": "49517",
+        "call_sign": "WFST",
+        "frequency": "600   kHz",
+        "service": "AM",
+        "owner": "NORTHERN BROADCAST MINISTRIES, INC.",
+        "city": "CARIBOU",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.045028,
+          46.886722
+        ]
+      },
+      "properties": {
+        "id": "49517",
+        "call_sign": "WFST",
+        "frequency": "600   kHz",
+        "service": "AM",
+        "owner": "NORTHERN BROADCAST MINISTRIES, INC.",
+        "city": "CARIBOU",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.783361,
+          44.829806
+        ]
+      },
+      "properties": {
+        "id": "66674",
+        "call_sign": "WZON",
+        "frequency": "620   kHz",
+        "service": "AM",
+        "owner": "J. HANSON COMPANY, INC.",
+        "city": "BANGOR",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.692222,
+          44.745
+        ]
+      },
+      "properties": {
+        "id": "66674",
+        "call_sign": "WZON",
+        "frequency": "620   kHz",
+        "service": "AM",
+        "owner": "J. HANSON COMPANY, INC.",
+        "city": "NORRIDGEWOCK",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.783361,
+          44.829806
+        ]
+      },
+      "properties": {
+        "id": "66674",
+        "call_sign": "WZON",
+        "frequency": "620   kHz",
+        "service": "AM",
+        "owner": "J. HANSON COMPANY, INC.",
+        "city": "BANGOR",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.692222,
+          44.745
+        ]
+      },
+      "properties": {
+        "id": "66674",
+        "call_sign": "WZON",
+        "frequency": "620   kHz",
+        "service": "AM",
+        "owner": "J. HANSON COMPANY, INC.",
+        "city": "NORRIDGEWOCK",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.846944,
+          43.876389
+        ]
+      },
+      "properties": {
+        "id": "33287",
+        "call_sign": "WJTO",
+        "frequency": "750   kHz",
+        "service": "AM",
+        "owner": "BLUE JEY BROADCASTING COMPANY, INC",
+        "city": "BATH",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.846944,
+          43.876389
+        ]
+      },
+      "properties": {
+        "id": "33287",
+        "call_sign": "WJTO",
+        "frequency": "750   kHz",
+        "service": "AM",
+        "owner": "BLUE JEY BROADCASTING COMPANY, INC",
+        "city": "BATH",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.81725,
+          46.341722
+        ]
+      },
+      "properties": {
+        "id": "17514",
+        "call_sign": "WXME",
+        "frequency": "780   kHz",
+        "service": "AM",
+        "owner": "ALLAN WEINER",
+        "city": "MONTICELLO",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.81725,
+          46.341722
+        ]
+      },
+      "properties": {
+        "id": "17514",
+        "call_sign": "WXME",
+        "frequency": "780   kHz",
+        "service": "AM",
+        "owner": "ALLAN WEINER",
+        "city": "MONTICELLO",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.494222,
+          43.662861
+        ]
+      },
+      "properties": {
+        "id": "24994",
+        "call_sign": "WLVP",
+        "frequency": "870   kHz",
+        "service": "AM",
+        "owner": "BLUE JEY BROADCASTING CO.",
+        "city": "GORHAM",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.494222,
+          43.662861
+        ]
+      },
+      "properties": {
+        "id": "24994",
+        "call_sign": "WLVP",
+        "frequency": "870   kHz",
+        "service": "AM",
+        "owner": "BLUE JEY BROADCASTING CO.",
+        "city": "GORHAM",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.024444,
+          43.911667
+        ]
+      },
+      "properties": {
+        "id": "56570",
+        "call_sign": "WCME",
+        "frequency": "900   kHz",
+        "service": "AM",
+        "owner": "JAMES BLEIKAMP",
+        "city": "BRUNSWICK",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.024444,
+          43.911667
+        ]
+      },
+      "properties": {
+        "id": "56570",
+        "call_sign": "WCME",
+        "frequency": "900   kHz",
+        "service": "AM",
+        "owner": "JAMES BLEIKAMP",
+        "city": "BRUNSWICK",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.74725,
+          44.780917
+        ]
+      },
+      "properties": {
+        "id": "3670",
+        "call_sign": "WTOS",
+        "frequency": "910   kHz",
+        "service": "AM",
+        "owner": "BLUEBERRY BROADCASTING, LLC",
+        "city": "BANGOR",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.74725,
+          44.780917
+        ]
+      },
+      "properties": {
+        "id": "3670",
+        "call_sign": "WTOS",
+        "frequency": "910   kHz",
+        "service": "AM",
+        "owner": "BLUEBERRY BROADCASTING, LLC",
+        "city": "BANGOR",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.169194,
+          19.6475
+        ]
+      },
+      "properties": {
+        "id": "204486",
+        "call_sign": "XECSMT",
+        "frequency": "920   kHz",
+        "service": "AM",
+        "owner": "-",
+        "city": "TULTITLAN OF MARIA",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.321167,
+          43.605361
+        ]
+      },
+      "properties": {
+        "id": "58538",
+        "call_sign": "WZAN",
+        "frequency": "970   kHz",
+        "service": "AM",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "PORTLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.321167,
+          43.605361
+        ]
+      },
+      "properties": {
+        "id": "58538",
+        "call_sign": "WZAN",
+        "frequency": "970   kHz",
+        "service": "AM",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "PORTLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.043917,
+          46.885056
+        ]
+      },
+      "properties": {
+        "id": "100593",
+        "call_sign": "NEW",
+        "frequency": "1120  kHz",
+        "service": "AM",
+        "owner": "-",
+        "city": "CARIBOU",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.043917,
+          46.885056
+        ]
+      },
+      "properties": {
+        "id": "100593",
+        "call_sign": "NEW",
+        "frequency": "1120  kHz",
+        "service": "AM",
+        "owner": "-",
+        "city": "CARIBOU",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.893333,
+          19.495833
+        ]
+      },
+      "properties": {
+        "id": "199185",
+        "call_sign": "XECHAP",
+        "frequency": "1130  kHz",
+        "service": "AM",
+        "owner": "-",
+        "city": "TEXCOCO DE MORA",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.881944,
+          19.505556
+        ]
+      },
+      "properties": {
+        "id": "199185",
+        "call_sign": "XECHAP",
+        "frequency": "1130  kHz",
+        "service": "AM",
+        "owner": "-",
+        "city": "TEXCOCO DE MORA",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.893333,
+          19.495833
+        ]
+      },
+      "properties": {
+        "id": "199185",
+        "call_sign": "XECHAP",
+        "frequency": "1130  kHz",
+        "service": "AM",
+        "owner": "-",
+        "city": "TEXCOCO DE MORA",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.692833,
+          44.745333
+        ]
+      },
+      "properties": {
+        "id": "46351",
+        "call_sign": "WSKW",
+        "frequency": "1160  kHz",
+        "service": "AM",
+        "owner": "J. HANSON COMPANY, INC.",
+        "city": "SKOWHEGAN",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.691722,
+          44.745056
+        ]
+      },
+      "properties": {
+        "id": "46351",
+        "call_sign": "WSKW",
+        "frequency": "1160  kHz",
+        "service": "AM",
+        "owner": "J. HANSON COMPANY, INC.",
+        "city": "SKOWHEGAN",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.761722,
+          43.431472
+        ]
+      },
+      "properties": {
+        "id": "74068",
+        "call_sign": "WWSF",
+        "frequency": "1220  kHz",
+        "service": "AM",
+        "owner": "PORT BROADCASTING, LLC",
+        "city": "SANFORD",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.761722,
+          43.431472
+        ]
+      },
+      "properties": {
+        "id": "74068",
+        "call_sign": "WWSF",
+        "frequency": "1220  kHz",
+        "service": "AM",
+        "owner": "PORT BROADCASTING, LLC",
+        "city": "SANFORD",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.678639,
+          44.847306
+        ]
+      },
+      "properties": {
+        "id": "160465",
+        "call_sign": "WGUY",
+        "frequency": "1230  kHz",
+        "service": "AM",
+        "owner": "PORT BROADCASTING, LLC",
+        "city": "VEAZIE",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.678639,
+          44.847306
+        ]
+      },
+      "properties": {
+        "id": "160465",
+        "call_sign": "WGUY",
+        "frequency": "1230  kHz",
+        "service": "AM",
+        "owner": "PORT BROADCASTING, LLC",
+        "city": "VEAZIE",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.718083,
+          45.673389
+        ]
+      },
+      "properties": {
+        "id": "33469",
+        "call_sign": "WSYY",
+        "frequency": "1240  kHz",
+        "service": "AM",
+        "owner": "KATAHDIN COMMUNICATIONS, INC..",
+        "city": "MILLINOCKET",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.248111,
+          44.115361
+        ]
+      },
+      "properties": {
+        "id": "11031",
+        "call_sign": "WIGY",
+        "frequency": "1240  kHz",
+        "service": "AM",
+        "owner": "BENNETT RADIO GROUP, LLC",
+        "city": "LEWISTON",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.248111,
+          44.115361
+        ]
+      },
+      "properties": {
+        "id": "11031",
+        "call_sign": "WIGY",
+        "frequency": "1240  kHz",
+        "service": "AM",
+        "owner": "BENNETT RADIO GROUP, LLC",
+        "city": "LEWISTON",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.813389,
+          44.248972
+        ]
+      },
+      "properties": {
+        "id": "68296",
+        "call_sign": "WHTP",
+        "frequency": "1280  kHz",
+        "service": "AM",
+        "owner": "MAINEINVESTS, LLC",
+        "city": "GARDINER",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.813389,
+          44.248972
+        ]
+      },
+      "properties": {
+        "id": "68296",
+        "call_sign": "WHTP",
+        "frequency": "1280  kHz",
+        "service": "AM",
+        "owner": "MAINEINVESTS, LLC",
+        "city": "GARDINER",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.351667,
+          19.36
+        ]
+      },
+      "properties": {
+        "id": "204514",
+        "call_sign": "XECSHM",
+        "frequency": "1290  kHz",
+        "service": "AM",
+        "owner": "-",
+        "city": "HUIXQUILUCAN",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.955556,
+          19.383889
+        ]
+      },
+      "properties": {
+        "id": "199641",
+        "call_sign": "XESANS",
+        "frequency": "1300  kHz",
+        "service": "AM",
+        "owner": "-",
+        "city": "SANSON",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.334222,
+          43.689528
+        ]
+      },
+      "properties": {
+        "id": "9202",
+        "call_sign": "WLOB",
+        "frequency": "1310  kHz",
+        "service": "AM",
+        "owner": "ATLANTIC COAST RADIO, LLC",
+        "city": "PORTLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.334222,
+          43.689528
+        ]
+      },
+      "properties": {
+        "id": "9202",
+        "call_sign": "WLOB",
+        "frequency": "1310  kHz",
+        "service": "AM",
+        "owner": "ATLANTIC COAST RADIO, LLC",
+        "city": "PORTLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7645,
+          44.328111
+        ]
+      },
+      "properties": {
+        "id": "37469",
+        "call_sign": "WMDR",
+        "frequency": "1340  kHz",
+        "service": "AM",
+        "owner": "LIGHT OF LIFE MINISTRIES, INC.",
+        "city": "AUGUSTA",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.678361,
+          44.852861
+        ]
+      },
+      "properties": {
+        "id": "128808",
+        "call_sign": "WBAN",
+        "frequency": "1340  kHz",
+        "service": "AM",
+        "owner": "PORT BROADCASTING, LLC",
+        "city": "VEAZIE",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.949722,
+          19.773056
+        ]
+      },
+      "properties": {
+        "id": "204513",
+        "call_sign": "XECSSD",
+        "frequency": "1340  kHz",
+        "service": "AM",
+        "owner": "-",
+        "city": "SANTO DOMINGO",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7645,
+          44.328111
+        ]
+      },
+      "properties": {
+        "id": "37469",
+        "call_sign": "WMDR",
+        "frequency": "1340  kHz",
+        "service": "AM",
+        "owner": "LIGHT OF LIFE MINISTRIES, INC.",
+        "city": "AUGUSTA",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.678361,
+          44.852861
+        ]
+      },
+      "properties": {
+        "id": "128808",
+        "call_sign": "WBAN",
+        "frequency": "1340  kHz",
+        "service": "AM",
+        "owner": "PORT BROADCASTING, LLC",
+        "city": "VEAZIE",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.469194,
+          44.46675
+        ]
+      },
+      "properties": {
+        "id": "17671",
+        "call_sign": "WDEA",
+        "frequency": "1370  kHz",
+        "service": "AM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "ELLSWORTH",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.009722,
+          19.725556
+        ]
+      },
+      "properties": {
+        "id": "199619",
+        "call_sign": "XETLAL",
+        "frequency": "1370  kHz",
+        "service": "AM",
+        "owner": "-",
+        "city": "TLALCHICHILPA",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.469194,
+          44.46675
+        ]
+      },
+      "properties": {
+        "id": "17671",
+        "call_sign": "WDEA",
+        "frequency": "1370  kHz",
+        "service": "AM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "ELLSWORTH",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.049917,
+          46.654056
+        ]
+      },
+      "properties": {
+        "id": "9423",
+        "call_sign": "WEGP",
+        "frequency": "1390  kHz",
+        "service": "AM",
+        "owner": "RELEVANT RADIO, INC.",
+        "city": "PRESQUE ISLE",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.623889,
+          20.056944
+        ]
+      },
+      "properties": {
+        "id": "204489",
+        "call_sign": "XECCJC",
+        "frequency": "1390  kHz",
+        "service": "AM",
+        "owner": "-",
+        "city": "CALPULAL",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.049472,
+          46.654222
+        ]
+      },
+      "properties": {
+        "id": "9423",
+        "call_sign": "WEGP",
+        "frequency": "1390  kHz",
+        "service": "AM",
+        "owner": "RELEVANT RADIO, INC.",
+        "city": "PRESQUE ISLE",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.485889,
+          43.48175
+        ]
+      },
+      "properties": {
+        "id": "73088",
+        "call_sign": "WVAE",
+        "frequency": "1400  kHz",
+        "service": "AM",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "BIDDEFORD",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.773278,
+          44.292083
+        ]
+      },
+      "properties": {
+        "id": "52604",
+        "call_sign": "WJZN",
+        "frequency": "1400  kHz",
+        "service": "AM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "AUGUSTA",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.678639,
+          44.847306
+        ]
+      },
+      "properties": {
+        "id": "128805",
+        "call_sign": "WHZP",
+        "frequency": "1400  kHz",
+        "service": "AM",
+        "owner": "MAINEINVESTS, LLC",
+        "city": "VEAZIE",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.485889,
+          43.48175
+        ]
+      },
+      "properties": {
+        "id": "73088",
+        "call_sign": "WVAE",
+        "frequency": "1400  kHz",
+        "service": "AM",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "BIDDEFORD",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.773278,
+          44.292083
+        ]
+      },
+      "properties": {
+        "id": "52604",
+        "call_sign": "WJZN",
+        "frequency": "1400  kHz",
+        "service": "AM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "AUGUSTA",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.678639,
+          44.847306
+        ]
+      },
+      "properties": {
+        "id": "128805",
+        "call_sign": "WHZP",
+        "frequency": "1400  kHz",
+        "service": "AM",
+        "owner": "MAINEINVESTS, LLC",
+        "city": "VEAZIE",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.773667,
+          44.291722
+        ]
+      },
+      "properties": {
+        "id": "52604",
+        "call_sign": "WJZN",
+        "frequency": "1400  kHz",
+        "service": "AM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "AUGUSTA",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.379056,
+          43.680361
+        ]
+      },
+      "properties": {
+        "id": "3140",
+        "call_sign": "WRED",
+        "frequency": "1440  kHz",
+        "service": "AM",
+        "owner": "ATLANTIC COAST RADIO, LLC",
+        "city": "WESTBROOK",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.379056,
+          43.680361
+        ]
+      },
+      "properties": {
+        "id": "3140",
+        "call_sign": "WRED",
+        "frequency": "1440  kHz",
+        "service": "AM",
+        "owner": "ATLANTIC COAST RADIO, LLC",
+        "city": "WESTBROOK",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.528111,
+          44.221194
+        ]
+      },
+      "properties": {
+        "id": "52176",
+        "call_sign": "WPNO",
+        "frequency": "1450  kHz",
+        "service": "AM",
+        "owner": "BENNETT RADIO GROUP, LLC",
+        "city": "SOUTH PARIS",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2495,
+          44.063139
+        ]
+      },
+      "properties": {
+        "id": "64434",
+        "call_sign": "WLAM",
+        "frequency": "1470  kHz",
+        "service": "AM",
+        "owner": "BLUE JEY BROADCASTING CO., INC",
+        "city": "LEWISTON",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.270889,
+          43.663417
+        ]
+      },
+      "properties": {
+        "id": "49983",
+        "call_sign": "WBAE",
+        "frequency": "1490  kHz",
+        "service": "AM",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "PORTLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.003611,
+          19.914722
+        ]
+      },
+      "properties": {
+        "id": "199967",
+        "call_sign": "XETEMA",
+        "frequency": "1490  kHz",
+        "service": "AM",
+        "owner": "-",
+        "city": "TEMASCALCINGO DE",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.270889,
+          43.663417
+        ]
+      },
+      "properties": {
+        "id": "49983",
+        "call_sign": "WBAE",
+        "frequency": "1490  kHz",
+        "service": "AM",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "PORTLAND",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.873889,
+          19.791667
+        ]
+      },
+      "properties": {
+        "id": "199963",
+        "call_sign": "XEATLM",
+        "frequency": "1520  kHz",
+        "service": "AM",
+        "owner": "-",
+        "city": "ATLACOPMULCO DE FABE",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.957861,
+          19.672139
+        ]
+      },
+      "properties": {
+        "id": "204487",
+        "call_sign": "XECSST",
+        "frequency": "1550  kHz",
+        "service": "AM",
+        "owner": "-",
+        "city": "SAN PABLO TECALCO",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.351667,
+          19.36
+        ]
+      },
+      "properties": {
+        "id": "204490",
+        "call_sign": "XECSHU",
+        "frequency": "1560  kHz",
+        "service": "AM",
+        "owner": "-",
+        "city": "HUIX",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.208889,
+          19.514722
+        ]
+      },
+      "properties": {
+        "id": "104007",
+        "call_sign": "XEVOZ",
+        "frequency": "1590  kHz",
+        "service": "AM",
+        "owner": "-",
+        "city": "TLALNEPANTLA",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.208889,
+          19.514722
+        ]
+      },
+      "properties": {
+        "id": "104007",
+        "call_sign": "XEVOZ",
+        "frequency": "1590  kHz",
+        "service": "AM",
+        "owner": "-",
+        "city": "TLALNEPANTLA",
+        "state": "ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.208889,
+          19.514722
+        ]
+      },
+      "properties": {
+        "id": "104007",
+        "call_sign": "XEVOZ",
+        "frequency": "1590  kHz",
+        "service": "AM",
+        "owner": "-",
+        "city": "TLALNEPANTLA",
+        "state": "ME"
+      }
+    }
+  ],
+  "metadata": {
+    "cities": [
+      "ATLACOPMULCO DE FABE",
+      "AUBURN",
+      "AUGUSTA",
+      "BALD MOUNTAIN",
+      "BANGOR",
+      "BAR HARBOR",
+      "BATH",
+      "BELFAST",
+      "BENEDICTA",
+      "BETHEL",
+      "BIDDEFORD",
+      "BLUE HILL",
+      "BOOTHBAY HARBOR",
+      "BOWDOIN",
+      "BREWER",
+      "BRUNSWICK",
+      "CALAIS",
+      "CALPULAL",
+      "CAMDEN",
+      "CARIBOU",
+      "CORINTH",
+      "DENNYSVILLE",
+      "DEXTER",
+      "DOVER-FOXCROFT",
+      "EASTPORT",
+      "ELLSWORTH",
+      "FAIRFIELD",
+      "FARMINGTON",
+      "FORT FAIRFIELD",
+      "FORT KENT",
+      "FREEPORT",
+      "FRENCHVILLE",
+      "FRYEBURG",
+      "GARDINER",
+      "GORHAM",
+      "GOULDSBORO",
+      "GRAY",
+      "GREENVILLE",
+      "HARPSWELL",
+      "HODGDON",
+      "HOULTON",
+      "HOWLAND",
+      "HUIX",
+      "HUIXQUILUCAN",
+      "ISLAND FALLS",
+      "ISLESBORO",
+      "KENNEBUNK",
+      "KENNEBUNKPORT",
+      "KITTERY",
+      "LEWISTON",
+      "LINCOLN",
+      "MACHIAS",
+      "MADAWASKA",
+      "MADISON",
+      "MEXICO",
+      "MILBRIDGE",
+      "MILLINOCKET",
+      "MONSON",
+      "MONTICELLO",
+      "NORRIDGEWOCK",
+      "NORTH WINDHAM",
+      "NORTH YARMOUTH",
+      "NORWAY",
+      "OAKLAND",
+      "OLD TOWN",
+      "ORONO",
+      "PITTSFIELD",
+      "PORTLAND",
+      "PRESQUE ISLE",
+      "RANGELEY",
+      "READFIELD",
+      "ROCKLAND",
+      "RUMFORD",
+      "SACO",
+      "SAN PABLO TECALCO",
+      "SANFORD",
+      "SANSON",
+      "SANTO DOMINGO",
+      "SCARBOROUGH",
+      "SEARSPORT",
+      "SKOWHEGAN",
+      "SOUTH PARIS",
+      "SOUTH PORTLAND",
+      "SPRINGVALE",
+      "TEMASCALCINGO DE",
+      "TEXCOCO DE MORA",
+      "THOMASTON",
+      "TLALCHICHILPA",
+      "TLALNEPANTLA",
+      "TOPSHAM",
+      "TRENTON",
+      "TREVETT",
+      "TULTITLAN OF MARIA",
+      "TURNER",
+      "UNION",
+      "VAN BUREN",
+      "VEAZIE",
+      "WATERVILLE",
+      "WESTBROOK",
+      "WINSLOW",
+      "WINTER HARBOR",
+      "YARMOUTH",
+      "YORK CENTER"
+    ],
+    "frequencies": [
+      "88.1  MHz",
+      "88.3  MHz",
+      "88.5  MHz",
+      "88.7  MHz",
+      "88.9  MHz",
+      "89.1  MHz",
+      "89.3  MHz",
+      "89.5  MHz",
+      "89.7  MHz",
+      "89.9  MHz",
+      "90.1  MHz",
+      "90.3  MHz",
+      "90.5  MHz",
+      "90.7  MHz",
+      "90.9  MHz",
+      "91.1  MHz",
+      "91.3  MHz",
+      "91.5  MHz",
+      "91.7  MHz",
+      "91.9  MHz",
+      "92.1  MHz",
+      "92.3  MHz",
+      "92.5  MHz",
+      "92.7  MHz",
+      "92.9  MHz",
+      "93.1  MHz",
+      "93.3  MHz",
+      "93.5  MHz",
+      "93.7  MHz",
+      "93.9  MHz",
+      "94.1  MHz",
+      "94.3  MHz",
+      "94.5  MHz",
+      "94.7  MHz",
+      "94.9  MHz",
+      "95.1  MHz",
+      "95.3  MHz",
+      "95.5  MHz",
+      "95.7  MHz",
+      "95.9  MHz",
+      "96.1  MHz",
+      "96.3  MHz",
+      "96.5  MHz",
+      "96.7  MHz",
+      "96.9  MHz",
+      "97.1  MHz",
+      "97.3  MHz",
+      "97.5  MHz",
+      "97.7  MHz",
+      "97.9  MHz",
+      "98.1  MHz",
+      "98.3  MHz",
+      "98.5  MHz",
+      "98.9  MHz",
+      "99.1  MHz",
+      "99.3  MHz",
+      "99.5  MHz",
+      "99.7  MHz",
+      "99.9  MHz",
+      "100.1 MHz",
+      "100.3 MHz",
+      "100.5 MHz",
+      "100.7 MHz",
+      "100.9 MHz",
+      "101.1 MHz",
+      "101.3 MHz",
+      "101.5 MHz",
+      "101.7 MHz",
+      "101.9 MHz",
+      "102.1 MHz",
+      "102.3 MHz",
+      "102.5 MHz",
+      "102.7 MHz",
+      "102.9 MHz",
+      "103.1 MHz",
+      "103.3 MHz",
+      "103.9 MHz",
+      "104.1 MHz",
+      "104.3 MHz",
+      "104.7 MHz",
+      "105.1 MHz",
+      "105.3 MHz",
+      "105.5 MHz",
+      "105.7 MHz",
+      "105.9 MHz",
+      "106.1 MHz",
+      "106.3 MHz",
+      "106.5 MHz",
+      "106.7 MHz",
+      "106.9 MHz",
+      "107.1 MHz",
+      "107.3 MHz",
+      "107.5 MHz",
+      "107.7 MHz",
+      "107.9 MHz",
+      "560   kHz",
+      "600   kHz",
+      "620   kHz",
+      "750   kHz",
+      "780   kHz",
+      "870   kHz",
+      "900   kHz",
+      "910   kHz",
+      "920   kHz",
+      "970   kHz",
+      "1120  kHz",
+      "1130  kHz",
+      "1160  kHz",
+      "1220  kHz",
+      "1230  kHz",
+      "1240  kHz",
+      "1280  kHz",
+      "1290  kHz",
+      "1300  kHz",
+      "1310  kHz",
+      "1340  kHz",
+      "1370  kHz",
+      "1390  kHz",
+      "1400  kHz",
+      "1440  kHz",
+      "1450  kHz",
+      "1470  kHz",
+      "1490  kHz",
+      "1520  kHz",
+      "1550  kHz",
+      "1560  kHz",
+      "1590  kHz"
+    ],
+    "owners": [
+      "-",
+      "ALL INCLUSIVE, INC.",
+      "ALLAN H WEINER",
+      "ALLAN H. WEINER & BARBARA A. WEINER, D/B/A WBCQ RADIO",
+      "ALLAN WEINER",
+      "ATLANTIC COAST RADIO, LLC",
+      "BARTERS ISLAND BAPTIST CHURCH",
+      "BENNETT RADIO GROUP, LLC",
+      "BIBLE BROADCASTING NETWORK, INC.",
+      "BLOUNT COMMUNICATIONS, INC. OF MAINE",
+      "BLUE JEY BROADCASTING CO.",
+      "BLUE JEY BROADCASTING CO., INC",
+      "BLUE JEY BROADCASTING COMPANY, INC",
+      "BLUEBERRY BROADCASTING, LLC",
+      "BOWDOIN COLLEGE",
+      "CALVARY BAPTIST CHURCH OF TURNER",
+      "CALVARY CHAPEL OF BANGOR",
+      "CHRISTIAN EDUCATION CENTER",
+      "CITY OF BELFAST, ME",
+      "CODIN BROADCASTING, LLC",
+      "FOR HIS GLORY BIBLE BAPTIST CHURCH",
+      "FORT KENT KNIGHTS OF COLUMBUS, INC.",
+      "HARPSWELL RADIO PROJECT, INC.",
+      "HERITAGE RADIO SOCIETY, INC.",
+      "HUSSON UNIVERSITY",
+      "IHM LICENSES, LLC",
+      "J. HANSON COMPANY, INC.",
+      "JAMES B. BLEIKAMP",
+      "JAMES BLEIKAMP",
+      "K-LOVE, INC.",
+      "KATAHDIN COMMUNICATIONS, INC.",
+      "KATAHDIN COMMUNICATIONS, INC..",
+      "LIGHT OF LIFE MINISTRIES",
+      "LIGHT OF LIFE MINISTRIES INC.",
+      "LIGHT OF LIFE MINISTRIES, INC.",
+      "LIGHTHOUSE RADIO NETWORK, INC.",
+      "MAINE INVESTS, INC.",
+      "MAINE PUBLIC BROADCASTING CORPORATION",
+      "MAINEINVESTS, LLC",
+      "MAINESTREAM MEDIA, LLC",
+      "NORTHERN BROADCAST MINISTRIES, INC.",
+      "NORTHERN MAINE MEDIA, INC.",
+      "PORT BROADCASTING, LLC",
+      "PRESIDENT & TRUSTEES OF BATES COLLEGE",
+      "RELEVANT RADIO, INC.",
+      "RIVER VALLEY COMMUNITY ASSOCIATION",
+      "RIVER VALLEY COMMUNITY MINISTRIES",
+      "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+      "SALT POND COMMUNITY BROADCASTING COMPANY",
+      "SHEAD MEMORIAL HIGH SCHOOL",
+      "SONLIGHT MEDIA GROUP",
+      "SPRINGVALE COUNCIL KNIGHTS OF COLUMBUS",
+      "THE MAYFLOWER HILL BROADCASTING CORP.",
+      "THE OLD SCHOOL",
+      "TOWN OF READFIELD",
+      "TOWNSQUARE LICENSE, LLC",
+      "TOWNSQUARE MEDIA LICENSEE OF PEORIA, INC.",
+      "TOWNSQUARE MEDIA PRESQUE ISLE LICENSE, LLC",
+      "TRANET",
+      "UNIVERSITY OF MAINE SYSTEM",
+      "WBIN MEDIA CO., INC.",
+      "WESSERUNSETT ARTS COUNCIL, INC.",
+      "WILLIAM MCVICAR & ROGER HOLST, GEN. PARTNERSHIP",
+      "WORD RADIO EDUCATIONAL FOUNDATION",
+      "WQDY, INC."
+    ],
+    "services": [
+      "AM",
+      "FL",
+      "FM",
+      "FS",
+      "FX"
+    ]
+  }
+}

@@ -16,7 +16,7 @@
 }
 
 html, body {
-    height: 100%;
+    overflow: hidden;
 }
 
 body {
@@ -25,7 +25,6 @@ body {
     margin: 0;
     display: grid; 
     grid-template-rows: auto 1fr;
-    height: 100vh; 
     font-family: 'Montserrat', Arial; 
 }
 
@@ -78,11 +77,20 @@ header nav ul li:active {
     transform: scale(0.9); 
 }
 
+/* Main Styling */
+main {
+    overflow: hidden;
+    height: calc(100vh - 70px); 
+    display: flex; 
+} 
+
 /* Map Styling */ 
 #map {
-    height: calc(100vh - 70px); 
+    height: 100%; 
     width: 100%; 
+    flex: 1; 
     background: var(--light-bg); 
+    overflow: hidden; 
 }
 
 /* Aside Styling */ 
@@ -98,6 +106,7 @@ aside {
     transition: left 0.5s ease-out; 
     border-bottom-right-radius: 10px; 
     border-top-right-radius: 10px; 
+    top: 70px; 
 }
 
 /* Collapsible Aside */ 
@@ -189,6 +198,10 @@ aside.open {
 
 .dropdown-list {
     list-style: none;
+    max-height: 200px; 
+    overflow-y: auto; 
+    overflow-x: hidden; 
+    overscroll-behavior: contain;
     margin: 10px 0;
     background: white;
     border-radius: 10px;

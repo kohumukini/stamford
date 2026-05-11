@@ -1,0 +1,3600 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.45175,
+          43.437583
+        ]
+      },
+      "properties": {
+        "id": "84441",
+        "call_sign": "WNCH",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "VERMONT PUBLIC CO.",
+        "city": "NORWICH",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.659528,
+          44.140056
+        ]
+      },
+      "properties": {
+        "id": "66513",
+        "call_sign": "WNUB-FM",
+        "frequency": "88.3  MHz",
+        "service": "FM",
+        "owner": "THE TRUSTEES OF NORWICH UNIVERSITY",
+        "city": "NORTHFIELD",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.893417,
+          44.570861
+        ]
+      },
+      "properties": {
+        "id": "85029",
+        "call_sign": "WVPA",
+        "frequency": "88.5  MHz",
+        "service": "FM",
+        "owner": "VERMONT PUBLIC CO.",
+        "city": "ST. JOHNSBURY",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.182639,
+          44.509444
+        ]
+      },
+      "properties": {
+        "id": "21097",
+        "call_sign": "W207AX",
+        "frequency": "88.7  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL, INC.",
+        "city": "BURLINGTON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.106556,
+          43.65875
+        ]
+      },
+      "properties": {
+        "id": "69953",
+        "call_sign": "WRVT",
+        "frequency": "88.7  MHz",
+        "service": "FM",
+        "owner": "VERMONT PUBLIC CO.",
+        "city": "RUTLAND",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.106556,
+          43.65875
+        ]
+      },
+      "properties": {
+        "id": "69953",
+        "call_sign": "WRVT",
+        "frequency": "88.7  MHz",
+        "service": "FM",
+        "owner": "VERMONT PUBLIC CO.",
+        "city": "RUTLAND",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.599611,
+          42.828444
+        ]
+      },
+      "properties": {
+        "id": "175088",
+        "call_sign": "WVBA",
+        "frequency": "88.9  MHz",
+        "service": "FM",
+        "owner": "VERMONT PUBLIC CO.",
+        "city": "BRATTLEBORO",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.656944,
+          44.612778
+        ]
+      },
+      "properties": {
+        "id": "764609",
+        "call_sign": "WHYD",
+        "frequency": "88.9  MHz",
+        "service": "FM",
+        "owner": "CHRISTIAN MINISTRIES, INC.",
+        "city": "HYDE PARK",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.124583,
+          44.225
+        ]
+      },
+      "properties": {
+        "id": "176918",
+        "call_sign": "WXLQ",
+        "frequency": "89.1  MHz",
+        "service": "FM",
+        "owner": "THE ST. LAWRENCE UNIVERSITY",
+        "city": "BRISTOL",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.630389,
+          44.601417
+        ]
+      },
+      "properties": {
+        "id": "134111",
+        "call_sign": "WYTC-LP",
+        "frequency": "89.1  MHz",
+        "service": "FL",
+        "owner": "GREEN MOUNTAIN TECHNOLOGY & CAREER CENTER / LAMOILLE UNION MODIFIED UNIFIED SCHOOL DISTRICT",
+        "city": "HYDE PARK",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.182639,
+          44.5095
+        ]
+      },
+      "properties": {
+        "id": "21097",
+        "call_sign": "W207AX",
+        "frequency": "89.3  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL, INC.",
+        "city": "BURLINGTON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.130833,
+          44.955278
+        ]
+      },
+      "properties": {
+        "id": "767944",
+        "call_sign": "WNEK",
+        "frequency": "89.3  MHz",
+        "service": "FM",
+        "owner": "CHRISTIAN MINISTRIES, INC.",
+        "city": "DERBY CENTER",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.45175,
+          43.437583
+        ]
+      },
+      "properties": {
+        "id": "69951",
+        "call_sign": "WVPR",
+        "frequency": "89.5  MHz",
+        "service": "FM",
+        "owner": "VERMONT PUBLIC CO.",
+        "city": "WINDSOR",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.475361,
+          44.126944
+        ]
+      },
+      "properties": {
+        "id": "11085",
+        "call_sign": "WCMD-FM",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "CHRISTIAN MINISTRIES, INC.",
+        "city": "BARRE",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.123722,
+          44.91725
+        ]
+      },
+      "properties": {
+        "id": "172444",
+        "call_sign": "WGLG",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "CHRISTIAN MINISTRIES, INC.",
+        "city": "SWANTON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2015,
+          44.480306
+        ]
+      },
+      "properties": {
+        "id": "66566",
+        "call_sign": "WRUV",
+        "frequency": "90.1  MHz",
+        "service": "FM",
+        "owner": "THE UNIVERSITY OF VERMONT",
+        "city": "BURLINGTON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.161778,
+          44.026167
+        ]
+      },
+      "properties": {
+        "id": "174578",
+        "call_sign": "WOXM",
+        "frequency": "90.1  MHz",
+        "service": "FM",
+        "owner": "VERMONT PUBLIC CO.",
+        "city": "MIDDLEBURY",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.969806,
+          44.411167
+        ]
+      },
+      "properties": {
+        "id": "76054",
+        "call_sign": "WCKJ",
+        "frequency": "90.5  MHz",
+        "service": "FM",
+        "owner": "CHRISTIAN MINISTRIES, INC.",
+        "city": "ST. JOHNSBURY",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.671778,
+          44.641417
+        ]
+      },
+      "properties": {
+        "id": "6121",
+        "call_sign": "WJSC-FM",
+        "frequency": "90.7  MHz",
+        "service": "FM",
+        "owner": "BOARD OF TRUSTEES, VERMONT STATE COLLEGE",
+        "city": "JOHNSON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.602306,
+          43.935333
+        ]
+      },
+      "properties": {
+        "id": "69957",
+        "call_sign": "WVTC",
+        "frequency": "90.7  MHz",
+        "service": "FM",
+        "owner": "VERMONT STATE COLLEGES",
+        "city": "RANDOLPH CENTER",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.836389,
+          43.639167
+        ]
+      },
+      "properties": {
+        "id": "11095",
+        "call_sign": "WFTF",
+        "frequency": "90.9  MHz",
+        "service": "FM",
+        "owner": "CHRISTIAN MINISTRIES, INC.",
+        "city": "RUTLAND",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.836194,
+          43.6395
+        ]
+      },
+      "properties": {
+        "id": "11095",
+        "call_sign": "WFTF",
+        "frequency": "90.9  MHz",
+        "service": "FM",
+        "owner": "CHRISTIAN MINISTRIES, INC.",
+        "city": "RUTLAND",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.451667,
+          43.4375
+        ]
+      },
+      "properties": {
+        "id": "89943",
+        "call_sign": "W216CB",
+        "frequency": "91.1  MHz",
+        "service": "FX",
+        "owner": "CHRISTIAN MINISTRIES, INC.",
+        "city": "ASCUTNEY",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.028444,
+          43.23675
+        ]
+      },
+      "properties": {
+        "id": "175524",
+        "call_sign": "WVNK",
+        "frequency": "91.1  MHz",
+        "service": "FM",
+        "owner": "VERMONT PUBLIC CO.",
+        "city": "MANCHESTER",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.177333,
+          44.007
+        ]
+      },
+      "properties": {
+        "id": "66275",
+        "call_sign": "WRMC-FM",
+        "frequency": "91.1  MHz",
+        "service": "FM",
+        "owner": "THE PRESIDENT AND FELLOWS OF MIDDLEBURY COLLEGE",
+        "city": "MIDDLEBURY",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.440639,
+          44.2845
+        ]
+      },
+      "properties": {
+        "id": "24438",
+        "call_sign": "WGDR",
+        "frequency": "91.1  MHz",
+        "service": "FM",
+        "owner": "CENTRAL VERMONT COMMUNITY RADIO",
+        "city": "PLAINFIELD",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.427167,
+          44.241556
+        ]
+      },
+      "properties": {
+        "id": "24438",
+        "call_sign": "WGDR",
+        "frequency": "91.1  MHz",
+        "service": "FM",
+        "owner": "CENTRAL VERMONT COMMUNITY RADIO",
+        "city": "PLAINFIELD",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.176389,
+          42.879167
+        ]
+      },
+      "properties": {
+        "id": "768779",
+        "call_sign": "WNGB",
+        "frequency": "91.3  MHz",
+        "service": "FM",
+        "owner": "NORTHEAST GOSPEL BROADCASTING, INC.",
+        "city": "BENNINGTON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.176389,
+          42.879167
+        ]
+      },
+      "properties": {
+        "id": "768779",
+        "call_sign": "WNGB",
+        "frequency": "91.3  MHz",
+        "service": "FM",
+        "owner": "NORTHEAST GOSPEL BROADCASTING, INC.",
+        "city": "BENNINGTON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.432583,
+          43.137278
+        ]
+      },
+      "properties": {
+        "id": "174862",
+        "call_sign": "WOOL",
+        "frequency": "91.5  MHz",
+        "service": "FM",
+        "owner": "GREAT FALLS COMMUNITY BROADCASTING COMPANY",
+        "city": "BELLOWS FALLS",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.930667,
+          44.36475
+        ]
+      },
+      "properties": {
+        "id": "11084",
+        "call_sign": "WGLY-FM",
+        "frequency": "91.5  MHz",
+        "service": "FM",
+        "owner": "CHRISTIAN MINISTRIES, INC.",
+        "city": "BOLTON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.893417,
+          44.570861
+        ]
+      },
+      "properties": {
+        "id": "6123",
+        "call_sign": "WVLR-FM",
+        "frequency": "91.5  MHz",
+        "service": "FM",
+        "owner": "VERMONT PUBLIC CO.",
+        "city": "LYNDONVILLE",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.028694,
+          44.533917
+        ]
+      },
+      "properties": {
+        "id": "6123",
+        "call_sign": "WVLR-FM",
+        "frequency": "91.5  MHz",
+        "service": "FM",
+        "owner": "VERMONT PUBLIC CO.",
+        "city": "LYNDONVILLE",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.028694,
+          44.533917
+        ]
+      },
+      "properties": {
+        "id": "6123",
+        "call_sign": "WVLR-FM",
+        "frequency": "91.5  MHz",
+        "service": "FM",
+        "owner": "VERMONT PUBLIC CO.",
+        "city": "LYNDONVILLE",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.453417,
+          44.580306
+        ]
+      },
+      "properties": {
+        "id": "173961",
+        "call_sign": "WGDH",
+        "frequency": "91.7  MHz",
+        "service": "FM",
+        "owner": "CENTRAL VERMONT COMMUNITY RADIO CORPORATION",
+        "city": "HARDWICK",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.836194,
+          43.6395
+        ]
+      },
+      "properties": {
+        "id": "82833",
+        "call_sign": "WGLV",
+        "frequency": "91.7  MHz",
+        "service": "FM",
+        "owner": "CHRISTIAN MINISTRIES, INC.",
+        "city": "WOODSTOCK",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.680361,
+          43.367833
+        ]
+      },
+      "properties": {
+        "id": "11099",
+        "call_sign": "W220AX",
+        "frequency": "91.9  MHz",
+        "service": "FX",
+        "owner": "CHRISTIAN MINISTRIES, INC.",
+        "city": "LUDLOW",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.602861,
+          42.9745
+        ]
+      },
+      "properties": {
+        "id": "88180",
+        "call_sign": "WCMK",
+        "frequency": "91.9  MHz",
+        "service": "FM",
+        "owner": "CHRISTIAN MINISTRIES, INC.",
+        "city": "PUTNEY",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.483417,
+          44.171167
+        ]
+      },
+      "properties": {
+        "id": "135758",
+        "call_sign": "WJPL-LP",
+        "frequency": "92.1  MHz",
+        "service": "FL",
+        "owner": "VERMONT CHRISTIAN RADIO, INC.",
+        "city": "BARRE",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.074528,
+          44.973083
+        ]
+      },
+      "properties": {
+        "id": "63193",
+        "call_sign": "WMOO",
+        "frequency": "92.1  MHz",
+        "service": "FM",
+        "owner": "GREEN MOUNTAIN BROADCASTERS LLC",
+        "city": "DERBY CENTER",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.163722,
+          44.493917
+        ]
+      },
+      "properties": {
+        "id": "196089",
+        "call_sign": "WWPV-LP",
+        "frequency": "92.5  MHz",
+        "service": "FL",
+        "owner": "SAINT MICHAEL'S COLLEGE, INC.",
+        "city": "COLCHESTER",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.23675,
+          43.517278
+        ]
+      },
+      "properties": {
+        "id": "190453",
+        "call_sign": "WDKM",
+        "frequency": "92.5  MHz",
+        "service": "FM",
+        "owner": "NORTHWAY BROADCASTING, LLC",
+        "city": "POULTNEY",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.663139,
+          42.895889
+        ]
+      },
+      "properties": {
+        "id": "57780",
+        "call_sign": "WKVT-FM",
+        "frequency": "92.7  MHz",
+        "service": "FM",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "BRATTLEBORO",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.815667,
+          44.525583
+        ]
+      },
+      "properties": {
+        "id": "35232",
+        "call_sign": "WEZF",
+        "frequency": "92.9  MHz",
+        "service": "FM",
+        "owner": "VOX AM/FM, LLC",
+        "city": "BURLINGTON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.21375,
+          44.497278
+        ]
+      },
+      "properties": {
+        "id": "145050",
+        "call_sign": "W227AQ",
+        "frequency": "93.3  MHz",
+        "service": "FX",
+        "owner": "MONTPELIER BROADCASTING, INC.",
+        "city": "BURLINGTON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.724417,
+          43.407556
+        ]
+      },
+      "properties": {
+        "id": "787551",
+        "call_sign": "WLUD-LP",
+        "frequency": "93.3  MHz",
+        "service": "FL",
+        "owner": "OKEMO VALLEY TV",
+        "city": "LUDLOW",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.557889,
+          44.280333
+        ]
+      },
+      "properties": {
+        "id": "139921",
+        "call_sign": "W227DF",
+        "frequency": "93.3  MHz",
+        "service": "FX",
+        "owner": "GALLOWAY COMMUNICATIONS, INC.",
+        "city": "MONTPELIER",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.170361,
+          43.281167
+        ]
+      },
+      "properties": {
+        "id": "140093",
+        "call_sign": "W227CA",
+        "frequency": "93.3  MHz",
+        "service": "FX",
+        "owner": "VERMONT PUBLIC CO.",
+        "city": "RUPERT",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.356389,
+          44.150556
+        ]
+      },
+      "properties": {
+        "id": "788577",
+        "call_sign": "NEW",
+        "frequency": "93.5  MHz",
+        "service": "FL",
+        "owner": "SAGE MOUNTAIN BOTANICAL SANCTUARY",
+        "city": "ORANGE",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.409861,
+          44.220889
+        ]
+      },
+      "properties": {
+        "id": "83867",
+        "call_sign": "WIFY",
+        "frequency": "93.7  MHz",
+        "service": "FM",
+        "owner": "RADIO BROADCASTING SERVICES, INCORPORATED",
+        "city": "ADDISON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.655083,
+          44.394222
+        ]
+      },
+      "properties": {
+        "id": "166090",
+        "call_sign": "WOTX",
+        "frequency": "93.7  MHz",
+        "service": "FM",
+        "owner": "ALEXXON, LLC",
+        "city": "LUNENBURG",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.635389,
+          44.578361
+        ]
+      },
+      "properties": {
+        "id": "54868",
+        "call_sign": "WLVB",
+        "frequency": "93.9  MHz",
+        "service": "FM",
+        "owner": "WLVB ACQUISITION LLC",
+        "city": "MORRISVILLE",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.363139,
+          43.647
+        ]
+      },
+      "properties": {
+        "id": "57002",
+        "call_sign": "WWOD",
+        "frequency": "93.9  MHz",
+        "service": "FM",
+        "owner": "GREAT EASTERN RADIO, LLC",
+        "city": "WOODSTOCK",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.584472,
+          44.256139
+        ]
+      },
+      "properties": {
+        "id": "139908",
+        "call_sign": "W231BQ",
+        "frequency": "94.1  MHz",
+        "service": "FX",
+        "owner": "VERMONT PUBLIC CO.",
+        "city": "MONTPELIER",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.175639,
+          42.948111
+        ]
+      },
+      "properties": {
+        "id": "9310",
+        "call_sign": "WBTN-FM",
+        "frequency": "94.3  MHz",
+        "service": "FM",
+        "owner": "VERMONT PUBLIC CO.",
+        "city": "BENNINGTON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.599611,
+          42.828444
+        ]
+      },
+      "properties": {
+        "id": "139889",
+        "call_sign": "W232CG",
+        "frequency": "94.3  MHz",
+        "service": "FX",
+        "owner": "VERMONT PUBLIC CO.",
+        "city": "BRATTLEBORO",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.246694,
+          44.358139
+        ]
+      },
+      "properties": {
+        "id": "139944",
+        "call_sign": "W233BD",
+        "frequency": "94.5  MHz",
+        "service": "FX",
+        "owner": "VERMONT PUBLIC CO.",
+        "city": "BURLINGTON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.239306,
+          44.814944
+        ]
+      },
+      "properties": {
+        "id": "189498",
+        "call_sign": "WJJZ",
+        "frequency": "94.5  MHz",
+        "service": "FM",
+        "owner": "GREEN MOUNTAIN BROADCASTERS LLC",
+        "city": "IRASBURG",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.008444,
+          43.567833
+        ]
+      },
+      "properties": {
+        "id": "14719",
+        "call_sign": "WDVT",
+        "frequency": "94.5  MHz",
+        "service": "FM",
+        "owner": "6 JOHNSON ROAD LICENSES, INC.",
+        "city": "RUTLAND",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.814694,
+          44.158667
+        ]
+      },
+      "properties": {
+        "id": "133683",
+        "call_sign": "WMRW-LP",
+        "frequency": "94.5  MHz",
+        "service": "FL",
+        "owner": "ROOTSWORK INC.",
+        "city": "WARREN",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.294417,
+          43.654639
+        ]
+      },
+      "properties": {
+        "id": "56990",
+        "call_sign": "W233CC",
+        "frequency": "94.5  MHz",
+        "service": "FX",
+        "owner": "GREAT EASTERN RADIO, LLC",
+        "city": "WHITE RIVER JUNCTION",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.08875,
+          44.131833
+        ]
+      },
+      "properties": {
+        "id": "788192",
+        "call_sign": "WVVT-LP",
+        "frequency": "94.7  MHz",
+        "service": "FL",
+        "owner": "MONKTON COMMUNITY COFFEEHOUSE, INC.",
+        "city": "BRISTOL",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.185889,
+          44.501167
+        ]
+      },
+      "properties": {
+        "id": "154167",
+        "call_sign": "W235BE",
+        "frequency": "94.9  MHz",
+        "service": "FX",
+        "owner": "CHRISTIAN MINISTRIES, INC.",
+        "city": "BURLINGTON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.119972,
+          43.165556
+        ]
+      },
+      "properties": {
+        "id": "54687",
+        "call_sign": "WVTQ",
+        "frequency": "95.1  MHz",
+        "service": "FM",
+        "owner": "VERMONT PUBLIC CO.",
+        "city": "SUNDERLAND",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.295083,
+          43.653972
+        ]
+      },
+      "properties": {
+        "id": "17801",
+        "call_sign": "WXLF",
+        "frequency": "95.3  MHz",
+        "service": "FM",
+        "owner": "WBIN MEDIA CO., INC.",
+        "city": "HARTFORD",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.182611,
+          44.509472
+        ]
+      },
+      "properties": {
+        "id": "29920",
+        "call_sign": "WXXX",
+        "frequency": "95.5  MHz",
+        "service": "FM",
+        "owner": "SISON BROADCASTING, INC.",
+        "city": "SOUTH BURLINGTON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.058417,
+          44.416167
+        ]
+      },
+      "properties": {
+        "id": "4001",
+        "call_sign": "WDOT",
+        "frequency": "95.7  MHz",
+        "service": "FM",
+        "owner": "MONTPELIER BROADCASTING INC",
+        "city": "DANVILLE",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.955639,
+          43.607556
+        ]
+      },
+      "properties": {
+        "id": "134309",
+        "call_sign": "WMTZ-LP",
+        "frequency": "95.7  MHz",
+        "service": "FL",
+        "owner": "GREEN MOUNTAIN ADVENTIST MEDIA, INC.",
+        "city": "RUTLAND",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.19675,
+          44.943639
+        ]
+      },
+      "properties": {
+        "id": "134559",
+        "call_sign": "WJSY-LP",
+        "frequency": "96.1  MHz",
+        "service": "FL",
+        "owner": "VOICE IN THE KINGDOM RADIO, INC.",
+        "city": "NEWPORT",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.928167,
+          44.127
+        ]
+      },
+      "properties": {
+        "id": "54867",
+        "call_sign": "WDEV-FM",
+        "frequency": "96.1  MHz",
+        "service": "FM",
+        "owner": "WDEV LLC",
+        "city": "WARREN",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.149583,
+          44.506167
+        ]
+      },
+      "properties": {
+        "id": "140407",
+        "call_sign": "W242BK",
+        "frequency": "96.3  MHz",
+        "service": "FX",
+        "owner": "VOX AM/FM, LLC",
+        "city": "COLCHESTER",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.358417,
+          43.65425
+        ]
+      },
+      "properties": {
+        "id": "84028",
+        "call_sign": "W242AG",
+        "frequency": "96.3  MHz",
+        "service": "FX",
+        "owner": "CHRISTIAN MINISTRIES, INC.",
+        "city": "QUECHEE",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.108083,
+          44.781972
+        ]
+      },
+      "properties": {
+        "id": "788407",
+        "call_sign": "NEW",
+        "frequency": "96.3  MHz",
+        "service": "FL",
+        "owner": "CAPTAIN VEGGIE MAN INC.",
+        "city": "ST. ALBANS",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.488417,
+          44.178389
+        ]
+      },
+      "properties": {
+        "id": "139875",
+        "call_sign": "W243AT",
+        "frequency": "96.5  MHz",
+        "service": "FX",
+        "owner": "WDEV LLC",
+        "city": "BARRE",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.211167,
+          42.906694
+        ]
+      },
+      "properties": {
+        "id": "202924",
+        "call_sign": "W243EL",
+        "frequency": "96.5  MHz",
+        "service": "FX",
+        "owner": "SHIRES MEDIA PARTNERSHIP, INC.",
+        "city": "BENNINGTON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.149806,
+          44.766972
+        ]
+      },
+      "properties": {
+        "id": "11086",
+        "call_sign": "W243AE",
+        "frequency": "96.5  MHz",
+        "service": "FX",
+        "owner": "CHRISTIAN MINISTRIES, INC.",
+        "city": "ORLEANS",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.523139,
+          43.816444
+        ]
+      },
+      "properties": {
+        "id": "191628",
+        "call_sign": "WFVR-LP",
+        "frequency": "96.5  MHz",
+        "service": "FL",
+        "owner": "PATRICK SCHLOTT",
+        "city": "SOUTH ROYALTON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.523139,
+          43.816444
+        ]
+      },
+      "properties": {
+        "id": "191628",
+        "call_sign": "WFVR-LP",
+        "frequency": "96.5  MHz",
+        "service": "FL",
+        "owner": "PATRICK SCHLOTT",
+        "city": "SOUTH ROYALTON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.744944,
+          44.463806
+        ]
+      },
+      "properties": {
+        "id": "139911",
+        "call_sign": "W243DT",
+        "frequency": "96.5  MHz",
+        "service": "FX",
+        "owner": "VERMONT PUBLIC CO.",
+        "city": "WATERBURY",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.612583,
+          42.889222
+        ]
+      },
+      "properties": {
+        "id": "67765",
+        "call_sign": "WTSA-FM",
+        "frequency": "96.7  MHz",
+        "service": "FM",
+        "owner": "COMMUNITY MEDIA LLC",
+        "city": "BRATTLEBORO",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.149889,
+          44.506361
+        ]
+      },
+      "properties": {
+        "id": "202406",
+        "call_sign": "W246DT",
+        "frequency": "97.1  MHz",
+        "service": "FX",
+        "owner": "VOX AM/FM, LLC",
+        "city": "COLCHESTER",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.106556,
+          43.65875
+        ]
+      },
+      "properties": {
+        "id": "25741",
+        "call_sign": "WZRT",
+        "frequency": "97.1  MHz",
+        "service": "FM",
+        "owner": "6 JOHNSON ROAD LICENSES, INC.",
+        "city": "RUTLAND",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.136472,
+          44.406472
+        ]
+      },
+      "properties": {
+        "id": "166037",
+        "call_sign": "WTNN",
+        "frequency": "97.5  MHz",
+        "service": "FM",
+        "owner": "IMPACT RADIO, INC.",
+        "city": "BRISTOL",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.893972,
+          44.570861
+        ]
+      },
+      "properties": {
+        "id": "69938",
+        "call_sign": "WGMT",
+        "frequency": "97.7  MHz",
+        "service": "FM",
+        "owner": "GREEN MOUNTAIN BROADCASTERS LLC",
+        "city": "LYNDON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.175639,
+          42.948111
+        ]
+      },
+      "properties": {
+        "id": "140091",
+        "call_sign": "W250CZ",
+        "frequency": "97.9  MHz",
+        "service": "FX",
+        "owner": "VERMONT PUBLIC CO.",
+        "city": "SOUTH BENNINGTON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.803167,
+          44.910861
+        ]
+      },
+      "properties": {
+        "id": "135390",
+        "call_sign": "WEVT-LP",
+        "frequency": "98.1  MHz",
+        "service": "FL",
+        "owner": "SPAVIN CURE HISTORICAL GROUP",
+        "city": "ENOSBURG FALLS",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.106556,
+          43.65875
+        ]
+      },
+      "properties": {
+        "id": "31112",
+        "call_sign": "WJJR",
+        "frequency": "98.1  MHz",
+        "service": "FM",
+        "owner": "6 JOHNSON ROAD LICENSES, INC.",
+        "city": "RUTLAND",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.21375,
+          44.497278
+        ]
+      },
+      "properties": {
+        "id": "155550",
+        "call_sign": "W252CJ",
+        "frequency": "98.3  MHz",
+        "service": "FX",
+        "owner": "RADIO BROADCASTING SERVICES,",
+        "city": "BURLINGTON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.576472,
+          44.2445
+        ]
+      },
+      "properties": {
+        "id": "140228",
+        "call_sign": "W252CU",
+        "frequency": "98.3  MHz",
+        "service": "FX",
+        "owner": "WDEV LLC",
+        "city": "MONTPELIER",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.197056,
+          44.450861
+        ]
+      },
+      "properties": {
+        "id": "25867",
+        "call_sign": "WOKO",
+        "frequency": "98.9  MHz",
+        "service": "FM",
+        "owner": "HALL COMMUNICATIONS, INC.",
+        "city": "BURLINGTON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1065,
+          43.658667
+        ]
+      },
+      "properties": {
+        "id": "139970",
+        "call_sign": "W256CW",
+        "frequency": "99.1  MHz",
+        "service": "FX",
+        "owner": "VERMONT PUBLIC CO.",
+        "city": "RUTLAND",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.106556,
+          43.65875
+        ]
+      },
+      "properties": {
+        "id": "139970",
+        "call_sign": "W256CW",
+        "frequency": "99.1  MHz",
+        "service": "FX",
+        "owner": "VERMONT PUBLIC CO.",
+        "city": "RUTLAND",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.217611,
+          44.456417
+        ]
+      },
+      "properties": {
+        "id": "192571",
+        "call_sign": "WBTV-LP",
+        "frequency": "99.3  MHz",
+        "service": "FL",
+        "owner": "VERMONT COMMUNITY ACCESS MEDIA (VCAM)",
+        "city": "BURLINGTON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6125,
+          42.889167
+        ]
+      },
+      "properties": {
+        "id": "202741",
+        "call_sign": "W258DQ",
+        "frequency": "99.5  MHz",
+        "service": "FX",
+        "owner": "COMMUNITY MEDIA LLC",
+        "city": "BRATTLEBORO",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.177333,
+          44.007
+        ]
+      },
+      "properties": {
+        "id": "139966",
+        "call_sign": "W258AW",
+        "frequency": "99.5  MHz",
+        "service": "FX",
+        "owner": "VERMONT PUBLIC CO.",
+        "city": "MIDDLEBURY",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.584472,
+          44.256139
+        ]
+      },
+      "properties": {
+        "id": "139919",
+        "call_sign": "W258BZ",
+        "frequency": "99.5  MHz",
+        "service": "FX",
+        "owner": "VERMONT PUBLIC CO.",
+        "city": "MONTPELIER",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.140361,
+          44.053667
+        ]
+      },
+      "properties": {
+        "id": "155335",
+        "call_sign": "W258AZ",
+        "frequency": "99.5  MHz",
+        "service": "FX",
+        "owner": "VERMONT PUBLIC CO.",
+        "city": "NEWBURY",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.599083,
+          43.953278
+        ]
+      },
+      "properties": {
+        "id": "153209",
+        "call_sign": "W261DJ",
+        "frequency": "100.1 MHz",
+        "service": "FX",
+        "owner": "SUGAR RIVER MEDIA, LLC",
+        "city": "RANDOLPH",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.990833,
+          43.591222
+        ]
+      },
+      "properties": {
+        "id": "141365",
+        "call_sign": "W261DE",
+        "frequency": "100.1 MHz",
+        "service": "FX",
+        "owner": "6 JOHNSON ROAD LICENSES, INC.",
+        "city": "RUTLAND",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.687583,
+          42.846444
+        ]
+      },
+      "properties": {
+        "id": "140890",
+        "call_sign": "W262CL",
+        "frequency": "100.3 MHz",
+        "service": "FX",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "BRATTLEBORO",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.112778,
+          44.493333
+        ]
+      },
+      "properties": {
+        "id": "788102",
+        "call_sign": "WRXH-LP",
+        "frequency": "100.3 MHz",
+        "service": "FL",
+        "owner": "ESSEX CATHOLIC COMMUNITY RADIO INC",
+        "city": "ESSEX JUNCTION",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.557861,
+          44.280333
+        ]
+      },
+      "properties": {
+        "id": "43656",
+        "call_sign": "W262AA",
+        "frequency": "100.3 MHz",
+        "service": "FX",
+        "owner": "MONTPELIER BROADCASTING INC",
+        "city": "MONTPELIER",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.014722,
+          44.671667
+        ]
+      },
+      "properties": {
+        "id": "787904",
+        "call_sign": "WRXP-LP",
+        "frequency": "100.5 MHz",
+        "service": "FL",
+        "owner": "QUEEN OF PEACE RADIO INC",
+        "city": "FAIRFAX",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.995278,
+          44.4025
+        ]
+      },
+      "properties": {
+        "id": "779572",
+        "call_sign": "WRUJ-LP",
+        "frequency": "100.5 MHz",
+        "service": "FL",
+        "owner": "MOUNT MANSFIELD COMMUNITY TELEVISION, INC.",
+        "city": "RICHMOND",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.922306,
+          42.959222
+        ]
+      },
+      "properties": {
+        "id": "57728",
+        "call_sign": "WTHK",
+        "frequency": "100.7 MHz",
+        "service": "FM",
+        "owner": "GREAT EASTERN RADIO, LLC",
+        "city": "WILMINGTON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.473972,
+          44.125167
+        ]
+      },
+      "properties": {
+        "id": "17808",
+        "call_sign": "WWFY",
+        "frequency": "100.9 MHz",
+        "service": "FM",
+        "owner": "GREAT EASTERN RADIO, LLC",
+        "city": "BERLIN",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.159167,
+          43.999278
+        ]
+      },
+      "properties": {
+        "id": "154466",
+        "call_sign": "W266CU",
+        "frequency": "101.1 MHz",
+        "service": "FX",
+        "owner": "CHRISTIAN MINISTRIES INC.",
+        "city": "MIDDLEBURY",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.170361,
+          43.281167
+        ]
+      },
+      "properties": {
+        "id": "140100",
+        "call_sign": "W266AK",
+        "frequency": "101.1 MHz",
+        "service": "FX",
+        "owner": "VERMONT PUBLIC CO.",
+        "city": "RUPERT",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.106778,
+          43.658667
+        ]
+      },
+      "properties": {
+        "id": "65961",
+        "call_sign": "WMUD",
+        "frequency": "101.5 MHz",
+        "service": "FM",
+        "owner": "MUD RADIO LLC",
+        "city": "BRANDON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.687306,
+          42.846167
+        ]
+      },
+      "properties": {
+        "id": "17797",
+        "call_sign": "WRSY",
+        "frequency": "101.5 MHz",
+        "service": "FM",
+        "owner": "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+        "city": "MARLBORO",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.814556,
+          44.525583
+        ]
+      },
+      "properties": {
+        "id": "58564",
+        "call_sign": "WCVT",
+        "frequency": "101.7 MHz",
+        "service": "FM",
+        "owner": "WCVT ACQUISITION LLC",
+        "city": "STOWE",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.88675,
+          44.783917
+        ]
+      },
+      "properties": {
+        "id": "155235",
+        "call_sign": "W270BR",
+        "frequency": "101.9 MHz",
+        "service": "FX",
+        "owner": "VINCENT ILLUZZI & JOSEPH ILLUZZI",
+        "city": "ISLAND POND",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.367222,
+          43.033417
+        ]
+      },
+      "properties": {
+        "id": "46334",
+        "call_sign": "WKKN",
+        "frequency": "101.9 MHz",
+        "service": "FM",
+        "owner": "GREAT",
+        "city": "WESTMINSTER",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.603861,
+          43.955611
+        ]
+      },
+      "properties": {
+        "id": "63473",
+        "call_sign": "WVXR",
+        "frequency": "102.1 MHz",
+        "service": "FM",
+        "owner": "VERMONT PUBLIC CO.",
+        "city": "RANDOLPH",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.587361,
+          44.76475
+        ]
+      },
+      "properties": {
+        "id": "34811",
+        "call_sign": "WWMP",
+        "frequency": "102.3 MHz",
+        "service": "FM",
+        "owner": "LAKE CHAMPLAIN BROADCASTING INC.",
+        "city": "GRAND ISLE",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.576472,
+          44.2445
+        ]
+      },
+      "properties": {
+        "id": "140188",
+        "call_sign": "W273AM",
+        "frequency": "102.5 MHz",
+        "service": "FX",
+        "owner": "WCVT ACQUISITION LLC",
+        "city": "MONTPELIER",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.115917,
+          43.166167
+        ]
+      },
+      "properties": {
+        "id": "49706",
+        "call_sign": "WEQX",
+        "frequency": "102.7 MHz",
+        "service": "FM",
+        "owner": "NORTHSHIRE COMMUNICATIONS, INC",
+        "city": "MANCHESTER",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.23975,
+          44.814944
+        ]
+      },
+      "properties": {
+        "id": "200721",
+        "call_sign": "W276DK",
+        "frequency": "103.1 MHz",
+        "service": "FX",
+        "owner": "GREEN MOUNTAIN BROADCASTERS LLC",
+        "city": "IRASBURG",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.136639,
+          44.953583
+        ]
+      },
+      "properties": {
+        "id": "200721",
+        "call_sign": "W276DK",
+        "frequency": "103.1 MHz",
+        "service": "FX",
+        "owner": "GREEN MOUNTAIN BROADCASTERS LLC",
+        "city": "NEWPORT",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.398056,
+          43.774444
+        ]
+      },
+      "properties": {
+        "id": "37761",
+        "call_sign": "WZKC",
+        "frequency": "103.1 MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "ROYALTON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.557861,
+          44.280333
+        ]
+      },
+      "properties": {
+        "id": "110504",
+        "call_sign": "WWMP-FM1",
+        "frequency": "103.3 MHz",
+        "service": "FB",
+        "owner": "RADIO BROADCASTING SERVICES,",
+        "city": "MONTPELIER",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.930944,
+          44.364472
+        ]
+      },
+      "properties": {
+        "id": "20592",
+        "call_sign": "WAVJ",
+        "frequency": "103.3 MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "WATERBURY",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.659722,
+          44.151944
+        ]
+      },
+      "properties": {
+        "id": "787987",
+        "call_sign": "WUKR-LP",
+        "frequency": "104.1 MHz",
+        "service": "FL",
+        "owner": "OUR LADY UNDOER OF KNOTS RADIO INC",
+        "city": "NORTHFIELD",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.255361,
+          43.267
+        ]
+      },
+      "properties": {
+        "id": "20596",
+        "call_sign": "WMNV",
+        "frequency": "104.1 MHz",
+        "service": "FM",
+        "owner": "CAPITAL MEDIA CORPORATION",
+        "city": "RUPERT",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.969806,
+          44.410611
+        ]
+      },
+      "properties": {
+        "id": "200719",
+        "call_sign": "W281CC",
+        "frequency": "104.1 MHz",
+        "service": "FX",
+        "owner": "GREEN MOUNTAIN BROADCASTERS LLC",
+        "city": "ST. JOHNSBURY",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.986111,
+          43.6025
+        ]
+      },
+      "properties": {
+        "id": "788707",
+        "call_sign": "NEW",
+        "frequency": "104.5 MHz",
+        "service": "FL",
+        "owner": "ST JOSEPHS CATHOLIC RADIO, INC",
+        "city": "RUTLAND",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.920639,
+          43.095889
+        ]
+      },
+      "properties": {
+        "id": "57729",
+        "call_sign": "W284AB",
+        "frequency": "104.7 MHz",
+        "service": "FX",
+        "owner": "GREAT EASTERN RADIO, LLC",
+        "city": "JAMAICA",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.827778,
+          44.420167
+        ]
+      },
+      "properties": {
+        "id": "43655",
+        "call_sign": "WNCS",
+        "frequency": "104.7 MHz",
+        "service": "FM",
+        "owner": "MONTPELIER BROADCASTING, INC.",
+        "city": "MONTPELIER",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.981111,
+          44.113611
+        ]
+      },
+      "properties": {
+        "id": "200081",
+        "call_sign": "W286DE",
+        "frequency": "105.1 MHz",
+        "service": "FX",
+        "owner": "YANKEE KINGDOM MEDIA CORP",
+        "city": "WELLS RIVER",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.990833,
+          43.591222
+        ]
+      },
+      "properties": {
+        "id": "34609",
+        "call_sign": "WJEN",
+        "frequency": "105.3 MHz",
+        "service": "FM",
+        "owner": "6 JOHNSON ROAD LICENSES, INC.",
+        "city": "KILLINGTON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.836194,
+          43.6395
+        ]
+      },
+      "properties": {
+        "id": "34609",
+        "call_sign": "WJEN",
+        "frequency": "105.3 MHz",
+        "service": "FM",
+        "owner": "6 JOHNSON ROAD LICENSES, INC.",
+        "city": "KILLINGTON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.969806,
+          44.410611
+        ]
+      },
+      "properties": {
+        "id": "49401",
+        "call_sign": "WKXH",
+        "frequency": "105.5 MHz",
+        "service": "FM",
+        "owner": "GREEN MOUNTAIN BROADCASTERS LLC",
+        "city": "ST. JOHNSBURY",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.187056,
+          44.498083
+        ]
+      },
+      "properties": {
+        "id": "192861",
+        "call_sign": "WRXJ-LP",
+        "frequency": "105.5 MHz",
+        "service": "FL",
+        "owner": "ST. FRANCIS XAVIER PARISH CHARITABLE TRUST",
+        "city": "WINOOSKI",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.478972,
+          44.158389
+        ]
+      },
+      "properties": {
+        "id": "139449",
+        "call_sign": "W289CH",
+        "frequency": "105.7 MHz",
+        "service": "FX",
+        "owner": "GREAT EASTERN RADIO, LLC",
+        "city": "BARRE",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.836194,
+          43.6395
+        ]
+      },
+      "properties": {
+        "id": "76669",
+        "call_sign": "WHDQ-FM1",
+        "frequency": "106.1 MHz",
+        "service": "FB",
+        "owner": "GREAT EASTERN RADIO, LLC",
+        "city": "RUTLAND",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.992306,
+          44.417278
+        ]
+      },
+      "properties": {
+        "id": "199905",
+        "call_sign": "WMTK-FM1",
+        "frequency": "106.3 MHz",
+        "service": "FB",
+        "owner": "GREEN MOUNTAIN BROADCASTERS LLC",
+        "city": "ST. JOHNSBURY",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.475361,
+          44.126944
+        ]
+      },
+      "properties": {
+        "id": "154104",
+        "call_sign": "W293BR",
+        "frequency": "106.5 MHz",
+        "service": "FX",
+        "owner": "CHRISTIAN MINISTRIES, INC.",
+        "city": "MONTPELIER",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.46275,
+          43.315278
+        ]
+      },
+      "properties": {
+        "id": "155284",
+        "call_sign": "W293BH",
+        "frequency": "106.5 MHz",
+        "service": "FX",
+        "owner": "SUGAR RIVER MEDIA, LLC",
+        "city": "SPRINGFIELD",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.242056,
+          44.311167
+        ]
+      },
+      "properties": {
+        "id": "7839",
+        "call_sign": "WIZN",
+        "frequency": "106.7 MHz",
+        "service": "FM",
+        "owner": "HALL COMMUNICATIONS, INC.",
+        "city": "VERGENNES",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.242056,
+          44.311167
+        ]
+      },
+      "properties": {
+        "id": "7839",
+        "call_sign": "WIZN",
+        "frequency": "106.7 MHz",
+        "service": "FS",
+        "owner": "HALL COMMUNICATIONS, INC.",
+        "city": "VERGENNES",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.886472,
+          44.783917
+        ]
+      },
+      "properties": {
+        "id": "165996",
+        "call_sign": "WVTI",
+        "frequency": "106.9 MHz",
+        "service": "FM",
+        "owner": "VERMONT PUBLIC CO.",
+        "city": "BRIGHTON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.028444,
+          43.23675
+        ]
+      },
+      "properties": {
+        "id": "88164",
+        "call_sign": "W295AU",
+        "frequency": "106.9 MHz",
+        "service": "FX",
+        "owner": "VERMONT PUBLIC CO.",
+        "city": "MANCHESTER",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.513083,
+          43.631389
+        ]
+      },
+      "properties": {
+        "id": "140067",
+        "call_sign": "W295AL",
+        "frequency": "106.9 MHz",
+        "service": "FX",
+        "owner": "VERMONT PUBLIC CO.",
+        "city": "WOODSTOCK",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.478972,
+          44.158389
+        ]
+      },
+      "properties": {
+        "id": "34810",
+        "call_sign": "WRFK",
+        "frequency": "107.1 MHz",
+        "service": "FM",
+        "owner": "GREAT EASTERN RADIO, LLC",
+        "city": "BARRE",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.332306,
+          43.209222
+        ]
+      },
+      "properties": {
+        "id": "69493",
+        "call_sign": "WZLF",
+        "frequency": "107.1 MHz",
+        "service": "FM",
+        "owner": "WBIN MEDIA CO., INC.",
+        "city": "BELLOWS FALLS",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.193889,
+          42.882222
+        ]
+      },
+      "properties": {
+        "id": "787951",
+        "call_sign": "NEW",
+        "frequency": "107.3 MHz",
+        "service": "FL",
+        "owner": "SHSF SCHOOL RADIO OUTREACH INC",
+        "city": "BENNINGTON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.154167,
+          43.708889
+        ]
+      },
+      "properties": {
+        "id": "788504",
+        "call_sign": "NEW",
+        "frequency": "107.3 MHz",
+        "service": "FL",
+        "owner": "UPPER VALLEY COMMUNITY SOUNDS INC",
+        "city": "NORWICH",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.150889,
+          44.507889
+        ]
+      },
+      "properties": {
+        "id": "139952",
+        "call_sign": "W298DD",
+        "frequency": "107.5 MHz",
+        "service": "FX",
+        "owner": "VERMONT PUBLIC",
+        "city": "BURLINGTON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.106556,
+          43.65875
+        ]
+      },
+      "properties": {
+        "id": "762173",
+        "call_sign": "WVER-FM",
+        "frequency": "107.5 MHz",
+        "service": "FM",
+        "owner": "VERMONT PUBLIC CO.",
+        "city": "WEST RUTLAND",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.573694,
+          42.842
+        ]
+      },
+      "properties": {
+        "id": "134542",
+        "call_sign": "WVEW-LP",
+        "frequency": "107.7 MHz",
+        "service": "FL",
+        "owner": "VT EARTH WORKS, INC.",
+        "city": "BRATTLEBORO",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.815667,
+          44.525583
+        ]
+      },
+      "properties": {
+        "id": "69952",
+        "call_sign": "WVPS",
+        "frequency": "107.9 MHz",
+        "service": "FM",
+        "owner": "VERMONT PUBLIC CO.",
+        "city": "BURLINGTON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7515,
+          44.354778
+        ]
+      },
+      "properties": {
+        "id": "54866",
+        "call_sign": "WDEV",
+        "frequency": "550   kHz",
+        "service": "AM",
+        "owner": "WDEV LLC",
+        "city": "WATERBURY",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7515,
+          44.354778
+        ]
+      },
+      "properties": {
+        "id": "54866",
+        "call_sign": "WDEV",
+        "frequency": "550   kHz",
+        "service": "AM",
+        "owner": "WDEV LLC",
+        "city": "WATERBURY",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.220417,
+          44.5345
+        ]
+      },
+      "properties": {
+        "id": "29923",
+        "call_sign": "WVMT",
+        "frequency": "620   kHz",
+        "service": "AM",
+        "owner": "SISON BROADCASTING, INC.",
+        "city": "BURLINGTON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.220417,
+          44.5345
+        ]
+      },
+      "properties": {
+        "id": "29923",
+        "call_sign": "WVMT",
+        "frequency": "620   kHz",
+        "service": "AM",
+        "owner": "SISON BROADCASTING, INC.",
+        "city": "BURLINGTON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.06675,
+          44.148667
+        ]
+      },
+      "properties": {
+        "id": "53865",
+        "call_sign": "WTWN",
+        "frequency": "1100  kHz",
+        "service": "AM",
+        "owner": "YANKEE KINGDOM MEDIA CORP",
+        "city": "WELLS RIVER",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.06675,
+          44.148667
+        ]
+      },
+      "properties": {
+        "id": "53865",
+        "call_sign": "WTWN",
+        "frequency": "1100  kHz",
+        "service": "AM",
+        "owner": "YANKEE KINGDOM MEDIA CORP",
+        "city": "WELLS RIVER",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.197083,
+          44.450889
+        ]
+      },
+      "properties": {
+        "id": "25864",
+        "call_sign": "WJOY",
+        "frequency": "1230  kHz",
+        "service": "AM",
+        "owner": "HALL COMMUNICATIONS, INC.",
+        "city": "BURLINGTON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.545944,
+          44.2445
+        ]
+      },
+      "properties": {
+        "id": "23049",
+        "call_sign": "WSKI",
+        "frequency": "1240  kHz",
+        "service": "AM",
+        "owner": "GALLOWAY COMMUNICATIONS, INC.",
+        "city": "MONTPELIER",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.635944,
+          43.937556
+        ]
+      },
+      "properties": {
+        "id": "63472",
+        "call_sign": "WCVR",
+        "frequency": "1320  kHz",
+        "service": "AM",
+        "owner": "SUGAR RIVER MEDIA, LLC",
+        "city": "RANDOLPH",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.635944,
+          43.937556
+        ]
+      },
+      "properties": {
+        "id": "63472",
+        "call_sign": "WCVR",
+        "frequency": "1320  kHz",
+        "service": "AM",
+        "owner": "SUGAR RIVER MEDIA, LLC",
+        "city": "RANDOLPH",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.995361,
+          44.418389
+        ]
+      },
+      "properties": {
+        "id": "49403",
+        "call_sign": "WSTJ",
+        "frequency": "1340  kHz",
+        "service": "AM",
+        "owner": "GREEN MOUNTAIN BROADCASTERS LLC",
+        "city": "ST. JOHNSBURY",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.208444,
+          42.905361
+        ]
+      },
+      "properties": {
+        "id": "9309",
+        "call_sign": "WBTN",
+        "frequency": "1370  kHz",
+        "service": "AM",
+        "owner": "SHIRES MEDIA PARTNERSHIP, INC.",
+        "city": "BENNINGTON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.208444,
+          42.905361
+        ]
+      },
+      "properties": {
+        "id": "9309",
+        "call_sign": "WBTN",
+        "frequency": "1370  kHz",
+        "service": "AM",
+        "owner": "SHIRES MEDIA PARTNERSHIP, INC.",
+        "city": "BENNINGTON",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.990111,
+          43.591722
+        ]
+      },
+      "properties": {
+        "id": "25740",
+        "call_sign": "WSYB",
+        "frequency": "1380  kHz",
+        "service": "AM",
+        "owner": "6 JOHNSON ROAD LICENSES, INC.",
+        "city": "RUTLAND",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.990111,
+          43.591722
+        ]
+      },
+      "properties": {
+        "id": "25740",
+        "call_sign": "WSYB",
+        "frequency": "1380  kHz",
+        "service": "AM",
+        "owner": "6 JOHNSON ROAD LICENSES, INC.",
+        "city": "RUTLAND",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.089861,
+          44.831167
+        ]
+      },
+      "properties": {
+        "id": "34812",
+        "call_sign": "WKAF",
+        "frequency": "1420  kHz",
+        "service": "AM",
+        "owner": "SKY RADIO & PRESS, LLC",
+        "city": "ST. ALBANS",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.089861,
+          44.831167
+        ]
+      },
+      "properties": {
+        "id": "34812",
+        "call_sign": "WKAF",
+        "frequency": "1420  kHz",
+        "service": "AM",
+        "owner": "SKY RADIO & PRESS, LLC",
+        "city": "ST. ALBANS",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.55925,
+          42.870361
+        ]
+      },
+      "properties": {
+        "id": "67763",
+        "call_sign": "WTSA",
+        "frequency": "1450  kHz",
+        "service": "AM",
+        "owner": "COMMUNITY MEDIA LLC",
+        "city": "BRATTLEBORO",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.487306,
+          43.281194
+        ]
+      },
+      "properties": {
+        "id": "4909",
+        "call_sign": "WCFR",
+        "frequency": "1480  kHz",
+        "service": "AM",
+        "owner": "SUGAR RIVER MEDIA, LLC",
+        "city": "SPRINGFIELD",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.487306,
+          43.281194
+        ]
+      },
+      "properties": {
+        "id": "4909",
+        "call_sign": "WCFR",
+        "frequency": "1480  kHz",
+        "service": "AM",
+        "owner": "SUGAR RIVER MEDIA, LLC",
+        "city": "SPRINGFIELD",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.394583,
+          44.003222
+        ]
+      },
+      "properties": {
+        "id": "53612",
+        "call_sign": "WFAD",
+        "frequency": "1490  kHz",
+        "service": "AM",
+        "owner": "MUD RADIO LLC",
+        "city": "BRIDPORT",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.159278,
+          43.999222
+        ]
+      },
+      "properties": {
+        "id": "53612",
+        "call_sign": "WFAD",
+        "frequency": "1490  kHz",
+        "service": "AM",
+        "owner": "MUD RADIO LLC",
+        "city": "MIDDLEBURY",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.221778,
+          44.938944
+        ]
+      },
+      "properties": {
+        "id": "49400",
+        "call_sign": "WIKE",
+        "frequency": "1490  kHz",
+        "service": "AM",
+        "owner": "GREEN MOUNTAIN BROADCASTERS LLC",
+        "city": "NEWPORT",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.159278,
+          43.999222
+        ]
+      },
+      "properties": {
+        "id": "53612",
+        "call_sign": "WFAD",
+        "frequency": "1490  kHz",
+        "service": "AM",
+        "owner": "MUD RADIO LLC",
+        "city": "MIDDLEBURY",
+        "state": "VT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.221778,
+          44.938944
+        ]
+      },
+      "properties": {
+        "id": "49400",
+        "call_sign": "WIKE",
+        "frequency": "1490  kHz",
+        "service": "AM",
+        "owner": "GREEN MOUNTAIN BROADCASTERS LLC",
+        "city": "NEWPORT",
+        "state": "VT"
+      }
+    }
+  ],
+  "metadata": {
+    "cities": [
+      "ADDISON",
+      "ASCUTNEY",
+      "BARRE",
+      "BELLOWS FALLS",
+      "BENNINGTON",
+      "BERLIN",
+      "BOLTON",
+      "BRANDON",
+      "BRATTLEBORO",
+      "BRIDPORT",
+      "BRIGHTON",
+      "BRISTOL",
+      "BURLINGTON",
+      "COLCHESTER",
+      "DANVILLE",
+      "DERBY CENTER",
+      "ENOSBURG FALLS",
+      "ESSEX JUNCTION",
+      "FAIRFAX",
+      "GRAND ISLE",
+      "HARDWICK",
+      "HARTFORD",
+      "HYDE PARK",
+      "IRASBURG",
+      "ISLAND POND",
+      "JAMAICA",
+      "JOHNSON",
+      "KILLINGTON",
+      "LUDLOW",
+      "LUNENBURG",
+      "LYNDON",
+      "LYNDONVILLE",
+      "MANCHESTER",
+      "MARLBORO",
+      "MIDDLEBURY",
+      "MONTPELIER",
+      "MORRISVILLE",
+      "NEWBURY",
+      "NEWPORT",
+      "NORTHFIELD",
+      "NORWICH",
+      "ORANGE",
+      "ORLEANS",
+      "PLAINFIELD",
+      "POULTNEY",
+      "PUTNEY",
+      "QUECHEE",
+      "RANDOLPH",
+      "RANDOLPH CENTER",
+      "RICHMOND",
+      "ROYALTON",
+      "RUPERT",
+      "RUTLAND",
+      "SOUTH BENNINGTON",
+      "SOUTH BURLINGTON",
+      "SOUTH ROYALTON",
+      "SPRINGFIELD",
+      "ST. ALBANS",
+      "ST. JOHNSBURY",
+      "STOWE",
+      "SUNDERLAND",
+      "SWANTON",
+      "VERGENNES",
+      "WARREN",
+      "WATERBURY",
+      "WELLS RIVER",
+      "WEST RUTLAND",
+      "WESTMINSTER",
+      "WHITE RIVER JUNCTION",
+      "WILMINGTON",
+      "WINDSOR",
+      "WINOOSKI",
+      "WOODSTOCK"
+    ],
+    "frequencies": [
+      "88.1  MHz",
+      "88.3  MHz",
+      "88.5  MHz",
+      "88.7  MHz",
+      "88.9  MHz",
+      "89.1  MHz",
+      "89.3  MHz",
+      "89.5  MHz",
+      "89.9  MHz",
+      "90.1  MHz",
+      "90.5  MHz",
+      "90.7  MHz",
+      "90.9  MHz",
+      "91.1  MHz",
+      "91.3  MHz",
+      "91.5  MHz",
+      "91.7  MHz",
+      "91.9  MHz",
+      "92.1  MHz",
+      "92.5  MHz",
+      "92.7  MHz",
+      "92.9  MHz",
+      "93.3  MHz",
+      "93.5  MHz",
+      "93.7  MHz",
+      "93.9  MHz",
+      "94.1  MHz",
+      "94.3  MHz",
+      "94.5  MHz",
+      "94.7  MHz",
+      "94.9  MHz",
+      "95.1  MHz",
+      "95.3  MHz",
+      "95.5  MHz",
+      "95.7  MHz",
+      "96.1  MHz",
+      "96.3  MHz",
+      "96.5  MHz",
+      "96.7  MHz",
+      "97.1  MHz",
+      "97.5  MHz",
+      "97.7  MHz",
+      "97.9  MHz",
+      "98.1  MHz",
+      "98.3  MHz",
+      "98.9  MHz",
+      "99.1  MHz",
+      "99.3  MHz",
+      "99.5  MHz",
+      "100.1 MHz",
+      "100.3 MHz",
+      "100.5 MHz",
+      "100.7 MHz",
+      "100.9 MHz",
+      "101.1 MHz",
+      "101.5 MHz",
+      "101.7 MHz",
+      "101.9 MHz",
+      "102.1 MHz",
+      "102.3 MHz",
+      "102.5 MHz",
+      "102.7 MHz",
+      "103.1 MHz",
+      "103.3 MHz",
+      "104.1 MHz",
+      "104.5 MHz",
+      "104.7 MHz",
+      "105.1 MHz",
+      "105.3 MHz",
+      "105.5 MHz",
+      "105.7 MHz",
+      "106.1 MHz",
+      "106.3 MHz",
+      "106.5 MHz",
+      "106.7 MHz",
+      "106.9 MHz",
+      "107.1 MHz",
+      "107.3 MHz",
+      "107.5 MHz",
+      "107.7 MHz",
+      "107.9 MHz",
+      "550   kHz",
+      "620   kHz",
+      "1100  kHz",
+      "1230  kHz",
+      "1240  kHz",
+      "1320  kHz",
+      "1340  kHz",
+      "1370  kHz",
+      "1380  kHz",
+      "1420  kHz",
+      "1450  kHz",
+      "1480  kHz",
+      "1490  kHz"
+    ],
+    "owners": [
+      "6 JOHNSON ROAD LICENSES, INC.",
+      "ALEXXON, LLC",
+      "BOARD OF TRUSTEES, VERMONT STATE COLLEGE",
+      "CAPITAL MEDIA CORPORATION",
+      "CAPTAIN VEGGIE MAN INC.",
+      "CENTRAL VERMONT COMMUNITY RADIO",
+      "CENTRAL VERMONT COMMUNITY RADIO CORPORATION",
+      "CHRISTIAN MINISTRIES INC.",
+      "CHRISTIAN MINISTRIES, INC.",
+      "COMMUNITY MEDIA LLC",
+      "CSN INTERNATIONAL, INC.",
+      "ESSEX CATHOLIC COMMUNITY RADIO INC",
+      "GALLOWAY COMMUNICATIONS, INC.",
+      "GREAT",
+      "GREAT EASTERN RADIO, LLC",
+      "GREAT FALLS COMMUNITY BROADCASTING COMPANY",
+      "GREEN MOUNTAIN ADVENTIST MEDIA, INC.",
+      "GREEN MOUNTAIN BROADCASTERS LLC",
+      "GREEN MOUNTAIN TECHNOLOGY & CAREER CENTER / LAMOILLE UNION MODIFIED UNIFIED SCHOOL DISTRICT",
+      "HALL COMMUNICATIONS, INC.",
+      "IMPACT RADIO, INC.",
+      "K-LOVE, INC.",
+      "LAKE CHAMPLAIN BROADCASTING INC.",
+      "MONKTON COMMUNITY COFFEEHOUSE, INC.",
+      "MONTPELIER BROADCASTING INC",
+      "MONTPELIER BROADCASTING, INC.",
+      "MOUNT MANSFIELD COMMUNITY TELEVISION, INC.",
+      "MUD RADIO LLC",
+      "NORTHEAST GOSPEL BROADCASTING, INC.",
+      "NORTHSHIRE COMMUNICATIONS, INC",
+      "NORTHWAY BROADCASTING, LLC",
+      "OKEMO VALLEY TV",
+      "OUR LADY UNDOER OF KNOTS RADIO INC",
+      "PATRICK SCHLOTT",
+      "QUEEN OF PEACE RADIO INC",
+      "RADIO BROADCASTING SERVICES,",
+      "RADIO BROADCASTING SERVICES, INCORPORATED",
+      "ROOTSWORK INC.",
+      "SAGA COMMUNICATIONS OF NEW ENGLAND, LLC",
+      "SAGE MOUNTAIN BOTANICAL SANCTUARY",
+      "SAINT MICHAEL'S COLLEGE, INC.",
+      "SHIRES MEDIA PARTNERSHIP, INC.",
+      "SHSF SCHOOL RADIO OUTREACH INC",
+      "SISON BROADCASTING, INC.",
+      "SKY RADIO & PRESS, LLC",
+      "SPAVIN CURE HISTORICAL GROUP",
+      "ST JOSEPHS CATHOLIC RADIO, INC",
+      "ST. FRANCIS XAVIER PARISH CHARITABLE TRUST",
+      "SUGAR RIVER MEDIA, LLC",
+      "THE PRESIDENT AND FELLOWS OF MIDDLEBURY COLLEGE",
+      "THE ST. LAWRENCE UNIVERSITY",
+      "THE TRUSTEES OF NORWICH UNIVERSITY",
+      "THE UNIVERSITY OF VERMONT",
+      "UPPER VALLEY COMMUNITY SOUNDS INC",
+      "VERMONT CHRISTIAN RADIO, INC.",
+      "VERMONT COMMUNITY ACCESS MEDIA (VCAM)",
+      "VERMONT PUBLIC",
+      "VERMONT PUBLIC CO.",
+      "VERMONT STATE COLLEGES",
+      "VINCENT ILLUZZI & JOSEPH ILLUZZI",
+      "VOICE IN THE KINGDOM RADIO, INC.",
+      "VOX AM/FM, LLC",
+      "VT EARTH WORKS, INC.",
+      "WBIN MEDIA CO., INC.",
+      "WCVT ACQUISITION LLC",
+      "WDEV LLC",
+      "WLVB ACQUISITION LLC",
+      "YANKEE KINGDOM MEDIA CORP"
+    ],
+    "services": [
+      "AM",
+      "FB",
+      "FL",
+      "FM",
+      "FS",
+      "FX"
+    ]
+  }
+}

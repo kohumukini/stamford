@@ -1,0 +1,7985 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.114806,
+          37.590111
+        ]
+      },
+      "properties": {
+        "id": "77815",
+        "call_sign": "WJJJ",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "SHOFAR BROADCASTING CORPORATION",
+        "city": "BECKLEY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.558389,
+          40.216167
+        ]
+      },
+      "properties": {
+        "id": "4954",
+        "call_sign": "WZUM-FM",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "PITTSBURGH PUBLIC MEDIA",
+        "city": "BETHANY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.632944,
+          38.349944
+        ]
+      },
+      "properties": {
+        "id": "194844",
+        "call_sign": "WTSQ-LP",
+        "frequency": "88.1  MHz",
+        "service": "FL",
+        "owner": "MASQUE INFORMED",
+        "city": "CHARLESTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.291472,
+          39.299806
+        ]
+      },
+      "properties": {
+        "id": "26526",
+        "call_sign": "WKJL",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "CLARKSBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.428556,
+          38.424083
+        ]
+      },
+      "properties": {
+        "id": "66564",
+        "call_sign": "WMUL",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "MARSHALL UNIVERSITY BOARD OF GOVERNORS",
+        "city": "HUNTINGTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.130417,
+          38.847028
+        ]
+      },
+      "properties": {
+        "id": "53094",
+        "call_sign": "WVRR",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "POSITIVE ALTERNATIVE RADIO, INC.",
+        "city": "POINT PLEASANT",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.253194,
+          37.687111
+        ]
+      },
+      "properties": {
+        "id": "71664",
+        "call_sign": "W217CH",
+        "frequency": "88.3  MHz",
+        "service": "FX",
+        "owner": "WEST VIRGINIA EDUCATIONAL BROADCASTING AUTHORITY",
+        "city": "WILLIAMSON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.250833,
+          37.276111
+        ]
+      },
+      "properties": {
+        "id": "173309",
+        "call_sign": "WVBL",
+        "frequency": "88.5  MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA EDUCATIONAL BROADCASTING AUTHORITY",
+        "city": "BLUEFIELD",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.656528,
+          38.376278
+        ]
+      },
+      "properties": {
+        "id": "70604",
+        "call_sign": "WVPB",
+        "frequency": "88.5  MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA EDUCATIONAL BROADCASTING AUTHORITY",
+        "city": "CHARLESTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.927278,
+          38.87175
+        ]
+      },
+      "properties": {
+        "id": "71686",
+        "call_sign": "W203AE",
+        "frequency": "88.5  MHz",
+        "service": "FX",
+        "owner": "WEST VIRGINIA EDUCATIONAL BROADCASTING AUTHORITY",
+        "city": "ELKINS",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.927222,
+          38.871667
+        ]
+      },
+      "properties": {
+        "id": "71686",
+        "call_sign": "W203AE",
+        "frequency": "88.5  MHz",
+        "service": "FX",
+        "owner": "WEST VIRGINIA EDUCATIONAL BROADCASTING AUTHORITY",
+        "city": "ELKINS",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.077556,
+          38.227889
+        ]
+      },
+      "properties": {
+        "id": "175012",
+        "call_sign": "WNMP",
+        "frequency": "88.5  MHz",
+        "service": "FM",
+        "owner": "POCAHONTAS COMMUNICATIONS COOPERATIVE CORPORATION",
+        "city": "MARLINTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.925361,
+          37.858722
+        ]
+      },
+      "properties": {
+        "id": "173476",
+        "call_sign": "WBWV",
+        "frequency": "88.7  MHz",
+        "service": "FM",
+        "owner": "NEW RIVER CHRISTIAN MINISTRIES, INC.",
+        "city": "BECKLEY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.890417,
+          39.233417
+        ]
+      },
+      "properties": {
+        "id": "91837",
+        "call_sign": "WPJY",
+        "frequency": "88.7  MHz",
+        "service": "FM",
+        "owner": "POSITIVE ALTERNATIVE RADIO INC.",
+        "city": "BLENNERHASSETT",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.756194,
+          39.847583
+        ]
+      },
+      "properties": {
+        "id": "175587",
+        "call_sign": "WULV",
+        "frequency": "88.7  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "MOUNDSVILLE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.562861,
+          39.034528
+        ]
+      },
+      "properties": {
+        "id": "71687",
+        "call_sign": "WVPW",
+        "frequency": "88.9  MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA EDUCATIONAL BROADCASTING AUTHORITY",
+        "city": "BUCKHANNON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.562861,
+          39.034528
+        ]
+      },
+      "properties": {
+        "id": "71687",
+        "call_sign": "WVPW",
+        "frequency": "88.9  MHz",
+        "service": "FS",
+        "owner": "WEST VIRGINIA EDUCATIONAL BROADCASTING AUTHORITY",
+        "city": "BUCKHANNON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.656417,
+          38.375583
+        ]
+      },
+      "properties": {
+        "id": "38916",
+        "call_sign": "W205CG",
+        "frequency": "88.9  MHz",
+        "service": "FX",
+        "owner": "K-LOVE, INC.",
+        "city": "CHARLESTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.870528,
+          39.349806
+        ]
+      },
+      "properties": {
+        "id": "161967",
+        "call_sign": "WVEP-FM1",
+        "frequency": "88.9  MHz",
+        "service": "FB",
+        "owner": "WEST VIRGINIA EDUCATIONAL BROADCASTING AUTHORITY",
+        "city": "CHARLES TOWN",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.435556,
+          39.143972
+        ]
+      },
+      "properties": {
+        "id": "70643",
+        "call_sign": "WVEP",
+        "frequency": "88.9  MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA EDUCATIONAL BROADCASTING AUTHORITY",
+        "city": "MARTINSBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.435556,
+          39.143972
+        ]
+      },
+      "properties": {
+        "id": "70643",
+        "call_sign": "WVEP",
+        "frequency": "88.9  MHz",
+        "service": "FS",
+        "owner": "WEST VIRGINIA EDUCATIONAL BROADCASTING AUTHORITY",
+        "city": "MARTINSBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.590944,
+          38.396472
+        ]
+      },
+      "properties": {
+        "id": "90986",
+        "call_sign": "WSHA",
+        "frequency": "89.3  MHz",
+        "service": "FM",
+        "owner": "POSITIVE ALTERNATIVE RADIO",
+        "city": "SOUTH CHARLESTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.39825,
+          38.596333
+        ]
+      },
+      "properties": {
+        "id": "176879",
+        "call_sign": "WVWS",
+        "frequency": "89.3  MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA EDUCATIONAL BROADCASTING AUTHORITY",
+        "city": "WEBSTER SPRINGS",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.304028,
+          39.185056
+        ]
+      },
+      "properties": {
+        "id": "71659",
+        "call_sign": "WVDS",
+        "frequency": "89.5  MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA EDUCATIONAL BROADCASTING AUTHORITY",
+        "city": "PETERSBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.275056,
+          39.202056
+        ]
+      },
+      "properties": {
+        "id": "71659",
+        "call_sign": "WVDS",
+        "frequency": "89.5  MHz",
+        "service": "FS",
+        "owner": "WEST VIRGINIA EDUCATIONAL BROADCASTING AUTHORITY",
+        "city": "PETERSBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7145,
+          40.056833
+        ]
+      },
+      "properties": {
+        "id": "90545",
+        "call_sign": "W208BR",
+        "frequency": "89.5  MHz",
+        "service": "FX",
+        "owner": "PENSACOLA CHRISTIAN COLLEGE, INC.",
+        "city": "WHEELIING",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.342,
+          38.510361
+        ]
+      },
+      "properties": {
+        "id": "92135",
+        "call_sign": "W209BH",
+        "frequency": "89.7  MHz",
+        "service": "FX",
+        "owner": "GRACE MISSIONARY BAPTIST CHURCH",
+        "city": "BERNARDSTOWN",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.154222,
+          39.527306
+        ]
+      },
+      "properties": {
+        "id": "81605",
+        "call_sign": "W209AX",
+        "frequency": "89.7  MHz",
+        "service": "FX",
+        "owner": "BIBLE BROADCASTING NETWORK, INC.",
+        "city": "FAIRMONT",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.307778,
+          37.9475
+        ]
+      },
+      "properties": {
+        "id": "171273",
+        "call_sign": "WNUX",
+        "frequency": "89.7  MHz",
+        "service": "FM",
+        "owner": "ST. PAUL RADIO CO.",
+        "city": "MONTGOMERY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.804694,
+          39.431472
+        ]
+      },
+      "properties": {
+        "id": "71678",
+        "call_sign": "WSHC",
+        "frequency": "89.7  MHz",
+        "service": "FM",
+        "owner": "SHEPHERD COLLEGE BOARD OF GOVERNORS",
+        "city": "SHEPHERDSTOWN",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.002833,
+          39.669306
+        ]
+      },
+      "properties": {
+        "id": "172639",
+        "call_sign": "WLOL-FM",
+        "frequency": "89.7  MHz",
+        "service": "FM",
+        "owner": "LIGHT OF LIFE COMMUNITY, INC.",
+        "city": "STAR CITY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.80425,
+          39.2895
+        ]
+      },
+      "properties": {
+        "id": "174626",
+        "call_sign": "WVGV",
+        "frequency": "89.7  MHz",
+        "service": "FM",
+        "owner": "ARAIZA REVIVAL MINISTRIES, INC.",
+        "city": "WEST UNION",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.846722,
+          38.930639
+        ]
+      },
+      "properties": {
+        "id": "4298",
+        "call_sign": "WCDE",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "BOARD OF TRUSTEES, DAVIS & ELKINS COLLEGE.",
+        "city": "ELKINS",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.200694,
+          38.494806
+        ]
+      },
+      "properties": {
+        "id": "71656",
+        "call_sign": "WVWV",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA EDUCATIONAL BROADCASTING AUTHORITY",
+        "city": "HUNTINGTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.200694,
+          38.494806
+        ]
+      },
+      "properties": {
+        "id": "71656",
+        "call_sign": "WVWV",
+        "frequency": "89.9  MHz",
+        "service": "FS",
+        "owner": "WEST VIRGINIA EDUCATIONAL BROADCASTING AUTHORITY",
+        "city": "HUNTINGTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.558389,
+          40.216167
+        ]
+      },
+      "properties": {
+        "id": "71658",
+        "call_sign": "WVNP",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA EDUCATIONAL BROADCASTING AUTHORITY",
+        "city": "WHEELING",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.752028,
+          40.061472
+        ]
+      },
+      "properties": {
+        "id": "161955",
+        "call_sign": "WVNP-FM1",
+        "frequency": "89.9  MHz",
+        "service": "FB",
+        "owner": "WEST VIRGINIA EDUCATIONAL BROADCASTING AUTHORITY",
+        "city": "WHEELING",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.558417,
+          40.216194
+        ]
+      },
+      "properties": {
+        "id": "71658",
+        "call_sign": "WVNP",
+        "frequency": "89.9  MHz",
+        "service": "FS",
+        "owner": "WEST VIRGINIA EDUCATIONAL BROADCASTING AUTHORITY",
+        "city": "WHEELING",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.392556,
+          39.318944
+        ]
+      },
+      "properties": {
+        "id": "39870",
+        "call_sign": "WYXA",
+        "frequency": "90.1  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "CLARKSBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.215083,
+          37.509833
+        ]
+      },
+      "properties": {
+        "id": "89629",
+        "call_sign": "WPWV",
+        "frequency": "90.1  MHz",
+        "service": "FM",
+        "owner": "AMERICAN FAMILY ASSOCIATION",
+        "city": "PRINCETON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.416944,
+          39.246694
+        ]
+      },
+      "properties": {
+        "id": "70642",
+        "call_sign": "WVPG",
+        "frequency": "90.3  MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA EDUCATIONAL BROADCASTING AUTHORITY",
+        "city": "PARKERSBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.591528,
+          39.212306
+        ]
+      },
+      "properties": {
+        "id": "70642",
+        "call_sign": "WVPG",
+        "frequency": "90.3  MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA EDUCATIONAL BROADCASTING AUTHORITY",
+        "city": "PARKERSBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.158722,
+          37.63175
+        ]
+      },
+      "properties": {
+        "id": "765897",
+        "call_sign": "WXRP",
+        "frequency": "90.5  MHz",
+        "service": "FM",
+        "owner": "WFGH AMATEUR RADIO CLUB, INC.",
+        "city": "MATEWAN",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.597583,
+          38.111778
+        ]
+      },
+      "properties": {
+        "id": "24722",
+        "call_sign": "WMLJ",
+        "frequency": "90.5  MHz",
+        "service": "FM",
+        "owner": "GRACE MISSIONARY BAPTIST CHURCH",
+        "city": "SUMMERSVILLE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.593472,
+          38.132861
+        ]
+      },
+      "properties": {
+        "id": "71166",
+        "call_sign": "WFGH",
+        "frequency": "90.7  MHz",
+        "service": "FM",
+        "owner": "WAYNE COUNTY BOARD OF EDUCATION",
+        "city": "FORT GAY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.041583,
+          39.204861
+        ]
+      },
+      "properties": {
+        "id": "121800",
+        "call_sign": "W214CG",
+        "frequency": "90.7  MHz",
+        "service": "FX",
+        "owner": "K-LOVE, INC.",
+        "city": "HARRISVILLE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.717944,
+          38.80825
+        ]
+      },
+      "properties": {
+        "id": "38915",
+        "call_sign": "WLKV",
+        "frequency": "90.7  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "RIPLEY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.531222,
+          38.282889
+        ]
+      },
+      "properties": {
+        "id": "39869",
+        "call_sign": "WXAF",
+        "frequency": "90.9  MHz",
+        "service": "FM",
+        "owner": "SHOFAR BROADCASTING CORPORATION",
+        "city": "CHARLESTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.762278,
+          39.695917
+        ]
+      },
+      "properties": {
+        "id": "70645",
+        "call_sign": "WVPM",
+        "frequency": "90.9  MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA EDUCATIONAL BROADCASTING AUTHORITY",
+        "city": "MORGANTOWN",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.762278,
+          39.695917
+        ]
+      },
+      "properties": {
+        "id": "70645",
+        "call_sign": "WVPM",
+        "frequency": "90.9  MHz",
+        "service": "FS",
+        "owner": "WEST VIRGINIA EDUCATIONAL BROADCASTING AUTHORITY",
+        "city": "MORGANTOWN",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.178417,
+          37.257333
+        ]
+      },
+      "properties": {
+        "id": "53098",
+        "call_sign": "WPIB",
+        "frequency": "91.1  MHz",
+        "service": "FM",
+        "owner": "POSITIVE ALTERNATIVE RADIO, INC.",
+        "city": "BLUEFIELD",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.801667,
+          38.956667
+        ]
+      },
+      "properties": {
+        "id": "767019",
+        "call_sign": "WVGL",
+        "frequency": "91.1  MHz",
+        "service": "FM",
+        "owner": "ARAIZA REVIVAL MINISTRIES, INC.",
+        "city": "GLENVILLE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.400556,
+          37.842778
+        ]
+      },
+      "properties": {
+        "id": "765467",
+        "call_sign": "WVTP",
+        "frequency": "91.3  MHz",
+        "service": "FM",
+        "owner": "FRIENDS OF WFGH, INC.",
+        "city": "KERMIT",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.647139,
+          38.360806
+        ]
+      },
+      "properties": {
+        "id": "170876",
+        "call_sign": "WSJE",
+        "frequency": "91.3  MHz",
+        "service": "FM",
+        "owner": "EVANGELIST COMMUNICATIONS, INC.",
+        "city": "SUMMERSVILLE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.253194,
+          37.687111
+        ]
+      },
+      "properties": {
+        "id": "71664",
+        "call_sign": "W217CH",
+        "frequency": "91.3  MHz",
+        "service": "FX",
+        "owner": "WEST VIRGINIA EDUCATIONAL BROADCASTING AUTHORITY",
+        "city": "WILLIAMSON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.014861,
+          38.444806
+        ]
+      },
+      "properties": {
+        "id": "81513",
+        "call_sign": "WPJW",
+        "frequency": "91.5  MHz",
+        "service": "FM",
+        "owner": "POSITIVE ALTERNATIVE RADIO, INC.",
+        "city": "HURRICANE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.899806,
+          39.516444
+        ]
+      },
+      "properties": {
+        "id": "94051",
+        "call_sign": "WRSG",
+        "frequency": "91.5  MHz",
+        "service": "FM",
+        "owner": "TYLER COUNTY BOARD OF EDUCATION",
+        "city": "MIDDLEBOURNE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.325806,
+          38.811833
+        ]
+      },
+      "properties": {
+        "id": "768444",
+        "call_sign": "WVGW",
+        "frequency": "91.5  MHz",
+        "service": "FM",
+        "owner": "ARAIZA REVIVAL MINISTRIES, INC.",
+        "city": "ROCK CAVE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.566444,
+          37.632056
+        ]
+      },
+      "properties": {
+        "id": "70646",
+        "call_sign": "W218AT",
+        "frequency": "91.5  MHz",
+        "service": "FX",
+        "owner": "WEST VIRGINIA EDUCATIONAL BROADCASTING AUTHORITY",
+        "city": "UNION",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.601444,
+          40.163667
+        ]
+      },
+      "properties": {
+        "id": "71621",
+        "call_sign": "WGLZ",
+        "frequency": "91.5  MHz",
+        "service": "FM",
+        "owner": "WEST LIBERTY STATE COLLEGE",
+        "city": "WEST LIBERTY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.988972,
+          37.896222
+        ]
+      },
+      "properties": {
+        "id": "71689",
+        "call_sign": "WVBY",
+        "frequency": "91.7  MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA EDUCATIONAL BROADCASTING AUTHORITY",
+        "city": "BECKLEY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.988972,
+          37.896222
+        ]
+      },
+      "properties": {
+        "id": "71689",
+        "call_sign": "WVBY",
+        "frequency": "91.7  MHz",
+        "service": "FS",
+        "owner": "WEST VIRGINIA EDUCATIONAL BROADCASTING AUTHORITY",
+        "city": "BECKLEY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.943667,
+          39.635917
+        ]
+      },
+      "properties": {
+        "id": "71691",
+        "call_sign": "WWVU-FM",
+        "frequency": "91.7  MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA UNIVERSITY BOARD OF GOVERNORS",
+        "city": "MORGANTOWN",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.927306,
+          38.871778
+        ]
+      },
+      "properties": {
+        "id": "90121",
+        "call_sign": "WBHZ",
+        "frequency": "91.9  MHz",
+        "service": "FM",
+        "owner": "AMERICAN FAMILY ASSOCIATION",
+        "city": "ELKINS",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.195333,
+          38.191778
+        ]
+      },
+      "properties": {
+        "id": "122123",
+        "call_sign": "WVMR-FM",
+        "frequency": "91.9  MHz",
+        "service": "FM",
+        "owner": "POCAHONTAS COMMUNICATIONS COOPERATIVE CORPORATION",
+        "city": "HILLSBORO",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.978722,
+          37.855917
+        ]
+      },
+      "properties": {
+        "id": "81396",
+        "call_sign": "W220BK",
+        "frequency": "91.9  MHz",
+        "service": "FX",
+        "owner": "WEST VIRGINIA EDUCATIONAL BROADCASTING AUTHORITY",
+        "city": "LOGAN",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.650889,
+          40.068667
+        ]
+      },
+      "properties": {
+        "id": "50129",
+        "call_sign": "WPHP",
+        "frequency": "91.9  MHz",
+        "service": "FM",
+        "owner": "OHIO COUNTY BOARD OF EDUCATION",
+        "city": "WHEELING",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.662389,
+          38.365639
+        ]
+      },
+      "properties": {
+        "id": "196359",
+        "call_sign": "WSVQ-LP",
+        "frequency": "92.1  MHz",
+        "service": "FL",
+        "owner": "PARTNERSHIP OF AFRICAN AMERICAN CHURCHES",
+        "city": "CHARLESTON WEST SIDE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.983722,
+          39.607417
+        ]
+      },
+      "properties": {
+        "id": "139879",
+        "call_sign": "W221DR",
+        "frequency": "92.1  MHz",
+        "service": "FX",
+        "owner": "AJG CORPORATION",
+        "city": "MORGANTOWN",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.647139,
+          38.360611
+        ]
+      },
+      "properties": {
+        "id": "200358",
+        "call_sign": "W221EF",
+        "frequency": "92.1  MHz",
+        "service": "FX",
+        "owner": "SUMMIT MEDIA BROADCASTING, LLC",
+        "city": "SUTTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.884278,
+          39.671194
+        ]
+      },
+      "properties": {
+        "id": "79303",
+        "call_sign": "WXCR",
+        "frequency": "92.3  MHz",
+        "service": "FM",
+        "owner": "HOMETOWN MEDIA, LLC",
+        "city": "NEW MARTINSVILLE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.367056,
+          38.813417
+        ]
+      },
+      "properties": {
+        "id": "133971",
+        "call_sign": "WYRC-LP",
+        "frequency": "92.3  MHz",
+        "service": "FL",
+        "owner": "ROANE COUNTY BOARD OF EDUCATION",
+        "city": "SPENCER",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.804556,
+          38.083694
+        ]
+      },
+      "properties": {
+        "id": "53501",
+        "call_sign": "WZAC-FM",
+        "frequency": "92.5  MHz",
+        "service": "FM",
+        "owner": "PRICE BROADCASTING, LLC PRICE",
+        "city": "DANVILLE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.780806,
+          38.893056
+        ]
+      },
+      "properties": {
+        "id": "191765",
+        "call_sign": "WTHM-LP",
+        "frequency": "92.5  MHz",
+        "service": "FL",
+        "owner": "MOUNTAIN STATE COMMUNITY RADIO INC",
+        "city": "RAVENSWOOD",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.647139,
+          38.360611
+        ]
+      },
+      "properties": {
+        "id": "200388",
+        "call_sign": "W223DF",
+        "frequency": "92.5  MHz",
+        "service": "FX",
+        "owner": "SUMMIT MEDIA, INC.",
+        "city": "SUMMERSVILLE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.667917,
+          38.357306
+        ]
+      },
+      "properties": {
+        "id": "202928",
+        "call_sign": "W224EE",
+        "frequency": "92.7  MHz",
+        "service": "FX",
+        "owner": "BRISTOL BROADCASTING COMPANY, INC.",
+        "city": "CHARLESTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.315222,
+          39.289389
+        ]
+      },
+      "properties": {
+        "id": "67103",
+        "call_sign": "WGIE",
+        "frequency": "92.7  MHz",
+        "service": "FM",
+        "owner": "VANDALIA MEDIA PARTNERS 2 LLC",
+        "city": "CLARKSBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.378417,
+          37.518722
+        ]
+      },
+      "properties": {
+        "id": "60598",
+        "call_sign": "WKQR",
+        "frequency": "92.7  MHz",
+        "service": "FM",
+        "owner": "FIRST MEDIA SERVICES, LLC",
+        "city": "MULLENS",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.217222,
+          39.61675
+        ]
+      },
+      "properties": {
+        "id": "68204",
+        "call_sign": "WXDC",
+        "frequency": "92.9  MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "BERKELEY SPRINGS",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.498889,
+          39.33825
+        ]
+      },
+      "properties": {
+        "id": "200695",
+        "call_sign": "W225CW",
+        "frequency": "92.9  MHz",
+        "service": "FX",
+        "owner": "JAWCO, INC.",
+        "city": "PARKERSBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.647139,
+          38.360611
+        ]
+      },
+      "properties": {
+        "id": "54368",
+        "call_sign": "WCWV",
+        "frequency": "92.9  MHz",
+        "service": "FM",
+        "owner": "SUMMIT MEDIA BROADCASTING, LLC",
+        "city": "SUMMERSVILLE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.985278,
+          39.446083
+        ]
+      },
+      "properties": {
+        "id": "21170",
+        "call_sign": "WFGM-FM",
+        "frequency": "93.1  MHz",
+        "service": "FM",
+        "owner": "AJG CORPORATION",
+        "city": "BARRACKVILLE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.912861,
+          39.652833
+        ]
+      },
+      "properties": {
+        "id": "81841",
+        "call_sign": "W226BE",
+        "frequency": "93.1  MHz",
+        "service": "FX",
+        "owner": "DAILEY CORPORATION",
+        "city": "NEW MARTINSVILLE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.088694,
+          37.401222
+        ]
+      },
+      "properties": {
+        "id": "134607",
+        "call_sign": "WGAG-LP",
+        "frequency": "93.1  MHz",
+        "service": "FL",
+        "owner": "THE DENVER FOUNDATION, INCORPORATED",
+        "city": "PRINCETON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.524,
+          38.273722
+        ]
+      },
+      "properties": {
+        "id": "54370",
+        "call_sign": "WKVW",
+        "frequency": "93.3  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "MARMET",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.615833,
+          37.416944
+        ]
+      },
+      "properties": {
+        "id": "200705",
+        "call_sign": "W227DU",
+        "frequency": "93.3  MHz",
+        "service": "FX",
+        "owner": "FIRST MEDIA SERVICES, LLC",
+        "city": "WELCH",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.350639,
+          37.804833
+        ]
+      },
+      "properties": {
+        "id": "190380",
+        "call_sign": "WKCJ",
+        "frequency": "93.3  MHz",
+        "service": "FM",
+        "owner": "RADIO GREENBRIER, LLC",
+        "city": "WHITE SULPHUR SPRING",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2365,
+          37.755111
+        ]
+      },
+      "properties": {
+        "id": "143018",
+        "call_sign": "W228CF",
+        "frequency": "93.5  MHz",
+        "service": "FX",
+        "owner": "SOUTHERN COMMUNICATIONS CORPORATION",
+        "city": "BECKLEY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.217222,
+          39.61675
+        ]
+      },
+      "properties": {
+        "id": "199987",
+        "call_sign": "W228DU",
+        "frequency": "93.5  MHz",
+        "service": "FX",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "BERKELEY SPRINGS",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.032556,
+          38.969806
+        ]
+      },
+      "properties": {
+        "id": "26143",
+        "call_sign": "WFBY",
+        "frequency": "93.5  MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "BUCKHANNON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.723667,
+          38.811667
+        ]
+      },
+      "properties": {
+        "id": "138266",
+        "call_sign": "W228DJ",
+        "frequency": "93.5  MHz",
+        "service": "FX",
+        "owner": "VANDALIA MEDIA PARTNERS, LLC",
+        "city": "RAVENSWOOD",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.986111,
+          39.463333
+        ]
+      },
+      "properties": {
+        "id": "154324",
+        "call_sign": "W229CM",
+        "frequency": "93.7  MHz",
+        "service": "FX",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "MARTINSBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.683972,
+          37.993167
+        ]
+      },
+      "properties": {
+        "id": "200714",
+        "call_sign": "W229CY",
+        "frequency": "93.7  MHz",
+        "service": "FX",
+        "owner": "SOUTHERN COMMUNICATIONS CORPORATION",
+        "city": "RUPERT",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.88175,
+          39.6695
+        ]
+      },
+      "properties": {
+        "id": "158983",
+        "call_sign": "WRRR-FM2",
+        "frequency": "93.9  MHz",
+        "service": "FB",
+        "owner": "HOMETOWN MEDIA, LLC",
+        "city": "NEW MARTINSVILLE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.193167,
+          39.380361
+        ]
+      },
+      "properties": {
+        "id": "59717",
+        "call_sign": "WRRR-FM",
+        "frequency": "93.9  MHz",
+        "service": "FM",
+        "owner": "HOMETOWN MEDIA, LLC",
+        "city": "ST. MARYS",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.951528,
+          39.672028
+        ]
+      },
+      "properties": {
+        "id": "140163",
+        "call_sign": "W230AY",
+        "frequency": "93.9  MHz",
+        "service": "FX",
+        "owner": "K-LOVE, INC.",
+        "city": "WESTOVER",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.449333,
+          38.417861
+        ]
+      },
+      "properties": {
+        "id": "147849",
+        "call_sign": "W231BS",
+        "frequency": "94.1  MHz",
+        "service": "FX",
+        "owner": "KINDRED COMMUNICATIONS, INC.",
+        "city": "HUNTINGTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.953917,
+          39.418694
+        ]
+      },
+      "properties": {
+        "id": "62339",
+        "call_sign": "WQZK-FM",
+        "frequency": "94.1  MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "KEYSER",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.150639,
+          37.958444
+        ]
+      },
+      "properties": {
+        "id": "52789",
+        "call_sign": "WAXS",
+        "frequency": "94.1  MHz",
+        "service": "FM",
+        "owner": "PLATEAU BROADCASTING, INC.",
+        "city": "OAK HILL",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.130417,
+          38.847028
+        ]
+      },
+      "properties": {
+        "id": "140377",
+        "call_sign": "W231CY",
+        "frequency": "94.1  MHz",
+        "service": "FX",
+        "owner": "TOTAL MEDIA GROUP, INC.",
+        "city": "POINT PLEASANT",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.130556,
+          38.846944
+        ]
+      },
+      "properties": {
+        "id": "140377",
+        "call_sign": "W231CY",
+        "frequency": "94.1  MHz",
+        "service": "FX",
+        "owner": "TOTAL MEDIA GROUP, INC.",
+        "city": "POINT PLEASANT",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.140361,
+          39.472028
+        ]
+      },
+      "properties": {
+        "id": "20460",
+        "call_sign": "WRLF",
+        "frequency": "94.3  MHz",
+        "service": "FM",
+        "owner": "DISRUPTOR RADIO LLC",
+        "city": "FAIRMONT",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.176472,
+          37.258722
+        ]
+      },
+      "properties": {
+        "id": "157227",
+        "call_sign": "W233CL",
+        "frequency": "94.5  MHz",
+        "service": "FX",
+        "owner": "FIRST MEDIA SERVICES, LLC",
+        "city": "BLUEFIELD",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.723194,
+          38.419806
+        ]
+      },
+      "properties": {
+        "id": "2687",
+        "call_sign": "WYNL",
+        "frequency": "94.5  MHz",
+        "service": "FM",
+        "owner": "BRISTOL BROADCASTING COMPANY, INC",
+        "city": "DUNBAR",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.788333,
+          38.911944
+        ]
+      },
+      "properties": {
+        "id": "19369",
+        "call_sign": "WELK",
+        "frequency": "94.7  MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "ELKINS",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.498889,
+          39.338222
+        ]
+      },
+      "properties": {
+        "id": "200964",
+        "call_sign": "W234DC",
+        "frequency": "94.7  MHz",
+        "service": "FX",
+        "owner": "SEVEN MOUNTAINS OF DE, LLC",
+        "city": "PARKERSBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.752778,
+          39.356944
+        ]
+      },
+      "properties": {
+        "id": "784740",
+        "call_sign": "WONT-LP",
+        "frequency": "94.7  MHz",
+        "service": "FL",
+        "owner": "GRACE VALLEY BAPTIST CHURCH",
+        "city": "ROMNEY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.573333,
+          37.441389
+        ]
+      },
+      "properties": {
+        "id": "784045",
+        "call_sign": "WXEE-LP",
+        "frequency": "94.7  MHz",
+        "service": "FL",
+        "owner": "MCDOWELL COUNTY COMMISSION ON AGING, INC.",
+        "city": "WELCH",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.527778,
+          38.276944
+        ]
+      },
+      "properties": {
+        "id": "784766",
+        "call_sign": "NEW",
+        "frequency": "94.9  MHz",
+        "service": "FL",
+        "owner": "GODS RESPONSE INC.",
+        "city": "MALDEN",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.818194,
+          38.366528
+        ]
+      },
+      "properties": {
+        "id": "140953",
+        "call_sign": "W235BF",
+        "frequency": "94.9  MHz",
+        "service": "FX",
+        "owner": "K-LOVE, INC.",
+        "city": "ST.",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.471778,
+          39.246194
+        ]
+      },
+      "properties": {
+        "id": "52015",
+        "call_sign": "WGGE",
+        "frequency": "95.1  MHz",
+        "service": "FM",
+        "owner": "SEVEN MOUNTAINS OF DE, LLC",
+        "city": "ELIZABETH",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.605944,
+          38.357056
+        ]
+      },
+      "properties": {
+        "id": "87134",
+        "call_sign": "W237AZ",
+        "frequency": "95.3  MHz",
+        "service": "FX",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "CHARLESTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.396389,
+          38.421389
+        ]
+      },
+      "properties": {
+        "id": "200426",
+        "call_sign": "W237ER",
+        "frequency": "95.3  MHz",
+        "service": "FX",
+        "owner": "BRISTOL BROADCASTING COMPANY, INC.",
+        "city": "HUNTINGTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.515056,
+          37.798444
+        ]
+      },
+      "properties": {
+        "id": "190271",
+        "call_sign": "WRLB-FM1",
+        "frequency": "95.3  MHz",
+        "service": "FB",
+        "owner": "RADIO GREENBRIER, LLC",
+        "city": "LEWISBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.932556,
+          39.545639
+        ]
+      },
+      "properties": {
+        "id": "76086",
+        "call_sign": "W237FP",
+        "frequency": "95.3  MHz",
+        "service": "FX",
+        "owner": "LHTC MEDIA OF WEST VIRGINIA, INC.",
+        "city": "MORGANTOWN",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.762306,
+          37.957889
+        ]
+      },
+      "properties": {
+        "id": "54410",
+        "call_sign": "WRLB",
+        "frequency": "95.3  MHz",
+        "service": "FM",
+        "owner": "RADIO GREENBRIER, LLC",
+        "city": "RAINELLE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.667917,
+          38.357306
+        ]
+      },
+      "properties": {
+        "id": "18869",
+        "call_sign": "W239CH",
+        "frequency": "95.7  MHz",
+        "service": "FX",
+        "owner": "BRISTOL BROADCASTING COMPANY, INC.",
+        "city": "CHARLESTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.530083,
+          38.415639
+        ]
+      },
+      "properties": {
+        "id": "166030",
+        "call_sign": "WSWW-FM",
+        "frequency": "95.7  MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "CRAIGSVILLE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.932556,
+          39.545639
+        ]
+      },
+      "properties": {
+        "id": "140606",
+        "call_sign": "W239CM",
+        "frequency": "95.7  MHz",
+        "service": "FX",
+        "owner": "LHTC MEDIA OF WEST VIRGINIA, INC.",
+        "city": "MORGANTOWN",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.17675,
+          37.258444
+        ]
+      },
+      "properties": {
+        "id": "4944",
+        "call_sign": "WSTG",
+        "frequency": "95.9  MHz",
+        "service": "FM",
+        "owner": "PRINCETON BROADCASTING, INC.",
+        "city": "PRINCETON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.768194,
+          38.365083
+        ]
+      },
+      "properties": {
+        "id": "71661",
+        "call_sign": "WKWS",
+        "frequency": "96.1  MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "CHARLESTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.605944,
+          38.357056
+        ]
+      },
+      "properties": {
+        "id": "71661",
+        "call_sign": "WKWS",
+        "frequency": "96.1  MHz",
+        "service": "FS",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "CHARLESTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.291389,
+          39.299722
+        ]
+      },
+      "properties": {
+        "id": "17065",
+        "call_sign": "WVIW",
+        "frequency": "96.3  MHz",
+        "service": "FM",
+        "owner": "VCY AMERICA, INC.",
+        "city": "BRIDGEPORT",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.505389,
+          39.216444
+        ]
+      },
+      "properties": {
+        "id": "193247",
+        "call_sign": "WPKM-LP",
+        "frequency": "96.3  MHz",
+        "service": "FL",
+        "owner": "WEST VIRGINIA UNIVERSITY AT PARKERSBURG JOURNALISM DEPT.",
+        "city": "PARKERSBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.520361,
+          39.070917
+        ]
+      },
+      "properties": {
+        "id": "1103",
+        "call_sign": "WOTR",
+        "frequency": "96.3  MHz",
+        "service": "FM",
+        "owner": "DELLA WOOFTER",
+        "city": "WESTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.767139,
+          38.364194
+        ]
+      },
+      "properties": {
+        "id": "141152",
+        "call_sign": "W243DR",
+        "frequency": "96.5  MHz",
+        "service": "FX",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "CHARLESTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.767139,
+          38.364194
+        ]
+      },
+      "properties": {
+        "id": "141152",
+        "call_sign": "W243DR",
+        "frequency": "96.5  MHz",
+        "service": "FX",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "CHARLESTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.76725,
+          38.363889
+        ]
+      },
+      "properties": {
+        "id": "141152",
+        "call_sign": "W243DR",
+        "frequency": "96.5  MHz",
+        "service": "FX",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "CHARLESTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.770917,
+          40.035917
+        ]
+      },
+      "properties": {
+        "id": "56641",
+        "call_sign": "WRQY",
+        "frequency": "96.5  MHz",
+        "service": "FM",
+        "owner": "FM RADIO LICENSES, LLC",
+        "city": "MOUNDSVILLE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.71925,
+          38.653167
+        ]
+      },
+      "properties": {
+        "id": "145754",
+        "call_sign": "W243CA",
+        "frequency": "96.5  MHz",
+        "service": "FX",
+        "owner": "SUMMIT MEDIA BROADCASTING, L.L.C.",
+        "city": "SUTTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.255417,
+          37.513444
+        ]
+      },
+      "properties": {
+        "id": "26393",
+        "call_sign": "WXCC",
+        "frequency": "96.5  MHz",
+        "service": "FM",
+        "owner": "MOUNTAIN TOP MEDIA LLC",
+        "city": "WILLIAMSON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.269028,
+          37.669278
+        ]
+      },
+      "properties": {
+        "id": "26393",
+        "call_sign": "WXCC",
+        "frequency": "96.5  MHz",
+        "service": "FS",
+        "owner": "MOUNTAIN TOP MEDIA LLC",
+        "city": "WILLIAMSON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.590333,
+          39.457028
+        ]
+      },
+      "properties": {
+        "id": "7725",
+        "call_sign": "WKMM",
+        "frequency": "96.7  MHz",
+        "service": "FM",
+        "owner": "WKMM RADIO, LLC",
+        "city": "KINGWOOD",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.962306,
+          37.646222
+        ]
+      },
+      "properties": {
+        "id": "87068",
+        "call_sign": "W244BF",
+        "frequency": "96.7  MHz",
+        "service": "FX",
+        "owner": "GRACE MISSIONARY BAPTIST CHURCH",
+        "city": "NIMITZ",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.029167,
+          37.362333
+        ]
+      },
+      "properties": {
+        "id": "5086",
+        "call_sign": "W244BB",
+        "frequency": "96.7  MHz",
+        "service": "FX",
+        "owner": "BIBLE BROADCASTING NETWORK, INC.",
+        "city": "PRINCETON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.295083,
+          39.275639
+        ]
+      },
+      "properties": {
+        "id": "156251",
+        "call_sign": "W244CB",
+        "frequency": "96.7  MHz",
+        "service": "FX",
+        "owner": "ARAIZA REVIVAL MINISTRIES, INC.",
+        "city": "WEST MILFORD",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.838083,
+          38.386917
+        ]
+      },
+      "properties": {
+        "id": "194540",
+        "call_sign": "WWSA-LP",
+        "frequency": "96.9  MHz",
+        "service": "FL",
+        "owner": "CITY OF ST. ALBANS",
+        "city": "ST. ALBANS",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.498889,
+          39.33825
+        ]
+      },
+      "properties": {
+        "id": "77779",
+        "call_sign": "WVVV",
+        "frequency": "96.9  MHz",
+        "service": "FM",
+        "owner": "SEVEN RANGES RADIO CO., INC.",
+        "city": "WILLIAMSTOWN",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.158722,
+          37.63175
+        ]
+      },
+      "properties": {
+        "id": "201463",
+        "call_sign": "W246DL",
+        "frequency": "97.1  MHz",
+        "service": "FX",
+        "owner": "COALFIELDS SOCIETY FOUNDATION, INC.",
+        "city": "MATEWAN",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.647139,
+          38.360611
+        ]
+      },
+      "properties": {
+        "id": "41890",
+        "call_sign": "WDBS",
+        "frequency": "97.1  MHz",
+        "service": "FM",
+        "owner": "SUMMIT MEDIA BROADCASTING, LLC",
+        "city": "SUTTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.454056,
+          38.452528
+        ]
+      },
+      "properties": {
+        "id": "41890",
+        "call_sign": "WDBS",
+        "frequency": "97.1  MHz",
+        "service": "FM",
+        "owner": "SUMMIT MEDIA BROADCASTING, LLC",
+        "city": "SUTTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.17675,
+          37.258444
+        ]
+      },
+      "properties": {
+        "id": "143281",
+        "call_sign": "W247BO",
+        "frequency": "97.3  MHz",
+        "service": "FX",
+        "owner": "FIRST MEDIA SERVICES, LLC",
+        "city": "BLUEFIELD",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.515056,
+          37.798444
+        ]
+      },
+      "properties": {
+        "id": "143004",
+        "call_sign": "W247BZ",
+        "frequency": "97.3  MHz",
+        "service": "FX",
+        "owner": "RADIO GREENBRIER, LLC",
+        "city": "LEWISBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.701444,
+          40.097
+        ]
+      },
+      "properties": {
+        "id": "73193",
+        "call_sign": "WKWK-FM",
+        "frequency": "97.3  MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "WHEELING",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.752028,
+          40.061472
+        ]
+      },
+      "properties": {
+        "id": "73193",
+        "call_sign": "WKWK-FM",
+        "frequency": "97.3  MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "WHEELING",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.723722,
+          38.406194
+        ]
+      },
+      "properties": {
+        "id": "6875",
+        "call_sign": "WQBE-FM",
+        "frequency": "97.5  MHz",
+        "service": "FM",
+        "owner": "BRISTOL BROADCASTING COMPANY, INC.",
+        "city": "CHARLESTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.667917,
+          38.357306
+        ]
+      },
+      "properties": {
+        "id": "6875",
+        "call_sign": "WQBE-FM",
+        "frequency": "97.5  MHz",
+        "service": "FS",
+        "owner": "BRISTOL BROADCASTING COMPANY, INC.",
+        "city": "CHARLESTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.32675,
+          39.286472
+        ]
+      },
+      "properties": {
+        "id": "200293",
+        "call_sign": "W248DB",
+        "frequency": "97.5  MHz",
+        "service": "FX",
+        "owner": "LIGHT OF LIFE COMMUNITY INC",
+        "city": "CLARKSBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.951528,
+          39.672028
+        ]
+      },
+      "properties": {
+        "id": "140169",
+        "call_sign": "W248BF",
+        "frequency": "97.5  MHz",
+        "service": "FX",
+        "owner": "K-LOVE, INC.",
+        "city": "GRANVILLE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.063056,
+          39.459278
+        ]
+      },
+      "properties": {
+        "id": "53486",
+        "call_sign": "WLTF",
+        "frequency": "97.5  MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "MARTINSBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.063056,
+          39.459278
+        ]
+      },
+      "properties": {
+        "id": "53486",
+        "call_sign": "WLTF",
+        "frequency": "97.5  MHz",
+        "service": "FS",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "MARTINSBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.005889,
+          37.424111
+        ]
+      },
+      "properties": {
+        "id": "194515",
+        "call_sign": "WVCU-LP",
+        "frequency": "97.7  MHz",
+        "service": "FL",
+        "owner": "CONCORD UNIVERSITY",
+        "city": "ATHENS",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.778417,
+          39.905333
+        ]
+      },
+      "properties": {
+        "id": "200385",
+        "call_sign": "W249DU",
+        "frequency": "97.7  MHz",
+        "service": "FX",
+        "owner": "RCK 1 GROUP LLC",
+        "city": "MOUNDSVILLE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.062,
+          39.418083
+        ]
+      },
+      "properties": {
+        "id": "15253",
+        "call_sign": "WKKW",
+        "frequency": "97.9  MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "FAIRMONT",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.969667,
+          37.928
+        ]
+      },
+      "properties": {
+        "id": "165958",
+        "call_sign": "WVBD",
+        "frequency": "97.9  MHz",
+        "service": "FM",
+        "owner": "SUMMIT MEDIA SOUTH, INC.",
+        "city": "FAYETTEVILLE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.535444,
+          38.423972
+        ]
+      },
+      "properties": {
+        "id": "164110",
+        "call_sign": "WMGA",
+        "frequency": "97.9  MHz",
+        "service": "FM",
+        "owner": "KINDRED COMMUNICATIONS, INC.",
+        "city": "KENOVA",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.515417,
+          37.7985
+        ]
+      },
+      "properties": {
+        "id": "203187",
+        "call_sign": "W250CU",
+        "frequency": "97.9  MHz",
+        "service": "FX",
+        "owner": "RADIO GREENBRIER, LLC",
+        "city": "WHITESULPHURSPRINGS",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.656333,
+          38.375528
+        ]
+      },
+      "properties": {
+        "id": "140998",
+        "call_sign": "W251BH",
+        "frequency": "98.1  MHz",
+        "service": "FX",
+        "owner": "K-LOVE, INC.",
+        "city": "MONTGOMERY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.498889,
+          39.338222
+        ]
+      },
+      "properties": {
+        "id": "201252",
+        "call_sign": "W251CP",
+        "frequency": "98.1  MHz",
+        "service": "FX",
+        "owner": "MID OHIO VALLEY RADIO CORPORATION",
+        "city": "PARKERSBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.702222,
+          40.090361
+        ]
+      },
+      "properties": {
+        "id": "200384",
+        "call_sign": "W251CY",
+        "frequency": "98.1  MHz",
+        "service": "FX",
+        "owner": "RCK 1 GROUP LLC",
+        "city": "WHEELING",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.952306,
+          37.714833
+        ]
+      },
+      "properties": {
+        "id": "141861",
+        "call_sign": "W252DH",
+        "frequency": "98.3  MHz",
+        "service": "FX",
+        "owner": "MOUNTAINPLEX MEDIA, LLC",
+        "city": "HINTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.314,
+          38.177306
+        ]
+      },
+      "properties": {
+        "id": "201133",
+        "call_sign": "W252DT",
+        "frequency": "98.3  MHz",
+        "service": "FX",
+        "owner": "WKLC, INC.",
+        "city": "MONTGOMERY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.932556,
+          39.545639
+        ]
+      },
+      "properties": {
+        "id": "200587",
+        "call_sign": "W252EF",
+        "frequency": "98.3  MHz",
+        "service": "FX",
+        "owner": "DISRUPTOR RADIO LLC",
+        "city": "MORGANTOWN",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.685694,
+          38.767861
+        ]
+      },
+      "properties": {
+        "id": "40922",
+        "call_sign": "WCEF",
+        "frequency": "98.3  MHz",
+        "service": "FM",
+        "owner": "HOMETOWN MEDIA, LLC",
+        "city": "RIPLEY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.992583,
+          38.060389
+        ]
+      },
+      "properties": {
+        "id": "134635",
+        "call_sign": "WQAZ-LP",
+        "frequency": "98.5  MHz",
+        "service": "FL",
+        "owner": "COLBY FOUNDATION, INC.",
+        "city": "EDMOND",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.041194,
+          39.205056
+        ]
+      },
+      "properties": {
+        "id": "192313",
+        "call_sign": "WVHV-LP",
+        "frequency": "98.5  MHz",
+        "service": "FL",
+        "owner": "RITCHIE PROGRESS ALLIANCE, INC.",
+        "city": "HARRISVILLE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.449333,
+          38.417861
+        ]
+      },
+      "properties": {
+        "id": "144652",
+        "call_sign": "W253BB",
+        "frequency": "98.5  MHz",
+        "service": "FX",
+        "owner": "KINDRED COMMUNICATIONS, INC.",
+        "city": "HUNTINGTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.176472,
+          37.258722
+        ]
+      },
+      "properties": {
+        "id": "59719",
+        "call_sign": "W254CV",
+        "frequency": "98.7  MHz",
+        "service": "FX",
+        "owner": "FIRST MEDIA SERVICES, LLC",
+        "city": "BLUEFIELD",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.576389,
+          39.2475
+        ]
+      },
+      "properties": {
+        "id": "784056",
+        "call_sign": "WVGH-LP",
+        "frequency": "98.7  MHz",
+        "service": "FL",
+        "owner": "LANDMARK BAPTIST CHURCH",
+        "city": "PARKERSBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.684861,
+          38.398139
+        ]
+      },
+      "properties": {
+        "id": "71433",
+        "call_sign": "WCST-FM",
+        "frequency": "98.7  MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "POCATALICO",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.771472,
+          40.082833
+        ]
+      },
+      "properties": {
+        "id": "44048",
+        "call_sign": "WOVK",
+        "frequency": "98.7  MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "WHEELING",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.752028,
+          40.061472
+        ]
+      },
+      "properties": {
+        "id": "44048",
+        "call_sign": "WOVK",
+        "frequency": "98.7  MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "WHEELING",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.788111,
+          38.910111
+        ]
+      },
+      "properties": {
+        "id": "65939",
+        "call_sign": "WDNE-FM",
+        "frequency": "98.9  MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "ELKINS",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.98,
+          39.4375
+        ]
+      },
+      "properties": {
+        "id": "778312",
+        "call_sign": "WHMG-LP",
+        "frequency": "98.9  MHz",
+        "service": "FL",
+        "owner": "HOLY SPIRIT STUDY INSTITUTE LTD",
+        "city": "KEYSER",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.868972,
+          38.28175
+        ]
+      },
+      "properties": {
+        "id": "145706",
+        "call_sign": "W255DO",
+        "frequency": "98.9  MHz",
+        "service": "FX",
+        "owner": "SUMMIT MEDIA BROADCASTING, L.L.C.",
+        "city": "SUMMERSVILLE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.710889,
+          39.994222
+        ]
+      },
+      "properties": {
+        "id": "133551",
+        "call_sign": "WDUQ-LP",
+        "frequency": "99.1  MHz",
+        "service": "FL",
+        "owner": "KOL AMI HAVURAH",
+        "city": "BENWOOD",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.260083,
+          39.499806
+        ]
+      },
+      "properties": {
+        "id": "135411",
+        "call_sign": "WBWG-LP",
+        "frequency": "99.1  MHz",
+        "service": "FL",
+        "owner": "GOD'S WORD BROADCASTING, INC.",
+        "city": "IDA MAY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.655361,
+          39.2915
+        ]
+      },
+      "properties": {
+        "id": "15254",
+        "call_sign": "WXIL",
+        "frequency": "99.1  MHz",
+        "service": "FM",
+        "owner": "SEVEN MOUNTAINS OF DE, LLC",
+        "city": "PARKERSBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.819444,
+          38.368889
+        ]
+      },
+      "properties": {
+        "id": "203051",
+        "call_sign": "W257EK",
+        "frequency": "99.3  MHz",
+        "service": "FX",
+        "owner": "POSITIVE ALTERNATIVE RADIO, INC.",
+        "city": "CHARLESTONN",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.401667,
+          38.419722
+        ]
+      },
+      "properties": {
+        "id": "201374",
+        "call_sign": "W257EX",
+        "frequency": "99.3  MHz",
+        "service": "FX",
+        "owner": "POSITIVE ALTERNATIVE RADIO, INC.",
+        "city": "HUNTINGTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.620361,
+          40.342556
+        ]
+      },
+      "properties": {
+        "id": "150028",
+        "call_sign": "W257BP",
+        "frequency": "99.3  MHz",
+        "service": "FX",
+        "owner": "K-LOVE, INC.",
+        "city": "WEIRTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.519806,
+          39.070639
+        ]
+      },
+      "properties": {
+        "id": "200326",
+        "call_sign": "W257DY",
+        "frequency": "99.3  MHz",
+        "service": "FX",
+        "owner": "DELLA JANE WOOFTER WOOFTER",
+        "city": "WESTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.113972,
+          37.589833
+        ]
+      },
+      "properties": {
+        "id": "52336",
+        "call_sign": "WJLS-FM",
+        "frequency": "99.5  MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "BECKLEY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.912861,
+          39.652833
+        ]
+      },
+      "properties": {
+        "id": "79304",
+        "call_sign": "WYMJ",
+        "frequency": "99.5  MHz",
+        "service": "FM",
+        "owner": "DAILEY CORPORATION",
+        "city": "NEW MARTINSVILLE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.130417,
+          38.847
+        ]
+      },
+      "properties": {
+        "id": "5283",
+        "call_sign": "WBYG",
+        "frequency": "99.5  MHz",
+        "service": "FM",
+        "owner": "TOTAL MEDIA GROUP, INC.",
+        "city": "POINT PLEASANT",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.524,
+          38.273722
+        ]
+      },
+      "properties": {
+        "id": "71663",
+        "call_sign": "WVAF",
+        "frequency": "99.9  MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "CHARLESTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.541222,
+          38.319278
+        ]
+      },
+      "properties": {
+        "id": "71663",
+        "call_sign": "WVAF",
+        "frequency": "99.9  MHz",
+        "service": "FS",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "CHARLESTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.788056,
+          38.91
+        ]
+      },
+      "properties": {
+        "id": "201513",
+        "call_sign": "W260DG",
+        "frequency": "99.9  MHz",
+        "service": "FX",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "ELKINS",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.969444,
+          39.627778
+        ]
+      },
+      "properties": {
+        "id": "6553",
+        "call_sign": "WCLG-FM",
+        "frequency": "100.1 MHz",
+        "service": "FM",
+        "owner": "AJG CORPORATION",
+        "city": "MORGANTOWN",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.79,
+          39.422306
+        ]
+      },
+      "properties": {
+        "id": "10657",
+        "call_sign": "WVMD",
+        "frequency": "100.1 MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "ROMNEY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.500111,
+          39.338389
+        ]
+      },
+      "properties": {
+        "id": "4756",
+        "call_sign": "WDMX",
+        "frequency": "100.1 MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "VIENNA",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.770917,
+          40.035917
+        ]
+      },
+      "properties": {
+        "id": "139038",
+        "call_sign": "W261DH",
+        "frequency": "100.1 MHz",
+        "service": "FX",
+        "owner": "OHIO MIDLAND NEWSGROUP, LLC",
+        "city": "WHEELING",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.647306,
+          38.359806
+        ]
+      },
+      "properties": {
+        "id": "9300",
+        "call_sign": "WAFD",
+        "frequency": "100.3 MHz",
+        "service": "FM",
+        "owner": "SUMMIT MEDIA, INC.",
+        "city": "WEBSTER SPRINGS",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.454056,
+          38.452528
+        ]
+      },
+      "properties": {
+        "id": "9300",
+        "call_sign": "WAFD",
+        "frequency": "100.3 MHz",
+        "service": "FM",
+        "owner": "SUMMIT MEDIA, INC.",
+        "city": "WEBSTER SPRINGS",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.473194,
+          38.393111
+        ]
+      },
+      "properties": {
+        "id": "500",
+        "call_sign": "WKEE-FM",
+        "frequency": "100.5 MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "HUNTINGTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.473194,
+          38.393111
+        ]
+      },
+      "properties": {
+        "id": "500",
+        "call_sign": "WKEE-FM",
+        "frequency": "100.5 MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "HUNTINGTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.715444,
+          39.713861
+        ]
+      },
+      "properties": {
+        "id": "164255",
+        "call_sign": "WDYK",
+        "frequency": "100.5 MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "RIDGELEY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.969667,
+          37.928
+        ]
+      },
+      "properties": {
+        "id": "145721",
+        "call_sign": "W264DW",
+        "frequency": "100.7 MHz",
+        "service": "FX",
+        "owner": "SUMMIT MEDIA BROADCASTING, L.L.C.",
+        "city": "BECKLEY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.515417,
+          37.7985
+        ]
+      },
+      "properties": {
+        "id": "203194",
+        "call_sign": "W265DX",
+        "frequency": "100.9 MHz",
+        "service": "FX",
+        "owner": "RADIO GREENBRIER, LLC",
+        "city": "LEWISBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.188694,
+          37.2515
+        ]
+      },
+      "properties": {
+        "id": "44002",
+        "call_sign": "WKOY-FM",
+        "frequency": "100.9 MHz",
+        "service": "FM",
+        "owner": "FIRST MEDIA SERVICES, LLC",
+        "city": "PRINCETON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.702333,
+          38.37675
+        ]
+      },
+      "properties": {
+        "id": "12077",
+        "call_sign": "WMXE",
+        "frequency": "100.9 MHz",
+        "service": "FM",
+        "owner": "WKLC, INC.",
+        "city": "SOUTH CHARLESTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.703444,
+          38.376194
+        ]
+      },
+      "properties": {
+        "id": "12077",
+        "call_sign": "WMXE",
+        "frequency": "100.9 MHz",
+        "service": "FM",
+        "owner": "WKLC, INC.",
+        "city": "SOUTH CHARLESTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.599806,
+          40.381444
+        ]
+      },
+      "properties": {
+        "id": "158508",
+        "call_sign": "W265ED",
+        "frequency": "100.9 MHz",
+        "service": "FX",
+        "owner": "OHIO MIDLAND NEWSGROUP, LLC",
+        "city": "WEIRTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.932556,
+          39.545639
+        ]
+      },
+      "properties": {
+        "id": "68305",
+        "call_sign": "WZST",
+        "frequency": "100.9 MHz",
+        "service": "FM",
+        "owner": "DISRUPTOR RADIO LLC",
+        "city": "WESTOVER",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.185361,
+          37.724
+        ]
+      },
+      "properties": {
+        "id": "143024",
+        "call_sign": "W266AZ",
+        "frequency": "101.1 MHz",
+        "service": "FX",
+        "owner": "SOUTHERN COMMUNICATIONS CORPORATION",
+        "city": "BECKLEY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.451444,
+          38.225528
+        ]
+      },
+      "properties": {
+        "id": "194670",
+        "call_sign": "WVWP-LP",
+        "frequency": "101.1 MHz",
+        "service": "FL",
+        "owner": "WAYNE HIGH SCHOOL",
+        "city": "WAYNE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17925,
+          38.944556
+        ]
+      },
+      "properties": {
+        "id": "9302",
+        "call_sign": "WBRB",
+        "frequency": "101.3 MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "BUCKHANNON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.561,
+          38.407028
+        ]
+      },
+      "properties": {
+        "id": "70693",
+        "call_sign": "WXBW-FM1",
+        "frequency": "101.5 MHz",
+        "service": "FB",
+        "owner": "KINDRED COMMUNICATIONS, INC.",
+        "city": "HUNTINGTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.113722,
+          37.787056
+        ]
+      },
+      "properties": {
+        "id": "157019",
+        "call_sign": "W269DV",
+        "frequency": "101.7 MHz",
+        "service": "FX",
+        "owner": "SHARI SYNER",
+        "city": "BECKLEY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.083972,
+          38.475639
+        ]
+      },
+      "properties": {
+        "id": "133896",
+        "call_sign": "WYAP-LP",
+        "frequency": "101.7 MHz",
+        "service": "FL",
+        "owner": "CLAY COUNTY COMMUNICATIONS, LTD.",
+        "city": "CLAY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.908056,
+          38.982861
+        ]
+      },
+      "properties": {
+        "id": "60922",
+        "call_sign": "WELD-FM",
+        "frequency": "101.7 MHz",
+        "service": "FM",
+        "owner": "SAVE OUR STATION INC.",
+        "city": "MOOREFIELD",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.544556,
+          38.219389
+        ]
+      },
+      "properties": {
+        "id": "194124",
+        "call_sign": "WXTH-LP",
+        "frequency": "101.7 MHz",
+        "service": "FL",
+        "owner": "RIVERSIDE BAPTIST CHURCH",
+        "city": "RICHWOOD",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9715,
+          37.856778
+        ]
+      },
+      "properties": {
+        "id": "38267",
+        "call_sign": "WVOW-FM",
+        "frequency": "101.9 MHz",
+        "service": "FM",
+        "owner": "LOGAN BROADCASTING CORP.",
+        "city": "LOGAN",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.985056,
+          39.608389
+        ]
+      },
+      "properties": {
+        "id": "71677",
+        "call_sign": "WVAQ",
+        "frequency": "101.9 MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "MORGANTOWN",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.952306,
+          37.714833
+        ]
+      },
+      "properties": {
+        "id": "6012",
+        "call_sign": "WMTD-FM",
+        "frequency": "102.3 MHz",
+        "service": "FM",
+        "owner": "MOUNTAINPLEX MEDIA II, LLC",
+        "city": "HINTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.702333,
+          38.37675
+        ]
+      },
+      "properties": {
+        "id": "142178",
+        "call_sign": "W272DW",
+        "frequency": "102.3 MHz",
+        "service": "FX",
+        "owner": "WKLC, INC.",
+        "city": "SOUTH CHARLESTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.320917,
+          39.02425
+        ]
+      },
+      "properties": {
+        "id": "71690",
+        "call_sign": "WBTQ",
+        "frequency": "102.3 MHz",
+        "service": "FM",
+        "owner": "AJG CORPORATION",
+        "city": "WESTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.269028,
+          37.669278
+        ]
+      },
+      "properties": {
+        "id": "141986",
+        "call_sign": "W273BC",
+        "frequency": "102.5 MHz",
+        "service": "FX",
+        "owner": "MOUNTAIN TOP MEDIA LLC",
+        "city": "WILLIAMSON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.667917,
+          38.357306
+        ]
+      },
+      "properties": {
+        "id": "2684",
+        "call_sign": "WVSR-FM",
+        "frequency": "102.7 MHz",
+        "service": "FM",
+        "owner": "BRISTOL BROADCASTING COMPANY, INC.",
+        "city": "CHARLESTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.341139,
+          38.649556
+        ]
+      },
+      "properties": {
+        "id": "142232",
+        "call_sign": "W274AU",
+        "frequency": "102.7 MHz",
+        "service": "FX",
+        "owner": "BEACONNET L.L.C.",
+        "city": "FRANKLIN",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.205333,
+          39.467583
+        ]
+      },
+      "properties": {
+        "id": "32202",
+        "call_sign": "WGYE",
+        "frequency": "102.7 MHz",
+        "service": "FM",
+        "owner": "DISRUPTOR RADIO LLC",
+        "city": "MANNINGTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.98,
+          39.437583
+        ]
+      },
+      "properties": {
+        "id": "195768",
+        "call_sign": "WKYW-LP",
+        "frequency": "102.9 MHz",
+        "service": "FL",
+        "owner": "MINERAL COUNTY TRAVEL, TOURISM, CONVENTION AND VISITORS BUREAU, LTD.",
+        "city": "KEYSER",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.770917,
+          39.950056
+        ]
+      },
+      "properties": {
+        "id": "192526",
+        "call_sign": "WBWO-LP",
+        "frequency": "102.9 MHz",
+        "service": "FL",
+        "owner": "GRAVE CREEK B'NAI NOACH",
+        "city": "MOUNDSVILLE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.515333,
+          37.798444
+        ]
+      },
+      "properties": {
+        "id": "59675",
+        "call_sign": "WRON-FM",
+        "frequency": "103.1 MHz",
+        "service": "FM",
+        "owner": "RADIO GREENBRIER, LLC",
+        "city": "LEWISBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.471778,
+          39.246194
+        ]
+      },
+      "properties": {
+        "id": "22677",
+        "call_sign": "WHBR-FM",
+        "frequency": "103.1 MHz",
+        "service": "FM",
+        "owner": "SEVEN MOUNTAINS OF DE, LLC",
+        "city": "PARKERSBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.401528,
+          38.419806
+        ]
+      },
+      "properties": {
+        "id": "7983",
+        "call_sign": "WTCR-FM",
+        "frequency": "103.3 MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "HUNTINGTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.09925,
+          37.385389
+        ]
+      },
+      "properties": {
+        "id": "145794",
+        "call_sign": "W277AW",
+        "frequency": "103.3 MHz",
+        "service": "FX",
+        "owner": "PRINCETON BROADCASTING, INC.",
+        "city": "PRINCETON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.46675,
+          39.262306
+        ]
+      },
+      "properties": {
+        "id": "79305",
+        "call_sign": "WKMZ",
+        "frequency": "103.3 MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "SALEM",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.389444,
+          39.182861
+        ]
+      },
+      "properties": {
+        "id": "189559",
+        "call_sign": "WTCF",
+        "frequency": "103.3 MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "WARDENSVILLE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.835056,
+          38.551222
+        ]
+      },
+      "properties": {
+        "id": "85043",
+        "call_sign": "W278AL",
+        "frequency": "103.5 MHz",
+        "service": "FX",
+        "owner": "POCAHONTAS COMMUNICATIONS COOPERATIVE CORP.",
+        "city": "DURBIN",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.499,
+          39.338139
+        ]
+      },
+      "properties": {
+        "id": "200980",
+        "call_sign": "W278CQ",
+        "frequency": "103.5 MHz",
+        "service": "FX",
+        "owner": "SEVEN MOUNTAINS OF DE, LLC",
+        "city": "PARKERSBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.293167,
+          38.794528
+        ]
+      },
+      "properties": {
+        "id": "201343",
+        "call_sign": "W278CP",
+        "frequency": "103.5 MHz",
+        "service": "FX",
+        "owner": "ASM COMMUNICATIONS INC.",
+        "city": "SPENCER",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.308694,
+          37.947583
+        ]
+      },
+      "properties": {
+        "id": "61273",
+        "call_sign": "WCIR-FM",
+        "frequency": "103.7 MHz",
+        "service": "FM",
+        "owner": "SOUTHERN COMMUNICATIONS CORPORATION",
+        "city": "BECKLEY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.089472,
+          39.037861
+        ]
+      },
+      "properties": {
+        "id": "30171",
+        "call_sign": "WQWV",
+        "frequency": "103.7 MHz",
+        "service": "FM",
+        "owner": "SAVE OUR STATION INC.",
+        "city": "FISHER",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.498889,
+          39.33825
+        ]
+      },
+      "properties": {
+        "id": "18534",
+        "call_sign": "WJOE",
+        "frequency": "103.9 MHz",
+        "service": "FM",
+        "owner": "BOULDIN RADIO, LLC",
+        "city": "VIENNA",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.752028,
+          40.061472
+        ]
+      },
+      "properties": {
+        "id": "140908",
+        "call_sign": "W280EW",
+        "frequency": "103.9 MHz",
+        "service": "FX",
+        "owner": "IHM LICENSES, LLC",
+        "city": "WHEELING",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.188056,
+          37.757778
+        ]
+      },
+      "properties": {
+        "id": "140388",
+        "call_sign": "W281AJ",
+        "frequency": "104.1 MHz",
+        "service": "FX",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "BECKLEY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.291472,
+          39.299806
+        ]
+      },
+      "properties": {
+        "id": "17065",
+        "call_sign": "WVIW",
+        "frequency": "104.1 MHz",
+        "service": "FM",
+        "owner": "VCY AMERICA, INC.",
+        "city": "BRIDGEPORT",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.718583,
+          39.315861
+        ]
+      },
+      "properties": {
+        "id": "71665",
+        "call_sign": "WVXS",
+        "frequency": "104.1 MHz",
+        "service": "FM",
+        "owner": "SOUTH BRANCH CAREER AND TECHNICAL CENTER",
+        "city": "ROMNEY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.656667,
+          38.376389
+        ]
+      },
+      "properties": {
+        "id": "784772",
+        "call_sign": "NEW",
+        "frequency": "104.1 MHz",
+        "service": "FL",
+        "owner": "HATFIELD-MCCOY BLUEGRASS CORPORATION",
+        "city": "SOUTH CHARLESTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.520361,
+          39.070917
+        ]
+      },
+      "properties": {
+        "id": "1103",
+        "call_sign": "WOTR",
+        "frequency": "104.1 MHz",
+        "service": "FM",
+        "owner": "DELLA WOOFTER",
+        "city": "WESTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.034806,
+          38.535639
+        ]
+      },
+      "properties": {
+        "id": "197311",
+        "call_sign": "WULL-LP",
+        "frequency": "104.3 MHz",
+        "service": "FL",
+        "owner": "IVYDALE COMMUNITY ACTION NETWORK, INC",
+        "city": "IVYDALE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.188694,
+          37.2515
+        ]
+      },
+      "properties": {
+        "id": "504",
+        "call_sign": "WHAJ",
+        "frequency": "104.5 MHz",
+        "service": "FM",
+        "owner": "FIRST MEDIA SERVICES, LLC",
+        "city": "BLUEFIELD",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.684861,
+          38.398139
+        ]
+      },
+      "properties": {
+        "id": "157126",
+        "call_sign": "W283AQ",
+        "frequency": "104.5 MHz",
+        "service": "FX",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "CROSS LANES",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.515639,
+          38.377278
+        ]
+      },
+      "properties": {
+        "id": "194654",
+        "call_sign": "WASP-LP",
+        "frequency": "104.5 MHz",
+        "service": "FL",
+        "owner": "SPRING VALLEY HIGH SCHOOL (STUDENTS)",
+        "city": "HUNTINGTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.985,
+          39.608056
+        ]
+      },
+      "properties": {
+        "id": "143294",
+        "call_sign": "W283CR",
+        "frequency": "104.5 MHz",
+        "service": "FX",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "MORGANTOWN",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.912861,
+          39.652833
+        ]
+      },
+      "properties": {
+        "id": "202172",
+        "call_sign": "W283DH",
+        "frequency": "104.5 MHz",
+        "service": "FX",
+        "owner": "DAILEY CORPORATION",
+        "city": "NEW MARTINSVILLE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.293167,
+          38.794528
+        ]
+      },
+      "properties": {
+        "id": "62295",
+        "call_sign": "WVRC-FM",
+        "frequency": "104.7 MHz",
+        "service": "FM",
+        "owner": "ASM COMMUNICATIONS INC.",
+        "city": "SPENCER",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.112583,
+          39.256194
+        ]
+      },
+      "properties": {
+        "id": "68303",
+        "call_sign": "WPDX-FM",
+        "frequency": "104.9 MHz",
+        "service": "FM",
+        "owner": "AJG CORPORATION",
+        "city": "CLARKSBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.150556,
+          37.343611
+        ]
+      },
+      "properties": {
+        "id": "784579",
+        "call_sign": "WAIK-LP",
+        "frequency": "104.9 MHz",
+        "service": "FL",
+        "owner": "LIBERTY BAPTIST CHURCH",
+        "city": "PRINCETON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.903472,
+          38.407861
+        ]
+      },
+      "properties": {
+        "id": "73175",
+        "call_sign": "WKLC-FM",
+        "frequency": "105.1 MHz",
+        "service": "FM",
+        "owner": "WKLC, INC.",
+        "city": "ST. ALBANS",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.228167,
+          39.295194
+        ]
+      },
+      "properties": {
+        "id": "184911",
+        "call_sign": "WOUX",
+        "frequency": "105.3 MHz",
+        "service": "FM",
+        "owner": "ST. PAUL RADIO CO.",
+        "city": "ST. MARYS",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.707,
+          40.054778
+        ]
+      },
+      "properties": {
+        "id": "4996",
+        "call_sign": "WBGI-FM",
+        "frequency": "105.5 MHz",
+        "service": "FM",
+        "owner": "OHIO MIDLAND NEWSGROUP, LLC",
+        "city": "BETHLEHEM",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.647306,
+          38.359806
+        ]
+      },
+      "properties": {
+        "id": "164254",
+        "call_sign": "WKQV",
+        "frequency": "105.5 MHz",
+        "service": "FM",
+        "owner": "SUMMIT MEDIA BROADCASTING, LLC",
+        "city": "COWEN",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.896222,
+          38.403694
+        ]
+      },
+      "properties": {
+        "id": "201135",
+        "call_sign": "W288DP",
+        "frequency": "105.5 MHz",
+        "service": "FX",
+        "owner": "WKLC, INC.",
+        "city": "ST. ALBANS",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.438139,
+          39.318417
+        ]
+      },
+      "properties": {
+        "id": "58621",
+        "call_sign": "WHTI",
+        "frequency": "105.7 MHz",
+        "service": "FM",
+        "owner": "DISRUPTOR RADIO LLC",
+        "city": "SALEM",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.312333,
+          38.793139
+        ]
+      },
+      "properties": {
+        "id": "133540",
+        "call_sign": "WMCC-LP",
+        "frequency": "105.7 MHz",
+        "service": "FL",
+        "owner": "RADIO 7 COMPANY",
+        "city": "SPENCER",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.307889,
+          37.947611
+        ]
+      },
+      "properties": {
+        "id": "71679",
+        "call_sign": "WTNJ",
+        "frequency": "105.9 MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA BROADCASTING, INC.",
+        "city": "MOUNT HOPE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.471667,
+          39.246111
+        ]
+      },
+      "properties": {
+        "id": "41082",
+        "call_sign": "WRZZ",
+        "frequency": "106.1 MHz",
+        "service": "FM",
+        "owner": "SEVEN MOUNTAINS OF DE, LLC",
+        "city": "PARKERSBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.155611,
+          38.234722
+        ]
+      },
+      "properties": {
+        "id": "191497",
+        "call_sign": "WDMT",
+        "frequency": "106.3 MHz",
+        "service": "FM",
+        "owner": "POCAHONTAS COMMUNICATIONS COOPERATIVE CORPORATION",
+        "city": "MARLINTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.209028,
+          38.505917
+        ]
+      },
+      "properties": {
+        "id": "60450",
+        "call_sign": "WAMX",
+        "frequency": "106.3 MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "MILTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.209028,
+          38.505917
+        ]
+      },
+      "properties": {
+        "id": "60450",
+        "call_sign": "WAMX",
+        "frequency": "106.3 MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "MILTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.46675,
+          39.262306
+        ]
+      },
+      "properties": {
+        "id": "74163",
+        "call_sign": "WWLW",
+        "frequency": "106.5 MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "CLARKSBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.067639,
+          39.451194
+        ]
+      },
+      "properties": {
+        "id": "141656",
+        "call_sign": "W293AM",
+        "frequency": "106.5 MHz",
+        "service": "FX",
+        "owner": "SHENANDOAH COMMUNICATIONS, INC.",
+        "city": "MARTINSBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.149583,
+          37.974694
+        ]
+      },
+      "properties": {
+        "id": "194270",
+        "call_sign": "WAGE-LP",
+        "frequency": "106.5 MHz",
+        "service": "FL",
+        "owner": "SOUTHERN APPALACHIAN LABOR SCHOOL",
+        "city": "OAK HILL",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.605833,
+          38.356944
+        ]
+      },
+      "properties": {
+        "id": "201510",
+        "call_sign": "W294CL",
+        "frequency": "106.7 MHz",
+        "service": "FX",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "CHARLESTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.660917,
+          37.482333
+        ]
+      },
+      "properties": {
+        "id": "43539",
+        "call_sign": "WHFI",
+        "frequency": "106.7 MHz",
+        "service": "FM",
+        "owner": "MONROE COUNTY BOARD OF EDUCATION",
+        "city": "LINDSIDE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.172528,
+          38.319306
+        ]
+      },
+      "properties": {
+        "id": "196734",
+        "call_sign": "WTUB-LP",
+        "frequency": "106.7 MHz",
+        "service": "FL",
+        "owner": "CLAY COUNTY SERVICES UNLIMITED, INC",
+        "city": "LIZEMORES",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.077639,
+          37.6415
+        ]
+      },
+      "properties": {
+        "id": "67039",
+        "call_sign": "WVKM",
+        "frequency": "106.7 MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA EDUCATIONAL BROADCASTING AUTHORITY",
+        "city": "MATEWAN",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.150556,
+          37.9575
+        ]
+      },
+      "properties": {
+        "id": "788173",
+        "call_sign": "NEW",
+        "frequency": "106.9 MHz",
+        "service": "FL",
+        "owner": "NEW RIVER CHRISTIAN MINISTRIES, INC.",
+        "city": "OAK HILL",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.050417,
+          38.948972
+        ]
+      },
+      "properties": {
+        "id": "41085",
+        "call_sign": "W294AF",
+        "frequency": "106.9 MHz",
+        "service": "FX",
+        "owner": "VANDALIA MEDIA PARTNERS, LLC",
+        "city": "POINT PLEASANT",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.897028,
+          38.403972
+        ]
+      },
+      "properties": {
+        "id": "194320",
+        "call_sign": "WAXE-LP",
+        "frequency": "106.9 MHz",
+        "service": "FL",
+        "owner": "COAL MOUNTAIN BROADCASTING, INC.",
+        "city": "ST. ALBANS",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.71925,
+          38.653167
+        ]
+      },
+      "properties": {
+        "id": "145778",
+        "call_sign": "W295AR",
+        "frequency": "106.9 MHz",
+        "service": "FX",
+        "owner": "SUMMIT MEDIA BROADCASTING, L.L.C.",
+        "city": "SUTTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.168611,
+          38.99
+        ]
+      },
+      "properties": {
+        "id": "788099",
+        "call_sign": "WVUC-LP",
+        "frequency": "107.1 MHz",
+        "service": "FL",
+        "owner": "EDUCATIONAL RADIO FOUNDATION OF WV INC.",
+        "city": "BUCKHANNON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.861667,
+          39.525083
+        ]
+      },
+      "properties": {
+        "id": "53671",
+        "call_sign": "WCBC-FM",
+        "frequency": "107.1 MHz",
+        "service": "FM",
+        "owner": "PROSPERITAS BROADCASTING SYSTEM, LP",
+        "city": "KEYSER",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.717694,
+          40.069722
+        ]
+      },
+      "properties": {
+        "id": "194364",
+        "call_sign": "WEJP-LP",
+        "frequency": "107.1 MHz",
+        "service": "FL",
+        "owner": "OHIO VALLEY PEACE",
+        "city": "WHEELING",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.329528,
+          39.285083
+        ]
+      },
+      "properties": {
+        "id": "71684",
+        "call_sign": "W297AA",
+        "frequency": "107.3 MHz",
+        "service": "FX",
+        "owner": "WEST VIRGINIA EDUCATIONAL BROADCASTING AUTHORITY",
+        "city": "CLARKSBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.524,
+          38.273722
+        ]
+      },
+      "properties": {
+        "id": "19535",
+        "call_sign": "WRVZ",
+        "frequency": "107.3 MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "MIAMI",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.196667,
+          39.005556
+        ]
+      },
+      "properties": {
+        "id": "788099",
+        "call_sign": "WVUC-LP",
+        "frequency": "107.5 MHz",
+        "service": "FL",
+        "owner": "EDUCATIONAL RADIO FOUNDATION OF WV INC.",
+        "city": "BUCKHANNON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.752306,
+          40.061472
+        ]
+      },
+      "properties": {
+        "id": "72173",
+        "call_sign": "WEGW",
+        "frequency": "107.5 MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "WHEELING",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.969667,
+          37.928
+        ]
+      },
+      "properties": {
+        "id": "158550",
+        "call_sign": "W299CF",
+        "frequency": "107.7 MHz",
+        "service": "FX",
+        "owner": "ZACK MEDIA, LLC",
+        "city": "FAYETTEVILLE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.594833,
+          37.133722
+        ]
+      },
+      "properties": {
+        "id": "6005",
+        "call_sign": "WHQX",
+        "frequency": "107.7 MHz",
+        "service": "FM",
+        "owner": "FIRST MEDIA SERVICES, LLC",
+        "city": "GARY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.830389,
+          38.907028
+        ]
+      },
+      "properties": {
+        "id": "170948",
+        "call_sign": "WVRW",
+        "frequency": "107.7 MHz",
+        "service": "FM",
+        "owner": "DELLA JANE WOOFTER WOOFTER",
+        "city": "GLENVILLE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.60275,
+          39.457389
+        ]
+      },
+      "properties": {
+        "id": "72071",
+        "call_sign": "WFSP-FM",
+        "frequency": "107.7 MHz",
+        "service": "FM",
+        "owner": "WFSP BROADCASTING, LLC",
+        "city": "KINGWOOD",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.515417,
+          37.798028
+        ]
+      },
+      "properties": {
+        "id": "150633",
+        "call_sign": "W299CZ",
+        "frequency": "107.7 MHz",
+        "service": "FX",
+        "owner": "LIGHTENING BOLT COMMUNICATIONS, LLC",
+        "city": "LEWISBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.869167,
+          38.281667
+        ]
+      },
+      "properties": {
+        "id": "157429",
+        "call_sign": "W299DC",
+        "frequency": "107.7 MHz",
+        "service": "FX",
+        "owner": "ZACK MEDIA, LLC",
+        "city": "SUMMERSVILLE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.216389,
+          39.617028
+        ]
+      },
+      "properties": {
+        "id": "135458",
+        "call_sign": "WDTF-LP",
+        "frequency": "107.9 MHz",
+        "service": "FL",
+        "owner": "DEFENDERS OF THE FAITH, INC.",
+        "city": "BERKELEY SPRINGS",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.249472,
+          38.478972
+        ]
+      },
+      "properties": {
+        "id": "43860",
+        "call_sign": "WEMM-FM",
+        "frequency": "107.9 MHz",
+        "service": "FM",
+        "owner": "BRISTOL BROADCASTING COMPANY, INC.",
+        "city": "HUNTINGTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.973333,
+          39.522944
+        ]
+      },
+      "properties": {
+        "id": "147836",
+        "call_sign": "W300BU",
+        "frequency": "107.9 MHz",
+        "service": "FX",
+        "owner": "STUDIO C, LLC",
+        "city": "KEYSER",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.193167,
+          39.380361
+        ]
+      },
+      "properties": {
+        "id": "86072",
+        "call_sign": "W300AQ",
+        "frequency": "107.9 MHz",
+        "service": "FX",
+        "owner": "HOMETOWN MEDIA, LLC",
+        "city": "SAINT MARYS",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1865,
+          37.759
+        ]
+      },
+      "properties": {
+        "id": "52335",
+        "call_sign": "WJLS",
+        "frequency": "560   kHz",
+        "service": "AM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "BECKLEY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1865,
+          37.759
+        ]
+      },
+      "properties": {
+        "id": "52335",
+        "call_sign": "WJLS",
+        "frequency": "560   kHz",
+        "service": "AM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "BECKLEY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.767917,
+          38.36425
+        ]
+      },
+      "properties": {
+        "id": "71660",
+        "call_sign": "WCHS",
+        "frequency": "580   kHz",
+        "service": "AM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "CHARLESTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.767917,
+          38.36425
+        ]
+      },
+      "properties": {
+        "id": "71660",
+        "call_sign": "WCHS",
+        "frequency": "580   kHz",
+        "service": "AM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "CHARLESTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54675,
+          38.230667
+        ]
+      },
+      "properties": {
+        "id": "54372",
+        "call_sign": "WVAR",
+        "frequency": "600   kHz",
+        "service": "AM",
+        "owner": "SUMMIT MEDIA, INC.",
+        "city": "RICHWOOD",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54675,
+          38.230667
+        ]
+      },
+      "properties": {
+        "id": "54372",
+        "call_sign": "WVAR",
+        "frequency": "600   kHz",
+        "service": "AM",
+        "owner": "SUMMIT MEDIA, INC.",
+        "city": "RICHWOOD",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2365,
+          37.755111
+        ]
+      },
+      "properties": {
+        "id": "40501",
+        "call_sign": "WWNR",
+        "frequency": "620   kHz",
+        "service": "AM",
+        "owner": "SOUTHERN COMMUNICATIONS CORP",
+        "city": "BECKLEY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2365,
+          37.755111
+        ]
+      },
+      "properties": {
+        "id": "40501",
+        "call_sign": "WWNR",
+        "frequency": "620   kHz",
+        "service": "AM",
+        "owner": "SOUTHERN COMMUNICATIONS CORP",
+        "city": "BECKLEY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.230111,
+          39.395083
+        ]
+      },
+      "properties": {
+        "id": "59716",
+        "call_sign": "WJAW",
+        "frequency": "630   kHz",
+        "service": "AM",
+        "owner": "JAWCO, INC.",
+        "city": "ST. MARYS",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.230111,
+          39.395083
+        ]
+      },
+      "properties": {
+        "id": "59716",
+        "call_sign": "WJAW",
+        "frequency": "630   kHz",
+        "service": "AM",
+        "owner": "JAWCO, INC.",
+        "city": "ST. MARYS",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.540944,
+          38.318722
+        ]
+      },
+      "properties": {
+        "id": "71662",
+        "call_sign": "WKAZ",
+        "frequency": "680   kHz",
+        "service": "AM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "CHARLESTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.540944,
+          38.318722
+        ]
+      },
+      "properties": {
+        "id": "71662",
+        "call_sign": "WKAZ",
+        "frequency": "680   kHz",
+        "service": "AM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "CHARLESTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.005583,
+          39.052333
+        ]
+      },
+      "properties": {
+        "id": "60923",
+        "call_sign": "WELD",
+        "frequency": "690   kHz",
+        "service": "AM",
+        "owner": "SAVE OUR STATION INC.",
+        "city": "FISHER",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.005583,
+          39.052333
+        ]
+      },
+      "properties": {
+        "id": "60923",
+        "call_sign": "WELD",
+        "frequency": "690   kHz",
+        "service": "AM",
+        "owner": "SAVE OUR STATION INC.",
+        "city": "FISHER",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.005583,
+          39.052333
+        ]
+      },
+      "properties": {
+        "id": "60923",
+        "call_sign": "WELD",
+        "frequency": "690   kHz",
+        "service": "AM",
+        "owner": "SAVE OUR STATION INC.",
+        "city": "FISHER",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.932222,
+          39.473722
+        ]
+      },
+      "properties": {
+        "id": "60104",
+        "call_sign": "WRNR",
+        "frequency": "740   kHz",
+        "service": "AM",
+        "owner": "SHENANDOAH COMMUNICATIONS, INC.",
+        "city": "MARTINSBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.932222,
+          39.473722
+        ]
+      },
+      "properties": {
+        "id": "60104",
+        "call_sign": "WRNR",
+        "frequency": "740   kHz",
+        "service": "AM",
+        "owner": "SHENANDOAH COMMUNICATIONS, INC.",
+        "city": "MARTINSBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.473222,
+          38.393139
+        ]
+      },
+      "properties": {
+        "id": "505",
+        "call_sign": "WVHU",
+        "frequency": "800   kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "HUNTINGTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.473222,
+          38.393139
+        ]
+      },
+      "properties": {
+        "id": "505",
+        "call_sign": "WVHU",
+        "frequency": "800   kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "HUNTINGTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.150667,
+          37.958444
+        ]
+      },
+      "properties": {
+        "id": "12550",
+        "call_sign": "WOAY",
+        "frequency": "860   kHz",
+        "service": "AM",
+        "owner": "FOOTHILLS RESOURCE GROUP, INC.",
+        "city": "OAK HILL",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.150667,
+          37.958444
+        ]
+      },
+      "properties": {
+        "id": "12550",
+        "call_sign": "WOAY",
+        "frequency": "860   kHz",
+        "service": "AM",
+        "owner": "FOOTHILLS RESOURCE GROUP, INC.",
+        "city": "OAK HILL",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.150667,
+          37.958444
+        ]
+      },
+      "properties": {
+        "id": "12550",
+        "call_sign": "WOAY",
+        "frequency": "860   kHz",
+        "service": "AM",
+        "owner": "FOOTHILLS RESOURCE GROUP, INC.",
+        "city": "OAK HILL",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.205361,
+          39.467583
+        ]
+      },
+      "properties": {
+        "id": "21171",
+        "call_sign": "WMMN",
+        "frequency": "920   kHz",
+        "service": "AM",
+        "owner": "DISRUPTOR RADIO LLC",
+        "city": "FAIRMONT",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.205361,
+          39.467583
+        ]
+      },
+      "properties": {
+        "id": "21171",
+        "call_sign": "WMMN",
+        "frequency": "920   kHz",
+        "service": "AM",
+        "owner": "DISRUPTOR RADIO LLC",
+        "city": "FAIRMONT",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.494889,
+          38.400917
+        ]
+      },
+      "properties": {
+        "id": "21435",
+        "call_sign": "WRVC",
+        "frequency": "930   kHz",
+        "service": "AM",
+        "owner": "KINDRED COMMUNICATIONS, INC.",
+        "city": "HUNTINGTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.494889,
+          38.400917
+        ]
+      },
+      "properties": {
+        "id": "21435",
+        "call_sign": "WRVC",
+        "frequency": "930   kHz",
+        "service": "AM",
+        "owner": "KINDRED COMMUNICATIONS, INC.",
+        "city": "HUNTINGTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.714028,
+          38.385639
+        ]
+      },
+      "properties": {
+        "id": "6873",
+        "call_sign": "WBES",
+        "frequency": "950   kHz",
+        "service": "AM",
+        "owner": "BRISTOL BROADCASTING COMPANY, INC.",
+        "city": "CHARLESTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.540111,
+          37.589
+        ]
+      },
+      "properties": {
+        "id": "46528",
+        "call_sign": "DWWYO",
+        "frequency": "970   kHz",
+        "service": "AM",
+        "owner": "ZACK MEDIA SOUTH LLC",
+        "city": "PINEVILLE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.540111,
+          37.589
+        ]
+      },
+      "properties": {
+        "id": "46528",
+        "call_sign": "DWWYO",
+        "frequency": "970   kHz",
+        "service": "AM",
+        "owner": "ZACK MEDIA SOUTH LLC",
+        "city": "PINEVILLE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.45425,
+          39.040361
+        ]
+      },
+      "properties": {
+        "id": "63489",
+        "call_sign": "WHAW",
+        "frequency": "980   kHz",
+        "service": "AM",
+        "owner": "DELLA JANE WOOFTER WOOFTER",
+        "city": "LOST CREEK",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.45425,
+          39.040361
+        ]
+      },
+      "properties": {
+        "id": "63489",
+        "call_sign": "WHAW",
+        "frequency": "980   kHz",
+        "service": "AM",
+        "owner": "DELLA JANE WOOFTER WOOFTER",
+        "city": "LOST CREEK",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.217222,
+          39.61675
+        ]
+      },
+      "properties": {
+        "id": "68205",
+        "call_sign": "WCST",
+        "frequency": "1010  kHz",
+        "service": "AM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "BERKELEY SPRINGS",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.217222,
+          39.61675
+        ]
+      },
+      "properties": {
+        "id": "68205",
+        "call_sign": "WCST",
+        "frequency": "1010  kHz",
+        "service": "AM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "BERKELEY SPRINGS",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.099583,
+          38.81175
+        ]
+      },
+      "properties": {
+        "id": "5284",
+        "call_sign": "WTHQ",
+        "frequency": "1030  kHz",
+        "service": "AM",
+        "owner": "TOTAL MEDIA GROUP, INC.",
+        "city": "POINT PLEASANT",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.099583,
+          38.81175
+        ]
+      },
+      "properties": {
+        "id": "5284",
+        "call_sign": "WTHQ",
+        "frequency": "1030  kHz",
+        "service": "AM",
+        "owner": "TOTAL MEDIA GROUP, INC.",
+        "city": "POINT PLEASANT",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.124806,
+          37.305667
+        ]
+      },
+      "properties": {
+        "id": "70851",
+        "call_sign": "WAMN",
+        "frequency": "1050  kHz",
+        "service": "AM",
+        "owner": "FIRST MEDIA SERVICES, LLC",
+        "city": "GREEN VALLEY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.563444,
+          39.258139
+        ]
+      },
+      "properties": {
+        "id": "15255",
+        "call_sign": "WLYQ",
+        "frequency": "1050  kHz",
+        "service": "AM",
+        "owner": "SEVEN MOUNTAINS OF DE, LLC",
+        "city": "PARKERSBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.124806,
+          37.305667
+        ]
+      },
+      "properties": {
+        "id": "70851",
+        "call_sign": "WAMN",
+        "frequency": "1050  kHz",
+        "service": "AM",
+        "owner": "FIRST MEDIA SERVICES, LLC",
+        "city": "GREEN VALLEY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.563444,
+          39.258139
+        ]
+      },
+      "properties": {
+        "id": "15255",
+        "call_sign": "WLYQ",
+        "frequency": "1050  kHz",
+        "service": "AM",
+        "owner": "SEVEN MOUNTAINS OF DE, LLC",
+        "city": "PARKERSBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2365,
+          37.755111
+        ]
+      },
+      "properties": {
+        "id": "61276",
+        "call_sign": "WBKW",
+        "frequency": "1070  kHz",
+        "service": "AM",
+        "owner": "SOUTHERN COMMUNICATIONS CORPORATION",
+        "city": "BECKLEY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2365,
+          37.755111
+        ]
+      },
+      "properties": {
+        "id": "61276",
+        "call_sign": "WBKW",
+        "frequency": "1070  kHz",
+        "service": "AM",
+        "owner": "SOUTHERN COMMUNICATIONS CORPORATION",
+        "city": "BECKLEY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.014861,
+          38.444806
+        ]
+      },
+      "properties": {
+        "id": "42653",
+        "call_sign": "WYMW",
+        "frequency": "1110  kHz",
+        "service": "AM",
+        "owner": "POSITIVE ALTERNATIVE RADIO, INC.",
+        "city": "HURRICANE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.762306,
+          37.957889
+        ]
+      },
+      "properties": {
+        "id": "54411",
+        "call_sign": "WRRL",
+        "frequency": "1130  kHz",
+        "service": "AM",
+        "owner": "SHILO COMMUNICATIONS, INC.",
+        "city": "RAINELLE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.615944,
+          37.417056
+        ]
+      },
+      "properties": {
+        "id": "52865",
+        "call_sign": "WELC",
+        "frequency": "1150  kHz",
+        "service": "AM",
+        "owner": "FIRST MEDIA SERVICES, LLC",
+        "city": "WELCH",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.867028,
+          40.102028
+        ]
+      },
+      "properties": {
+        "id": "44046",
+        "call_sign": "WWVA",
+        "frequency": "1170  kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "WHEELING",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.867028,
+          40.102028
+        ]
+      },
+      "properties": {
+        "id": "44046",
+        "call_sign": "WWVA",
+        "frequency": "1170  kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "WHEELING",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.043722,
+          39.350556
+        ]
+      },
+      "properties": {
+        "id": "64661",
+        "call_sign": "WVUS",
+        "frequency": "1190  kHz",
+        "service": "AM",
+        "owner": "LIGHT OF LIFE COMMUNITY, INC.",
+        "city": "GRAFTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.043722,
+          39.350556
+        ]
+      },
+      "properties": {
+        "id": "64661",
+        "call_sign": "WVUS",
+        "frequency": "1190  kHz",
+        "service": "AM",
+        "owner": "LIGHT OF LIFE COMMUNITY, INC.",
+        "city": "GRAFTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.489056,
+          38.404806
+        ]
+      },
+      "properties": {
+        "id": "61277",
+        "call_sign": "WNRJ",
+        "frequency": "1200  kHz",
+        "service": "AM",
+        "owner": "BRISTOL BROADCASTING COMPANY, INC.",
+        "city": "HUNTINGTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.489056,
+          38.404806
+        ]
+      },
+      "properties": {
+        "id": "61277",
+        "call_sign": "WNRJ",
+        "frequency": "1200  kHz",
+        "service": "AM",
+        "owner": "BRISTOL BROADCASTING COMPANY, INC.",
+        "city": "HUNTINGTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.563444,
+          39.258139
+        ]
+      },
+      "properties": {
+        "id": "22678",
+        "call_sign": "WPKB",
+        "frequency": "1230  kHz",
+        "service": "AM",
+        "owner": "SEVEN MOUNTAINS OF DE, LLC",
+        "city": "PARKERSBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.563444,
+          39.258139
+        ]
+      },
+      "properties": {
+        "id": "22678",
+        "call_sign": "WPKB",
+        "frequency": "1230  kHz",
+        "service": "AM",
+        "owner": "SEVEN MOUNTAINS OF DE, LLC",
+        "city": "PARKERSBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.188694,
+          37.265944
+        ]
+      },
+      "properties": {
+        "id": "44001",
+        "call_sign": "WKEZ",
+        "frequency": "1240  kHz",
+        "service": "AM",
+        "owner": "FIRST MEDIA SERVICES, LLC",
+        "city": "BLUEFIELD",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.714028,
+          38.385639
+        ]
+      },
+      "properties": {
+        "id": "2682",
+        "call_sign": "WVTS",
+        "frequency": "1240  kHz",
+        "service": "AM",
+        "owner": "BRISTOL BROADCASTING COMPANY, INC.",
+        "city": "DUNBAR",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.862278,
+          38.923444
+        ]
+      },
+      "properties": {
+        "id": "40182",
+        "call_sign": "WDNE",
+        "frequency": "1240  kHz",
+        "service": "AM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "ELKINS",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.714028,
+          38.385639
+        ]
+      },
+      "properties": {
+        "id": "2682",
+        "call_sign": "WVTS",
+        "frequency": "1240  kHz",
+        "service": "AM",
+        "owner": "BRISTOL BROADCASTING COMPANY, INC.",
+        "city": "DUNBAR",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.862278,
+          38.923444
+        ]
+      },
+      "properties": {
+        "id": "40182",
+        "call_sign": "WDNE",
+        "frequency": "1240  kHz",
+        "service": "AM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "ELKINS",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.683972,
+          37.993167
+        ]
+      },
+      "properties": {
+        "id": "46743",
+        "call_sign": "WYKM",
+        "frequency": "1250  kHz",
+        "service": "AM",
+        "owner": "SOUTHERN COMMUNICATIONS CORPORATION",
+        "city": "RUPERT",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.971778,
+          37.856222
+        ]
+      },
+      "properties": {
+        "id": "38268",
+        "call_sign": "WVOW",
+        "frequency": "1290  kHz",
+        "service": "AM",
+        "owner": "LOGAN BROADCASTING CORPORATION",
+        "city": "LOGAN",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.971778,
+          37.856222
+        ]
+      },
+      "properties": {
+        "id": "38268",
+        "call_sign": "WVOW",
+        "frequency": "1290  kHz",
+        "service": "AM",
+        "owner": "LOGAN BROADCASTING CORPORATION",
+        "city": "LOGAN",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9695,
+          39.627861
+        ]
+      },
+      "properties": {
+        "id": "3",
+        "call_sign": "WPDX",
+        "frequency": "1300  kHz",
+        "service": "AM",
+        "owner": "AJG CORPORATION",
+        "city": "MORGANTOWN",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.849861,
+          38.395361
+        ]
+      },
+      "properties": {
+        "id": "73176",
+        "call_sign": "WJYP",
+        "frequency": "1300  kHz",
+        "service": "AM",
+        "owner": "WKLC, INC.",
+        "city": "ST. ALBANS",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.849861,
+          38.395361
+        ]
+      },
+      "properties": {
+        "id": "73176",
+        "call_sign": "WJYP",
+        "frequency": "1300  kHz",
+        "service": "AM",
+        "owner": "WKLC, INC.",
+        "city": "ST. ALBANS",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9695,
+          39.627861
+        ]
+      },
+      "properties": {
+        "id": "3",
+        "call_sign": "WPDX",
+        "frequency": "1300  kHz",
+        "service": "AM",
+        "owner": "AJG CORPORATION",
+        "city": "MORGANTOWN",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.350639,
+          37.804833
+        ]
+      },
+      "properties": {
+        "id": "59678",
+        "call_sign": "WSLW",
+        "frequency": "1310  kHz",
+        "service": "AM",
+        "owner": "RADIO GREENBRIER, LLC",
+        "city": "WHITE SULPHUR SPRING",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.859278,
+          39.657583
+        ]
+      },
+      "properties": {
+        "id": "26514",
+        "call_sign": "WETZ",
+        "frequency": "1330  kHz",
+        "service": "AM",
+        "owner": "DAILEY CORPORATION",
+        "city": "NEW MARTINSVILLE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.859278,
+          39.657583
+        ]
+      },
+      "properties": {
+        "id": "26514",
+        "call_sign": "WETZ",
+        "frequency": "1330  kHz",
+        "service": "AM",
+        "owner": "DAILEY CORPORATION",
+        "city": "NEW MARTINSVILLE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.986111,
+          39.463444
+        ]
+      },
+      "properties": {
+        "id": "53484",
+        "call_sign": "WEPM",
+        "frequency": "1340  kHz",
+        "service": "AM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "MARTINSBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.314,
+          38.177333
+        ]
+      },
+      "properties": {
+        "id": "54371",
+        "call_sign": "WMON",
+        "frequency": "1340  kHz",
+        "service": "AM",
+        "owner": "WKLC, INC.",
+        "city": "MONTGOMERY",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7665,
+          38.96575
+        ]
+      },
+      "properties": {
+        "id": "24585",
+        "call_sign": "WMOV",
+        "frequency": "1360  kHz",
+        "service": "AM",
+        "owner": "VANDALIA MEDIA PARTNERS, LLC",
+        "city": "RAVENSWOOD",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.167639,
+          37.617333
+        ]
+      },
+      "properties": {
+        "id": "67038",
+        "call_sign": "WHJC",
+        "frequency": "1360  kHz",
+        "service": "AM",
+        "owner": "COALFIELDS SOCIETY FOUNDATION INC.",
+        "city": "MATEWAN",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.930889,
+          38.290389
+        ]
+      },
+      "properties": {
+        "id": "52867",
+        "call_sign": "WVMR",
+        "frequency": "1370  kHz",
+        "service": "AM",
+        "owner": "POCAHONTAS COMMUNICATIONS COOPERATIVE CORP.",
+        "city": "FROST",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.778139,
+          39.905639
+        ]
+      },
+      "properties": {
+        "id": "53369",
+        "call_sign": "WVLY",
+        "frequency": "1370  kHz",
+        "service": "AM",
+        "owner": "RCK 1 GROUP, LLC",
+        "city": "MOUNDSVILLE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.778139,
+          39.905639
+        ]
+      },
+      "properties": {
+        "id": "53369",
+        "call_sign": "WVLY",
+        "frequency": "1370  kHz",
+        "service": "AM",
+        "owner": "RCK 1 GROUP, LLC",
+        "city": "MOUNDSVILLE",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.915083,
+          37.684278
+        ]
+      },
+      "properties": {
+        "id": "6013",
+        "call_sign": "WMTD",
+        "frequency": "1380  kHz",
+        "service": "AM",
+        "owner": "MOUNTAINPLEX MEDIA, LLC",
+        "city": "HINTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.915083,
+          37.684278
+        ]
+      },
+      "properties": {
+        "id": "6013",
+        "call_sign": "WMTD",
+        "frequency": "1380  kHz",
+        "service": "AM",
+        "owner": "MOUNTAINPLEX MEDIA, LLC",
+        "city": "HINTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.955583,
+          39.43675
+        ]
+      },
+      "properties": {
+        "id": "62340",
+        "call_sign": "WKLP",
+        "frequency": "1390  kHz",
+        "service": "AM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "KEYSER",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.955583,
+          39.43675
+        ]
+      },
+      "properties": {
+        "id": "62340",
+        "call_sign": "WKLP",
+        "frequency": "1390  kHz",
+        "service": "AM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "KEYSER",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.701472,
+          40.097028
+        ]
+      },
+      "properties": {
+        "id": "73192",
+        "call_sign": "WBBD",
+        "frequency": "1400  kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "WHEELING",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.269028,
+          37.669278
+        ]
+      },
+      "properties": {
+        "id": "26392",
+        "call_sign": "WBTH",
+        "frequency": "1400  kHz",
+        "service": "AM",
+        "owner": "MOUNTAIN TOP MEDIA LLC",
+        "city": "WILLIAMSON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.360944,
+          38.806472
+        ]
+      },
+      "properties": {
+        "id": "62294",
+        "call_sign": "WVRC",
+        "frequency": "1400  kHz",
+        "service": "AM",
+        "owner": "ASM COMMUNICATIONS INC.",
+        "city": "SPENCER",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.703472,
+          38.376194
+        ]
+      },
+      "properties": {
+        "id": "12076",
+        "call_sign": "WSCW",
+        "frequency": "1410  kHz",
+        "service": "AM",
+        "owner": "WKLC, INC.",
+        "city": "SOUTH CHARLESTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6035,
+          38.41175
+        ]
+      },
+      "properties": {
+        "id": "14377",
+        "call_sign": "WZWB",
+        "frequency": "1420  kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "KENOVA",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6035,
+          38.41175
+        ]
+      },
+      "properties": {
+        "id": "14377",
+        "call_sign": "WZWB",
+        "frequency": "1420  kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "KENOVA",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.627861,
+          40.445056
+        ]
+      },
+      "properties": {
+        "id": "40873",
+        "call_sign": "WEIR",
+        "frequency": "1430  kHz",
+        "service": "AM",
+        "owner": "OHIO MIDLAND NEWSGROUP, LLC",
+        "city": "WEIRTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.627861,
+          40.445056
+        ]
+      },
+      "properties": {
+        "id": "40873",
+        "call_sign": "WEIR",
+        "frequency": "1430  kHz",
+        "service": "AM",
+        "owner": "OHIO MIDLAND NEWSGROUP, LLC",
+        "city": "WEIRTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.003111,
+          39.676194
+        ]
+      },
+      "properties": {
+        "id": "71671",
+        "call_sign": "WAJR",
+        "frequency": "1440  kHz",
+        "service": "AM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "MORGANTOWN",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2515,
+          37.275944
+        ]
+      },
+      "properties": {
+        "id": "502",
+        "call_sign": "WHIS",
+        "frequency": "1440  kHz",
+        "service": "AM",
+        "owner": "FIRST MEDIA SERVICES, LLC",
+        "city": "BLUEFIELD",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.003111,
+          39.676194
+        ]
+      },
+      "properties": {
+        "id": "71671",
+        "call_sign": "WAJR",
+        "frequency": "1440  kHz",
+        "service": "AM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "MORGANTOWN",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2515,
+          37.275944
+        ]
+      },
+      "properties": {
+        "id": "502",
+        "call_sign": "WHIS",
+        "frequency": "1440  kHz",
+        "service": "AM",
+        "owner": "FIRST MEDIA SERVICES, LLC",
+        "city": "BLUEFIELD",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.747917,
+          38.34925
+        ]
+      },
+      "properties": {
+        "id": "160953",
+        "call_sign": "WLUX",
+        "frequency": "1450  kHz",
+        "service": "AM",
+        "owner": "ST. PAUL RADIO CO.",
+        "city": "DUNBAR",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.527056,
+          39.315917
+        ]
+      },
+      "properties": {
+        "id": "73353",
+        "call_sign": "WVAM",
+        "frequency": "1450  kHz",
+        "service": "AM",
+        "owner": "MID OHIO VALLEY RADIO CORPORATION",
+        "city": "PARKERSBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.747917,
+          38.34925
+        ]
+      },
+      "properties": {
+        "id": "160953",
+        "call_sign": "WLUX",
+        "frequency": "1450  kHz",
+        "service": "AM",
+        "owner": "ST. PAUL RADIO CO.",
+        "city": "DUNBAR",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.527056,
+          39.315917
+        ]
+      },
+      "properties": {
+        "id": "73353",
+        "call_sign": "WVAM",
+        "frequency": "1450  kHz",
+        "service": "AM",
+        "owner": "MID OHIO VALLEY RADIO CORPORATION",
+        "city": "PARKERSBURG",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.207028,
+          38.974556
+        ]
+      },
+      "properties": {
+        "id": "9301",
+        "call_sign": "WBUC",
+        "frequency": "1460  kHz",
+        "service": "AM",
+        "owner": "AJG CORPORATION",
+        "city": "BUCKHANNON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.207028,
+          38.974556
+        ]
+      },
+      "properties": {
+        "id": "9301",
+        "call_sign": "WBUC",
+        "frequency": "1460  kHz",
+        "service": "AM",
+        "owner": "AJG CORPORATION",
+        "city": "BUCKHANNON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6165,
+          38.357861
+        ]
+      },
+      "properties": {
+        "id": "19534",
+        "call_sign": "WSWW",
+        "frequency": "1490  kHz",
+        "service": "AM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "CHARLESTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.09925,
+          37.389833
+        ]
+      },
+      "properties": {
+        "id": "4945",
+        "call_sign": "WAEY",
+        "frequency": "1490  kHz",
+        "service": "AM",
+        "owner": "PRINCETON BROADCASTING, INC.",
+        "city": "PRINCETON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.140361,
+          39.472028
+        ]
+      },
+      "properties": {
+        "id": "20461",
+        "call_sign": "WBKE",
+        "frequency": "1490  kHz",
+        "service": "AM",
+        "owner": "DISRUPTOR RADIO LLC",
+        "city": "FAIRMONT",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.71925,
+          38.653167
+        ]
+      },
+      "properties": {
+        "id": "41889",
+        "call_sign": "WSGB",
+        "frequency": "1490  kHz",
+        "service": "AM",
+        "owner": "SUMMIT MEDIA BROADCASTING, LLC",
+        "city": "SUTTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.71925,
+          38.653167
+        ]
+      },
+      "properties": {
+        "id": "41889",
+        "call_sign": "WSGB",
+        "frequency": "1490  kHz",
+        "service": "AM",
+        "owner": "SUMMIT MEDIA BROADCASTING, LLC",
+        "city": "SUTTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.865278,
+          39.273167
+        ]
+      },
+      "properties": {
+        "id": "27003",
+        "call_sign": "WMRE",
+        "frequency": "1550  kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "CHARLES TOWN",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.865278,
+          39.273167
+        ]
+      },
+      "properties": {
+        "id": "27003",
+        "call_sign": "WMRE",
+        "frequency": "1550  kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "CHARLES TOWN",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7195,
+          39.480639
+        ]
+      },
+      "properties": {
+        "id": "70624",
+        "call_sign": "WFSP",
+        "frequency": "1560  kHz",
+        "service": "AM",
+        "owner": "WFSP BROADCASTING, LLC",
+        "city": "KINGWOOD",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7195,
+          39.480639
+        ]
+      },
+      "properties": {
+        "id": "70624",
+        "call_sign": "WFSP",
+        "frequency": "1560  kHz",
+        "service": "AM",
+        "owner": "WFSP BROADCASTING, LLC",
+        "city": "KINGWOOD",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.105694,
+          38.429528
+        ]
+      },
+      "properties": {
+        "id": "506",
+        "call_sign": "WZZW",
+        "frequency": "1600  kHz",
+        "service": "AM",
+        "owner": "PURE MEDIA MINISTRIES, INC.",
+        "city": "MILTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.702861,
+          40.090639
+        ]
+      },
+      "properties": {
+        "id": "72172",
+        "call_sign": "WKKX",
+        "frequency": "1600  kHz",
+        "service": "AM",
+        "owner": "RCK 1 GROUP, LLC",
+        "city": "WHEELING",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.105694,
+          38.429528
+        ]
+      },
+      "properties": {
+        "id": "506",
+        "call_sign": "WZZW",
+        "frequency": "1600  kHz",
+        "service": "AM",
+        "owner": "PURE MEDIA MINISTRIES, INC.",
+        "city": "MILTON",
+        "state": "WV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.702861,
+          40.090639
+        ]
+      },
+      "properties": {
+        "id": "72172",
+        "call_sign": "WKKX",
+        "frequency": "1600  kHz",
+        "service": "AM",
+        "owner": "RCK 1 GROUP, LLC",
+        "city": "WHEELING",
+        "state": "WV"
+      }
+    }
+  ],
+  "metadata": {
+    "cities": [
+      "ATHENS",
+      "BARRACKVILLE",
+      "BECKLEY",
+      "BENWOOD",
+      "BERKELEY SPRINGS",
+      "BERNARDSTOWN",
+      "BETHANY",
+      "BETHLEHEM",
+      "BLENNERHASSETT",
+      "BLUEFIELD",
+      "BRIDGEPORT",
+      "BUCKHANNON",
+      "CHARLES TOWN",
+      "CHARLESTON",
+      "CHARLESTON WEST SIDE",
+      "CHARLESTONN",
+      "CLARKSBURG",
+      "CLAY",
+      "COWEN",
+      "CRAIGSVILLE",
+      "CROSS LANES",
+      "DANVILLE",
+      "DUNBAR",
+      "DURBIN",
+      "EDMOND",
+      "ELIZABETH",
+      "ELKINS",
+      "FAIRMONT",
+      "FAYETTEVILLE",
+      "FISHER",
+      "FORT GAY",
+      "FRANKLIN",
+      "FROST",
+      "GARY",
+      "GLENVILLE",
+      "GRAFTON",
+      "GRANVILLE",
+      "GREEN VALLEY",
+      "HARRISVILLE",
+      "HILLSBORO",
+      "HINTON",
+      "HUNTINGTON",
+      "HURRICANE",
+      "IDA MAY",
+      "IVYDALE",
+      "KENOVA",
+      "KERMIT",
+      "KEYSER",
+      "KINGWOOD",
+      "LEWISBURG",
+      "LINDSIDE",
+      "LIZEMORES",
+      "LOGAN",
+      "LOST CREEK",
+      "MALDEN",
+      "MANNINGTON",
+      "MARLINTON",
+      "MARMET",
+      "MARTINSBURG",
+      "MATEWAN",
+      "MIAMI",
+      "MIDDLEBOURNE",
+      "MILTON",
+      "MONTGOMERY",
+      "MOOREFIELD",
+      "MORGANTOWN",
+      "MOUNDSVILLE",
+      "MOUNT HOPE",
+      "MULLENS",
+      "NEW MARTINSVILLE",
+      "NIMITZ",
+      "OAK HILL",
+      "PARKERSBURG",
+      "PETERSBURG",
+      "PINEVILLE",
+      "POCATALICO",
+      "POINT PLEASANT",
+      "PRINCETON",
+      "RAINELLE",
+      "RAVENSWOOD",
+      "RICHWOOD",
+      "RIDGELEY",
+      "RIPLEY",
+      "ROCK CAVE",
+      "ROMNEY",
+      "RUPERT",
+      "SAINT MARYS",
+      "SALEM",
+      "SHEPHERDSTOWN",
+      "SOUTH CHARLESTON",
+      "SPENCER",
+      "ST.",
+      "ST. ALBANS",
+      "ST. MARYS",
+      "STAR CITY",
+      "SUMMERSVILLE",
+      "SUTTON",
+      "UNION",
+      "VIENNA",
+      "WARDENSVILLE",
+      "WAYNE",
+      "WEBSTER SPRINGS",
+      "WEIRTON",
+      "WELCH",
+      "WEST LIBERTY",
+      "WEST MILFORD",
+      "WEST UNION",
+      "WESTON",
+      "WESTOVER",
+      "WHEELIING",
+      "WHEELING",
+      "WHITE SULPHUR SPRING",
+      "WHITESULPHURSPRINGS",
+      "WILLIAMSON",
+      "WILLIAMSTOWN"
+    ],
+    "frequencies": [
+      "88.1  MHz",
+      "88.3  MHz",
+      "88.5  MHz",
+      "88.7  MHz",
+      "88.9  MHz",
+      "89.3  MHz",
+      "89.5  MHz",
+      "89.7  MHz",
+      "89.9  MHz",
+      "90.1  MHz",
+      "90.3  MHz",
+      "90.5  MHz",
+      "90.7  MHz",
+      "90.9  MHz",
+      "91.1  MHz",
+      "91.3  MHz",
+      "91.5  MHz",
+      "91.7  MHz",
+      "91.9  MHz",
+      "92.1  MHz",
+      "92.3  MHz",
+      "92.5  MHz",
+      "92.7  MHz",
+      "92.9  MHz",
+      "93.1  MHz",
+      "93.3  MHz",
+      "93.5  MHz",
+      "93.7  MHz",
+      "93.9  MHz",
+      "94.1  MHz",
+      "94.3  MHz",
+      "94.5  MHz",
+      "94.7  MHz",
+      "94.9  MHz",
+      "95.1  MHz",
+      "95.3  MHz",
+      "95.7  MHz",
+      "95.9  MHz",
+      "96.1  MHz",
+      "96.3  MHz",
+      "96.5  MHz",
+      "96.7  MHz",
+      "96.9  MHz",
+      "97.1  MHz",
+      "97.3  MHz",
+      "97.5  MHz",
+      "97.7  MHz",
+      "97.9  MHz",
+      "98.1  MHz",
+      "98.3  MHz",
+      "98.5  MHz",
+      "98.7  MHz",
+      "98.9  MHz",
+      "99.1  MHz",
+      "99.3  MHz",
+      "99.5  MHz",
+      "99.9  MHz",
+      "100.1 MHz",
+      "100.3 MHz",
+      "100.5 MHz",
+      "100.7 MHz",
+      "100.9 MHz",
+      "101.1 MHz",
+      "101.3 MHz",
+      "101.5 MHz",
+      "101.7 MHz",
+      "101.9 MHz",
+      "102.3 MHz",
+      "102.5 MHz",
+      "102.7 MHz",
+      "102.9 MHz",
+      "103.1 MHz",
+      "103.3 MHz",
+      "103.5 MHz",
+      "103.7 MHz",
+      "103.9 MHz",
+      "104.1 MHz",
+      "104.3 MHz",
+      "104.5 MHz",
+      "104.7 MHz",
+      "104.9 MHz",
+      "105.1 MHz",
+      "105.3 MHz",
+      "105.5 MHz",
+      "105.7 MHz",
+      "105.9 MHz",
+      "106.1 MHz",
+      "106.3 MHz",
+      "106.5 MHz",
+      "106.7 MHz",
+      "106.9 MHz",
+      "107.1 MHz",
+      "107.3 MHz",
+      "107.5 MHz",
+      "107.7 MHz",
+      "107.9 MHz",
+      "560   kHz",
+      "580   kHz",
+      "600   kHz",
+      "620   kHz",
+      "630   kHz",
+      "680   kHz",
+      "690   kHz",
+      "740   kHz",
+      "800   kHz",
+      "860   kHz",
+      "920   kHz",
+      "930   kHz",
+      "950   kHz",
+      "970   kHz",
+      "980   kHz",
+      "1010  kHz",
+      "1030  kHz",
+      "1050  kHz",
+      "1070  kHz",
+      "1110  kHz",
+      "1130  kHz",
+      "1150  kHz",
+      "1170  kHz",
+      "1190  kHz",
+      "1200  kHz",
+      "1230  kHz",
+      "1240  kHz",
+      "1250  kHz",
+      "1290  kHz",
+      "1300  kHz",
+      "1310  kHz",
+      "1330  kHz",
+      "1340  kHz",
+      "1360  kHz",
+      "1370  kHz",
+      "1380  kHz",
+      "1390  kHz",
+      "1400  kHz",
+      "1410  kHz",
+      "1420  kHz",
+      "1430  kHz",
+      "1440  kHz",
+      "1450  kHz",
+      "1460  kHz",
+      "1490  kHz",
+      "1550  kHz",
+      "1560  kHz",
+      "1600  kHz"
+    ],
+    "owners": [
+      "AJG CORPORATION",
+      "AMERICAN FAMILY ASSOCIATION",
+      "ARAIZA REVIVAL MINISTRIES, INC.",
+      "ASM COMMUNICATIONS INC.",
+      "BEACONNET L.L.C.",
+      "BIBLE BROADCASTING NETWORK, INC.",
+      "BOARD OF TRUSTEES, DAVIS & ELKINS COLLEGE.",
+      "BOULDIN RADIO, LLC",
+      "BRISTOL BROADCASTING COMPANY, INC",
+      "BRISTOL BROADCASTING COMPANY, INC.",
+      "CITY OF ST. ALBANS",
+      "CLAY COUNTY COMMUNICATIONS, LTD.",
+      "CLAY COUNTY SERVICES UNLIMITED, INC",
+      "COAL MOUNTAIN BROADCASTING, INC.",
+      "COALFIELDS SOCIETY FOUNDATION INC.",
+      "COALFIELDS SOCIETY FOUNDATION, INC.",
+      "COLBY FOUNDATION, INC.",
+      "CONCORD UNIVERSITY",
+      "DAILEY CORPORATION",
+      "DEFENDERS OF THE FAITH, INC.",
+      "DELLA JANE WOOFTER WOOFTER",
+      "DELLA WOOFTER",
+      "DISRUPTOR RADIO LLC",
+      "EDUCATIONAL RADIO FOUNDATION OF WV INC.",
+      "EVANGELIST COMMUNICATIONS, INC.",
+      "FIRST MEDIA SERVICES, LLC",
+      "FM RADIO LICENSES, LLC",
+      "FOOTHILLS RESOURCE GROUP, INC.",
+      "FRIENDS OF WFGH, INC.",
+      "GOD'S WORD BROADCASTING, INC.",
+      "GODS RESPONSE INC.",
+      "GRACE MISSIONARY BAPTIST CHURCH",
+      "GRACE VALLEY BAPTIST CHURCH",
+      "GRAVE CREEK B'NAI NOACH",
+      "HATFIELD-MCCOY BLUEGRASS CORPORATION",
+      "HOLY SPIRIT STUDY INSTITUTE LTD",
+      "HOMETOWN MEDIA, LLC",
+      "IHM LICENSES, LLC",
+      "IVYDALE COMMUNITY ACTION NETWORK, INC",
+      "JAWCO, INC.",
+      "K-LOVE, INC.",
+      "KINDRED COMMUNICATIONS, INC.",
+      "KOL AMI HAVURAH",
+      "LANDMARK BAPTIST CHURCH",
+      "LHTC MEDIA OF WEST VIRGINIA, INC.",
+      "LIBERTY BAPTIST CHURCH",
+      "LIGHT OF LIFE COMMUNITY INC",
+      "LIGHT OF LIFE COMMUNITY, INC.",
+      "LIGHTENING BOLT COMMUNICATIONS, LLC",
+      "LOGAN BROADCASTING CORP.",
+      "LOGAN BROADCASTING CORPORATION",
+      "MARSHALL UNIVERSITY BOARD OF GOVERNORS",
+      "MASQUE INFORMED",
+      "MCDOWELL COUNTY COMMISSION ON AGING, INC.",
+      "MID OHIO VALLEY RADIO CORPORATION",
+      "MINERAL COUNTY TRAVEL, TOURISM, CONVENTION AND VISITORS BUREAU, LTD.",
+      "MONROE COUNTY BOARD OF EDUCATION",
+      "MOUNTAIN STATE COMMUNITY RADIO INC",
+      "MOUNTAIN TOP MEDIA LLC",
+      "MOUNTAINPLEX MEDIA II, LLC",
+      "MOUNTAINPLEX MEDIA, LLC",
+      "NEW RIVER CHRISTIAN MINISTRIES, INC.",
+      "OHIO COUNTY BOARD OF EDUCATION",
+      "OHIO MIDLAND NEWSGROUP, LLC",
+      "OHIO VALLEY PEACE",
+      "PARTNERSHIP OF AFRICAN AMERICAN CHURCHES",
+      "PENSACOLA CHRISTIAN COLLEGE, INC.",
+      "PITTSBURGH PUBLIC MEDIA",
+      "PLATEAU BROADCASTING, INC.",
+      "POCAHONTAS COMMUNICATIONS COOPERATIVE CORP.",
+      "POCAHONTAS COMMUNICATIONS COOPERATIVE CORPORATION",
+      "POSITIVE ALTERNATIVE RADIO",
+      "POSITIVE ALTERNATIVE RADIO INC.",
+      "POSITIVE ALTERNATIVE RADIO, INC.",
+      "PRICE BROADCASTING, LLC PRICE",
+      "PRINCETON BROADCASTING, INC.",
+      "PROSPERITAS BROADCASTING SYSTEM, LP",
+      "PURE MEDIA MINISTRIES, INC.",
+      "RADIO 7 COMPANY",
+      "RADIO GREENBRIER, LLC",
+      "RCK 1 GROUP LLC",
+      "RCK 1 GROUP, LLC",
+      "RITCHIE PROGRESS ALLIANCE, INC.",
+      "RIVERSIDE BAPTIST CHURCH",
+      "ROANE COUNTY BOARD OF EDUCATION",
+      "SAVE OUR STATION INC.",
+      "SEVEN MOUNTAINS OF DE, LLC",
+      "SEVEN RANGES RADIO CO., INC.",
+      "SHARI SYNER",
+      "SHENANDOAH COMMUNICATIONS, INC.",
+      "SHEPHERD COLLEGE BOARD OF GOVERNORS",
+      "SHILO COMMUNICATIONS, INC.",
+      "SHOFAR BROADCASTING CORPORATION",
+      "SOUTH BRANCH CAREER AND TECHNICAL CENTER",
+      "SOUTHERN APPALACHIAN LABOR SCHOOL",
+      "SOUTHERN COMMUNICATIONS CORP",
+      "SOUTHERN COMMUNICATIONS CORPORATION",
+      "SPRING VALLEY HIGH SCHOOL (STUDENTS)",
+      "ST. PAUL RADIO CO.",
+      "STUDIO C, LLC",
+      "SUMMIT MEDIA BROADCASTING, L.L.C.",
+      "SUMMIT MEDIA BROADCASTING, LLC",
+      "SUMMIT MEDIA SOUTH, INC.",
+      "SUMMIT MEDIA, INC.",
+      "THE DENVER FOUNDATION, INCORPORATED",
+      "TOTAL MEDIA GROUP, INC.",
+      "TYLER COUNTY BOARD OF EDUCATION",
+      "VANDALIA MEDIA PARTNERS 2 LLC",
+      "VANDALIA MEDIA PARTNERS, LLC",
+      "VCY AMERICA, INC.",
+      "WAYNE COUNTY BOARD OF EDUCATION",
+      "WAYNE HIGH SCHOOL",
+      "WEST LIBERTY STATE COLLEGE",
+      "WEST VIRGINIA BROADCASTING, INC.",
+      "WEST VIRGINIA EDUCATIONAL BROADCASTING AUTHORITY",
+      "WEST VIRGINIA RADIO CORPORATION",
+      "WEST VIRGINIA UNIVERSITY AT PARKERSBURG JOURNALISM DEPT.",
+      "WEST VIRGINIA UNIVERSITY BOARD OF GOVERNORS",
+      "WFGH AMATEUR RADIO CLUB, INC.",
+      "WFSP BROADCASTING, LLC",
+      "WKLC, INC.",
+      "WKMM RADIO, LLC",
+      "ZACK MEDIA SOUTH LLC",
+      "ZACK MEDIA, LLC"
+    ],
+    "services": [
+      "AM",
+      "FB",
+      "FL",
+      "FM",
+      "FS",
+      "FX"
+    ]
+  }
+}

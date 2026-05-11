@@ -1,0 +1,1865 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.317694,
+          41.8575
+        ]
+      },
+      "properties": {
+        "id": "66656",
+        "call_sign": "WELH",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "THE WHEELER SCHOOL",
+        "city": "PROVIDENCE",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.811611,
+          41.405194
+        ]
+      },
+      "properties": {
+        "id": "84180",
+        "call_sign": "WKIV",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "WESTERLY",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.258917,
+          41.648417
+        ]
+      },
+      "properties": {
+        "id": "57426",
+        "call_sign": "WQRI",
+        "frequency": "88.3  MHz",
+        "service": "FM",
+        "owner": "ROGER WILLIAMS UNIVERSITY",
+        "city": "BRISTOL",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.475583,
+          41.423889
+        ]
+      },
+      "properties": {
+        "id": "768450",
+        "call_sign": "WQNP",
+        "frequency": "88.5  MHz",
+        "service": "FM",
+        "owner": "THE MARCONI BROADCASTING FOUNDATION",
+        "city": "NARRAGANSETT",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.557,
+          41.803444
+        ]
+      },
+      "properties": {
+        "id": "7650",
+        "call_sign": "WJMF",
+        "frequency": "88.7  MHz",
+        "service": "FM",
+        "owner": "BRYANT UNIVERSITY",
+        "city": "SMITHFIELD",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1895,
+          41.596778
+        ]
+      },
+      "properties": {
+        "id": "163899",
+        "call_sign": "WNPN",
+        "frequency": "89.3  MHz",
+        "service": "FM",
+        "owner": "OCEAN STATE MEDIA GROUP",
+        "city": "NEWPORT",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1895,
+          41.596778
+        ]
+      },
+      "properties": {
+        "id": "163899",
+        "call_sign": "WNPN",
+        "frequency": "89.3  MHz",
+        "service": "FM",
+        "owner": "OCEAN STATE MEDIA GROUP",
+        "city": "NEWPORT",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.726028,
+          41.373472
+        ]
+      },
+      "properties": {
+        "id": "768149",
+        "call_sign": "WNPW",
+        "frequency": "89.5  MHz",
+        "service": "FM",
+        "owner": "OCEAN STATE MEDIA GROUP",
+        "city": "WESTERLY",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.528333,
+          41.497778
+        ]
+      },
+      "properties": {
+        "id": "69206",
+        "call_sign": "WRIU",
+        "frequency": "90.3  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF RHODE ISLAND",
+        "city": "KINGSTON",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.528333,
+          41.497778
+        ]
+      },
+      "properties": {
+        "id": "69206",
+        "call_sign": "WRIU",
+        "frequency": "90.3  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF RHODE ISLAND",
+        "city": "KINGSTON",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.528111,
+          41.497889
+        ]
+      },
+      "properties": {
+        "id": "69206",
+        "call_sign": "WRIU",
+        "frequency": "90.3  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF RHODE ISLAND",
+        "city": "KINGSTON",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.458667,
+          41.498167
+        ]
+      },
+      "properties": {
+        "id": "53078",
+        "call_sign": "WNPH",
+        "frequency": "90.7  MHz",
+        "service": "FM",
+        "owner": "OCEAN STATE MEDIA GROUP",
+        "city": "PORTSMOUTH",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.271694,
+          41.60175
+        ]
+      },
+      "properties": {
+        "id": "53078",
+        "call_sign": "WNPH",
+        "frequency": "90.7  MHz",
+        "service": "FM",
+        "owner": "OCEAN STATE MEDIA GROUP",
+        "city": "PORTSMOUTH",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.271694,
+          41.60175
+        ]
+      },
+      "properties": {
+        "id": "53078",
+        "call_sign": "WNPH",
+        "frequency": "90.7  MHz",
+        "service": "FM",
+        "owner": "OCEAN STATE MEDIA GROUP",
+        "city": "PORTSMOUTH",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.784639,
+          41.494917
+        ]
+      },
+      "properties": {
+        "id": "176949",
+        "call_sign": "WXEV",
+        "frequency": "91.1  MHz",
+        "service": "FM",
+        "owner": "HORIZON CHRISTIAN FELLOWSHIP",
+        "city": "BRADFORD",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.436111,
+          41.844417
+        ]
+      },
+      "properties": {
+        "id": "53676",
+        "call_sign": "WDOM",
+        "frequency": "91.3  MHz",
+        "service": "FM",
+        "owner": "PROVIDENCE COLLEGE",
+        "city": "PROVIDENCE",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.593111,
+          41.686194
+        ]
+      },
+      "properties": {
+        "id": "14229",
+        "call_sign": "WCVY",
+        "frequency": "91.5  MHz",
+        "service": "FM",
+        "owner": "COVENTRY RHODE ISLAND PUBLIC SCHOOLS",
+        "city": "COVENTRY",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.475583,
+          41.423889
+        ]
+      },
+      "properties": {
+        "id": "768684",
+        "call_sign": "WJXP",
+        "frequency": "91.5  MHz",
+        "service": "FM",
+        "owner": "HORIZON CHRISTIAN FELLOWSHIP",
+        "city": "NARRAGANSETT PIER",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.628667,
+          41.974833
+        ]
+      },
+      "properties": {
+        "id": "176661",
+        "call_sign": "WSJQ",
+        "frequency": "91.5  MHz",
+        "service": "FM",
+        "owner": "HORIZON CHRISTIAN FELLOWSHIP",
+        "city": "PASCOAG",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.472778,
+          41.804722
+        ]
+      },
+      "properties": {
+        "id": "64841",
+        "call_sign": "WPRO-FM",
+        "frequency": "92.3  MHz",
+        "service": "FM",
+        "owner": "RADIO LICENSE HOLDING CBC, LLC",
+        "city": "PROVIDENCE",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.472778,
+          41.804722
+        ]
+      },
+      "properties": {
+        "id": "64841",
+        "call_sign": "WPRO-FM",
+        "frequency": "92.3  MHz",
+        "service": "FS",
+        "owner": "RADIO LICENSE HOLDING CBC, LLC",
+        "city": "PROVIDENCE",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.471639,
+          41.808278
+        ]
+      },
+      "properties": {
+        "id": "140739",
+        "call_sign": "W224DG",
+        "frequency": "92.7  MHz",
+        "service": "FX",
+        "owner": "BLOUNT COMMUNICATIONS, INC.",
+        "city": "WARWICK",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.384778,
+          41.820944
+        ]
+      },
+      "properties": {
+        "id": "156667",
+        "call_sign": "W229AN",
+        "frequency": "93.7  MHz",
+        "service": "FX",
+        "owner": "TOMAS TATE",
+        "city": "PROVIDENCE",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.368667,
+          41.827472
+        ]
+      },
+      "properties": {
+        "id": "156667",
+        "call_sign": "W229AN",
+        "frequency": "93.7  MHz",
+        "service": "FX",
+        "owner": "TOMAS TATE",
+        "city": "PROVIDENCE",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.368667,
+          41.827889
+        ]
+      },
+      "properties": {
+        "id": "72298",
+        "call_sign": "WHJY",
+        "frequency": "94.1  MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "PROVIDENCE",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.368611,
+          41.827778
+        ]
+      },
+      "properties": {
+        "id": "41191",
+        "call_sign": "W235CN",
+        "frequency": "94.9  MHz",
+        "service": "FX",
+        "owner": "RADIO SHARON FOUNDATION",
+        "city": "PROVIDENCE",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.594222,
+          41.700111
+        ]
+      },
+      "properties": {
+        "id": "193137",
+        "call_sign": "WAST-LP",
+        "frequency": "95.1  MHz",
+        "service": "FL",
+        "owner": "ARSAN BROADCASTING FOUNDATION",
+        "city": "COVENTRY",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.594222,
+          41.700111
+        ]
+      },
+      "properties": {
+        "id": "193137",
+        "call_sign": "WAST-LP",
+        "frequency": "95.1  MHz",
+        "service": "FL",
+        "owner": "ARSAN BROADCASTING FOUNDATION",
+        "city": "COVENTRY",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.592778,
+          42.021944
+        ]
+      },
+      "properties": {
+        "id": "787799",
+        "call_sign": "WMDS-LP",
+        "frequency": "95.1  MHz",
+        "service": "FL",
+        "owner": "BROADCAST LEARNING GROUP",
+        "city": "WOONSOCKET",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.368639,
+          41.827861
+        ]
+      },
+      "properties": {
+        "id": "7313",
+        "call_sign": "WLVO",
+        "frequency": "95.5  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "PROVIDENCE",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.557,
+          41.803444
+        ]
+      },
+      "properties": {
+        "id": "7313",
+        "call_sign": "WLVO",
+        "frequency": "95.5  MHz",
+        "service": "FS",
+        "owner": "K-LOVE, INC.",
+        "city": "PROVIDENCE",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.571722,
+          41.174556
+        ]
+      },
+      "properties": {
+        "id": "67119",
+        "call_sign": "WCRI-FM",
+        "frequency": "95.9  MHz",
+        "service": "FM",
+        "owner": "JUDSON GROUP, INC.",
+        "city": "BLOCK ISLAND",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.306417,
+          41.497583
+        ]
+      },
+      "properties": {
+        "id": "77591",
+        "call_sign": "W243AI",
+        "frequency": "96.5  MHz",
+        "service": "FX",
+        "owner": "DAVID P. MAXSON",
+        "city": "NEWPORT",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.420889,
+          41.790917
+        ]
+      },
+      "properties": {
+        "id": "124214",
+        "call_sign": "WIGV-LP",
+        "frequency": "96.5  MHz",
+        "service": "FL",
+        "owner": "CASA DE ORACION GETSEMANI",
+        "city": "PROVIDENCE",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.466389,
+          41.429722
+        ]
+      },
+      "properties": {
+        "id": "788009",
+        "call_sign": "WRIB-LP",
+        "frequency": "96.7  MHz",
+        "service": "FL",
+        "owner": "RI FREE RADIO",
+        "city": "NARRAGANSETT",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.571722,
+          41.174556
+        ]
+      },
+      "properties": {
+        "id": "71295",
+        "call_sign": "WMNP",
+        "frequency": "99.3  MHz",
+        "service": "FM",
+        "owner": "ISLAND BROADCASTING OF RI, LLC",
+        "city": "BLOCK ISLAND",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.505056,
+          41.995389
+        ]
+      },
+      "properties": {
+        "id": "201051",
+        "call_sign": "W258DU",
+        "frequency": "99.5  MHz",
+        "service": "FX",
+        "owner": "O-N RADIO, INC.",
+        "city": "WOONSOCKET",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.631444,
+          41.572861
+        ]
+      },
+      "properties": {
+        "id": "4376",
+        "call_sign": "WEAN-FM",
+        "frequency": "99.7  MHz",
+        "service": "FM",
+        "owner": "RADIO LICENSE HOLDING CBC, LLC",
+        "city": "WAKEFIELD-PEACEDALE",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.455056,
+          41.997306
+        ]
+      },
+      "properties": {
+        "id": "26352",
+        "call_sign": "W260DC",
+        "frequency": "99.9  MHz",
+        "service": "FX",
+        "owner": "BOUCHARD BROADCASTING, INC.",
+        "city": "WOONSOCKET",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.835833,
+          41.365833
+        ]
+      },
+      "properties": {
+        "id": "787816",
+        "call_sign": "WAMB-LP",
+        "frequency": "100.1 MHz",
+        "service": "FL",
+        "owner": "BLACKSTONE RADIO FOUNDATION",
+        "city": "WESTERLY",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1895,
+          41.596778
+        ]
+      },
+      "properties": {
+        "id": "52318",
+        "call_sign": "WKKB",
+        "frequency": "100.3 MHz",
+        "service": "FM",
+        "owner": "RED WOLF BROADCASTING CORPORATION",
+        "city": "MIDDLETOWN",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.312,
+          41.503722
+        ]
+      },
+      "properties": {
+        "id": "200512",
+        "call_sign": "W266DI",
+        "frequency": "101.1 MHz",
+        "service": "FX",
+        "owner": "ISLAND BROADCASTING OF RI, LLC",
+        "city": "NEWPORT",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.435611,
+          41.795361
+        ]
+      },
+      "properties": {
+        "id": "196448",
+        "call_sign": "WVVX-LP",
+        "frequency": "101.1 MHz",
+        "service": "FL",
+        "owner": "PROVIDENCE COMMUNITY RADIO",
+        "city": "PROVIDENCE",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.435611,
+          41.795361
+        ]
+      },
+      "properties": {
+        "id": "196244",
+        "call_sign": "WBRU-LP",
+        "frequency": "101.1 MHz",
+        "service": "FL",
+        "owner": "BROWN STUDENT RADIO",
+        "city": "PROVIDENCE",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.435611,
+          41.795361
+        ]
+      },
+      "properties": {
+        "id": "195178",
+        "call_sign": "WFOO-LP",
+        "frequency": "101.1 MHz",
+        "service": "FL",
+        "owner": "AS220",
+        "city": "PROVIDENCE",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.410056,
+          41.825222
+        ]
+      },
+      "properties": {
+        "id": "54568",
+        "call_sign": "WWBB",
+        "frequency": "101.5 MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "PROVIDENCE",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.368611,
+          41.827778
+        ]
+      },
+      "properties": {
+        "id": "54568",
+        "call_sign": "WWBB",
+        "frequency": "101.5 MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "PROVIDENCE",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7325,
+          41.351944
+        ]
+      },
+      "properties": {
+        "id": "788311",
+        "call_sign": "NEW",
+        "frequency": "101.7 MHz",
+        "service": "FL",
+        "owner": "THE BUZZ ALTERNATIVE RADIO FOUNDATION INC.",
+        "city": "WESTERLY",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.368667,
+          41.827889
+        ]
+      },
+      "properties": {
+        "id": "71534",
+        "call_sign": "W271CR",
+        "frequency": "102.1 MHz",
+        "service": "FX",
+        "owner": "VIDEO MUNDO BROADCASTING COMPANY, LLC",
+        "city": "PROVIDENCE",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.475583,
+          41.423889
+        ]
+      },
+      "properties": {
+        "id": "22874",
+        "call_sign": "WNPE",
+        "frequency": "102.7 MHz",
+        "service": "FM",
+        "owner": "OCEAN STATE MEDIA GROUP",
+        "city": "NARRAGANSETT PIER",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.472778,
+          41.804722
+        ]
+      },
+      "properties": {
+        "id": "202495",
+        "call_sign": "W275DA",
+        "frequency": "102.9 MHz",
+        "service": "FX",
+        "owner": "OCEAN STATE MEDIA GROUP",
+        "city": "PROVIDENCE",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.835889,
+          41.365944
+        ]
+      },
+      "properties": {
+        "id": "26347",
+        "call_sign": "W276DF",
+        "frequency": "103.1 MHz",
+        "service": "FX",
+        "owner": "TURN UP YOUR RADIO, LLC",
+        "city": "WESTERLY",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.632278,
+          41.573167
+        ]
+      },
+      "properties": {
+        "id": "71720",
+        "call_sign": "WVEI-FM",
+        "frequency": "103.7 MHz",
+        "service": "FM",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "WESTERLY",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.632278,
+          41.573167
+        ]
+      },
+      "properties": {
+        "id": "71720",
+        "call_sign": "WVEI-FM",
+        "frequency": "103.7 MHz",
+        "service": "FM",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "WESTERLY",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.632278,
+          41.573167
+        ]
+      },
+      "properties": {
+        "id": "71720",
+        "call_sign": "WVEI-FM",
+        "frequency": "103.7 MHz",
+        "service": "FS",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "WESTERLY",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.784528,
+          41.494833
+        ]
+      },
+      "properties": {
+        "id": "157097",
+        "call_sign": "W282CB",
+        "frequency": "104.3 MHz",
+        "service": "FX",
+        "owner": "RED WOLF BROADCASTING CORPORATION",
+        "city": "HOPE VALLEY",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.311944,
+          41.503611
+        ]
+      },
+      "properties": {
+        "id": "787748",
+        "call_sign": "WRIA-LP",
+        "frequency": "104.7 MHz",
+        "service": "FL",
+        "owner": "IGLESIA CRISTIANA DE JEHOVA",
+        "city": "NEWPORT",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.444444,
+          41.756111
+        ]
+      },
+      "properties": {
+        "id": "156672",
+        "call_sign": "W284BA",
+        "frequency": "104.7 MHz",
+        "service": "FX",
+        "owner": "IHM LICENSES, LLC",
+        "city": "WARWICK",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.469778,
+          41.806778
+        ]
+      },
+      "properties": {
+        "id": "64838",
+        "call_sign": "WWLI",
+        "frequency": "105.1 MHz",
+        "service": "FM",
+        "owner": "RADIO LICENSE HOLDING CBC, LLC",
+        "city": "PROVIDENCE",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4695,
+          41.806194
+        ]
+      },
+      "properties": {
+        "id": "64838",
+        "call_sign": "WWLI",
+        "frequency": "105.1 MHz",
+        "service": "FS",
+        "owner": "RADIO LICENSE HOLDING CBC, LLC",
+        "city": "PROVIDENCE",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.631333,
+          41.692972
+        ]
+      },
+      "properties": {
+        "id": "202750",
+        "call_sign": "W288EE",
+        "frequency": "105.5 MHz",
+        "service": "FX",
+        "owner": "TURN UP YOUR RADIO, LLC",
+        "city": "WEST WARWICK",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.308361,
+          41.485083
+        ]
+      },
+      "properties": {
+        "id": "123581",
+        "call_sign": "WXHQ-LP",
+        "frequency": "105.9 MHz",
+        "service": "FL",
+        "owner": "NEWPORT MUSICAL ARTS ASSOCIATION",
+        "city": "NEWPORT",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.447833,
+          41.995389
+        ]
+      },
+      "properties": {
+        "id": "65198",
+        "call_sign": "WWKX",
+        "frequency": "106.3 MHz",
+        "service": "FM",
+        "owner": "RADIO LICENSE HOLDING CBC, LLC",
+        "city": "WOONSOCKET",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.444444,
+          41.756111
+        ]
+      },
+      "properties": {
+        "id": "202828",
+        "call_sign": "W298DE",
+        "frequency": "107.5 MHz",
+        "service": "FX",
+        "owner": "RELEVANT RADIO, INC.",
+        "city": "WARWICK",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.928972,
+          41.460944
+        ]
+      },
+      "properties": {
+        "id": "58731",
+        "call_sign": "WWRX",
+        "frequency": "107.7 MHz",
+        "service": "FM",
+        "owner": "FULLER BROADCASTING INTERNATIONAL, LLC",
+        "city": "BRADFORD",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.398389,
+          41.905667
+        ]
+      },
+      "properties": {
+        "id": "67578",
+        "call_sign": "WSJW",
+        "frequency": "550   kHz",
+        "service": "AM",
+        "owner": "RELEVANT RADIO, INC.",
+        "city": "PAWTUCKET",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.398944,
+          41.905111
+        ]
+      },
+      "properties": {
+        "id": "67578",
+        "call_sign": "WSJW",
+        "frequency": "550   kHz",
+        "service": "AM",
+        "owner": "RELEVANT RADIO, INC.",
+        "city": "PAWTUCKET",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.322556,
+          41.774556
+        ]
+      },
+      "properties": {
+        "id": "64843",
+        "call_sign": "WPRO",
+        "frequency": "630   kHz",
+        "service": "AM",
+        "owner": "RADIO LICENSE HOLDING CBC, LLC",
+        "city": "PROVIDENCE",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.322556,
+          41.774556
+        ]
+      },
+      "properties": {
+        "id": "64843",
+        "call_sign": "WPRO",
+        "frequency": "630   kHz",
+        "service": "AM",
+        "owner": "RADIO LICENSE HOLDING CBC, LLC",
+        "city": "PROVIDENCE",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.365056,
+          41.834278
+        ]
+      },
+      "properties": {
+        "id": "64840",
+        "call_sign": "WPRV",
+        "frequency": "790   kHz",
+        "service": "AM",
+        "owner": "RADIO LICENSE HOLDING CBC, LLC",
+        "city": "PROVIDENCE",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.365056,
+          41.834278
+        ]
+      },
+      "properties": {
+        "id": "64840",
+        "call_sign": "WPRV",
+        "frequency": "790   kHz",
+        "service": "AM",
+        "owner": "RADIO LICENSE HOLDING CBC, LLC",
+        "city": "PROVIDENCE",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.331444,
+          41.7815
+        ]
+      },
+      "properties": {
+        "id": "37234",
+        "call_sign": "WHJJ",
+        "frequency": "920   kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "PROVIDENCE",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.331444,
+          41.7815
+        ]
+      },
+      "properties": {
+        "id": "37234",
+        "call_sign": "WHJJ",
+        "frequency": "920   kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "PROVIDENCE",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.368667,
+          41.827889
+        ]
+      },
+      "properties": {
+        "id": "4377",
+        "call_sign": "WPMZ",
+        "frequency": "1110  kHz",
+        "service": "AM",
+        "owner": "VIDEO MUNDO BROADCASTING CO., LLC",
+        "city": "EAST PROVIDENCE",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.742556,
+          41.526778
+        ]
+      },
+      "properties": {
+        "id": "3068",
+        "call_sign": "WSKP",
+        "frequency": "1180  kHz",
+        "service": "AM",
+        "owner": "RED WOLF BROADCASTING CORPORATION",
+        "city": "HOPE VALLEY",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.742556,
+          41.526778
+        ]
+      },
+      "properties": {
+        "id": "3068",
+        "call_sign": "WSKP",
+        "frequency": "1180  kHz",
+        "service": "AM",
+        "owner": "RED WOLF BROADCASTING CORPORATION",
+        "city": "HOPE VALLEY",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.384778,
+          41.820944
+        ]
+      },
+      "properties": {
+        "id": "9183",
+        "call_sign": "WSTL",
+        "frequency": "1220  kHz",
+        "service": "AM",
+        "owner": "TOMAS TATE",
+        "city": "PROVIDENCE",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.384778,
+          41.820944
+        ]
+      },
+      "properties": {
+        "id": "9183",
+        "call_sign": "WSTL",
+        "frequency": "1220  kHz",
+        "service": "AM",
+        "owner": "TOMAS TATE",
+        "city": "PROVIDENCE",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.835889,
+          41.365944
+        ]
+      },
+      "properties": {
+        "id": "71722",
+        "call_sign": "WBLQ",
+        "frequency": "1230  kHz",
+        "service": "AM",
+        "owner": "TURN UP YOUR RADIO, LLC",
+        "city": "WESTERLY",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.835889,
+          41.365944
+        ]
+      },
+      "properties": {
+        "id": "71722",
+        "call_sign": "WBLQ",
+        "frequency": "1230  kHz",
+        "service": "AM",
+        "owner": "TURN UP YOUR RADIO, LLC",
+        "city": "WESTERLY",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.491167,
+          42.016222
+        ]
+      },
+      "properties": {
+        "id": "73676",
+        "call_sign": "WOON",
+        "frequency": "1240  kHz",
+        "service": "AM",
+        "owner": "O-N RADIO, INC.",
+        "city": "WOONSOCKET",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.491167,
+          42.016222
+        ]
+      },
+      "properties": {
+        "id": "73676",
+        "call_sign": "WOON",
+        "frequency": "1240  kHz",
+        "service": "AM",
+        "owner": "O-N RADIO, INC.",
+        "city": "WOONSOCKET",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.445056,
+          41.856361
+        ]
+      },
+      "properties": {
+        "id": "48308",
+        "call_sign": "WPVD",
+        "frequency": "1290  kHz",
+        "service": "AM",
+        "owner": "OCEAN STATE MEDIA GROUP",
+        "city": "PROVIDENCE",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.445056,
+          41.856361
+        ]
+      },
+      "properties": {
+        "id": "48308",
+        "call_sign": "WPVD",
+        "frequency": "1290  kHz",
+        "service": "AM",
+        "owner": "OCEAN STATE MEDIA GROUP",
+        "city": "PROVIDENCE",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.491167,
+          42.016222
+        ]
+      },
+      "properties": {
+        "id": "1734",
+        "call_sign": "WNRI",
+        "frequency": "1380  kHz",
+        "service": "AM",
+        "owner": "BOUCHARD BROADCASTING, INC.",
+        "city": "WOONSOCKET",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.491167,
+          42.016222
+        ]
+      },
+      "properties": {
+        "id": "1734",
+        "call_sign": "WNRI",
+        "frequency": "1380  kHz",
+        "service": "AM",
+        "owner": "BOUCHARD BROADCASTING, INC.",
+        "city": "WOONSOCKET",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.523389,
+          41.694
+        ]
+      },
+      "properties": {
+        "id": "15959",
+        "call_sign": "WWRI",
+        "frequency": "1450  kHz",
+        "service": "AM",
+        "owner": "TURN UP YOUR RADIO, LLC",
+        "city": "WEST WARWICK",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.523389,
+          41.694
+        ]
+      },
+      "properties": {
+        "id": "15959",
+        "call_sign": "WWRI",
+        "frequency": "1450  kHz",
+        "service": "AM",
+        "owner": "TURN UP YOUR RADIO, LLC",
+        "city": "WEST WARWICK",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.311444,
+          41.503722
+        ]
+      },
+      "properties": {
+        "id": "48744",
+        "call_sign": "WADK",
+        "frequency": "1540  kHz",
+        "service": "AM",
+        "owner": "ISLAND BROADCASTING OF RI, LLC",
+        "city": "NEWPORT",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.462278,
+          41.727889
+        ]
+      },
+      "properties": {
+        "id": "5882",
+        "call_sign": "WARV",
+        "frequency": "1590  kHz",
+        "service": "AM",
+        "owner": "BLOUNT COMMUNICATIONS, INC.",
+        "city": "WARWICK",
+        "state": "RI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.462278,
+          41.727889
+        ]
+      },
+      "properties": {
+        "id": "5882",
+        "call_sign": "WARV",
+        "frequency": "1590  kHz",
+        "service": "AM",
+        "owner": "BLOUNT COMMUNICATIONS, INC.",
+        "city": "WARWICK",
+        "state": "RI"
+      }
+    }
+  ],
+  "metadata": {
+    "cities": [
+      "BLOCK ISLAND",
+      "BRADFORD",
+      "BRISTOL",
+      "COVENTRY",
+      "EAST PROVIDENCE",
+      "HOPE VALLEY",
+      "KINGSTON",
+      "MIDDLETOWN",
+      "NARRAGANSETT",
+      "NARRAGANSETT PIER",
+      "NEWPORT",
+      "PASCOAG",
+      "PAWTUCKET",
+      "PORTSMOUTH",
+      "PROVIDENCE",
+      "SMITHFIELD",
+      "WAKEFIELD-PEACEDALE",
+      "WARWICK",
+      "WEST WARWICK",
+      "WESTERLY",
+      "WOONSOCKET"
+    ],
+    "frequencies": [
+      "88.1  MHz",
+      "88.3  MHz",
+      "88.5  MHz",
+      "88.7  MHz",
+      "89.3  MHz",
+      "89.5  MHz",
+      "90.3  MHz",
+      "90.7  MHz",
+      "91.1  MHz",
+      "91.3  MHz",
+      "91.5  MHz",
+      "92.3  MHz",
+      "92.7  MHz",
+      "93.7  MHz",
+      "94.1  MHz",
+      "94.9  MHz",
+      "95.1  MHz",
+      "95.5  MHz",
+      "95.9  MHz",
+      "96.5  MHz",
+      "96.7  MHz",
+      "99.3  MHz",
+      "99.5  MHz",
+      "99.7  MHz",
+      "99.9  MHz",
+      "100.1 MHz",
+      "100.3 MHz",
+      "101.1 MHz",
+      "101.5 MHz",
+      "101.7 MHz",
+      "102.1 MHz",
+      "102.7 MHz",
+      "102.9 MHz",
+      "103.1 MHz",
+      "103.7 MHz",
+      "104.3 MHz",
+      "104.7 MHz",
+      "105.1 MHz",
+      "105.5 MHz",
+      "105.9 MHz",
+      "106.3 MHz",
+      "107.5 MHz",
+      "107.7 MHz",
+      "550   kHz",
+      "630   kHz",
+      "790   kHz",
+      "920   kHz",
+      "1110  kHz",
+      "1180  kHz",
+      "1220  kHz",
+      "1230  kHz",
+      "1240  kHz",
+      "1290  kHz",
+      "1380  kHz",
+      "1450  kHz",
+      "1540  kHz",
+      "1590  kHz"
+    ],
+    "owners": [
+      "ARSAN BROADCASTING FOUNDATION",
+      "AS220",
+      "AUDACY LICENSE, LLC",
+      "BLACKSTONE RADIO FOUNDATION",
+      "BLOUNT COMMUNICATIONS, INC.",
+      "BOUCHARD BROADCASTING, INC.",
+      "BROADCAST LEARNING GROUP",
+      "BROWN STUDENT RADIO",
+      "BRYANT UNIVERSITY",
+      "CASA DE ORACION GETSEMANI",
+      "COVENTRY RHODE ISLAND PUBLIC SCHOOLS",
+      "DAVID P. MAXSON",
+      "FULLER BROADCASTING INTERNATIONAL, LLC",
+      "HORIZON CHRISTIAN FELLOWSHIP",
+      "IGLESIA CRISTIANA DE JEHOVA",
+      "IHM LICENSES, LLC",
+      "ISLAND BROADCASTING OF RI, LLC",
+      "JUDSON GROUP, INC.",
+      "K-LOVE, INC.",
+      "NEWPORT MUSICAL ARTS ASSOCIATION",
+      "O-N RADIO, INC.",
+      "OCEAN STATE MEDIA GROUP",
+      "PROVIDENCE COLLEGE",
+      "PROVIDENCE COMMUNITY RADIO",
+      "RADIO LICENSE HOLDING CBC, LLC",
+      "RADIO SHARON FOUNDATION",
+      "RED WOLF BROADCASTING CORPORATION",
+      "RELEVANT RADIO, INC.",
+      "RI FREE RADIO",
+      "ROGER WILLIAMS UNIVERSITY",
+      "THE BUZZ ALTERNATIVE RADIO FOUNDATION INC.",
+      "THE MARCONI BROADCASTING FOUNDATION",
+      "THE WHEELER SCHOOL",
+      "TOMAS TATE",
+      "TURN UP YOUR RADIO, LLC",
+      "UNIVERSITY OF RHODE ISLAND",
+      "VIDEO MUNDO BROADCASTING CO., LLC",
+      "VIDEO MUNDO BROADCASTING COMPANY, LLC"
+    ],
+    "services": [
+      "AM",
+      "FL",
+      "FM",
+      "FS",
+      "FX"
+    ]
+  }
+}

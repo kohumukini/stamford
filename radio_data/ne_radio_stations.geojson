@@ -1,0 +1,8849 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.396694,
+          41.439333
+        ]
+      },
+      "properties": {
+        "id": "47960",
+        "call_sign": "K209FS",
+        "frequency": "88.1  MHz",
+        "service": "FX",
+        "owner": "MYBRIDGE",
+        "city": "COLUMBUS",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.414833,
+          42.684806
+        ]
+      },
+      "properties": {
+        "id": "176723",
+        "call_sign": "KCFD",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "SOUTHERN CULTURAL FOUNDATION",
+        "city": "CRAWFORD",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.330917,
+          40.578556
+        ]
+      },
+      "properties": {
+        "id": "9969",
+        "call_sign": "KCNT",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "CENTRAL COMMUNITY COLLEGE",
+        "city": "HASTINGS",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.6525,
+          40.212778
+        ]
+      },
+      "properties": {
+        "id": "767455",
+        "call_sign": "KJYS",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "TRI-STATE BROADCASTING ASSOCIATION, INC",
+        "city": "MCCOOK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6175,
+          42.463333
+        ]
+      },
+      "properties": {
+        "id": "90282",
+        "call_sign": "KFHC",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "ST. GABRIEL COMMUNICATIONS LTD.",
+        "city": "PONCA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.02725,
+          41.311111
+        ]
+      },
+      "properties": {
+        "id": "85846",
+        "call_sign": "KMLV",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "RALSTON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.421139,
+          41.498306
+        ]
+      },
+      "properties": {
+        "id": "768056",
+        "call_sign": "KEJS",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "VSS CATHOLIC COMMUNICATIONS, INC.",
+        "city": "SARGENT",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.975861,
+          40.1825
+        ]
+      },
+      "properties": {
+        "id": "93284",
+        "call_sign": "KQIQ",
+        "frequency": "88.3  MHz",
+        "service": "FM",
+        "owner": "MYBRIDGE",
+        "city": "BEATRICE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.707528,
+          40.088056
+        ]
+      },
+      "properties": {
+        "id": "83068",
+        "call_sign": "K202CJ",
+        "frequency": "88.3  MHz",
+        "service": "FX",
+        "owner": "MYBRIDGE",
+        "city": "DESHLER",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.398111,
+          40.913889
+        ]
+      },
+      "properties": {
+        "id": "91842",
+        "call_sign": "KLNB",
+        "frequency": "88.3  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "GRAND ISLAND",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.621694,
+          42.395528
+        ]
+      },
+      "properties": {
+        "id": "173307",
+        "call_sign": "KOLB",
+        "frequency": "88.3  MHz",
+        "service": "FM",
+        "owner": "VSS CATHOLIC COMMUNICATIONS, INC.",
+        "city": "HARTINGTON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.831889,
+          41.839139
+        ]
+      },
+      "properties": {
+        "id": "121887",
+        "call_sign": "KLJV",
+        "frequency": "88.3  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "SCOTTSBLUFF",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.386389,
+          40.786111
+        ]
+      },
+      "properties": {
+        "id": "12837",
+        "call_sign": "KLCV",
+        "frequency": "88.5  MHz",
+        "service": "FM",
+        "owner": "COMMUNITY BROADCASTING, INC.",
+        "city": "LINCOLN",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.737056,
+          41.03575
+        ]
+      },
+      "properties": {
+        "id": "763076",
+        "call_sign": "KNPE",
+        "frequency": "88.5  MHz",
+        "service": "FM",
+        "owner": "MYBRIDGE",
+        "city": "NORTH PLATTE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.999056,
+          42.829694
+        ]
+      },
+      "properties": {
+        "id": "198682",
+        "call_sign": "KVKR-FM1",
+        "frequency": "88.7  MHz",
+        "service": "FB",
+        "owner": "SOUTHERN CULTURAL FOUNDATION",
+        "city": "CHADRON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.679417,
+          41.541
+        ]
+      },
+      "properties": {
+        "id": "763016",
+        "call_sign": "KUNE-FM",
+        "frequency": "88.7  MHz",
+        "service": "FM",
+        "owner": "NEBRASKA EDUCATIONAL TELECOMMUNICATIONS COMMISSION",
+        "city": "COLUMBUS",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.458722,
+          40.384722
+        ]
+      },
+      "properties": {
+        "id": "47968",
+        "call_sign": "KLNE-FM",
+        "frequency": "88.7  MHz",
+        "service": "FM",
+        "owner": "NEBRASKA EDUCATIONAL TELECOMMUNICATIONS COMMISSION",
+        "city": "LEXINGTON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.580028,
+          42.458583
+        ]
+      },
+      "properties": {
+        "id": "763235",
+        "call_sign": "KMBO",
+        "frequency": "88.7  MHz",
+        "service": "FM",
+        "owner": "MYBRIDGE",
+        "city": "O' NEILL",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.935194,
+          41.116917
+        ]
+      },
+      "properties": {
+        "id": "154210",
+        "call_sign": "K204FC",
+        "frequency": "88.7  MHz",
+        "service": "FX",
+        "owner": "MYBRIDGE",
+        "city": "SIDNEY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.646139,
+          40.550833
+        ]
+      },
+      "properties": {
+        "id": "106561",
+        "call_sign": "KNBE",
+        "frequency": "88.9  MHz",
+        "service": "FM",
+        "owner": "FAMILY WORSHIP CENTER CHURCH, INC.",
+        "city": "BEATRICE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.368889,
+          42.032222
+        ]
+      },
+      "properties": {
+        "id": "91450",
+        "call_sign": "K205GK",
+        "frequency": "88.9  MHz",
+        "service": "FX",
+        "owner": "K-LOVE, INC.",
+        "city": "NORFOLK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.010278,
+          41.313056
+        ]
+      },
+      "properties": {
+        "id": "50311",
+        "call_sign": "KYFG",
+        "frequency": "88.9  MHz",
+        "service": "FM",
+        "owner": "BIBLE BROADCASTING NETWORK, INC.",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.003889,
+          41.311917
+        ]
+      },
+      "properties": {
+        "id": "50311",
+        "call_sign": "KYFG",
+        "frequency": "88.9  MHz",
+        "service": "FS",
+        "owner": "BIBLE BROADCASTING NETWORK, INC.",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8545,
+          42.829417
+        ]
+      },
+      "properties": {
+        "id": "173513",
+        "call_sign": "KZYK",
+        "frequency": "88.9  MHz",
+        "service": "FM",
+        "owner": "NEBRASKA INDIAN COMMUNITY COLLEGE",
+        "city": "SANTEE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.455944,
+          42.231444
+        ]
+      },
+      "properties": {
+        "id": "767684",
+        "call_sign": "KBVW-FM",
+        "frequency": "88.9  MHz",
+        "service": "FM",
+        "owner": "WINNEBAGO TRIBE OF NEBRASKA",
+        "city": "WINNEBAGO",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.414389,
+          42.684944
+        ]
+      },
+      "properties": {
+        "id": "767037",
+        "call_sign": "KVKC",
+        "frequency": "89.1  MHz",
+        "service": "FM",
+        "owner": "SOUTHERN CULTURAL FOUNDATION",
+        "city": "CRAWFORD",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.089778,
+          40.771389
+        ]
+      },
+      "properties": {
+        "id": "47964",
+        "call_sign": "KHNE-FM",
+        "frequency": "89.1  MHz",
+        "service": "FM",
+        "owner": "NEBRASKA EDUCATIONAL TELECOMMUNICATIONS COMMISSION",
+        "city": "HASTINGS",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.831889,
+          41.839139
+        ]
+      },
+      "properties": {
+        "id": "121842",
+        "call_sign": "KDAI",
+        "frequency": "89.1  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "SCOTTSBLUFF",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.641944,
+          41.395278
+        ]
+      },
+      "properties": {
+        "id": "763018",
+        "call_sign": "KGNE-FM",
+        "frequency": "89.3  MHz",
+        "service": "FM",
+        "owner": "NEBRASKA EDUCATIONAL TELECOMMUNICATIONS COMMISSION",
+        "city": "BROKEN BOW",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.706972,
+          40.813056
+        ]
+      },
+      "properties": {
+        "id": "63955",
+        "call_sign": "KZUM",
+        "frequency": "89.3  MHz",
+        "service": "FM",
+        "owner": "SUNRISE COMMUNICATIONS, INC.",
+        "city": "LINCOLN",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.278389,
+          42.2375
+        ]
+      },
+      "properties": {
+        "id": "47967",
+        "call_sign": "KXNE-FM",
+        "frequency": "89.3  MHz",
+        "service": "FM",
+        "owner": "NEBRASKA EDUCATIONAL TELECOMMUNICATIONS COMMISSION",
+        "city": "NORFOLK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.880139,
+          40.996944
+        ]
+      },
+      "properties": {
+        "id": "175433",
+        "call_sign": "KJTF",
+        "frequency": "89.3  MHz",
+        "service": "FM",
+        "owner": "TRI-STATE BROADCASTING ASSOCIATION, INC.",
+        "city": "NORTH PLATTE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.062222,
+          41.32
+        ]
+      },
+      "properties": {
+        "id": "783950",
+        "call_sign": "KSPG-LP",
+        "frequency": "89.3  MHz",
+        "service": "FL",
+        "owner": "SOULFUL PRAISE",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.554583,
+          42.889444
+        ]
+      },
+      "properties": {
+        "id": "122329",
+        "call_sign": "KKNL",
+        "frequency": "89.3  MHz",
+        "service": "FM",
+        "owner": "COMMUNITY PUBLIC MEDIA",
+        "city": "VALENTINE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.06175,
+          41.780556
+        ]
+      },
+      "properties": {
+        "id": "767458",
+        "call_sign": "KGRU",
+        "frequency": "89.5  MHz",
+        "service": "FM",
+        "owner": "THE PRAISE NETWORK, INC.",
+        "city": "BURWELL",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.998944,
+          42.830028
+        ]
+      },
+      "properties": {
+        "id": "768288",
+        "call_sign": "KCHD",
+        "frequency": "89.5  MHz",
+        "service": "FM",
+        "owner": "SOUTHERN CULTURAL FOUNDATION",
+        "city": "CHADRON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.651944,
+          40.115
+        ]
+      },
+      "properties": {
+        "id": "47997",
+        "call_sign": "K208GM",
+        "frequency": "89.5  MHz",
+        "service": "FX",
+        "owner": "VSS CATHOLIC COMMUNICATIONS, INC.",
+        "city": "FALLS CITY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.380233,
+          40.911519
+        ]
+      },
+      "properties": {
+        "id": "89518",
+        "call_sign": "K208GD",
+        "frequency": "89.5  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL, INC.",
+        "city": "GRAND ISLAND",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.996583,
+          42.784667
+        ]
+      },
+      "properties": {
+        "id": "47990",
+        "call_sign": "K208CB",
+        "frequency": "89.5  MHz",
+        "service": "FX",
+        "owner": "NEBRASKA EDUCATIONAL TELECOMMUNICATIONS COMMISSION",
+        "city": "HARRISON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.130083,
+          40.728333
+        ]
+      },
+      "properties": {
+        "id": "762136",
+        "call_sign": "KYHK",
+        "frequency": "89.5  MHz",
+        "service": "FM",
+        "owner": "BIBLE BROADCASTING NETWORK, INC.",
+        "city": "KEARNEY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.664167,
+          41.252222
+        ]
+      },
+      "properties": {
+        "id": "768711",
+        "call_sign": "KAVA",
+        "frequency": "89.5  MHz",
+        "service": "FM",
+        "owner": "HI-LINE RADIO FELLOWSHIP, INC.",
+        "city": "KIMBALL",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.655528,
+          41.134917
+        ]
+      },
+      "properties": {
+        "id": "767763",
+        "call_sign": "KGWO",
+        "frequency": "89.5  MHz",
+        "service": "FM",
+        "owner": "COMMUNITY BROADCASTING, INC.",
+        "city": "OGALLALA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.656167,
+          41.940278
+        ]
+      },
+      "properties": {
+        "id": "81603",
+        "call_sign": "K208CK",
+        "frequency": "89.5  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL, INC.",
+        "city": "SCOTTSBLUFF",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.656167,
+          41.940278
+        ]
+      },
+      "properties": {
+        "id": "81603",
+        "call_sign": "K208CK",
+        "frequency": "89.5  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL, INC.",
+        "city": "SCOTTSBLUFF",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.983806,
+          41.153583
+        ]
+      },
+      "properties": {
+        "id": "196400",
+        "call_sign": "KQSI-LP",
+        "frequency": "89.5  MHz",
+        "service": "FL",
+        "owner": "ADVENTIST LEARNING CENTER OF SIDNEY",
+        "city": "SIDNEY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.395889,
+          41.439167
+        ]
+      },
+      "properties": {
+        "id": "47960",
+        "call_sign": "K209FS",
+        "frequency": "89.7  MHz",
+        "service": "FX",
+        "owner": "MYBRIDGE",
+        "city": "COLUMBUS",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.396694,
+          41.439333
+        ]
+      },
+      "properties": {
+        "id": "47960",
+        "call_sign": "K209FS",
+        "frequency": "89.7  MHz",
+        "service": "FX",
+        "owner": "MYBRIDGE",
+        "city": "COLUMBUS",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.6525,
+          40.212778
+        ]
+      },
+      "properties": {
+        "id": "762254",
+        "call_sign": "KEZL",
+        "frequency": "89.7  MHz",
+        "service": "FM",
+        "owner": "THEATRE ORGAN PRESERVATION OF NEBRASKA",
+        "city": "CULBERTSON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.6525,
+          40.212778
+        ]
+      },
+      "properties": {
+        "id": "762254",
+        "call_sign": "KEZL",
+        "frequency": "89.7  MHz",
+        "service": "FM",
+        "owner": "THEATRE ORGAN PRESERVATION OF NEBRASKA",
+        "city": "CULBERTSON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.807694,
+          40.190611
+        ]
+      },
+      "properties": {
+        "id": "762254",
+        "call_sign": "KEZL",
+        "frequency": "89.7  MHz",
+        "service": "FS",
+        "owner": "THEATRE ORGAN PRESERVATION OF NEBRASKA",
+        "city": "CULBERTSON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.368944,
+          42.032222
+        ]
+      },
+      "properties": {
+        "id": "92768",
+        "call_sign": "K209EV",
+        "frequency": "89.7  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL, INC.",
+        "city": "HADAR",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.368889,
+          42.032222
+        ]
+      },
+      "properties": {
+        "id": "92768",
+        "call_sign": "K209EV",
+        "frequency": "89.7  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL, INC.",
+        "city": "HADAR",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.7315,
+          41.4375
+        ]
+      },
+      "properties": {
+        "id": "88143",
+        "call_sign": "K210CB",
+        "frequency": "89.9  MHz",
+        "service": "FX",
+        "owner": "TRI-STATE BROADCASTING ASSOCIATION, INC.",
+        "city": "BROKEN BOW",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.414389,
+          42.684944
+        ]
+      },
+      "properties": {
+        "id": "765761",
+        "call_sign": "KVJR",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "SOUTHERN CULTURAL FOUNDATION",
+        "city": "CRAWFORD",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.665556,
+          40.219722
+        ]
+      },
+      "properties": {
+        "id": "763661",
+        "call_sign": "KQNE-FM",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "NEBRASKA EDUCATIONAL TELECOMMUNICATIONS COMMISSION",
+        "city": "FALLS CITY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.367,
+          40.786389
+        ]
+      },
+      "properties": {
+        "id": "78448",
+        "call_sign": "KCVG",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "COMMUNITY BROADCASTING, INC.",
+        "city": "HASTINGS",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.057944,
+          41.509611
+        ]
+      },
+      "properties": {
+        "id": "763252",
+        "call_sign": "KHUY",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "MYBRIDGE",
+        "city": "SCHUYLER",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.768639,
+          40.518333
+        ]
+      },
+      "properties": {
+        "id": "89576",
+        "call_sign": "KFLV",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "WILBER",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.374556,
+          40.118611
+        ]
+      },
+      "properties": {
+        "id": "91198",
+        "call_sign": "K211DP",
+        "frequency": "90.1  MHz",
+        "service": "FX",
+        "owner": "TRI-STATE BROADCASTING ASSOCIATION, INC.",
+        "city": "ALMA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.950917,
+          40.102778
+        ]
+      },
+      "properties": {
+        "id": "177070",
+        "call_sign": "KNEF",
+        "frequency": "90.1  MHz",
+        "service": "FM",
+        "owner": "CSN INTERNATIONAL, INC.",
+        "city": "FRANKLIN",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.677528,
+          41.2075
+        ]
+      },
+      "properties": {
+        "id": "175203",
+        "call_sign": "KZLW",
+        "frequency": "90.1  MHz",
+        "service": "FM",
+        "owner": "MYBRIDGE",
+        "city": "GRETNA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.130083,
+          40.728333
+        ]
+      },
+      "properties": {
+        "id": "81118",
+        "call_sign": "K211GG",
+        "frequency": "90.1  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL, INC.",
+        "city": "KEARNEY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.130083,
+          40.728333
+        ]
+      },
+      "properties": {
+        "id": "81118",
+        "call_sign": "K211GG",
+        "frequency": "90.1  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL, INC.",
+        "city": "KEARNEY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.680556,
+          41.933056
+        ]
+      },
+      "properties": {
+        "id": "763074",
+        "call_sign": "KRLK",
+        "frequency": "90.1  MHz",
+        "service": "FM",
+        "owner": "MYBRIDGE",
+        "city": "NORFOLK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.733333,
+          41.203611
+        ]
+      },
+      "properties": {
+        "id": "174842",
+        "call_sign": "KFJS",
+        "frequency": "90.1  MHz",
+        "service": "FM",
+        "owner": "VSS CATHOLIC COMMUNICATIONS, INC.",
+        "city": "NORTH PLATTE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.656111,
+          41.940278
+        ]
+      },
+      "properties": {
+        "id": "762137",
+        "call_sign": "KYBF",
+        "frequency": "90.1  MHz",
+        "service": "FM",
+        "owner": "BIBLE BROADCASTING NETWORK, INC.",
+        "city": "SCOTTSBLUFF",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.846667,
+          42.093056
+        ]
+      },
+      "properties": {
+        "id": "768013",
+        "call_sign": "KARR",
+        "frequency": "90.3  MHz",
+        "service": "FM",
+        "owner": "RADIO 74 INTERNATIONALE",
+        "city": "ALLIANCE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.484278,
+          42.334722
+        ]
+      },
+      "properties": {
+        "id": "47984",
+        "call_sign": "KMNE-FM",
+        "frequency": "90.3  MHz",
+        "service": "FM",
+        "owner": "NEBRASKA EDUCATIONAL TELECOMMUNICATIONS COMMISSION",
+        "city": "BASSETT",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.385611,
+          40.913889
+        ]
+      },
+      "properties": {
+        "id": "78646",
+        "call_sign": "K212GG",
+        "frequency": "90.3  MHz",
+        "service": "FX",
+        "owner": "BIBLE BROADCASTING NETWORK, INC.",
+        "city": "GRAND ISLAND",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3445,
+          40.596111
+        ]
+      },
+      "properties": {
+        "id": "121883",
+        "call_sign": "K212GI",
+        "frequency": "90.3  MHz",
+        "service": "FX",
+        "owner": "K-LOVE, INC.",
+        "city": "HASTINGS",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.703361,
+          40.819722
+        ]
+      },
+      "properties": {
+        "id": "69268",
+        "call_sign": "KRNU",
+        "frequency": "90.3  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF NEBRASKA",
+        "city": "LINCOLN",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.997111,
+          42.820528
+        ]
+      },
+      "properties": {
+        "id": "175621",
+        "call_sign": "KJZC",
+        "frequency": "90.5  MHz",
+        "service": "FM",
+        "owner": "BOARD OF TRUSTEES, NE STATE COLLEGES, DBA CHADRON STATE COLLEGE",
+        "city": "CHADRON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6795,
+          41.541111
+        ]
+      },
+      "properties": {
+        "id": "172512",
+        "call_sign": "KGKD",
+        "frequency": "90.5  MHz",
+        "service": "FM",
+        "owner": "THE PRAISE NETWORK, INC.",
+        "city": "COLUMBUS",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.970972,
+          40.377028
+        ]
+      },
+      "properties": {
+        "id": "196929",
+        "call_sign": "WCGD-LP",
+        "frequency": "90.5  MHz",
+        "service": "FL",
+        "owner": "CENTRAL NEBRASKA COMMUNITY BROADCASTING",
+        "city": "EDGAR",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.807778,
+          41.176944
+        ]
+      },
+      "properties": {
+        "id": "768047",
+        "call_sign": "KETW",
+        "frequency": "90.5  MHz",
+        "service": "FM",
+        "owner": "VSS CATHOLIC COMMUNICATIONS, INC.",
+        "city": "OGALLALA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.74425,
+          40.778611
+        ]
+      },
+      "properties": {
+        "id": "176696",
+        "call_sign": "KQQA",
+        "frequency": "90.5  MHz",
+        "service": "FM",
+        "owner": "RADIO 74 INTERNATIONALE",
+        "city": "SHELTON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.398111,
+          40.913889
+        ]
+      },
+      "properties": {
+        "id": "91196",
+        "call_sign": "KNFA",
+        "frequency": "90.7  MHz",
+        "service": "FM",
+        "owner": "FAMILY WORSHIP CENTER CHURCH, INC.",
+        "city": "GRAND ISLAND",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.453444,
+          40.416111
+        ]
+      },
+      "properties": {
+        "id": "92321",
+        "call_sign": "K214DK",
+        "frequency": "90.7  MHz",
+        "service": "FX",
+        "owner": "TRI-STATE BROADCASTING ASSOCIATION, INC.",
+        "city": "HOLDREGE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.892222,
+          40.262778
+        ]
+      },
+      "properties": {
+        "id": "763020",
+        "call_sign": "KNNE-FM",
+        "frequency": "90.7  MHz",
+        "service": "FM",
+        "owner": "NEBRASKA EDUCATIONAL TELECOMMUNICATIONS COMMISSION",
+        "city": "MCCOOK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.026167,
+          41.308889
+        ]
+      },
+      "properties": {
+        "id": "69395",
+        "call_sign": "KVNO",
+        "frequency": "90.7  MHz",
+        "service": "FM",
+        "owner": "THE BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASKA",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.027139,
+          41.306833
+        ]
+      },
+      "properties": {
+        "id": "69395",
+        "call_sign": "KVNO",
+        "frequency": "90.7  MHz",
+        "service": "FS",
+        "owner": "THE BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASKA",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.026139,
+          41.308889
+        ]
+      },
+      "properties": {
+        "id": "69395",
+        "call_sign": "KVNO",
+        "frequency": "90.7  MHz",
+        "service": "FS",
+        "owner": "THE BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASKA",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.554167,
+          42.900833
+        ]
+      },
+      "properties": {
+        "id": "171632",
+        "call_sign": "KMBV",
+        "frequency": "90.7  MHz",
+        "service": "FM",
+        "owner": "MYBRIDGE",
+        "city": "VALENTINE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.336722,
+          42.104444
+        ]
+      },
+      "properties": {
+        "id": "66272",
+        "call_sign": "KPNO",
+        "frequency": "90.9  MHz",
+        "service": "FM",
+        "owner": "THE PRAISE NETWORK, INC.",
+        "city": "NORFOLK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.730833,
+          41.213611
+        ]
+      },
+      "properties": {
+        "id": "767761",
+        "call_sign": "KNCV",
+        "frequency": "90.9  MHz",
+        "service": "FM",
+        "owner": "COMMUNITY BROADCASTING, INC.",
+        "city": "NORTH PLATTE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.055472,
+          41.839944
+        ]
+      },
+      "properties": {
+        "id": "47961",
+        "call_sign": "KTNE-FM",
+        "frequency": "91.1  MHz",
+        "service": "FM",
+        "owner": "NEBRASKA EDUCATIONAL TELECOMMUNICATIONS COMMISSION",
+        "city": "ALLIANCE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.095806,
+          40.704083
+        ]
+      },
+      "properties": {
+        "id": "33787",
+        "call_sign": "KLPR",
+        "frequency": "91.1  MHz",
+        "service": "FM",
+        "owner": "KLPR-FM, UNIVERSITY OF NEBRASKA AT KEARNEY",
+        "city": "KEARNEY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.095806,
+          40.704083
+        ]
+      },
+      "properties": {
+        "id": "33787",
+        "call_sign": "KLPR",
+        "frequency": "91.1  MHz",
+        "service": "FM",
+        "owner": "KLPR-FM, UNIVERSITY OF NEBRASKA AT KEARNEY",
+        "city": "KEARNEY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.768639,
+          40.518333
+        ]
+      },
+      "properties": {
+        "id": "47966",
+        "call_sign": "KUCV",
+        "frequency": "91.1  MHz",
+        "service": "FM",
+        "owner": "NEBRASKA EDUCATIONAL TELECOMMUNICATIONS COMMISSION",
+        "city": "LINCOLN",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.888056,
+          41.260556
+        ]
+      },
+      "properties": {
+        "id": "788368",
+        "call_sign": "NEW",
+        "frequency": "91.1  MHz",
+        "service": "FL",
+        "owner": "ENGLISH LANGUAGE NETWORK DBA MI GENTE RADIO",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.872333,
+          42.462222
+        ]
+      },
+      "properties": {
+        "id": "86504",
+        "call_sign": "K217CT",
+        "frequency": "91.3  MHz",
+        "service": "FX",
+        "owner": "THE PRAISE NETWORK, INC.",
+        "city": "AINSWORTH",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.999056,
+          42.83025
+        ]
+      },
+      "properties": {
+        "id": "81203",
+        "call_sign": "K217GM",
+        "frequency": "91.3  MHz",
+        "service": "FX",
+        "owner": "VSS CATHOLIC COMMUNICATIONS, INC.",
+        "city": "CHADRON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.354194,
+          41.440556
+        ]
+      },
+      "properties": {
+        "id": "67200",
+        "call_sign": "KTLX",
+        "frequency": "91.3  MHz",
+        "service": "FM",
+        "owner": "TLC EDUCATIONAL CORPORATION",
+        "city": "COLUMBUS",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.525861,
+          42.35275
+        ]
+      },
+      "properties": {
+        "id": "81544",
+        "call_sign": "KAYA",
+        "frequency": "91.3  MHz",
+        "service": "FM",
+        "owner": "AMERICAN FAMILY ASSOCIATION",
+        "city": "HUBBARD",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.788333,
+          40.697222
+        ]
+      },
+      "properties": {
+        "id": "763072",
+        "call_sign": "KXNG",
+        "frequency": "91.3  MHz",
+        "service": "FM",
+        "owner": "MYBRIDGE",
+        "city": "LEXINGTON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.368889,
+          42.032222
+        ]
+      },
+      "properties": {
+        "id": "92763",
+        "call_sign": "K217FM",
+        "frequency": "91.3  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL, INC.",
+        "city": "NORFOLK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.368944,
+          42.032222
+        ]
+      },
+      "properties": {
+        "id": "92763",
+        "call_sign": "K217FM",
+        "frequency": "91.3  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL, INC.",
+        "city": "NORFOLK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.570556,
+          40.728889
+        ]
+      },
+      "properties": {
+        "id": "90676",
+        "call_sign": "KJWM",
+        "frequency": "91.5  MHz",
+        "service": "FM",
+        "owner": "VSS CATHOLIC COMMUNICATIONS, INC.",
+        "city": "GRAND ISLAND",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.710417,
+          42.677194
+        ]
+      },
+      "properties": {
+        "id": "47955",
+        "call_sign": "KRNE-FM",
+        "frequency": "91.5  MHz",
+        "service": "FM",
+        "owner": "NEBRASKA EDUCATIONAL TELECOMMUNICATIONS COMMISSION",
+        "city": "MERRIMAN",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.993889,
+          41.287472
+        ]
+      },
+      "properties": {
+        "id": "17416",
+        "call_sign": "KIOS-FM",
+        "frequency": "91.5  MHz",
+        "service": "FM",
+        "owner": "DOUGLAS COUNTY SCHOOL DISTRICT 001",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.993917,
+          41.286111
+        ]
+      },
+      "properties": {
+        "id": "17416",
+        "call_sign": "KIOS-FM",
+        "frequency": "91.5  MHz",
+        "service": "FS",
+        "owner": "DOUGLAS COUNTY SCHOOL DISTRICT 001",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.560639,
+          42.435028
+        ]
+      },
+      "properties": {
+        "id": "767820",
+        "call_sign": "KONL",
+        "frequency": "91.5  MHz",
+        "service": "FM",
+        "owner": "VSS CATHOLIC COMMUNICATIONS",
+        "city": "O' NEILL",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.831889,
+          41.839139
+        ]
+      },
+      "properties": {
+        "id": "106587",
+        "call_sign": "K218DL",
+        "frequency": "91.5  MHz",
+        "service": "FX",
+        "owner": "EDUCATIONAL MEDIA FOUNDATION",
+        "city": "SCOTTSBLUFF",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.093111,
+          42.313667
+        ]
+      },
+      "properties": {
+        "id": "29891",
+        "call_sign": "K219LV",
+        "frequency": "91.7  MHz",
+        "service": "FX",
+        "owner": "UNIVERSITY OF NORTHWESTERN-ST. PAUL",
+        "city": "HEMINGFORD",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.368944,
+          42.032222
+        ]
+      },
+      "properties": {
+        "id": "174372",
+        "call_sign": "KVLD",
+        "frequency": "91.7  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "NORFOLK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.154333,
+          41.022778
+        ]
+      },
+      "properties": {
+        "id": "47965",
+        "call_sign": "KPNE-FM",
+        "frequency": "91.7  MHz",
+        "service": "FM",
+        "owner": "NEBRASKA EDUCATIONAL TELECOMMUNICATIONS COMMISSION",
+        "city": "NORTH PLATTE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.765556,
+          40.232222
+        ]
+      },
+      "properties": {
+        "id": "177193",
+        "call_sign": "KSSH",
+        "frequency": "91.7  MHz",
+        "service": "FM",
+        "owner": "MYBRIDGE",
+        "city": "SHUBERT",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.002833,
+          40.871667
+        ]
+      },
+      "properties": {
+        "id": "175743",
+        "call_sign": "KJGS",
+        "frequency": "91.9  MHz",
+        "service": "FM",
+        "owner": "RADIO 74 INTERNATIONALE",
+        "city": "AURORA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.006556,
+          42.813028
+        ]
+      },
+      "properties": {
+        "id": "47963",
+        "call_sign": "KCNE-FM",
+        "frequency": "91.9  MHz",
+        "service": "FM",
+        "owner": "NEBRASKA EDUCATIONAL TELECOMMUNICATIONS COMMISSION",
+        "city": "CHADRON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.951417,
+          40.621111
+        ]
+      },
+      "properties": {
+        "id": "17043",
+        "call_sign": "KDNE",
+        "frequency": "91.9  MHz",
+        "service": "FM",
+        "owner": "DOANE UNIVERSITY BOARD OF TRUSTEES (FORMERLY DOANE COLLEGE)",
+        "city": "CRETE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.945361,
+          40.205833
+        ]
+      },
+      "properties": {
+        "id": "93753",
+        "call_sign": "K220HX",
+        "frequency": "91.9  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL",
+        "city": "FRANKLIN",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.703083,
+          40.811667
+        ]
+      },
+      "properties": {
+        "id": "89520",
+        "call_sign": "K220GT",
+        "frequency": "91.9  MHz",
+        "service": "FX",
+        "owner": "K-LOVE, INC.",
+        "city": "LINCOLN",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.004139,
+          41.286944
+        ]
+      },
+      "properties": {
+        "id": "196774",
+        "call_sign": "KIOR-LP",
+        "frequency": "91.9  MHz",
+        "service": "FL",
+        "owner": "INDEPENDENT OMAHA RADIO PROJECT, INC.",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.656167,
+          41.940278
+        ]
+      },
+      "properties": {
+        "id": "76658",
+        "call_sign": "K220FK",
+        "frequency": "91.9  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL, INC.",
+        "city": "SCOTTSBLUFF",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.656167,
+          41.940278
+        ]
+      },
+      "properties": {
+        "id": "76658",
+        "call_sign": "K220FK",
+        "frequency": "91.9  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL, INC.",
+        "city": "SCOTTSBLUFF",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.554167,
+          42.900833
+        ]
+      },
+      "properties": {
+        "id": "768051",
+        "call_sign": "KVEJ",
+        "frequency": "91.9  MHz",
+        "service": "FM",
+        "owner": "VSS CATHOLIC COMMUNICATIONS, INC.",
+        "city": "VALENTINE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.009778,
+          42.243611
+        ]
+      },
+      "properties": {
+        "id": "71191",
+        "call_sign": "KWSC",
+        "frequency": "91.9  MHz",
+        "service": "FM",
+        "owner": "WAYNE STATE COLLEGE",
+        "city": "WAYNE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.912333,
+          40.2725
+        ]
+      },
+      "properties": {
+        "id": "196421",
+        "call_sign": "KAGR-LP",
+        "frequency": "92.1  MHz",
+        "service": "FL",
+        "owner": "THE EVANGELICAL LUTHERAN TRINITY CONG. OF ARAPAHOE, NE.",
+        "city": "ARAPAHOE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.167306,
+          40.693611
+        ]
+      },
+      "properties": {
+        "id": "200124",
+        "call_sign": "K221GM",
+        "frequency": "92.1  MHz",
+        "service": "FX",
+        "owner": "FLOOD COMMUNICATIONS TRI-CITIES, L.L.C.",
+        "city": "KEARNEY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.028361,
+          41.304444
+        ]
+      },
+      "properties": {
+        "id": "74105",
+        "call_sign": "KEZO-FM",
+        "frequency": "92.3  MHz",
+        "service": "FM",
+        "owner": "SM-KEZO-FM, LLC",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.953639,
+          41.201111
+        ]
+      },
+      "properties": {
+        "id": "74105",
+        "call_sign": "KEZO-FM",
+        "frequency": "92.3  MHz",
+        "service": "FS",
+        "owner": "SM-KEZO-FM, LLC",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.028361,
+          41.304444
+        ]
+      },
+      "properties": {
+        "id": "74105",
+        "call_sign": "KEZO-FM",
+        "frequency": "92.3  MHz",
+        "service": "FS",
+        "owner": "SM-KEZO-FM, LLC",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.421139,
+          41.498278
+        ]
+      },
+      "properties": {
+        "id": "164308",
+        "call_sign": "KBRY",
+        "frequency": "92.3  MHz",
+        "service": "FM",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "SARGENT",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.888611,
+          42.106167
+        ]
+      },
+      "properties": {
+        "id": "201177",
+        "call_sign": "K223CY",
+        "frequency": "92.5  MHz",
+        "service": "FX",
+        "owner": "EAGLE COMMUNICATIONS, INC.",
+        "city": "ALLIANCE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.002833,
+          40.871667
+        ]
+      },
+      "properties": {
+        "id": "135537",
+        "call_sign": "KIVE-LP",
+        "frequency": "92.5  MHz",
+        "service": "FL",
+        "owner": "DAWN ADVENTIST BROADCASTING",
+        "city": "AURORA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.773333,
+          41.153889
+        ]
+      },
+      "properties": {
+        "id": "148408",
+        "call_sign": "K223CQ",
+        "frequency": "92.5  MHz",
+        "service": "FX",
+        "owner": "ARMADA MEDIA - MCCOOK, INC.",
+        "city": "NORTH PLATTE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8315,
+          42.554444
+        ]
+      },
+      "properties": {
+        "id": "33219",
+        "call_sign": "KBRB-FM",
+        "frequency": "92.7  MHz",
+        "service": "FM",
+        "owner": "SANDHILLS BROADCASTING LLC",
+        "city": "AINSWORTH",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.686944,
+          41.830556
+        ]
+      },
+      "properties": {
+        "id": "82844",
+        "call_sign": "KUSO",
+        "frequency": "92.7  MHz",
+        "service": "FM",
+        "owner": "FLOOD COMMUNICATIONS, L.L.C.",
+        "city": "ALBION",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.484278,
+          40.765833
+        ]
+      },
+      "properties": {
+        "id": "200028",
+        "call_sign": "K224FL",
+        "frequency": "92.7  MHz",
+        "service": "FX",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "COZAD",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.892083,
+          40.26275
+        ]
+      },
+      "properties": {
+        "id": "47998",
+        "call_sign": "K224CH",
+        "frequency": "92.7  MHz",
+        "service": "FX",
+        "owner": "NEBRASKA EDUCATIONAL TELECOMMUNICATIONS COMMISSION",
+        "city": "CULBERTSON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.375611,
+          40.567528
+        ]
+      },
+      "properties": {
+        "id": "200123",
+        "call_sign": "K224FK",
+        "frequency": "92.7  MHz",
+        "service": "FX",
+        "owner": "FLOOD COMMUNICATIONS TRI-CITIES, L.L.C.",
+        "city": "HASTINGS",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.955028,
+          41.256944
+        ]
+      },
+      "properties": {
+        "id": "140345",
+        "call_sign": "K224DJ",
+        "frequency": "92.7  MHz",
+        "service": "FX",
+        "owner": "MYBRIDGE",
+        "city": "LA VISTA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.768639,
+          40.518333
+        ]
+      },
+      "properties": {
+        "id": "53141",
+        "call_sign": "KTGL",
+        "frequency": "92.9  MHz",
+        "service": "FM",
+        "owner": "ALPHA 3E LICENSEE LLC",
+        "city": "BEATRICE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.788722,
+          40.696667
+        ]
+      },
+      "properties": {
+        "id": "48001",
+        "call_sign": "KRVN-FM",
+        "frequency": "93.1  MHz",
+        "service": "FM",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "LEXINGTON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.788667,
+          40.696667
+        ]
+      },
+      "properties": {
+        "id": "48001",
+        "call_sign": "KRVN-FM",
+        "frequency": "93.1  MHz",
+        "service": "FS",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "LEXINGTON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.028333,
+          41.304444
+        ]
+      },
+      "properties": {
+        "id": "163",
+        "call_sign": "KFFF",
+        "frequency": "93.3  MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "BENNINGTON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.991083,
+          41.265306
+        ]
+      },
+      "properties": {
+        "id": "163",
+        "call_sign": "KFFF",
+        "frequency": "93.3  MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "BENNINGTON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.826944,
+          41.839667
+        ]
+      },
+      "properties": {
+        "id": "67473",
+        "call_sign": "KMOR",
+        "frequency": "93.3  MHz",
+        "service": "FM",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "GERING",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.641861,
+          41.791861
+        ]
+      },
+      "properties": {
+        "id": "67473",
+        "call_sign": "KMOR",
+        "frequency": "93.3  MHz",
+        "service": "FS",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "GERING",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.396722,
+          40.864722
+        ]
+      },
+      "properties": {
+        "id": "144625",
+        "call_sign": "K227BQ",
+        "frequency": "93.3  MHz",
+        "service": "FX",
+        "owner": "LEGACY COMMUNICATIONS, LLC",
+        "city": "GRAND ISLAND",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.392361,
+          40.074139
+        ]
+      },
+      "properties": {
+        "id": "47994",
+        "call_sign": "K227AC",
+        "frequency": "93.3  MHz",
+        "service": "FX",
+        "owner": "NEBRASKA EDUCATIONAL TELECOMMUNICATIONS COMMISSION",
+        "city": "MAX",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6795,
+          41.541111
+        ]
+      },
+      "properties": {
+        "id": "28149",
+        "call_sign": "KKOT",
+        "frequency": "93.5  MHz",
+        "service": "FM",
+        "owner": "ALPHA 3E LICENSEE LLC",
+        "city": "COLUMBUS",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6795,
+          41.541111
+        ]
+      },
+      "properties": {
+        "id": "28149",
+        "call_sign": "KKOT",
+        "frequency": "93.5  MHz",
+        "service": "FM",
+        "owner": "ALPHA 3E LICENSEE LLC",
+        "city": "COLUMBUS",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.338222,
+          41.063889
+        ]
+      },
+      "properties": {
+        "id": "164138",
+        "call_sign": "KZTL",
+        "frequency": "93.5  MHz",
+        "service": "FM",
+        "owner": "EAGLE COMMUNICATIONS, INC",
+        "city": "PAXTON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.621194,
+          40.582611
+        ]
+      },
+      "properties": {
+        "id": "170485",
+        "call_sign": "KNTK",
+        "frequency": "93.7  MHz",
+        "service": "FM",
+        "owner": "BDP COMMUNICATIONS LLC",
+        "city": "FIRTH",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.955028,
+          41.256944
+        ]
+      },
+      "properties": {
+        "id": "140344",
+        "call_sign": "K229BI",
+        "frequency": "93.7  MHz",
+        "service": "FX",
+        "owner": "COMMUNITY BROADCASTING, INC.",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.963389,
+          40.523889
+        ]
+      },
+      "properties": {
+        "id": "193574",
+        "call_sign": "KKOP-LP",
+        "frequency": "93.9  MHz",
+        "service": "FL",
+        "owner": "WILDCAT BROADCASTING INC",
+        "city": "CLAY CENTER",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.827111,
+          42.003583
+        ]
+      },
+      "properties": {
+        "id": "152902",
+        "call_sign": "K230AP",
+        "frequency": "93.9  MHz",
+        "service": "FX",
+        "owner": "TRI-STATE BROADCASTING ASSOCIATION, INC.",
+        "city": "HYANNIS",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8085,
+          40.190833
+        ]
+      },
+      "properties": {
+        "id": "70565",
+        "call_sign": "KSWN",
+        "frequency": "93.9  MHz",
+        "service": "FM",
+        "owner": "LEGACY COMMUNICATIONS, LLC",
+        "city": "MCCOOK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.922861,
+          41.571389
+        ]
+      },
+      "properties": {
+        "id": "149384",
+        "call_sign": "K230BR",
+        "frequency": "93.9  MHz",
+        "service": "FX",
+        "owner": "MWB BROADCASTING II, LLC",
+        "city": "ORD",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.028361,
+          41.304444
+        ]
+      },
+      "properties": {
+        "id": "50314",
+        "call_sign": "KQCH",
+        "frequency": "94.1  MHz",
+        "service": "FM",
+        "owner": "SM-KQCH, LLC",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.028361,
+          41.304444
+        ]
+      },
+      "properties": {
+        "id": "50314",
+        "call_sign": "KQCH",
+        "frequency": "94.1  MHz",
+        "service": "FS",
+        "owner": "SM-KQCH, LLC",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.826944,
+          41.839667
+        ]
+      },
+      "properties": {
+        "id": "51462",
+        "call_sign": "KNEB-FM",
+        "frequency": "94.1  MHz",
+        "service": "FM",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "SCOTTSBLUFF",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.680833,
+          41.701111
+        ]
+      },
+      "properties": {
+        "id": "51462",
+        "call_sign": "KNEB-FM",
+        "frequency": "94.1  MHz",
+        "service": "FS",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "SCOTTSBLUFF",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.403611,
+          42.730278
+        ]
+      },
+      "properties": {
+        "id": "183348",
+        "call_sign": "KDAM",
+        "frequency": "94.3  MHz",
+        "service": "FM",
+        "owner": "RIVERFRONT BROADCASTING LLC",
+        "city": "HARTINGTON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.830694,
+          41.111111
+        ]
+      },
+      "properties": {
+        "id": "146283",
+        "call_sign": "K232EC",
+        "frequency": "94.3  MHz",
+        "service": "FX",
+        "owner": "MYBRIDGE",
+        "city": "NORTH PLATTE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.839528,
+          40.602222
+        ]
+      },
+      "properties": {
+        "id": "541",
+        "call_sign": "KLIQ",
+        "frequency": "94.5  MHz",
+        "service": "FM",
+        "owner": "FLOOD COMMUNICATIONS OF OMAHA, L.L.C.",
+        "city": "HASTINGS",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.702806,
+          40.811389
+        ]
+      },
+      "properties": {
+        "id": "146282",
+        "call_sign": "K233AN",
+        "frequency": "94.5  MHz",
+        "service": "FX",
+        "owner": "NRG LICENSE SUB, LLC",
+        "city": "LINCOLN",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.119194,
+          41.253333
+        ]
+      },
+      "properties": {
+        "id": "146285",
+        "call_sign": "K233CO",
+        "frequency": "94.5  MHz",
+        "service": "FX",
+        "owner": "HICKORY RADIO, LLC",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.774472,
+          40.263611
+        ]
+      },
+      "properties": {
+        "id": "153098",
+        "call_sign": "K234CW",
+        "frequency": "94.7  MHz",
+        "service": "FX",
+        "owner": "FLOOD BROADCASTING, INC.",
+        "city": "BEATRICE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.141389,
+          41.521361
+        ]
+      },
+      "properties": {
+        "id": "196817",
+        "call_sign": "KYTF-LP",
+        "frequency": "94.7  MHz",
+        "service": "FL",
+        "owner": "BLAIR HEALING ROOMS INC",
+        "city": "BLAIR",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.6975,
+          42.651389
+        ]
+      },
+      "properties": {
+        "id": "164168",
+        "call_sign": "KCNB",
+        "frequency": "94.7  MHz",
+        "service": "FM",
+        "owner": "EAGLE COMMUNICATIONS, INC.",
+        "city": "CHADRON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.606444,
+          41.924444
+        ]
+      },
+      "properties": {
+        "id": "9954",
+        "call_sign": "KNEN",
+        "frequency": "94.7  MHz",
+        "service": "FM",
+        "owner": "RED BEACON COMMUNICATIONS, LLC",
+        "city": "NORFOLK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.880139,
+          40.996944
+        ]
+      },
+      "properties": {
+        "id": "67761",
+        "call_sign": "KJLT-FM",
+        "frequency": "94.9  MHz",
+        "service": "FM",
+        "owner": "TRI-STATE BROADCASTING ASSOCIATION, INC.",
+        "city": "NORTH PLATTE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.880139,
+          40.996944
+        ]
+      },
+      "properties": {
+        "id": "67761",
+        "call_sign": "KJLT-FM",
+        "frequency": "94.9  MHz",
+        "service": "FS",
+        "owner": "TRI-STATE BROADCASTING ASSOCIATION, INC.",
+        "city": "NORTH PLATTE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.951056,
+          41.257056
+        ]
+      },
+      "properties": {
+        "id": "138619",
+        "call_sign": "K235CD",
+        "frequency": "94.9  MHz",
+        "service": "FX",
+        "owner": "IHM LICENSES, LLC",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.994167,
+          41.115444
+        ]
+      },
+      "properties": {
+        "id": "196376",
+        "call_sign": "KOOW-LP",
+        "frequency": "95.1  MHz",
+        "service": "FL",
+        "owner": "CENTRAL CITY BAPTIST CHURCH",
+        "city": "CENTRAL CITY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.696417,
+          40.98
+        ]
+      },
+      "properties": {
+        "id": "54707",
+        "call_sign": "KRKR",
+        "frequency": "95.1  MHz",
+        "service": "FM",
+        "owner": "MYBRIDGE",
+        "city": "WAVERLY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.821222,
+          41.387222
+        ]
+      },
+      "properties": {
+        "id": "14769",
+        "call_sign": "KBBN-FM",
+        "frequency": "95.3  MHz",
+        "service": "FM",
+        "owner": "CUSTER COUNTY BROADCASTING CO.",
+        "city": "BROKEN BOW",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.6525,
+          40.212778
+        ]
+      },
+      "properties": {
+        "id": "147652",
+        "call_sign": "K237DV",
+        "frequency": "95.3  MHz",
+        "service": "FX",
+        "owner": "TRI-STATE BROADCASTING ASSOCIATION, INC",
+        "city": "MCCOOK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.388389,
+          41.445278
+        ]
+      },
+      "properties": {
+        "id": "140371",
+        "call_sign": "K238AR",
+        "frequency": "95.5  MHz",
+        "service": "FX",
+        "owner": "COMMUNITY BROADCASTING, INC.",
+        "city": "COLUMBUS",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.261528,
+          42.798861
+        ]
+      },
+      "properties": {
+        "id": "17028",
+        "call_sign": "KSDZ",
+        "frequency": "95.5  MHz",
+        "service": "FM",
+        "owner": "FLOOD COMMUNICATIONS WEST, LLC",
+        "city": "GORDON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.672389,
+          41.183611
+        ]
+      },
+      "properties": {
+        "id": "147662",
+        "call_sign": "K238BC",
+        "frequency": "95.5  MHz",
+        "service": "FX",
+        "owner": "MYBRIDGE",
+        "city": "OGALLALA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.869639,
+          42.117167
+        ]
+      },
+      "properties": {
+        "id": "29912",
+        "call_sign": "K239DC",
+        "frequency": "95.7  MHz",
+        "service": "FX",
+        "owner": "UNIVERSITY OF NORTHWESTERN-ST. PAUL",
+        "city": "ALLIANCE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.367,
+          40.786389
+        ]
+      },
+      "properties": {
+        "id": "24712",
+        "call_sign": "KROA",
+        "frequency": "95.7  MHz",
+        "service": "FM",
+        "owner": "MYBRIDGE",
+        "city": "GRAND ISLAND",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.664194,
+          40.757778
+        ]
+      },
+      "properties": {
+        "id": "195172",
+        "call_sign": "KNNA-LP",
+        "frequency": "95.7  MHz",
+        "service": "FL",
+        "owner": "GOOD SHEPHERD COMMUNITY RADIO",
+        "city": "LINCOLN",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.76125,
+          41.132111
+        ]
+      },
+      "properties": {
+        "id": "156340",
+        "call_sign": "K239CI",
+        "frequency": "95.7  MHz",
+        "service": "FX",
+        "owner": "TRI-STATE BROADCASTING ASSOCIATION, INC.",
+        "city": "NORTH PLATTE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.004139,
+          41.286944
+        ]
+      },
+      "properties": {
+        "id": "194952",
+        "call_sign": "KOWN-LP",
+        "frequency": "95.7  MHz",
+        "service": "FL",
+        "owner": "OMAHA COMMUNITY BROADCASTING",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.972611,
+          41.131167
+        ]
+      },
+      "properties": {
+        "id": "147667",
+        "call_sign": "K239BE",
+        "frequency": "95.7  MHz",
+        "service": "FX",
+        "owner": "FLOOD COMMUNICATIONS WEST, LLC",
+        "city": "SIDNEY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.320417,
+          41.761
+        ]
+      },
+      "properties": {
+        "id": "762339",
+        "call_sign": "KPHL",
+        "frequency": "95.9  MHz",
+        "service": "FM",
+        "owner": "FLOOD COMMUNICATIONS WEST, LLC",
+        "city": "BAYARD",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.90825,
+          42.470417
+        ]
+      },
+      "properties": {
+        "id": "195783",
+        "call_sign": "KNIL-LP",
+        "frequency": "95.9  MHz",
+        "service": "FL",
+        "owner": "ST. LUDGERUS CATHOLIC CHURCH",
+        "city": "CREIGHTON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.177944,
+          40.974
+        ]
+      },
+      "properties": {
+        "id": "153341",
+        "call_sign": "K240FD",
+        "frequency": "95.9  MHz",
+        "service": "FX",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "ULYSSES",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.900972,
+          43.130556
+        ]
+      },
+      "properties": {
+        "id": "66334",
+        "call_sign": "KINI",
+        "frequency": "96.1  MHz",
+        "service": "FM",
+        "owner": "ROSEBUD SIOUX TRIBE",
+        "city": "CROOKSTON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.081472,
+          40.668056
+        ]
+      },
+      "properties": {
+        "id": "151533",
+        "call_sign": "K241CN",
+        "frequency": "96.1  MHz",
+        "service": "FX",
+        "owner": "NRG LICENSE SUB, LLC",
+        "city": "KEARNEY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.684889,
+          40.171389
+        ]
+      },
+      "properties": {
+        "id": "57517",
+        "call_sign": "KICX-FM",
+        "frequency": "96.1  MHz",
+        "service": "FM",
+        "owner": "ARMADA MEDIA - MCCOOK, INC.",
+        "city": "MCCOOK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.684889,
+          40.171389
+        ]
+      },
+      "properties": {
+        "id": "57517",
+        "call_sign": "KICX-FM",
+        "frequency": "96.1  MHz",
+        "service": "FS",
+        "owner": "ARMADA MEDIA - MCCOOK, INC.",
+        "city": "MCCOOK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.026139,
+          41.308889
+        ]
+      },
+      "properties": {
+        "id": "71411",
+        "call_sign": "KISO",
+        "frequency": "96.1  MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.936972,
+          41.256111
+        ]
+      },
+      "properties": {
+        "id": "71411",
+        "call_sign": "KISO",
+        "frequency": "96.1  MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.991083,
+          41.265306
+        ]
+      },
+      "properties": {
+        "id": "71411",
+        "call_sign": "KISO",
+        "frequency": "96.1  MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.617861,
+          41.39675
+        ]
+      },
+      "properties": {
+        "id": "142190",
+        "call_sign": "K242CU",
+        "frequency": "96.3  MHz",
+        "service": "FX",
+        "owner": "CUSTER COUNTY BROADCASTING COMPANY",
+        "city": "BROKEN BOW",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.340611,
+          42.028056
+        ]
+      },
+      "properties": {
+        "id": "140368",
+        "call_sign": "K242BE",
+        "frequency": "96.3  MHz",
+        "service": "FX",
+        "owner": "COMMUNITY BROADCASTING, INC.",
+        "city": "NORFOLK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.396722,
+          40.864722
+        ]
+      },
+      "properties": {
+        "id": "32381",
+        "call_sign": "KRGI-FM",
+        "frequency": "96.5  MHz",
+        "service": "FM",
+        "owner": "LEGACY COMMUNICATIONS, LLC",
+        "city": "GRAND ISLAND",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.134167,
+          41.258611
+        ]
+      },
+      "properties": {
+        "id": "779255",
+        "call_sign": "KBTI-LP",
+        "frequency": "96.5  MHz",
+        "service": "FL",
+        "owner": "FATHER FLANAGANS BOYS HOME",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.398333,
+          40.515556
+        ]
+      },
+      "properties": {
+        "id": "139456",
+        "call_sign": "K245CK",
+        "frequency": "96.9  MHz",
+        "service": "FX",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "HOLDREGE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.62125,
+          40.203333
+        ]
+      },
+      "properties": {
+        "id": "194491",
+        "call_sign": "KQPK-LP",
+        "frequency": "96.9  MHz",
+        "service": "FL",
+        "owner": "HOLY SPIRIT CATHOLIC RADIO OF MCCOOK",
+        "city": "MCCOOK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.834667,
+          41.123222
+        ]
+      },
+      "properties": {
+        "id": "53143",
+        "call_sign": "KZKX",
+        "frequency": "96.9  MHz",
+        "service": "FM",
+        "owner": "ALPHA 3E LICENSEE LLC",
+        "city": "SEWARD",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.695694,
+          41.238861
+        ]
+      },
+      "properties": {
+        "id": "69699",
+        "call_sign": "KELN",
+        "frequency": "97.1  MHz",
+        "service": "FM",
+        "owner": "EAGLE COMMUNICATIONS, INC.",
+        "city": "NORTH PLATTE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.683833,
+          41.702194
+        ]
+      },
+      "properties": {
+        "id": "11069",
+        "call_sign": "KCMI",
+        "frequency": "97.1  MHz",
+        "service": "FM",
+        "owner": "CHRISTIAN MEDIA INCORPORATED",
+        "city": "TERRYTOWN",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.093667,
+          40.878889
+        ]
+      },
+      "properties": {
+        "id": "9936",
+        "call_sign": "KRGY",
+        "frequency": "97.3  MHz",
+        "service": "FM",
+        "owner": "LEGACY COMMUNICATIONS, LLC",
+        "city": "AURORA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.208889,
+          41.639139
+        ]
+      },
+      "properties": {
+        "id": "87840",
+        "call_sign": "KOBM-FM",
+        "frequency": "97.3  MHz",
+        "service": "FM",
+        "owner": "WALNUT RADIO, LLC",
+        "city": "BLAIR",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.654444,
+          40.836667
+        ]
+      },
+      "properties": {
+        "id": "787914",
+        "call_sign": "KDPP-LP",
+        "frequency": "97.3  MHz",
+        "service": "FL",
+        "owner": "DVYNE SOULZ INC.",
+        "city": "LINCOLN",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.103694,
+          42.634889
+        ]
+      },
+      "properties": {
+        "id": "18091",
+        "call_sign": "KQSK",
+        "frequency": "97.5  MHz",
+        "service": "FM",
+        "owner": "EAGLE COMMUNICATIONS, INC.",
+        "city": "CHADRON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.649333,
+          40.2125
+        ]
+      },
+      "properties": {
+        "id": "144624",
+        "call_sign": "K248CX",
+        "frequency": "97.5  MHz",
+        "service": "FX",
+        "owner": "ARMADA MEDIA - MCCOOK, INC.",
+        "city": "MCCOOK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.428111,
+          42.321389
+        ]
+      },
+      "properties": {
+        "id": "170494",
+        "call_sign": "KEXL",
+        "frequency": "97.5  MHz",
+        "service": "FM",
+        "owner": "WJAG INCORPORATED",
+        "city": "PIERCE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.839528,
+          40.602222
+        ]
+      },
+      "properties": {
+        "id": "27174",
+        "call_sign": "KMTY",
+        "frequency": "97.7  MHz",
+        "service": "FM",
+        "owner": "LEGACY COMMUNICATIONS, LLC",
+        "city": "GIBBON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.153333,
+          40.890833
+        ]
+      },
+      "properties": {
+        "id": "47957",
+        "call_sign": "KBBX-FM",
+        "frequency": "97.7  MHz",
+        "service": "FM",
+        "owner": "FLOOD COMMUNICATIONS OF OMAHA, LLC",
+        "city": "NEBRASKA CITY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.153333,
+          40.890833
+        ]
+      },
+      "properties": {
+        "id": "47957",
+        "call_sign": "KBBX-FM",
+        "frequency": "97.7  MHz",
+        "service": "FS",
+        "owner": "FLOOD COMMUNICATIONS OF OMAHA, LLC",
+        "city": "NEBRASKA CITY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.711556,
+          41.131917
+        ]
+      },
+      "properties": {
+        "id": "196364",
+        "call_sign": "KQQO-LP",
+        "frequency": "97.7  MHz",
+        "service": "FL",
+        "owner": "ADVENTIST LEARNING CENTER OF OGALLALA",
+        "city": "OGALLALA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.270889,
+          40.864444
+        ]
+      },
+      "properties": {
+        "id": "6490",
+        "call_sign": "KFGE",
+        "frequency": "98.1  MHz",
+        "service": "FM",
+        "owner": "NRG LICENSE SUB, LLC",
+        "city": "MILFORD",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.675028,
+          40.848333
+        ]
+      },
+      "properties": {
+        "id": "6490",
+        "call_sign": "KFGE",
+        "frequency": "98.1  MHz",
+        "service": "FS",
+        "owner": "NRG LICENSE SUB, LLC",
+        "city": "MILFORD",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.749417,
+          41.190194
+        ]
+      },
+      "properties": {
+        "id": "202777",
+        "call_sign": "K251CP",
+        "frequency": "98.1  MHz",
+        "service": "FX",
+        "owner": "EAGLE COMMUNICATIONS, INC.",
+        "city": "NORTH PLATTE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.934194,
+          41.265806
+        ]
+      },
+      "properties": {
+        "id": "196774",
+        "call_sign": "KIOR-LP",
+        "frequency": "98.1  MHz",
+        "service": "FL",
+        "owner": "INDEPENDENT OMAHA RADIO PROJECT, INC.",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.477,
+          40.606417
+        ]
+      },
+      "properties": {
+        "id": "193596",
+        "call_sign": "KHPJ-LP",
+        "frequency": "98.3  MHz",
+        "service": "FL",
+        "owner": "HOPE RADIO HASTINGS",
+        "city": "HASTINGS",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.694056,
+          40.222222
+        ]
+      },
+      "properties": {
+        "id": "201351",
+        "call_sign": "K252FV",
+        "frequency": "98.3  MHz",
+        "service": "FX",
+        "owner": "MYBRIDGE",
+        "city": "MCCOOK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.694194,
+          41.842472
+        ]
+      },
+      "properties": {
+        "id": "153332",
+        "call_sign": "K252EG",
+        "frequency": "98.3  MHz",
+        "service": "FX",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "WEST POINT",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.367,
+          40.786389
+        ]
+      },
+      "properties": {
+        "id": "202055",
+        "call_sign": "K253CS",
+        "frequency": "98.5  MHz",
+        "service": "FX",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "GRAND ISLAND",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.730694,
+          41.213611
+        ]
+      },
+      "properties": {
+        "id": "86863",
+        "call_sign": "KHAQ",
+        "frequency": "98.5  MHz",
+        "service": "FM",
+        "owner": "ARMADA MEDIA - MCCOOK, INC.",
+        "city": "MAXWELL",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.340611,
+          42.028056
+        ]
+      },
+      "properties": {
+        "id": "200085",
+        "call_sign": "K254CX",
+        "frequency": "98.7  MHz",
+        "service": "FX",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "NORFOLK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.196306,
+          41.18275
+        ]
+      },
+      "properties": {
+        "id": "35603",
+        "call_sign": "KSID-FM",
+        "frequency": "98.7  MHz",
+        "service": "FM",
+        "owner": "FLOOD COMMUNICATIONS WEST, LLC",
+        "city": "SIDNEY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.964472,
+          41.257222
+        ]
+      },
+      "properties": {
+        "id": "138732",
+        "call_sign": "K255CJ",
+        "frequency": "98.9  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL",
+        "city": "BRIGGS",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.953222,
+          41.224889
+        ]
+      },
+      "properties": {
+        "id": "138732",
+        "call_sign": "K255CJ",
+        "frequency": "98.9  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL",
+        "city": "BRIGGS",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.964472,
+          41.257222
+        ]
+      },
+      "properties": {
+        "id": "138732",
+        "call_sign": "K255CJ",
+        "frequency": "98.9  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL",
+        "city": "BRIGGS",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.532806,
+          41.411111
+        ]
+      },
+      "properties": {
+        "id": "200027",
+        "call_sign": "K255DF",
+        "frequency": "98.9  MHz",
+        "service": "FX",
+        "owner": "WALNUT RADIO, LLC",
+        "city": "FREMONT",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.770361,
+          40.814722
+        ]
+      },
+      "properties": {
+        "id": "52804",
+        "call_sign": "KKPR-FM",
+        "frequency": "98.9  MHz",
+        "service": "FM",
+        "owner": "FLOOD COMMUNICATIONS TRI-CITIES, L.L.C.",
+        "city": "KEARNEY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.725861,
+          40.775833
+        ]
+      },
+      "properties": {
+        "id": "138731",
+        "call_sign": "K255CS",
+        "frequency": "98.9  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL",
+        "city": "LINCOLN",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.055889,
+          42.234444
+        ]
+      },
+      "properties": {
+        "id": "153310",
+        "call_sign": "K255CK",
+        "frequency": "98.9  MHz",
+        "service": "FX",
+        "owner": "WAYNE RADIO WORKS, LLC",
+        "city": "WAYNE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.443806,
+          42.515528
+        ]
+      },
+      "properties": {
+        "id": "138340",
+        "call_sign": "K256BO",
+        "frequency": "99.1  MHz",
+        "service": "FX",
+        "owner": "OWEN DAVIS",
+        "city": "DAVIS RANCH",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.405889,
+          41.454167
+        ]
+      },
+      "properties": {
+        "id": "153350",
+        "call_sign": "K257FK",
+        "frequency": "99.3  MHz",
+        "service": "FX",
+        "owner": "VSS CATHOLIC COMMUNICATIONS, INC.",
+        "city": "COLUMBUS",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.702806,
+          40.811389
+        ]
+      },
+      "properties": {
+        "id": "200992",
+        "call_sign": "K257GN",
+        "frequency": "99.3  MHz",
+        "service": "FX",
+        "owner": "NRG LICENSE SUB, LLC",
+        "city": "LINCOLN",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.119167,
+          41.253333
+        ]
+      },
+      "properties": {
+        "id": "154135",
+        "call_sign": "K257GW",
+        "frequency": "99.3  MHz",
+        "service": "FX",
+        "owner": "MYBRIDGE",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.788167,
+          40.696944
+        ]
+      },
+      "properties": {
+        "id": "164307",
+        "call_sign": "KHZY",
+        "frequency": "99.3  MHz",
+        "service": "FM",
+        "owner": "MYBRIDGE",
+        "city": "OVERTON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.628611,
+          41.228611
+        ]
+      },
+      "properties": {
+        "id": "785850",
+        "call_sign": "KWAB-LP",
+        "frequency": "99.3  MHz",
+        "service": "FL",
+        "owner": "WAHOO AREA BROADCASTING",
+        "city": "WAHOO",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.599722,
+          40.840833
+        ]
+      },
+      "properties": {
+        "id": "140363",
+        "call_sign": "K257EF",
+        "frequency": "99.3  MHz",
+        "service": "FX",
+        "owner": "COMMUNITY BROADCASTING, INC.",
+        "city": "YORK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9745,
+          40.184861
+        ]
+      },
+      "properties": {
+        "id": "60291",
+        "call_sign": "KUTT",
+        "frequency": "99.5  MHz",
+        "service": "FM",
+        "owner": "FLOOD COMMUNICATIONS OF BEATRICE, LLC",
+        "city": "FAIRBURY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.564861,
+          42.909167
+        ]
+      },
+      "properties": {
+        "id": "191571",
+        "call_sign": "KDJL",
+        "frequency": "99.5  MHz",
+        "service": "FM",
+        "owner": "FLOOD COMMUNICATIONS WEST, LLC",
+        "city": "KILGORE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.826944,
+          41.839667
+        ]
+      },
+      "properties": {
+        "id": "164137",
+        "call_sign": "KETT",
+        "frequency": "99.5  MHz",
+        "service": "FM",
+        "owner": "VSS CATHOLIC COMMUNICATIONS, INC.",
+        "city": "MITCHELL",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.953222,
+          41.224889
+        ]
+      },
+      "properties": {
+        "id": "156462",
+        "call_sign": "K258DC",
+        "frequency": "99.5  MHz",
+        "service": "FX",
+        "owner": "MUNOZ MEDIA, LLC",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.103444,
+          41.901917
+        ]
+      },
+      "properties": {
+        "id": "82283",
+        "call_sign": "K259DL",
+        "frequency": "99.7  MHz",
+        "service": "FX",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "BURWELL",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.396722,
+          40.864722
+        ]
+      },
+      "properties": {
+        "id": "140361",
+        "call_sign": "K259CZ",
+        "frequency": "99.7  MHz",
+        "service": "FX",
+        "owner": "LEGACY COMMUNICATIONS, LLC",
+        "city": "GRAND ISLAND",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.338194,
+          41.063861
+        ]
+      },
+      "properties": {
+        "id": "50066",
+        "call_sign": "KOGA-FM",
+        "frequency": "99.7  MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "OGALLALA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.338222,
+          41.063889
+        ]
+      },
+      "properties": {
+        "id": "50066",
+        "call_sign": "KOGA-FM",
+        "frequency": "99.7  MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "OGALLALA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.885194,
+          42.104667
+        ]
+      },
+      "properties": {
+        "id": "196247",
+        "call_sign": "KAQQ-LP",
+        "frequency": "99.9  MHz",
+        "service": "FL",
+        "owner": "ADVENTIST LEARNING CENTER OF ALLIANCE",
+        "city": "ALLIANCE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.087833,
+          41.682472
+        ]
+      },
+      "properties": {
+        "id": "196278",
+        "call_sign": "KBDP-LP",
+        "frequency": "99.9  MHz",
+        "service": "FL",
+        "owner": "ADVENTIST LEARNING CENTER OF BRIDGEPORT",
+        "city": "BRIDGEPORT",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.087028,
+          40.739722
+        ]
+      },
+      "properties": {
+        "id": "83648",
+        "call_sign": "K260AF",
+        "frequency": "99.9  MHz",
+        "service": "FX",
+        "owner": "MYBRIDGE",
+        "city": "KEARNEY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.027139,
+          41.306833
+        ]
+      },
+      "properties": {
+        "id": "26928",
+        "call_sign": "KGOR",
+        "frequency": "99.9  MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.991083,
+          41.265306
+        ]
+      },
+      "properties": {
+        "id": "26928",
+        "call_sign": "KGOR",
+        "frequency": "99.9  MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.999722,
+          41.119167
+        ]
+      },
+      "properties": {
+        "id": "26928",
+        "call_sign": "KGOR",
+        "frequency": "99.9  MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.65675,
+          42.459444
+        ]
+      },
+      "properties": {
+        "id": "201536",
+        "call_sign": "K260DO",
+        "frequency": "99.9  MHz",
+        "service": "FX",
+        "owner": "RANCHLAND BROADCASTING COMPANY, INC.",
+        "city": "O'NEILL",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.746667,
+          40.269139
+        ]
+      },
+      "properties": {
+        "id": "194492",
+        "call_sign": "KPKA-LP",
+        "frequency": "100.1 MHz",
+        "service": "FL",
+        "owner": "ST. ISADORE CATHOLIC RADIO OF BEATRICE",
+        "city": "BEATRICE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.788722,
+          40.696667
+        ]
+      },
+      "properties": {
+        "id": "11057",
+        "call_sign": "K261BT",
+        "frequency": "100.1 MHz",
+        "service": "FX",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATIONI",
+        "city": "LEXINGTON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6795,
+          41.541111
+        ]
+      },
+      "properties": {
+        "id": "50733",
+        "call_sign": "KZEN",
+        "frequency": "100.3 MHz",
+        "service": "FM",
+        "owner": "ALPHA 3E LICENSEE LLC",
+        "city": "CENTRAL CITY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.003889,
+          41.311917
+        ]
+      },
+      "properties": {
+        "id": "193882",
+        "call_sign": "KCUG-LP",
+        "frequency": "100.3 MHz",
+        "service": "FL",
+        "owner": "GOSPEL MUSIC OMAHA",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.826944,
+          41.839667
+        ]
+      },
+      "properties": {
+        "id": "142007",
+        "call_sign": "K262CU",
+        "frequency": "100.3 MHz",
+        "service": "FX",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "SCOTTSBLUFF",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.02725,
+          41.311111
+        ]
+      },
+      "properties": {
+        "id": "24713",
+        "call_sign": "KGBI-FM",
+        "frequency": "100.7 MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF NORTHWESTERN - ST. PAUL",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.028333,
+          41.304444
+        ]
+      },
+      "properties": {
+        "id": "24713",
+        "call_sign": "KGBI-FM",
+        "frequency": "100.7 MHz",
+        "service": "FS",
+        "owner": "UNIVERSITY OF NORTHWESTERN - ST. PAUL",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.338222,
+          41.063889
+        ]
+      },
+      "properties": {
+        "id": "164139",
+        "call_sign": "KRNP",
+        "frequency": "100.7 MHz",
+        "service": "FM",
+        "owner": "EAGLE COMMUNICATIONS, INC.",
+        "city": "SUTHERLAND",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.840028,
+          42.413028
+        ]
+      },
+      "properties": {
+        "id": "164135",
+        "call_sign": "KWTN",
+        "frequency": "100.9 MHz",
+        "service": "FM",
+        "owner": "WINNEBAGO TRIBE OF NEBRASKA",
+        "city": "ALLEN",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.086944,
+          40.739722
+        ]
+      },
+      "properties": {
+        "id": "193647",
+        "call_sign": "KNEY-LP",
+        "frequency": "100.9 MHz",
+        "service": "FL",
+        "owner": "KEARNEY SDA RADIO",
+        "city": "KEARNEY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.409,
+          41.281778
+        ]
+      },
+      "properties": {
+        "id": "26627",
+        "call_sign": "KLIR",
+        "frequency": "101.1 MHz",
+        "service": "FM",
+        "owner": "ALPHA 3E LICENSEE LLC",
+        "city": "COLUMBUS",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.390611,
+          41.439722
+        ]
+      },
+      "properties": {
+        "id": "26627",
+        "call_sign": "KLIR",
+        "frequency": "101.1 MHz",
+        "service": "FS",
+        "owner": "ALPHA 3E LICENSEE LLC",
+        "city": "COLUMBUS",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.826944,
+          41.839667
+        ]
+      },
+      "properties": {
+        "id": "81766",
+        "call_sign": "KOZY-FM",
+        "frequency": "101.3 MHz",
+        "service": "FM",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "BRIDGEPORT",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.680833,
+          41.701111
+        ]
+      },
+      "properties": {
+        "id": "81766",
+        "call_sign": "KOZY-FM",
+        "frequency": "101.3 MHz",
+        "service": "FS",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "BRIDGEPORT",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.651944,
+          40.115
+        ]
+      },
+      "properties": {
+        "id": "35286",
+        "call_sign": "KLZA",
+        "frequency": "101.3 MHz",
+        "service": "FM",
+        "owner": "KNZA, INC",
+        "city": "FALLS CITY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.004222,
+          41.286944
+        ]
+      },
+      "properties": {
+        "id": "194041",
+        "call_sign": "KXNB-LP",
+        "frequency": "101.3 MHz",
+        "service": "FL",
+        "owner": "MALCOLM X MEMORIAL FOUNDATION",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.868139,
+          40.657806
+        ]
+      },
+      "properties": {
+        "id": "26649",
+        "call_sign": "KROR",
+        "frequency": "101.5 MHz",
+        "service": "FM",
+        "owner": "NRG LICENSE SUB, LLC",
+        "city": "HASTINGS",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.658917,
+          40.819444
+        ]
+      },
+      "properties": {
+        "id": "141262",
+        "call_sign": "K268DF",
+        "frequency": "101.5 MHz",
+        "service": "FX",
+        "owner": "ALPHA 3E LICENSEE LLC",
+        "city": "LINCOLN",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.826944,
+          41.839667
+        ]
+      },
+      "properties": {
+        "id": "25878",
+        "call_sign": "K269DO",
+        "frequency": "101.7 MHz",
+        "service": "FX",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "SCOTTSBLUFF",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.192806,
+          41.050278
+        ]
+      },
+      "properties": {
+        "id": "35067",
+        "call_sign": "KOOO",
+        "frequency": "101.9 MHz",
+        "service": "FM",
+        "owner": "NRG LICENSE SUB, LLC",
+        "city": "LA VISTA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.192806,
+          41.050278
+        ]
+      },
+      "properties": {
+        "id": "35067",
+        "call_sign": "KOOO",
+        "frequency": "101.9 MHz",
+        "service": "FM",
+        "owner": "NRG LICENSE SUB, LLC",
+        "city": "LA VISTA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.192806,
+          41.050278
+        ]
+      },
+      "properties": {
+        "id": "35067",
+        "call_sign": "KOOO",
+        "frequency": "101.9 MHz",
+        "service": "FM",
+        "owner": "NRG LICENSE SUB, LLC",
+        "city": "LA VISTA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.192806,
+          41.050278
+        ]
+      },
+      "properties": {
+        "id": "35067",
+        "call_sign": "KOOO",
+        "frequency": "101.9 MHz",
+        "service": "FM",
+        "owner": "NRG LICENSE SUB, LLC",
+        "city": "LA VISTA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8085,
+          40.190833
+        ]
+      },
+      "properties": {
+        "id": "166012",
+        "call_sign": "KZMC",
+        "frequency": "102.1 MHz",
+        "service": "FM",
+        "owner": "LEGACY COMMUNICATIONS, LLC",
+        "city": "MCCOOK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.074639,
+          41.841083
+        ]
+      },
+      "properties": {
+        "id": "25879",
+        "call_sign": "KPNY",
+        "frequency": "102.3 MHz",
+        "service": "FM",
+        "owner": "MYBRIDGE",
+        "city": "ALLIANCE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.839528,
+          40.602222
+        ]
+      },
+      "properties": {
+        "id": "47999",
+        "call_sign": "KRNY",
+        "frequency": "102.3 MHz",
+        "service": "FM",
+        "owner": "NRG LICENSE SUB, LLC",
+        "city": "KEARNEY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.951056,
+          41.257056
+        ]
+      },
+      "properties": {
+        "id": "138406",
+        "call_sign": "K272FE",
+        "frequency": "102.3 MHz",
+        "service": "FX",
+        "owner": "IHM LICENSES, LLC",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.586444,
+          40.866111
+        ]
+      },
+      "properties": {
+        "id": "194490",
+        "call_sign": "KMAY-LP",
+        "frequency": "102.5 MHz",
+        "service": "FL",
+        "owner": "ST. MARY CATHOLIC RADIO OF YORK",
+        "city": "YORK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.225639,
+          41.071083
+        ]
+      },
+      "properties": {
+        "id": "34435",
+        "call_sign": "KVSS",
+        "frequency": "102.7 MHz",
+        "service": "FM",
+        "owner": "VSS CATHOLIC COMMUNICATIONS, INC",
+        "city": "PAPILLION",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.644611,
+          40.5125
+        ]
+      },
+      "properties": {
+        "id": "88537",
+        "call_sign": "KADL",
+        "frequency": "102.9 MHz",
+        "service": "FM",
+        "owner": "ARMADA MEDIA - MCCOOK, INC.",
+        "city": "IMPERIAL",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.561194,
+          42.435
+        ]
+      },
+      "properties": {
+        "id": "55077",
+        "call_sign": "KBRX-FM",
+        "frequency": "102.9 MHz",
+        "service": "FM",
+        "owner": "RANCHLAND BROADCASTING COMPANY, INC.",
+        "city": "O'NEILL",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.760833,
+          40.465833
+        ]
+      },
+      "properties": {
+        "id": "63953",
+        "call_sign": "KBIE",
+        "frequency": "103.1 MHz",
+        "service": "FM",
+        "owner": "FLOOD BROADCASTING, INC.",
+        "city": "AUBURN",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.532806,
+          41.411111
+        ]
+      },
+      "properties": {
+        "id": "140372",
+        "call_sign": "K276FI",
+        "frequency": "103.1 MHz",
+        "service": "FX",
+        "owner": "COMMUNITY BROADCASTING, INC.",
+        "city": "FREMONT",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.772028,
+          40.815833
+        ]
+      },
+      "properties": {
+        "id": "164157",
+        "call_sign": "KKJK",
+        "frequency": "103.1 MHz",
+        "service": "FM",
+        "owner": "LEGACY COMMUNICATIONS, LLC",
+        "city": "RAVENNA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.975472,
+          41.149972
+        ]
+      },
+      "properties": {
+        "id": "35640",
+        "call_sign": "K276CX",
+        "frequency": "103.1 MHz",
+        "service": "FX",
+        "owner": "MEDIA LOGIC LLC",
+        "city": "SIDNEY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.722528,
+          40.233333
+        ]
+      },
+      "properties": {
+        "id": "140374",
+        "call_sign": "K277CD",
+        "frequency": "103.3 MHz",
+        "service": "FX",
+        "owner": "COMMUNITY BROADCASTING, INC.",
+        "city": "BEATRICE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.658917,
+          40.819444
+        ]
+      },
+      "properties": {
+        "id": "138615",
+        "call_sign": "K277CA",
+        "frequency": "103.3 MHz",
+        "service": "FX",
+        "owner": "ALPHA 3E LICENSEE LLC",
+        "city": "LINCOLN",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.156694,
+          41.288889
+        ]
+      },
+      "properties": {
+        "id": "139524",
+        "call_sign": "K277CP",
+        "frequency": "103.3 MHz",
+        "service": "FX",
+        "owner": "COMMUNITY BROADCASTING, INC.",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.377556,
+          40.919722
+        ]
+      },
+      "properties": {
+        "id": "140366",
+        "call_sign": "K278BR",
+        "frequency": "103.5 MHz",
+        "service": "FX",
+        "owner": "LEGACY COMMUNICATIONS LLC",
+        "city": "GRAND ISLAND",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.730417,
+          41.213583
+        ]
+      },
+      "properties": {
+        "id": "9934",
+        "call_sign": "KXNP",
+        "frequency": "103.5 MHz",
+        "service": "FM",
+        "owner": "ARMADA MEDIA - MCCOOK, INC.",
+        "city": "NORTH PLATTE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.599778,
+          40.840833
+        ]
+      },
+      "properties": {
+        "id": "142186",
+        "call_sign": "K278CI",
+        "frequency": "103.5 MHz",
+        "service": "FX",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "YORK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.874361,
+          42.106056
+        ]
+      },
+      "properties": {
+        "id": "194598",
+        "call_sign": "KLPH-LP",
+        "frequency": "103.9 MHz",
+        "service": "FL",
+        "owner": "ST. MAXIMILLIAN KOLBE CATHOLIC RADIO OF ALLIANCE",
+        "city": "ALLIANCE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.685167,
+          40.171944
+        ]
+      },
+      "properties": {
+        "id": "166033",
+        "call_sign": "KQHK",
+        "frequency": "103.9 MHz",
+        "service": "FM",
+        "owner": "ARMADA MEDIA - MCCOOK, INC.",
+        "city": "MCCOOK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.103444,
+          41.901917
+        ]
+      },
+      "properties": {
+        "id": "35246",
+        "call_sign": "KNLV-FM",
+        "frequency": "103.9 MHz",
+        "service": "FM",
+        "owner": "MWB BROADCASTING II, LLC",
+        "city": "ORD",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.106167,
+          40.105556
+        ]
+      },
+      "properties": {
+        "id": "64016",
+        "call_sign": "KRFS-FM",
+        "frequency": "103.9 MHz",
+        "service": "FM",
+        "owner": "CK BROADCASTING, INC.",
+        "city": "SUPERIOR",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.47575,
+          41.103611
+        ]
+      },
+      "properties": {
+        "id": "152935",
+        "call_sign": "K281AR",
+        "frequency": "104.1 MHz",
+        "service": "FX",
+        "owner": "TRI-STATE BROADCASTING ASSOCIATION, INC.",
+        "city": "CHAPPELL",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.768639,
+          40.518333
+        ]
+      },
+      "properties": {
+        "id": "640",
+        "call_sign": "KIBZ",
+        "frequency": "104.1 MHz",
+        "service": "FM",
+        "owner": "ALPHA 3E LICENSEE LLC",
+        "city": "CRETE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.375278,
+          40.5675
+        ]
+      },
+      "properties": {
+        "id": "200122",
+        "call_sign": "K281CW",
+        "frequency": "104.1 MHz",
+        "service": "FX",
+        "owner": "FLOOD COMMUNICATIONS TRI-CITIES, L.L.C.",
+        "city": "HASTINGS",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.953222,
+          41.224889
+        ]
+      },
+      "properties": {
+        "id": "138708",
+        "call_sign": "K281DG",
+        "frequency": "104.1 MHz",
+        "service": "FX",
+        "owner": "HICKORY RADIO, LLC",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.664278,
+          41.252306
+        ]
+      },
+      "properties": {
+        "id": "762448",
+        "call_sign": "KIMB",
+        "frequency": "104.3 MHz",
+        "service": "FM",
+        "owner": "FLOOD COMMUNICATIONS WEST, LLC",
+        "city": "DIX",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.608778,
+          40.5025
+        ]
+      },
+      "properties": {
+        "id": "194493",
+        "call_sign": "KNKP-LP",
+        "frequency": "104.3 MHz",
+        "service": "FL",
+        "owner": "ST. POLYCARP CATHOLIC RADIO OF IMPERIAL",
+        "city": "IMPERIAL",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.131389,
+          41.128056
+        ]
+      },
+      "properties": {
+        "id": "146284",
+        "call_sign": "K282AX",
+        "frequency": "104.3 MHz",
+        "service": "FX",
+        "owner": "MYBRIDGE",
+        "city": "PAXTON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.788722,
+          40.696667
+        ]
+      },
+      "properties": {
+        "id": "69844",
+        "call_sign": "KCVN",
+        "frequency": "104.5 MHz",
+        "service": "FM",
+        "owner": "COMMUNITY BROADCASTING, INC.",
+        "city": "COZAD",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.028361,
+          41.304444
+        ]
+      },
+      "properties": {
+        "id": "50308",
+        "call_sign": "KSRZ",
+        "frequency": "104.5 MHz",
+        "service": "FM",
+        "owner": "SM-KSRZ-FM, LLC",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.02725,
+          41.306944
+        ]
+      },
+      "properties": {
+        "id": "50308",
+        "call_sign": "KSRZ",
+        "frequency": "104.5 MHz",
+        "service": "FS",
+        "owner": "SM-KSRZ-FM, LLC",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.366944,
+          40.786389
+        ]
+      },
+      "properties": {
+        "id": "142244",
+        "call_sign": "K284DC",
+        "frequency": "104.7 MHz",
+        "service": "FX",
+        "owner": "MYBRIDGE",
+        "city": "GRAND ISLAND",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.055889,
+          42.234444
+        ]
+      },
+      "properties": {
+        "id": "35659",
+        "call_sign": "KTCH",
+        "frequency": "104.9 MHz",
+        "service": "FM",
+        "owner": "WAYNE RADIO WORKS LLC",
+        "city": "EMERSON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.02725,
+          41.306944
+        ]
+      },
+      "properties": {
+        "id": "148229",
+        "call_sign": "K285GP",
+        "frequency": "104.9 MHz",
+        "service": "FX",
+        "owner": "K-LOVE, INC.",
+        "city": "MILLARD",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.02725,
+          41.306944
+        ]
+      },
+      "properties": {
+        "id": "148229",
+        "call_sign": "K285GP",
+        "frequency": "104.9 MHz",
+        "service": "FX",
+        "owner": "K-LOVE, INC.",
+        "city": "MILLARD",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.451444,
+          40.751944
+        ]
+      },
+      "properties": {
+        "id": "9935",
+        "call_sign": "KTMX",
+        "frequency": "104.9 MHz",
+        "service": "FM",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "YORK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.588111,
+          40.841667
+        ]
+      },
+      "properties": {
+        "id": "9935",
+        "call_sign": "KTMX",
+        "frequency": "104.9 MHz",
+        "service": "FS",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "YORK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.588389,
+          40.842778
+        ]
+      },
+      "properties": {
+        "id": "9935",
+        "call_sign": "KTMX",
+        "frequency": "104.9 MHz",
+        "service": "FS",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "YORK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.019639,
+          42.824972
+        ]
+      },
+      "properties": {
+        "id": "146279",
+        "call_sign": "K287AX",
+        "frequency": "105.3 MHz",
+        "service": "FX",
+        "owner": "MYBRIDGE",
+        "city": "CHADRON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.614472,
+          40.727222
+        ]
+      },
+      "properties": {
+        "id": "58730",
+        "call_sign": "KLNC",
+        "frequency": "105.3 MHz",
+        "service": "FM",
+        "owner": "NRG LICENSE SUB, LLC",
+        "city": "LINCOLN",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8085,
+          40.190833
+        ]
+      },
+      "properties": {
+        "id": "2119",
+        "call_sign": "KIOD",
+        "frequency": "105.3 MHz",
+        "service": "FM",
+        "owner": "LEGACY COMMUNICATIONS, LLC",
+        "city": "MCCOOK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.953889,
+          41.138611
+        ]
+      },
+      "properties": {
+        "id": "788216",
+        "call_sign": "NEW",
+        "frequency": "105.3 MHz",
+        "service": "FL",
+        "owner": "THE SIMPLE FOUNDATION",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.418417,
+          42.345833
+        ]
+      },
+      "properties": {
+        "id": "66274",
+        "call_sign": "KGRD",
+        "frequency": "105.3 MHz",
+        "service": "FM",
+        "owner": "THE PRAISE NETWORK, INC.",
+        "city": "ORCHARD",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.531694,
+          41.411111
+        ]
+      },
+      "properties": {
+        "id": "34549",
+        "call_sign": "KFMT-FM",
+        "frequency": "105.5 MHz",
+        "service": "FM",
+        "owner": "WALNUT RADIO, LLC",
+        "city": "FREMONT",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.496667,
+          41.434139
+        ]
+      },
+      "properties": {
+        "id": "34549",
+        "call_sign": "KFMT-FM",
+        "frequency": "105.5 MHz",
+        "service": "FS",
+        "owner": "WALNUT RADIO, LLC",
+        "city": "FREMONT",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.396722,
+          40.864722
+        ]
+      },
+      "properties": {
+        "id": "148280",
+        "call_sign": "K288HC",
+        "frequency": "105.5 MHz",
+        "service": "FX",
+        "owner": "LEGACY COMMUNICATIONS, LLC",
+        "city": "GRAND ISLAND",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.869444,
+          40.700833
+        ]
+      },
+      "properties": {
+        "id": "140354",
+        "call_sign": "K288GS",
+        "frequency": "105.5 MHz",
+        "service": "FX",
+        "owner": "FLOOD BROADCASTING, INC.",
+        "city": "NEBRASKA CITY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.96725,
+          40.622778
+        ]
+      },
+      "properties": {
+        "id": "197538",
+        "call_sign": "KCPJ-LP",
+        "frequency": "105.7 MHz",
+        "service": "FL",
+        "owner": "CRETE PROGRESSIVE EDUCATIONAL BROADCASTING CORPORATION",
+        "city": "CRETE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.520583,
+          42.342472
+        ]
+      },
+      "properties": {
+        "id": "21692",
+        "call_sign": "KSUX",
+        "frequency": "105.7 MHz",
+        "service": "FM",
+        "owner": "KSUX/KSCJ RADIO BROADCASTING CO",
+        "city": "WINNEBAGO",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.08575,
+          41.841361
+        ]
+      },
+      "properties": {
+        "id": "18090",
+        "call_sign": "KAAQ",
+        "frequency": "105.9 MHz",
+        "service": "FM",
+        "owner": "EAGLE COMMUNICATIONS, INC.",
+        "city": "ALLIANCE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.839528,
+          40.602222
+        ]
+      },
+      "properties": {
+        "id": "9778",
+        "call_sign": "KQKY",
+        "frequency": "105.9 MHz",
+        "service": "FM",
+        "owner": "NRG LICENSE SUB, LLC",
+        "city": "KEARNEY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.357,
+          42.029167
+        ]
+      },
+      "properties": {
+        "id": "155264",
+        "call_sign": "K290AT",
+        "frequency": "105.9 MHz",
+        "service": "FX",
+        "owner": "WJAG INCORPORATED",
+        "city": "NORFOLK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.953611,
+          41.201083
+        ]
+      },
+      "properties": {
+        "id": "74103",
+        "call_sign": "KKCD",
+        "frequency": "105.9 MHz",
+        "service": "FM",
+        "owner": "SM-KKCD, LLC",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.028361,
+          41.304444
+        ]
+      },
+      "properties": {
+        "id": "74103",
+        "call_sign": "KKCD",
+        "frequency": "105.9 MHz",
+        "service": "FS",
+        "owner": "SM-KKCD, LLC",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.760972,
+          41.136083
+        ]
+      },
+      "properties": {
+        "id": "144566",
+        "call_sign": "K291BW",
+        "frequency": "106.1 MHz",
+        "service": "FX",
+        "owner": "ARMADA MEDIA - MCCOOK, INC.",
+        "city": "NORTH PLATTE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8315,
+          42.554444
+        ]
+      },
+      "properties": {
+        "id": "201480",
+        "call_sign": "K292HE",
+        "frequency": "106.3 MHz",
+        "service": "FX",
+        "owner": "SANDHILLS BROADCASTING",
+        "city": "AINSWORTH",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.614194,
+          40.727778
+        ]
+      },
+      "properties": {
+        "id": "57287",
+        "call_sign": "KFRX",
+        "frequency": "106.3 MHz",
+        "service": "FM",
+        "owner": "ALPHA 3E LICENSEE LLC",
+        "city": "LINCOLN",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.365389,
+          40.448056
+        ]
+      },
+      "properties": {
+        "id": "194494",
+        "call_sign": "KMKP-LP",
+        "frequency": "106.5 MHz",
+        "service": "FL",
+        "owner": "ST. JOHN BOSCO CATHOLIC RADIO OF HOLDREGE",
+        "city": "HOLDREGE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.695444,
+          41.133861
+        ]
+      },
+      "properties": {
+        "id": "42075",
+        "call_sign": "KMCX-FM",
+        "frequency": "106.5 MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "OGALLALA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.695444,
+          41.133889
+        ]
+      },
+      "properties": {
+        "id": "42075",
+        "call_sign": "KMCX-FM",
+        "frequency": "106.5 MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "OGALLALA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.703083,
+          40.811667
+        ]
+      },
+      "properties": {
+        "id": "156454",
+        "call_sign": "K294DJ",
+        "frequency": "106.7 MHz",
+        "service": "FX",
+        "owner": "HICKORY RADIO, LLC",
+        "city": "LINCOLN",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.680611,
+          41.933056
+        ]
+      },
+      "properties": {
+        "id": "73122",
+        "call_sign": "KQKX",
+        "frequency": "106.7 MHz",
+        "service": "FM",
+        "owner": "WJAG INCORPORATED",
+        "city": "NORFOLK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.680611,
+          41.933056
+        ]
+      },
+      "properties": {
+        "id": "73122",
+        "call_sign": "KQKX",
+        "frequency": "106.7 MHz",
+        "service": "FS",
+        "owner": "WJAG INCORPORATED",
+        "city": "NORFOLK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.602556,
+          40.526944
+        ]
+      },
+      "properties": {
+        "id": "155260",
+        "call_sign": "K295BC",
+        "frequency": "106.9 MHz",
+        "service": "FX",
+        "owner": "MYBRIDGE",
+        "city": "GENEVA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.130083,
+          40.728333
+        ]
+      },
+      "properties": {
+        "id": "142187",
+        "call_sign": "K295BI",
+        "frequency": "106.9 MHz",
+        "service": "FX",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "KEARNEY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.761944,
+          41.154972
+        ]
+      },
+      "properties": {
+        "id": "52801",
+        "call_sign": "KOPW",
+        "frequency": "106.9 MHz",
+        "service": "FM",
+        "owner": "NRG LICENSE SUB, LLC",
+        "city": "PLATTSMOUTH",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.970861,
+          40.377167
+        ]
+      },
+      "properties": {
+        "id": "193292",
+        "call_sign": "KCGW-LP",
+        "frequency": "107.1 MHz",
+        "service": "FL",
+        "owner": "WILLIAMS LIFE RADIO",
+        "city": "EDGAR",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.651944,
+          40.115
+        ]
+      },
+      "properties": {
+        "id": "200227",
+        "call_sign": "K296HK",
+        "frequency": "107.1 MHz",
+        "service": "FX",
+        "owner": "KNZA, INC.",
+        "city": "FALLS CITY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.44975,
+          42.537778
+        ]
+      },
+      "properties": {
+        "id": "10776",
+        "call_sign": "KSFT-FM",
+        "frequency": "107.1 MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "SOUTH SIOUX CITY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.403639,
+          42.502167
+        ]
+      },
+      "properties": {
+        "id": "10776",
+        "call_sign": "KSFT-FM",
+        "frequency": "107.1 MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "SOUTH SIOUX CITY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.773306,
+          41.153889
+        ]
+      },
+      "properties": {
+        "id": "164169",
+        "call_sign": "KNPQ",
+        "frequency": "107.3 MHz",
+        "service": "FM",
+        "owner": "EAGLE COMMUNICATIONS, INC.",
+        "city": "HERSHEY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.614472,
+          40.727222
+        ]
+      },
+      "properties": {
+        "id": "35063",
+        "call_sign": "KBBK",
+        "frequency": "107.3 MHz",
+        "service": "FM",
+        "owner": "NRG LICENSE SUB, LLC",
+        "city": "LINCOLN",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.712528,
+          40.825556
+        ]
+      },
+      "properties": {
+        "id": "35063",
+        "call_sign": "KBBK",
+        "frequency": "107.3 MHz",
+        "service": "FS",
+        "owner": "NRG LICENSE SUB, LLC",
+        "city": "LINCOLN",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.826944,
+          41.839667
+        ]
+      },
+      "properties": {
+        "id": "164136",
+        "call_sign": "KHYY",
+        "frequency": "107.3 MHz",
+        "service": "FM",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "MINATARE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.680833,
+          41.701111
+        ]
+      },
+      "properties": {
+        "id": "164136",
+        "call_sign": "KHYY",
+        "frequency": "107.3 MHz",
+        "service": "FS",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "MINATARE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.340556,
+          42.028056
+        ]
+      },
+      "properties": {
+        "id": "155267",
+        "call_sign": "K298AG",
+        "frequency": "107.5 MHz",
+        "service": "FX",
+        "owner": "FLOOD COMMUNICATIONS, L.L.C.",
+        "city": "NORFOLK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.981306,
+          41.143306
+        ]
+      },
+      "properties": {
+        "id": "193730",
+        "call_sign": "KJTJ-LP",
+        "frequency": "107.5 MHz",
+        "service": "FL",
+        "owner": "ST. JAMES CATHOLIC RADIO OF SIDNEY",
+        "city": "SIDNEY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.727306,
+          41.153611
+        ]
+      },
+      "properties": {
+        "id": "41878",
+        "call_sign": "KSYZ-FM",
+        "frequency": "107.7 MHz",
+        "service": "FM",
+        "owner": "NRG LICENSE SUB, LLC",
+        "city": "GRAND ISLAND",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.727306,
+          41.153611
+        ]
+      },
+      "properties": {
+        "id": "41878",
+        "call_sign": "KSYZ-FM",
+        "frequency": "107.7 MHz",
+        "service": "FM",
+        "owner": "NRG LICENSE SUB, LLC",
+        "city": "GRAND ISLAND",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.691278,
+          42.739417
+        ]
+      },
+      "properties": {
+        "id": "183367",
+        "call_sign": "KBPY",
+        "frequency": "107.7 MHz",
+        "service": "FM",
+        "owner": "CHADRAD COMMUNICATIONS, INC.",
+        "city": "HAY SPRINGS",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.96725,
+          40.622778
+        ]
+      },
+      "properties": {
+        "id": "197558",
+        "call_sign": "KGCO-LP",
+        "frequency": "107.9 MHz",
+        "service": "FL",
+        "owner": "GREATER CRETE COMMERCIAL FREE RADIO CORPORATION",
+        "city": "CRETE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.647083,
+          40.814889
+        ]
+      },
+      "properties": {
+        "id": "135606",
+        "call_sign": "KJTM-LP",
+        "frequency": "107.9 MHz",
+        "service": "FL",
+        "owner": "DUO MINISTRIES",
+        "city": "LINCOLN",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.830694,
+          41.111111
+        ]
+      },
+      "properties": {
+        "id": "150160",
+        "call_sign": "K300BM",
+        "frequency": "107.9 MHz",
+        "service": "FX",
+        "owner": "COMMUNITY BROADCASTING, INC.",
+        "city": "NORTH PLATTE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.016417,
+          41.881389
+        ]
+      },
+      "properties": {
+        "id": "33881",
+        "call_sign": "KTIC-FM",
+        "frequency": "107.9 MHz",
+        "service": "FM",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "WEST POINT",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.998083,
+          41.315278
+        ]
+      },
+      "properties": {
+        "id": "50313",
+        "call_sign": "KXSP",
+        "frequency": "590   kHz",
+        "service": "AM",
+        "owner": "SM-KXSP, LLC",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.998083,
+          41.315278
+        ]
+      },
+      "properties": {
+        "id": "50313",
+        "call_sign": "KXSP",
+        "frequency": "590   kHz",
+        "service": "AM",
+        "owner": "SM-KXSP, LLC",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.017139,
+          42.832194
+        ]
+      },
+      "properties": {
+        "id": "10081",
+        "call_sign": "KCSR",
+        "frequency": "610   kHz",
+        "service": "AM",
+        "owner": "CHADRAD COMMUNICATIONS, INC.",
+        "city": "CHADRON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.017139,
+          42.832194
+        ]
+      },
+      "properties": {
+        "id": "10081",
+        "call_sign": "KCSR",
+        "frequency": "610   kHz",
+        "service": "AM",
+        "owner": "CHADRAD COMMUNICATIONS, INC.",
+        "city": "CHADRON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.010306,
+          41.313056
+        ]
+      },
+      "properties": {
+        "id": "54902",
+        "call_sign": "KCRO",
+        "frequency": "660   kHz",
+        "service": "AM",
+        "owner": "HICKORY RADIO, LLC",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.010306,
+          41.313056
+        ]
+      },
+      "properties": {
+        "id": "54902",
+        "call_sign": "KCRO",
+        "frequency": "660   kHz",
+        "service": "AM",
+        "owner": "HICKORY RADIO, LLC",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.641889,
+          41.791639
+        ]
+      },
+      "properties": {
+        "id": "67472",
+        "call_sign": "KOLT",
+        "frequency": "690   kHz",
+        "service": "AM",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "TERRYTOWN",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.641889,
+          41.791639
+        ]
+      },
+      "properties": {
+        "id": "67472",
+        "call_sign": "KOLT",
+        "frequency": "690   kHz",
+        "service": "AM",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "TERRYTOWN",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.994222,
+          41.134722
+        ]
+      },
+      "properties": {
+        "id": "9937",
+        "call_sign": "KMMJ",
+        "frequency": "750   kHz",
+        "service": "AM",
+        "owner": "MYBRIDGE",
+        "city": "GRAND ISLAND",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.496722,
+          42.031667
+        ]
+      },
+      "properties": {
+        "id": "73121",
+        "call_sign": "WJAG",
+        "frequency": "780   kHz",
+        "service": "AM",
+        "owner": "WJAG, INC.",
+        "city": "NORFOLK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.67975,
+          41.784167
+        ]
+      },
+      "properties": {
+        "id": "33880",
+        "call_sign": "KTIC",
+        "frequency": "840   kHz",
+        "service": "AM",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "WEST POINT",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.630278,
+          17.127778
+        ]
+      },
+      "properties": {
+        "id": "183867",
+        "call_sign": "VON",
+        "frequency": "860   kHz",
+        "service": "AM",
+        "owner": "-",
+        "city": "BATH PLAIN NEVIS",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.627778,
+          17.127778
+        ]
+      },
+      "properties": {
+        "id": "183867",
+        "call_sign": "VON",
+        "frequency": "860   kHz",
+        "service": "AM",
+        "owner": "-",
+        "city": "BATH PLAIN NEVIS",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.396778,
+          40.515833
+        ]
+      },
+      "properties": {
+        "id": "48002",
+        "call_sign": "KRVN",
+        "frequency": "880   kHz",
+        "service": "AM",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "LEXINGTON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.396778,
+          40.515833
+        ]
+      },
+      "properties": {
+        "id": "48002",
+        "call_sign": "KRVN",
+        "frequency": "880   kHz",
+        "service": "AM",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "LEXINGTON",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.390611,
+          41.439722
+        ]
+      },
+      "properties": {
+        "id": "26628",
+        "call_sign": "KJSK",
+        "frequency": "900   kHz",
+        "service": "AM",
+        "owner": "ALPHA 3E LICENSEE LLC",
+        "city": "COLUMBUS",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.390611,
+          41.439722
+        ]
+      },
+      "properties": {
+        "id": "26628",
+        "call_sign": "KJSK",
+        "frequency": "900   kHz",
+        "service": "AM",
+        "owner": "ALPHA 3E LICENSEE LLC",
+        "city": "COLUMBUS",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.713778,
+          41.1425
+        ]
+      },
+      "properties": {
+        "id": "50065",
+        "call_sign": "KOGA",
+        "frequency": "930   kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "OGALLALA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.713778,
+          41.1425
+        ]
+      },
+      "properties": {
+        "id": "50065",
+        "call_sign": "KOGA",
+        "frequency": "930   kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "OGALLALA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.519028,
+          42.865
+        ]
+      },
+      "properties": {
+        "id": "26612",
+        "call_sign": "KVSH",
+        "frequency": "940   kHz",
+        "service": "AM",
+        "owner": "HEART CITY RADIO COMPANY",
+        "city": "VALENTINE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.519028,
+          42.865
+        ]
+      },
+      "properties": {
+        "id": "26612",
+        "call_sign": "KVSH",
+        "frequency": "940   kHz",
+        "service": "AM",
+        "owner": "HEART CITY RADIO COMPANY",
+        "city": "VALENTINE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.641889,
+          41.791639
+        ]
+      },
+      "properties": {
+        "id": "51463",
+        "call_sign": "KNEB",
+        "frequency": "960   kHz",
+        "service": "AM",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "SCOTTSBLUFF",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.641889,
+          41.791639
+        ]
+      },
+      "properties": {
+        "id": "51463",
+        "call_sign": "KNEB",
+        "frequency": "960   kHz",
+        "service": "AM",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "SCOTTSBLUFF",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.879028,
+          41.16
+        ]
+      },
+      "properties": {
+        "id": "67751",
+        "call_sign": "KJLT",
+        "frequency": "970   kHz",
+        "service": "AM",
+        "owner": "TRI-STATE BROADCASTING ASSOCIATION, INC.",
+        "city": "NORTH PLATTE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.879028,
+          41.16
+        ]
+      },
+      "properties": {
+        "id": "67751",
+        "call_sign": "KJLT",
+        "frequency": "970   kHz",
+        "service": "AM",
+        "owner": "TRI-STATE BROADCASTING ASSOCIATION, INC.",
+        "city": "NORTH PLATTE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.713056,
+          41.086667
+        ]
+      },
+      "properties": {
+        "id": "52802",
+        "call_sign": "KMMQ",
+        "frequency": "1020  kHz",
+        "service": "AM",
+        "owner": "MUNOZ MEDIA, LLC",
+        "city": "PLATTSMOUTH",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.712778,
+          41.085833
+        ]
+      },
+      "properties": {
+        "id": "52802",
+        "call_sign": "KMMQ",
+        "frequency": "1020  kHz",
+        "service": "AM",
+        "owner": "MUNOZ MEDIA, LLC",
+        "city": "PLATTSMOUTH",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.922861,
+          41.571389
+        ]
+      },
+      "properties": {
+        "id": "35247",
+        "call_sign": "KNLV",
+        "frequency": "1060  kHz",
+        "service": "AM",
+        "owner": "MWB BROADCASTING II, LLC",
+        "city": "ORD",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.922861,
+          41.571389
+        ]
+      },
+      "properties": {
+        "id": "35247",
+        "call_sign": "KNLV",
+        "frequency": "1060  kHz",
+        "service": "AM",
+        "owner": "MWB BROADCASTING II, LLC",
+        "city": "ORD",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.001972,
+          41.119722
+        ]
+      },
+      "properties": {
+        "id": "26931",
+        "call_sign": "KFAB",
+        "frequency": "1110  kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.001972,
+          41.119722
+        ]
+      },
+      "properties": {
+        "id": "26931",
+        "call_sign": "KFAB",
+        "frequency": "1110  kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.786389,
+          41.27
+        ]
+      },
+      "properties": {
+        "id": "43237",
+        "call_sign": "KZOT",
+        "frequency": "1180  kHz",
+        "service": "AM",
+        "owner": "NRG LICENSE SUB, LLC",
+        "city": "BELLEVUE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.786389,
+          41.27
+        ]
+      },
+      "properties": {
+        "id": "43237",
+        "call_sign": "KZOT",
+        "frequency": "1180  kHz",
+        "service": "AM",
+        "owner": "NRG LICENSE SUB, LLC",
+        "city": "BELLEVUE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.405056,
+          40.577806
+        ]
+      },
+      "properties": {
+        "id": "34487",
+        "call_sign": "KHAS",
+        "frequency": "1230  kHz",
+        "service": "AM",
+        "owner": "FLOOD COMMUNICATIONS TRI-CITIES, L.L.C.",
+        "city": "HASTINGS",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.615528,
+          40.065833
+        ]
+      },
+      "properties": {
+        "id": "8081",
+        "call_sign": "KTNC",
+        "frequency": "1230  kHz",
+        "service": "AM",
+        "owner": "KNZA INC.",
+        "city": "FALLS CITY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.615528,
+          40.065833
+        ]
+      },
+      "properties": {
+        "id": "8081",
+        "call_sign": "KTNC",
+        "frequency": "1230  kHz",
+        "service": "AM",
+        "owner": "KNZA INC.",
+        "city": "FALLS CITY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.773472,
+          41.153889
+        ]
+      },
+      "properties": {
+        "id": "9931",
+        "call_sign": "KODY",
+        "frequency": "1240  kHz",
+        "service": "AM",
+        "owner": "ARMADA MEDIA - MCCOOK, INC.",
+        "city": "NORTH PLATTE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.658917,
+          40.819444
+        ]
+      },
+      "properties": {
+        "id": "34436",
+        "call_sign": "KFOR",
+        "frequency": "1240  kHz",
+        "service": "AM",
+        "owner": "ALPHA 3E LICENSEE LLC",
+        "city": "LINCOLN",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.658917,
+          40.819444
+        ]
+      },
+      "properties": {
+        "id": "34436",
+        "call_sign": "KFOR",
+        "frequency": "1240  kHz",
+        "service": "AM",
+        "owner": "ALPHA 3E LICENSEE LLC",
+        "city": "LINCOLN",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.261694,
+          42.4425
+        ]
+      },
+      "properties": {
+        "id": "17201",
+        "call_sign": "KZOI",
+        "frequency": "1250  kHz",
+        "service": "AM",
+        "owner": "LA FIESTA 971, LLC",
+        "city": "DAKOTA CITY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.261694,
+          42.4425
+        ]
+      },
+      "properties": {
+        "id": "17201",
+        "call_sign": "KZOI",
+        "frequency": "1250  kHz",
+        "service": "AM",
+        "owner": "LA FIESTA 971, LLC",
+        "city": "DAKOTA CITY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.674833,
+          41.408611
+        ]
+      },
+      "properties": {
+        "id": "14766",
+        "call_sign": "KCNI",
+        "frequency": "1280  kHz",
+        "service": "AM",
+        "owner": "CUSTER COUNTY BROADCASTING CO.",
+        "city": "BROKEN BOW",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.006139,
+          41.188889
+        ]
+      },
+      "properties": {
+        "id": "542",
+        "call_sign": "KOIL",
+        "frequency": "1290  kHz",
+        "service": "AM",
+        "owner": "USHER MEDIA OF OMAHA, L.L.C.",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.006139,
+          41.188889
+        ]
+      },
+      "properties": {
+        "id": "542",
+        "call_sign": "KOIL",
+        "frequency": "1290  kHz",
+        "service": "AM",
+        "owner": "USHER MEDIA OF OMAHA, L.L.C.",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.652083,
+          40.191944
+        ]
+      },
+      "properties": {
+        "id": "57516",
+        "call_sign": "KBRL",
+        "frequency": "1300  kHz",
+        "service": "AM",
+        "owner": "ARMADA MEDIA - MCCOOK, INC.",
+        "city": "MCCOOK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.652083,
+          40.191944
+        ]
+      },
+      "properties": {
+        "id": "57516",
+        "call_sign": "KBRL",
+        "frequency": "1300  kHz",
+        "service": "AM",
+        "owner": "ARMADA MEDIA - MCCOOK, INC.",
+        "city": "MCCOOK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.151694,
+          40.116111
+        ]
+      },
+      "properties": {
+        "id": "60292",
+        "call_sign": "KGMT",
+        "frequency": "1310  kHz",
+        "service": "AM",
+        "owner": "FLOOD COMMUNICATIONS OF BEATRICE, LLC",
+        "city": "FAIRBURY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.151694,
+          40.116111
+        ]
+      },
+      "properties": {
+        "id": "60292",
+        "call_sign": "KGMT",
+        "frequency": "1310  kHz",
+        "service": "AM",
+        "owner": "FLOOD COMMUNICATIONS OF BEATRICE, LLC",
+        "city": "FAIRBURY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.972611,
+          41.131167
+        ]
+      },
+      "properties": {
+        "id": "35602",
+        "call_sign": "KSID",
+        "frequency": "1340  kHz",
+        "service": "AM",
+        "owner": "FLOOD COMMUNICATIONS WEST, LLC",
+        "city": "SIDNEY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.081472,
+          40.668056
+        ]
+      },
+      "properties": {
+        "id": "9933",
+        "call_sign": "KGFW",
+        "frequency": "1340  kHz",
+        "service": "AM",
+        "owner": "USHER MEDIA, LLC",
+        "city": "KEARNEY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.45475,
+          41.432778
+        ]
+      },
+      "properties": {
+        "id": "34550",
+        "call_sign": "KHUB",
+        "frequency": "1340  kHz",
+        "service": "AM",
+        "owner": "WALNUT RADIO, LLC",
+        "city": "FREMONT",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.972611,
+          41.131167
+        ]
+      },
+      "properties": {
+        "id": "35602",
+        "call_sign": "KSID",
+        "frequency": "1340  kHz",
+        "service": "AM",
+        "owner": "FLOOD COMMUNICATIONS WEST, LLC",
+        "city": "SIDNEY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.081472,
+          40.668056
+        ]
+      },
+      "properties": {
+        "id": "9933",
+        "call_sign": "KGFW",
+        "frequency": "1340  kHz",
+        "service": "AM",
+        "owner": "USHER MEDIA, LLC",
+        "city": "KEARNEY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.45475,
+          41.432778
+        ]
+      },
+      "properties": {
+        "id": "34550",
+        "call_sign": "KHUB",
+        "frequency": "1340  kHz",
+        "service": "AM",
+        "owner": "WALNUT RADIO, LLC",
+        "city": "FREMONT",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.65675,
+          42.459444
+        ]
+      },
+      "properties": {
+        "id": "55078",
+        "call_sign": "KBRX",
+        "frequency": "1350  kHz",
+        "service": "AM",
+        "owner": "RANCHLAND BROADCASTING CO.",
+        "city": "O'NEILL",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.65675,
+          42.459444
+        ]
+      },
+      "properties": {
+        "id": "55078",
+        "call_sign": "KBRX",
+        "frequency": "1350  kHz",
+        "service": "AM",
+        "owner": "RANCHLAND BROADCASTING CO.",
+        "city": "O'NEILL",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.694056,
+          40.222222
+        ]
+      },
+      "properties": {
+        "id": "65925",
+        "call_sign": "KNGN",
+        "frequency": "1360  kHz",
+        "service": "AM",
+        "owner": "MYBRIDGE",
+        "city": "MCCOOK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.588389,
+          40.842778
+        ]
+      },
+      "properties": {
+        "id": "9932",
+        "call_sign": "KAWL",
+        "frequency": "1370  kHz",
+        "service": "AM",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "YORK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.588389,
+          40.842778
+        ]
+      },
+      "properties": {
+        "id": "9932",
+        "call_sign": "KAWL",
+        "frequency": "1370  kHz",
+        "service": "AM",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "YORK",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.396778,
+          40.515833
+        ]
+      },
+      "properties": {
+        "id": "27178",
+        "call_sign": "KUVR",
+        "frequency": "1380  kHz",
+        "service": "AM",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "HOLDREGE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8315,
+          42.554444
+        ]
+      },
+      "properties": {
+        "id": "33679",
+        "call_sign": "KBRB",
+        "frequency": "1400  kHz",
+        "service": "AM",
+        "owner": "SANDHILLS BROADCASTING LLC",
+        "city": "AINSWORTH",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.888611,
+          42.106194
+        ]
+      },
+      "properties": {
+        "id": "18089",
+        "call_sign": "KCOW",
+        "frequency": "1400  kHz",
+        "service": "AM",
+        "owner": "EAGLE COMMUNICATIONS, INC.",
+        "city": "ALLIANCE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.675028,
+          40.848333
+        ]
+      },
+      "properties": {
+        "id": "35064",
+        "call_sign": "KLIN",
+        "frequency": "1400  kHz",
+        "service": "AM",
+        "owner": "NRG LICENSE SUB, LLC",
+        "city": "LINCOLN",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.888611,
+          42.106194
+        ]
+      },
+      "properties": {
+        "id": "18089",
+        "call_sign": "KCOW",
+        "frequency": "1400  kHz",
+        "service": "AM",
+        "owner": "EAGLE COMMUNICATIONS, INC.",
+        "city": "ALLIANCE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.675028,
+          40.848333
+        ]
+      },
+      "properties": {
+        "id": "35064",
+        "call_sign": "KLIN",
+        "frequency": "1400  kHz",
+        "service": "AM",
+        "owner": "NRG LICENSE SUB, LLC",
+        "city": "LINCOLN",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.752361,
+          41.175
+        ]
+      },
+      "properties": {
+        "id": "69701",
+        "call_sign": "KOOQ",
+        "frequency": "1410  kHz",
+        "service": "AM",
+        "owner": "EAGLE COMMUNICATIONS, INC.",
+        "city": "NORTH PLATTE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.752361,
+          41.175
+        ]
+      },
+      "properties": {
+        "id": "69701",
+        "call_sign": "KOOQ",
+        "frequency": "1410  kHz",
+        "service": "AM",
+        "owner": "EAGLE COMMUNICATIONS, INC.",
+        "city": "NORTH PLATTE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.909722,
+          41.199722
+        ]
+      },
+      "properties": {
+        "id": "50307",
+        "call_sign": "KXCB",
+        "frequency": "1420  kHz",
+        "service": "AM",
+        "owner": "HICKORY RADIO, LLC",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.909722,
+          41.199722
+        ]
+      },
+      "properties": {
+        "id": "50307",
+        "call_sign": "KXCB",
+        "frequency": "1420  kHz",
+        "service": "AM",
+        "owner": "HICKORY RADIO, LLC",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.274444,
+          40.871389
+        ]
+      },
+      "properties": {
+        "id": "32382",
+        "call_sign": "KRGI",
+        "frequency": "1430  kHz",
+        "service": "AM",
+        "owner": "LEGACY COMMUNICATIONS, LLC",
+        "city": "GRAND ISLAND",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.274444,
+          40.871389
+        ]
+      },
+      "properties": {
+        "id": "32382",
+        "call_sign": "KRGI",
+        "frequency": "1430  kHz",
+        "service": "AM",
+        "owner": "LEGACY COMMUNICATIONS, LLC",
+        "city": "GRAND ISLAND",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.774472,
+          40.263611
+        ]
+      },
+      "properties": {
+        "id": "12950",
+        "call_sign": "KWBE",
+        "frequency": "1450  kHz",
+        "service": "AM",
+        "owner": "FLOOD COMMUNICATIONS OF BEATRICE, LLC",
+        "city": "BEATRICE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.167028,
+          40.693056
+        ]
+      },
+      "properties": {
+        "id": "52803",
+        "call_sign": "KXPN",
+        "frequency": "1460  kHz",
+        "service": "AM",
+        "owner": "FLOOD COMMUNICATIONS TRI-CITIES, L.L.C.",
+        "city": "KEARNEY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.167028,
+          40.693056
+        ]
+      },
+      "properties": {
+        "id": "52803",
+        "call_sign": "KXPN",
+        "frequency": "1460  kHz",
+        "service": "AM",
+        "owner": "FLOOD COMMUNICATIONS TRI-CITIES, L.L.C.",
+        "city": "KEARNEY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.010306,
+          41.313056
+        ]
+      },
+      "properties": {
+        "id": "74104",
+        "call_sign": "KIBM",
+        "frequency": "1490  kHz",
+        "service": "AM",
+        "owner": "WALNUT RADIO, LLC",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.010306,
+          41.313056
+        ]
+      },
+      "properties": {
+        "id": "74104",
+        "call_sign": "KIBM",
+        "frequency": "1490  kHz",
+        "service": "AM",
+        "owner": "WALNUT RADIO, LLC",
+        "city": "OMAHA",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.405889,
+          41.453889
+        ]
+      },
+      "properties": {
+        "id": "28148",
+        "call_sign": "KTTT",
+        "frequency": "1510  kHz",
+        "service": "AM",
+        "owner": "ALPHA 3E LICENSEE LLC",
+        "city": "COLUMBUS",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.375611,
+          40.567528
+        ]
+      },
+      "properties": {
+        "id": "26651",
+        "call_sign": "KICS",
+        "frequency": "1550  kHz",
+        "service": "AM",
+        "owner": "FLOOD COMMUNICATIONS TRI-CITIES, L.L.C.",
+        "city": "HASTINGS",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.375611,
+          40.567528
+        ]
+      },
+      "properties": {
+        "id": "26651",
+        "call_sign": "KICS",
+        "frequency": "1550  kHz",
+        "service": "AM",
+        "owner": "FLOOD COMMUNICATIONS TRI-CITIES, L.L.C.",
+        "city": "HASTINGS",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.939278,
+          40.837778
+        ]
+      },
+      "properties": {
+        "id": "69845",
+        "call_sign": "KAMI",
+        "frequency": "1580  kHz",
+        "service": "AM",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "COZAD",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.939278,
+          40.837778
+        ]
+      },
+      "properties": {
+        "id": "69845",
+        "call_sign": "KAMI",
+        "frequency": "1580  kHz",
+        "service": "AM",
+        "owner": "NEBRASKA RURAL RADIO ASSOCIATION",
+        "city": "COZAD",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.055611,
+          42.234444
+        ]
+      },
+      "properties": {
+        "id": "35658",
+        "call_sign": "KCTY",
+        "frequency": "1590  kHz",
+        "service": "AM",
+        "owner": "WAYNE RADIO WORKS LLC",
+        "city": "WAYNE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.055611,
+          42.234444
+        ]
+      },
+      "properties": {
+        "id": "35658",
+        "call_sign": "KCTY",
+        "frequency": "1590  kHz",
+        "service": "AM",
+        "owner": "WAYNE RADIO WORKS LLC",
+        "city": "WAYNE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.885833,
+          40.674167
+        ]
+      },
+      "properties": {
+        "id": "63941",
+        "call_sign": "KNCY",
+        "frequency": "1600  kHz",
+        "service": "AM",
+        "owner": "FLOOD BROADCASTING, INC.",
+        "city": "NEBRASKA CITY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.077556,
+          40.025
+        ]
+      },
+      "properties": {
+        "id": "64014",
+        "call_sign": "KRFS",
+        "frequency": "1600  kHz",
+        "service": "AM",
+        "owner": "CK BROADCASTING, INC.",
+        "city": "SUPERIOR",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.885833,
+          40.674167
+        ]
+      },
+      "properties": {
+        "id": "63941",
+        "call_sign": "KNCY",
+        "frequency": "1600  kHz",
+        "service": "AM",
+        "owner": "FLOOD BROADCASTING, INC.",
+        "city": "NEBRASKA CITY",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.077556,
+          40.025
+        ]
+      },
+      "properties": {
+        "id": "64014",
+        "call_sign": "KRFS",
+        "frequency": "1600  kHz",
+        "service": "AM",
+        "owner": "CK BROADCASTING, INC.",
+        "city": "SUPERIOR",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.005583,
+          41.189167
+        ]
+      },
+      "properties": {
+        "id": "87182",
+        "call_sign": "KOZN",
+        "frequency": "1620  kHz",
+        "service": "AM",
+        "owner": "NRG LICENSE SUB, LLC",
+        "city": "BELLEVUE",
+        "state": "NE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.005583,
+          41.189167
+        ]
+      },
+      "properties": {
+        "id": "87182",
+        "call_sign": "KOZN",
+        "frequency": "1620  kHz",
+        "service": "AM",
+        "owner": "NRG LICENSE SUB, LLC",
+        "city": "BELLEVUE",
+        "state": "NE"
+      }
+    }
+  ],
+  "metadata": {
+    "cities": [
+      "AINSWORTH",
+      "ALBION",
+      "ALLEN",
+      "ALLIANCE",
+      "ALMA",
+      "ARAPAHOE",
+      "AUBURN",
+      "AURORA",
+      "BASSETT",
+      "BATH PLAIN NEVIS",
+      "BAYARD",
+      "BEATRICE",
+      "BELLEVUE",
+      "BENNINGTON",
+      "BLAIR",
+      "BRIDGEPORT",
+      "BRIGGS",
+      "BROKEN BOW",
+      "BURWELL",
+      "CENTRAL CITY",
+      "CHADRON",
+      "CHAPPELL",
+      "CLAY CENTER",
+      "COLUMBUS",
+      "COZAD",
+      "CRAWFORD",
+      "CREIGHTON",
+      "CRETE",
+      "CROOKSTON",
+      "CULBERTSON",
+      "DAKOTA CITY",
+      "DAVIS RANCH",
+      "DESHLER",
+      "DIX",
+      "EDGAR",
+      "EMERSON",
+      "FAIRBURY",
+      "FALLS CITY",
+      "FIRTH",
+      "FRANKLIN",
+      "FREMONT",
+      "GENEVA",
+      "GERING",
+      "GIBBON",
+      "GORDON",
+      "GRAND ISLAND",
+      "GRETNA",
+      "HADAR",
+      "HARRISON",
+      "HARTINGTON",
+      "HASTINGS",
+      "HAY SPRINGS",
+      "HEMINGFORD",
+      "HERSHEY",
+      "HOLDREGE",
+      "HUBBARD",
+      "HYANNIS",
+      "IMPERIAL",
+      "KEARNEY",
+      "KILGORE",
+      "KIMBALL",
+      "LA VISTA",
+      "LEXINGTON",
+      "LINCOLN",
+      "MAX",
+      "MAXWELL",
+      "MCCOOK",
+      "MERRIMAN",
+      "MILFORD",
+      "MILLARD",
+      "MINATARE",
+      "MITCHELL",
+      "NEBRASKA CITY",
+      "NORFOLK",
+      "NORTH PLATTE",
+      "O' NEILL",
+      "O'NEILL",
+      "OGALLALA",
+      "OMAHA",
+      "ORCHARD",
+      "ORD",
+      "OVERTON",
+      "PAPILLION",
+      "PAXTON",
+      "PIERCE",
+      "PLATTSMOUTH",
+      "PONCA",
+      "RALSTON",
+      "RAVENNA",
+      "SANTEE",
+      "SARGENT",
+      "SCHUYLER",
+      "SCOTTSBLUFF",
+      "SEWARD",
+      "SHELTON",
+      "SHUBERT",
+      "SIDNEY",
+      "SOUTH SIOUX CITY",
+      "SUPERIOR",
+      "SUTHERLAND",
+      "TERRYTOWN",
+      "ULYSSES",
+      "VALENTINE",
+      "WAHOO",
+      "WAVERLY",
+      "WAYNE",
+      "WEST POINT",
+      "WILBER",
+      "WINNEBAGO",
+      "YORK"
+    ],
+    "frequencies": [
+      "88.1  MHz",
+      "88.3  MHz",
+      "88.5  MHz",
+      "88.7  MHz",
+      "88.9  MHz",
+      "89.1  MHz",
+      "89.3  MHz",
+      "89.5  MHz",
+      "89.7  MHz",
+      "89.9  MHz",
+      "90.1  MHz",
+      "90.3  MHz",
+      "90.5  MHz",
+      "90.7  MHz",
+      "90.9  MHz",
+      "91.1  MHz",
+      "91.3  MHz",
+      "91.5  MHz",
+      "91.7  MHz",
+      "91.9  MHz",
+      "92.1  MHz",
+      "92.3  MHz",
+      "92.5  MHz",
+      "92.7  MHz",
+      "92.9  MHz",
+      "93.1  MHz",
+      "93.3  MHz",
+      "93.5  MHz",
+      "93.7  MHz",
+      "93.9  MHz",
+      "94.1  MHz",
+      "94.3  MHz",
+      "94.5  MHz",
+      "94.7  MHz",
+      "94.9  MHz",
+      "95.1  MHz",
+      "95.3  MHz",
+      "95.5  MHz",
+      "95.7  MHz",
+      "95.9  MHz",
+      "96.1  MHz",
+      "96.3  MHz",
+      "96.5  MHz",
+      "96.9  MHz",
+      "97.1  MHz",
+      "97.3  MHz",
+      "97.5  MHz",
+      "97.7  MHz",
+      "98.1  MHz",
+      "98.3  MHz",
+      "98.5  MHz",
+      "98.7  MHz",
+      "98.9  MHz",
+      "99.1  MHz",
+      "99.3  MHz",
+      "99.5  MHz",
+      "99.7  MHz",
+      "99.9  MHz",
+      "100.1 MHz",
+      "100.3 MHz",
+      "100.7 MHz",
+      "100.9 MHz",
+      "101.1 MHz",
+      "101.3 MHz",
+      "101.5 MHz",
+      "101.7 MHz",
+      "101.9 MHz",
+      "102.1 MHz",
+      "102.3 MHz",
+      "102.5 MHz",
+      "102.7 MHz",
+      "102.9 MHz",
+      "103.1 MHz",
+      "103.3 MHz",
+      "103.5 MHz",
+      "103.9 MHz",
+      "104.1 MHz",
+      "104.3 MHz",
+      "104.5 MHz",
+      "104.7 MHz",
+      "104.9 MHz",
+      "105.3 MHz",
+      "105.5 MHz",
+      "105.7 MHz",
+      "105.9 MHz",
+      "106.1 MHz",
+      "106.3 MHz",
+      "106.5 MHz",
+      "106.7 MHz",
+      "106.9 MHz",
+      "107.1 MHz",
+      "107.3 MHz",
+      "107.5 MHz",
+      "107.7 MHz",
+      "107.9 MHz",
+      "590   kHz",
+      "610   kHz",
+      "660   kHz",
+      "690   kHz",
+      "750   kHz",
+      "780   kHz",
+      "840   kHz",
+      "860   kHz",
+      "880   kHz",
+      "900   kHz",
+      "930   kHz",
+      "940   kHz",
+      "960   kHz",
+      "970   kHz",
+      "1020  kHz",
+      "1060  kHz",
+      "1110  kHz",
+      "1180  kHz",
+      "1230  kHz",
+      "1240  kHz",
+      "1250  kHz",
+      "1280  kHz",
+      "1290  kHz",
+      "1300  kHz",
+      "1310  kHz",
+      "1340  kHz",
+      "1350  kHz",
+      "1360  kHz",
+      "1370  kHz",
+      "1380  kHz",
+      "1400  kHz",
+      "1410  kHz",
+      "1420  kHz",
+      "1430  kHz",
+      "1450  kHz",
+      "1460  kHz",
+      "1490  kHz",
+      "1510  kHz",
+      "1550  kHz",
+      "1580  kHz",
+      "1590  kHz",
+      "1600  kHz",
+      "1620  kHz"
+    ],
+    "owners": [
+      "-",
+      "ADVENTIST LEARNING CENTER OF ALLIANCE",
+      "ADVENTIST LEARNING CENTER OF BRIDGEPORT",
+      "ADVENTIST LEARNING CENTER OF OGALLALA",
+      "ADVENTIST LEARNING CENTER OF SIDNEY",
+      "ALPHA 3E LICENSEE LLC",
+      "AMERICAN FAMILY ASSOCIATION",
+      "ARMADA MEDIA - MCCOOK, INC.",
+      "BDP COMMUNICATIONS LLC",
+      "BIBLE BROADCASTING NETWORK, INC.",
+      "BLAIR HEALING ROOMS INC",
+      "BOARD OF TRUSTEES, NE STATE COLLEGES, DBA CHADRON STATE COLLEGE",
+      "CENTRAL CITY BAPTIST CHURCH",
+      "CENTRAL COMMUNITY COLLEGE",
+      "CENTRAL NEBRASKA COMMUNITY BROADCASTING",
+      "CHADRAD COMMUNICATIONS, INC.",
+      "CHRISTIAN MEDIA INCORPORATED",
+      "CK BROADCASTING, INC.",
+      "COMMUNITY BROADCASTING, INC.",
+      "COMMUNITY PUBLIC MEDIA",
+      "CRETE PROGRESSIVE EDUCATIONAL BROADCASTING CORPORATION",
+      "CSN INTERNATIONAL",
+      "CSN INTERNATIONAL, INC.",
+      "CUSTER COUNTY BROADCASTING CO.",
+      "CUSTER COUNTY BROADCASTING COMPANY",
+      "DAWN ADVENTIST BROADCASTING",
+      "DOANE UNIVERSITY BOARD OF TRUSTEES (FORMERLY DOANE COLLEGE)",
+      "DOUGLAS COUNTY SCHOOL DISTRICT 001",
+      "DUO MINISTRIES",
+      "DVYNE SOULZ INC.",
+      "EAGLE COMMUNICATIONS, INC",
+      "EAGLE COMMUNICATIONS, INC.",
+      "EDUCATIONAL MEDIA FOUNDATION",
+      "ENGLISH LANGUAGE NETWORK DBA MI GENTE RADIO",
+      "FAMILY WORSHIP CENTER CHURCH, INC.",
+      "FATHER FLANAGANS BOYS HOME",
+      "FLOOD BROADCASTING, INC.",
+      "FLOOD COMMUNICATIONS OF BEATRICE, LLC",
+      "FLOOD COMMUNICATIONS OF OMAHA, L.L.C.",
+      "FLOOD COMMUNICATIONS OF OMAHA, LLC",
+      "FLOOD COMMUNICATIONS TRI-CITIES, L.L.C.",
+      "FLOOD COMMUNICATIONS WEST, LLC",
+      "FLOOD COMMUNICATIONS, L.L.C.",
+      "GOOD SHEPHERD COMMUNITY RADIO",
+      "GOSPEL MUSIC OMAHA",
+      "GREATER CRETE COMMERCIAL FREE RADIO CORPORATION",
+      "HEART CITY RADIO COMPANY",
+      "HI-LINE RADIO FELLOWSHIP, INC.",
+      "HICKORY RADIO, LLC",
+      "HOLY SPIRIT CATHOLIC RADIO OF MCCOOK",
+      "HOPE RADIO HASTINGS",
+      "IHM LICENSES, LLC",
+      "INDEPENDENT OMAHA RADIO PROJECT, INC.",
+      "K-LOVE, INC.",
+      "KEARNEY SDA RADIO",
+      "KLPR-FM, UNIVERSITY OF NEBRASKA AT KEARNEY",
+      "KNZA INC.",
+      "KNZA, INC",
+      "KNZA, INC.",
+      "KSUX/KSCJ RADIO BROADCASTING CO",
+      "LA FIESTA 971, LLC",
+      "LEGACY COMMUNICATIONS LLC",
+      "LEGACY COMMUNICATIONS, LLC",
+      "MALCOLM X MEMORIAL FOUNDATION",
+      "MEDIA LOGIC LLC",
+      "MUNOZ MEDIA, LLC",
+      "MWB BROADCASTING II, LLC",
+      "MYBRIDGE",
+      "NEBRASKA EDUCATIONAL TELECOMMUNICATIONS COMMISSION",
+      "NEBRASKA INDIAN COMMUNITY COLLEGE",
+      "NEBRASKA RURAL RADIO ASSOCIATION",
+      "NEBRASKA RURAL RADIO ASSOCIATIONI",
+      "NRG LICENSE SUB, LLC",
+      "OMAHA COMMUNITY BROADCASTING",
+      "OWEN DAVIS",
+      "RADIO 74 INTERNATIONALE",
+      "RANCHLAND BROADCASTING CO.",
+      "RANCHLAND BROADCASTING COMPANY, INC.",
+      "RED BEACON COMMUNICATIONS, LLC",
+      "RIVERFRONT BROADCASTING LLC",
+      "ROSEBUD SIOUX TRIBE",
+      "SANDHILLS BROADCASTING",
+      "SANDHILLS BROADCASTING LLC",
+      "SM-KEZO-FM, LLC",
+      "SM-KKCD, LLC",
+      "SM-KQCH, LLC",
+      "SM-KSRZ-FM, LLC",
+      "SM-KXSP, LLC",
+      "SOULFUL PRAISE",
+      "SOUTHERN CULTURAL FOUNDATION",
+      "ST. GABRIEL COMMUNICATIONS LTD.",
+      "ST. ISADORE CATHOLIC RADIO OF BEATRICE",
+      "ST. JAMES CATHOLIC RADIO OF SIDNEY",
+      "ST. JOHN BOSCO CATHOLIC RADIO OF HOLDREGE",
+      "ST. LUDGERUS CATHOLIC CHURCH",
+      "ST. MARY CATHOLIC RADIO OF YORK",
+      "ST. MAXIMILLIAN KOLBE CATHOLIC RADIO OF ALLIANCE",
+      "ST. POLYCARP CATHOLIC RADIO OF IMPERIAL",
+      "SUNRISE COMMUNICATIONS, INC.",
+      "THE BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASKA",
+      "THE EVANGELICAL LUTHERAN TRINITY CONG. OF ARAPAHOE, NE.",
+      "THE PRAISE NETWORK, INC.",
+      "THE SIMPLE FOUNDATION",
+      "THEATRE ORGAN PRESERVATION OF NEBRASKA",
+      "TLC EDUCATIONAL CORPORATION",
+      "TRI-STATE BROADCASTING ASSOCIATION, INC",
+      "TRI-STATE BROADCASTING ASSOCIATION, INC.",
+      "UNIVERSITY OF NEBRASKA",
+      "UNIVERSITY OF NORTHWESTERN - ST. PAUL",
+      "UNIVERSITY OF NORTHWESTERN-ST. PAUL",
+      "USHER MEDIA OF OMAHA, L.L.C.",
+      "USHER MEDIA, LLC",
+      "VSS CATHOLIC COMMUNICATIONS",
+      "VSS CATHOLIC COMMUNICATIONS, INC",
+      "VSS CATHOLIC COMMUNICATIONS, INC.",
+      "WAHOO AREA BROADCASTING",
+      "WALNUT RADIO, LLC",
+      "WAYNE RADIO WORKS LLC",
+      "WAYNE RADIO WORKS, LLC",
+      "WAYNE STATE COLLEGE",
+      "WILDCAT BROADCASTING INC",
+      "WILLIAMS LIFE RADIO",
+      "WINNEBAGO TRIBE OF NEBRASKA",
+      "WJAG INCORPORATED",
+      "WJAG, INC."
+    ],
+    "services": [
+      "AM",
+      "FB",
+      "FL",
+      "FM",
+      "FS",
+      "FX"
+    ]
+  }
+}

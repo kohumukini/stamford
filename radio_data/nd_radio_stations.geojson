@@ -1,0 +1,4941 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.730194,
+          46.918889
+        ]
+      },
+      "properties": {
+        "id": "92539",
+        "call_sign": "K201FN",
+        "frequency": "88.1  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL",
+        "city": "DICKINSON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.730194,
+          46.918889
+        ]
+      },
+      "properties": {
+        "id": "92539",
+        "call_sign": "K201FN",
+        "frequency": "88.1  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL",
+        "city": "DICKINSON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.784528,
+          46.874417
+        ]
+      },
+      "properties": {
+        "id": "193229",
+        "call_sign": "KPPP-LP",
+        "frequency": "88.1  MHz",
+        "service": "FL",
+        "owner": "THE PEOPLES PRESS PROJECT",
+        "city": "FARGO",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.708139,
+          46.91025
+        ]
+      },
+      "properties": {
+        "id": "177249",
+        "call_sign": "KJKR",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "HI-LINE RADIO FELLOWSHIP, INC.",
+        "city": "JAMESTOWN",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.318611,
+          48.215556
+        ]
+      },
+      "properties": {
+        "id": "767009",
+        "call_sign": "KFLK",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "CALVARY CHAPEL MINOT",
+        "city": "MINOT",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.774722,
+          46.827222
+        ]
+      },
+      "properties": {
+        "id": "93533",
+        "call_sign": "KBMK",
+        "frequency": "88.3  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "BISMARCK",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.04875,
+          47.875833
+        ]
+      },
+      "properties": {
+        "id": "762237",
+        "call_sign": "KYBD",
+        "frequency": "88.3  MHz",
+        "service": "FM",
+        "owner": "BIBLE BROADCASTING NETWORK, INC.",
+        "city": "GRAND FORKS",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.750972,
+          48.843611
+        ]
+      },
+      "properties": {
+        "id": "4590",
+        "call_sign": "KEYA",
+        "frequency": "88.5  MHz",
+        "service": "FM",
+        "owner": "KEYA, INC.",
+        "city": "BELCOURT",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.770139,
+          46.85
+        ]
+      },
+      "properties": {
+        "id": "77228",
+        "call_sign": "K204FG",
+        "frequency": "88.7  MHz",
+        "service": "FX",
+        "owner": "BIBLE BROADCASTING NETWORK, INC.",
+        "city": "BISMARCK",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.193972,
+          47.013306
+        ]
+      },
+      "properties": {
+        "id": "82193",
+        "call_sign": "KFBN",
+        "frequency": "88.7  MHz",
+        "service": "FM",
+        "owner": "FARGO BAPTIST CHURCH",
+        "city": "FARGO",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.89325,
+          48.141694
+        ]
+      },
+      "properties": {
+        "id": "174363",
+        "call_sign": "KPPW",
+        "frequency": "88.7  MHz",
+        "service": "FM",
+        "owner": "PRAIRIE PUBLIC BROADCASTING, INC.",
+        "city": "WILLISTON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.390444,
+          48.050833
+        ]
+      },
+      "properties": {
+        "id": "53319",
+        "call_sign": "KMPR",
+        "frequency": "88.9  MHz",
+        "service": "FM",
+        "owner": "PRAIRIE PUBLIC BROADCASTING, INC.",
+        "city": "MINOT",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.730194,
+          46.918889
+        ]
+      },
+      "properties": {
+        "id": "768282",
+        "call_sign": "KDND",
+        "frequency": "89.1  MHz",
+        "service": "FM",
+        "owner": "HI-LINE RADIO FELLOWSHIP, INC.",
+        "city": "DICKINSON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.692917,
+          46.834639
+        ]
+      },
+      "properties": {
+        "id": "94213",
+        "call_sign": "KJKL",
+        "frequency": "89.1  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "JAMESTOWN",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.807361,
+          46.605556
+        ]
+      },
+      "properties": {
+        "id": "91457",
+        "call_sign": "KLBF",
+        "frequency": "89.1  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF NORTHWESTERN - ST. PAUL",
+        "city": "LINCOLN",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.302694,
+          47.78975
+        ]
+      },
+      "properties": {
+        "id": "1703",
+        "call_sign": "K206BV",
+        "frequency": "89.1  MHz",
+        "service": "FX",
+        "owner": "AMERICAN FAMILY ASSOCIATION",
+        "city": "WATFORD CITY",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.89325,
+          48.141694
+        ]
+      },
+      "properties": {
+        "id": "106488",
+        "call_sign": "K206EI",
+        "frequency": "89.1  MHz",
+        "service": "FX",
+        "owner": "CENTRAL DAKOTA ENTERPRISES, INC.",
+        "city": "WILLISTON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.191583,
+          48.194361
+        ]
+      },
+      "properties": {
+        "id": "69127",
+        "call_sign": "KUND-FM",
+        "frequency": "89.3  MHz",
+        "service": "FM",
+        "owner": "PRAIRIE PUBLIC BROADCASTING, INC.",
+        "city": "GRAND FORKS",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.841667,
+          46.821667
+        ]
+      },
+      "properties": {
+        "id": "92242",
+        "call_sign": "KFAA",
+        "frequency": "89.5  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "HORACE",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.89325,
+          48.141694
+        ]
+      },
+      "properties": {
+        "id": "53327",
+        "call_sign": "KPPR",
+        "frequency": "89.5  MHz",
+        "service": "FM",
+        "owner": "PRAIRIE PUBLIC BROADCASTING, INC.",
+        "city": "WILLISTON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.774861,
+          46.827222
+        ]
+      },
+      "properties": {
+        "id": "93595",
+        "call_sign": "KNRI",
+        "frequency": "89.7  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "BISMARCK",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.772611,
+          48.134722
+        ]
+      },
+      "properties": {
+        "id": "92648",
+        "call_sign": "KDVI",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "AMERICAN FAMILY ASSOCIATION",
+        "city": "DEVILS LAKE",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.916,
+          46.726111
+        ]
+      },
+      "properties": {
+        "id": "53326",
+        "call_sign": "KDPR",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "PRAIRIE PUBLIC BROADCASTING, INC.",
+        "city": "DICKINSON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.713139,
+          46.891639
+        ]
+      },
+      "properties": {
+        "id": "93119",
+        "call_sign": "KJTW",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "AMERICAN FAMILY ASSOCIATION",
+        "city": "JAMESTOWN",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.710556,
+          47.469722
+        ]
+      },
+      "properties": {
+        "id": "765472",
+        "call_sign": "KTGH",
+        "frequency": "90.1  MHz",
+        "service": "FM",
+        "owner": "IN HIS PRESENCE MINISTRIES",
+        "city": "BOWDON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.260944,
+          47.212056
+        ]
+      },
+      "properties": {
+        "id": "765472",
+        "call_sign": "KTGH",
+        "frequency": "90.1  MHz",
+        "service": "FM",
+        "owner": "IN HIS PRESENCE MINISTRIES",
+        "city": "BOWDON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.501306,
+          48.155306
+        ]
+      },
+      "properties": {
+        "id": "91907",
+        "call_sign": "K211FS",
+        "frequency": "90.1  MHz",
+        "service": "FX",
+        "owner": "K-LOVE, INC.",
+        "city": "WILLISTON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.006667,
+          46.914444
+        ]
+      },
+      "properties": {
+        "id": "785798",
+        "call_sign": "KWBD-LP",
+        "frequency": "90.5  MHz",
+        "service": "FL",
+        "owner": "PRAIRIE WEST DEVELOPMENT FOUNDATION, INC,",
+        "city": "BEACH",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.021389,
+          46.910833
+        ]
+      },
+      "properties": {
+        "id": "785798",
+        "call_sign": "KWBD-LP",
+        "frequency": "90.5  MHz",
+        "service": "FL",
+        "owner": "PRAIRIE WEST DEVELOPMENT FOUNDATION, INC,",
+        "city": "BEACH",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.800972,
+          46.589667
+        ]
+      },
+      "properties": {
+        "id": "53317",
+        "call_sign": "KCND",
+        "frequency": "90.5  MHz",
+        "service": "FM",
+        "owner": "PRAIRIE PUBLIC BROADCASTING, INC.",
+        "city": "BISMARCK",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.730861,
+          46.920806
+        ]
+      },
+      "properties": {
+        "id": "174276",
+        "call_sign": "KSLS",
+        "frequency": "90.7  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF NORTHWESTERN - ST. PAUL",
+        "city": "DICKINSON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.948444,
+          47.991917
+        ]
+      },
+      "properties": {
+        "id": "15265",
+        "call_sign": "KABU",
+        "frequency": "90.7  MHz",
+        "service": "FM",
+        "owner": "DAKOTA HEALING JOURNEY, INC.",
+        "city": "FORT TOTTEN",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.981778,
+          47.991917
+        ]
+      },
+      "properties": {
+        "id": "15265",
+        "call_sign": "KABU",
+        "frequency": "90.7  MHz",
+        "service": "FS",
+        "owner": "DAKOTA HEALING JOURNEY, INC.",
+        "city": "FORT TOTTEN",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.948444,
+          47.991917
+        ]
+      },
+      "properties": {
+        "id": "15265",
+        "call_sign": "KABU",
+        "frequency": "90.7  MHz",
+        "service": "FS",
+        "owner": "DAKOTA HEALING JOURNEY, INC.",
+        "city": "FORT TOTTEN",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.115056,
+          47.904694
+        ]
+      },
+      "properties": {
+        "id": "69406",
+        "call_sign": "KFJM",
+        "frequency": "90.7  MHz",
+        "service": "FM",
+        "owner": "PRAIRIE PUBLIC BROADCASTING, INC.",
+        "city": "GRAND FORKS",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.662222,
+          46.865556
+        ]
+      },
+      "properties": {
+        "id": "767844",
+        "call_sign": "KCBJ",
+        "frequency": "90.7  MHz",
+        "service": "FM",
+        "owner": "FARGO BAPTIST CHURCH",
+        "city": "JAMESTOWN",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.287639,
+          48.221667
+        ]
+      },
+      "properties": {
+        "id": "767015",
+        "call_sign": "KYPT",
+        "frequency": "90.7  MHz",
+        "service": "FM",
+        "owner": "AMERICAN CHRISTIAN RADIO, INC.",
+        "city": "MINOT",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.89325,
+          48.141694
+        ]
+      },
+      "properties": {
+        "id": "175935",
+        "call_sign": "KJND-FM",
+        "frequency": "90.7  MHz",
+        "service": "FM",
+        "owner": "HI-LINE RADIO FELLOWSHIP, INC.",
+        "city": "WILLISTON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.260944,
+          47.211944
+        ]
+      },
+      "properties": {
+        "id": "176115",
+        "call_sign": "KTWJ",
+        "frequency": "90.9  MHz",
+        "service": "FM",
+        "owner": "BISMARCK ADVENTIST EDUCATION STATION",
+        "city": "MOFFIT - LINCOLN",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.353333,
+          48.279167
+        ]
+      },
+      "properties": {
+        "id": "89597",
+        "call_sign": "K216EE",
+        "frequency": "91.1  MHz",
+        "service": "FX",
+        "owner": "REAL PRESENCE RADIO",
+        "city": "MINOT",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.794472,
+          46.589722
+        ]
+      },
+      "properties": {
+        "id": "90269",
+        "call_sign": "KXRP",
+        "frequency": "91.3  MHz",
+        "service": "FM",
+        "owner": "CENTRAL DAKOTA ENTERPRISES, INC.",
+        "city": "BISMARCK",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.794667,
+          46.589944
+        ]
+      },
+      "properties": {
+        "id": "90269",
+        "call_sign": "KXRP",
+        "frequency": "91.3  MHz",
+        "service": "FM",
+        "owner": "CENTRAL DAKOTA ENTERPRISES, INC.",
+        "city": "BISMARCK",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.723806,
+          47.739722
+        ]
+      },
+      "properties": {
+        "id": "22806",
+        "call_sign": "KMHA",
+        "frequency": "91.3  MHz",
+        "service": "FM",
+        "owner": "FORT BERTHOLD COMMUNICATIONS ENTERPRISES",
+        "city": "FOUR BEARS",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.880694,
+          47.746806
+        ]
+      },
+      "properties": {
+        "id": "83194",
+        "call_sign": "K217GL",
+        "frequency": "91.3  MHz",
+        "service": "FX",
+        "owner": "REAL PRESENCE RADIO",
+        "city": "HARVEY",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.880694,
+          47.746806
+        ]
+      },
+      "properties": {
+        "id": "83194",
+        "call_sign": "K217GL",
+        "frequency": "91.3  MHz",
+        "service": "FX",
+        "owner": "REAL PRESENCE RADIO",
+        "city": "HARVEY",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.007139,
+          46.909167
+        ]
+      },
+      "properties": {
+        "id": "53341",
+        "call_sign": "K218FO",
+        "frequency": "91.5  MHz",
+        "service": "FX",
+        "owner": "PRAIRIE PUBLIC BROADCASTING, INC.",
+        "city": "BEACH",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.522583,
+          46.776639
+        ]
+      },
+      "properties": {
+        "id": "53314",
+        "call_sign": "KPRJ",
+        "frequency": "91.5  MHz",
+        "service": "FM",
+        "owner": "PRAIRIE PUBLIC BROADCASTING, INC.",
+        "city": "JAMESTOWN",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.336167,
+          48.063278
+        ]
+      },
+      "properties": {
+        "id": "165891",
+        "call_sign": "KPPD",
+        "frequency": "91.7  MHz",
+        "service": "FM",
+        "owner": "PRAIRIE PUBLIC BROADCASTING, INC.",
+        "city": "DEVILS LAKE",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.795472,
+          46.571861
+        ]
+      },
+      "properties": {
+        "id": "172316",
+        "call_sign": "KPHA",
+        "frequency": "91.7  MHz",
+        "service": "FM",
+        "owner": "REAL PRESENCE RADIO",
+        "city": "MANDAN",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.501306,
+          48.155306
+        ]
+      },
+      "properties": {
+        "id": "122472",
+        "call_sign": "KNDW",
+        "frequency": "91.7  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "WILLISTON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.394083,
+          46.185
+        ]
+      },
+      "properties": {
+        "id": "53342",
+        "call_sign": "K220FJ",
+        "frequency": "91.9  MHz",
+        "service": "FX",
+        "owner": "PRAIRIE PUBLIC BROADCASTING, INC.",
+        "city": "BOWMAN",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.193972,
+          47.013306
+        ]
+      },
+      "properties": {
+        "id": "49213",
+        "call_sign": "KDSU",
+        "frequency": "91.9  MHz",
+        "service": "FM",
+        "owner": "NORTH DAKOTA STATE UNIVERSITY",
+        "city": "FARGO",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.631,
+          46.0025
+        ]
+      },
+      "properties": {
+        "id": "53338",
+        "call_sign": "K220FG",
+        "frequency": "91.9  MHz",
+        "service": "FX",
+        "owner": "PRAIRIE PUBLIC BROADCASTING, INC.",
+        "city": "HETTINGER",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.352944,
+          48.279722
+        ]
+      },
+      "properties": {
+        "id": "84927",
+        "call_sign": "K220GC",
+        "frequency": "91.9  MHz",
+        "service": "FX",
+        "owner": "EDUCATIONAL MEDIA FOUNDATION",
+        "city": "MINOT",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.947917,
+          48.936111
+        ]
+      },
+      "properties": {
+        "id": "140897",
+        "call_sign": "K220KB",
+        "frequency": "91.9  MHz",
+        "service": "FX",
+        "owner": "HI-LINE RADIO FELLOWSHIP, INC.",
+        "city": "ST. JOHN",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.732417,
+          46.935833
+        ]
+      },
+      "properties": {
+        "id": "57741",
+        "call_sign": "KZRX",
+        "frequency": "92.1  MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "DICKINSON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.732417,
+          46.935833
+        ]
+      },
+      "properties": {
+        "id": "57741",
+        "call_sign": "KZRX",
+        "frequency": "92.1  MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "DICKINSON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.992639,
+          48.354167
+        ]
+      },
+      "properties": {
+        "id": "201109",
+        "call_sign": "K221GN",
+        "frequency": "92.1  MHz",
+        "service": "FX",
+        "owner": "RUGBY BROADCASTERS, INCORPORATED",
+        "city": "RUGBY",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.029222,
+          47.919972
+        ]
+      },
+      "properties": {
+        "id": "202079",
+        "call_sign": "K223DF",
+        "frequency": "92.5  MHz",
+        "service": "FX",
+        "owner": "REAL PRESENCE RADIO",
+        "city": "GRAND FORKS",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.802306,
+          46.817472
+        ]
+      },
+      "properties": {
+        "id": "150705",
+        "call_sign": "K224FD",
+        "frequency": "92.7  MHz",
+        "service": "FX",
+        "owner": "RADIO FARGO-MOORHEAD, INC.",
+        "city": "FARGO",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.934917,
+          48.391139
+        ]
+      },
+      "properties": {
+        "id": "201286",
+        "call_sign": "K224FJ",
+        "frequency": "92.7  MHz",
+        "service": "FX",
+        "owner": "BAKKEN BEACON MEDIA, LLC",
+        "city": "TIOGA",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.694028,
+          46.941944
+        ]
+      },
+      "properties": {
+        "id": "41424",
+        "call_sign": "KYYY",
+        "frequency": "92.9  MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "BISMARCK",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.029806,
+          47.964417
+        ]
+      },
+      "properties": {
+        "id": "20325",
+        "call_sign": "KKXL-FM",
+        "frequency": "92.9  MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "GRAND FORKS",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.300556,
+          48.247222
+        ]
+      },
+      "properties": {
+        "id": "783623",
+        "call_sign": "NEW",
+        "frequency": "92.9  MHz",
+        "service": "FL",
+        "owner": "MINOT STATE UNIVERSITY",
+        "city": "MINOT",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.802306,
+          46.817472
+        ]
+      },
+      "properties": {
+        "id": "62217",
+        "call_sign": "K226CL",
+        "frequency": "93.1  MHz",
+        "service": "FX",
+        "owner": "BAKKEN BEACON MEDIA LLC",
+        "city": "FARGO",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.711139,
+          46.818472
+        ]
+      },
+      "properties": {
+        "id": "10774",
+        "call_sign": "KSJZ",
+        "frequency": "93.3  MHz",
+        "service": "FM",
+        "owner": "CHESTERMAN COMMUNICATIONS JAMESTOWN, INC.",
+        "city": "JAMESTOWN",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.774861,
+          46.827222
+        ]
+      },
+      "properties": {
+        "id": "133278",
+        "call_sign": "KBEP-LP",
+        "frequency": "93.7  MHz",
+        "service": "FL",
+        "owner": "BISMARCK EDUCATIONAL PRAYER ASSOCIATION",
+        "city": "BISMARCK",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.195083,
+          47.009972
+        ]
+      },
+      "properties": {
+        "id": "22123",
+        "call_sign": "KOYY",
+        "frequency": "93.7  MHz",
+        "service": "FM",
+        "owner": "MIDWEST COMMUNICATIONS, INC.",
+        "city": "FARGO",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.818667,
+          46.864389
+        ]
+      },
+      "properties": {
+        "id": "22123",
+        "call_sign": "KOYY",
+        "frequency": "93.7  MHz",
+        "service": "FS",
+        "owner": "MIDWEST COMMUNICATIONS, INC.",
+        "city": "FARGO",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.434889,
+          48.053056
+        ]
+      },
+      "properties": {
+        "id": "15968",
+        "call_sign": "KIZZ",
+        "frequency": "93.7  MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "MINOT",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.43475,
+          48.053083
+        ]
+      },
+      "properties": {
+        "id": "15968",
+        "call_sign": "KIZZ",
+        "frequency": "93.7  MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "MINOT",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.917222,
+          46.725278
+        ]
+      },
+      "properties": {
+        "id": "189497",
+        "call_sign": "KXDI",
+        "frequency": "93.9  MHz",
+        "service": "FM",
+        "owner": "P&A MEDIA LLC",
+        "city": "BELFIELD",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.917222,
+          46.725278
+        ]
+      },
+      "properties": {
+        "id": "189497",
+        "call_sign": "KXDI",
+        "frequency": "93.9  MHz",
+        "service": "FM",
+        "owner": "P&A MEDIA LLC",
+        "city": "BELFIELD",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.917222,
+          46.725278
+        ]
+      },
+      "properties": {
+        "id": "189497",
+        "call_sign": "KXDI",
+        "frequency": "93.9  MHz",
+        "service": "FM",
+        "owner": "P&A MEDIA LLC",
+        "city": "BELFIELD",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.423861,
+          48.411944
+        ]
+      },
+      "properties": {
+        "id": "147647",
+        "call_sign": "K230BU",
+        "frequency": "93.9  MHz",
+        "service": "FX",
+        "owner": "KNDK, INC.",
+        "city": "GRAFTON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.449528,
+          48.39875
+        ]
+      },
+      "properties": {
+        "id": "147647",
+        "call_sign": "K230BU",
+        "frequency": "93.9  MHz",
+        "service": "FX",
+        "owner": "KNDK, INC.",
+        "city": "GRAFTON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.449528,
+          48.39875
+        ]
+      },
+      "properties": {
+        "id": "147647",
+        "call_sign": "K230BU",
+        "frequency": "93.9  MHz",
+        "service": "FX",
+        "owner": "KNDK, INC.",
+        "city": "GRAFTON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.765917,
+          46.819139
+        ]
+      },
+      "properties": {
+        "id": "153836",
+        "call_sign": "K231CV",
+        "frequency": "94.1  MHz",
+        "service": "FX",
+        "owner": "MIDWEST COMMUNICATIONS, INC.",
+        "city": "FARGO",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.694278,
+          46.941917
+        ]
+      },
+      "properties": {
+        "id": "2204",
+        "call_sign": "KQDY",
+        "frequency": "94.5  MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "BISMARCK",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.802306,
+          46.817472
+        ]
+      },
+      "properties": {
+        "id": "152765",
+        "call_sign": "K233CY",
+        "frequency": "94.5  MHz",
+        "service": "FX",
+        "owner": "RADIO FARGO-MOORHEAD, INC.",
+        "city": "WAHPETON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.930361,
+          47.813583
+        ]
+      },
+      "properties": {
+        "id": "54593",
+        "call_sign": "KZGF",
+        "frequency": "94.7  MHz",
+        "service": "FM",
+        "owner": "LEIGHTON ENTERPRISES, INC.",
+        "city": "GRAND FORKS",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.340167,
+          48.051111
+        ]
+      },
+      "properties": {
+        "id": "162322",
+        "call_sign": "KTZU",
+        "frequency": "94.9  MHz",
+        "service": "FM",
+        "owner": "PROGRAMMERS BROADCASTING, INC.",
+        "city": "VELVA",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.774861,
+          46.827222
+        ]
+      },
+      "properties": {
+        "id": "142184",
+        "call_sign": "K237FQ",
+        "frequency": "95.3  MHz",
+        "service": "FX",
+        "owner": "RADIO 74 INTERNATIONALE",
+        "city": "BISMARCK",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.043694,
+          47.96275
+        ]
+      },
+      "properties": {
+        "id": "147645",
+        "call_sign": "K237ER",
+        "frequency": "95.3  MHz",
+        "service": "FX",
+        "owner": "K-LOVE, INC.",
+        "city": "GRAND FORKS",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.992639,
+          48.354167
+        ]
+      },
+      "properties": {
+        "id": "165964",
+        "call_sign": "KKWZ",
+        "frequency": "95.3  MHz",
+        "service": "FM",
+        "owner": "RUGBY BROADCASTERS, INC.",
+        "city": "RUGBY",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.308694,
+          46.939167
+        ]
+      },
+      "properties": {
+        "id": "68627",
+        "call_sign": "KYNU",
+        "frequency": "95.5  MHz",
+        "service": "FM",
+        "owner": "I3G MEDIA, INC.",
+        "city": "JAMESTOWN",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.043139,
+          47.931361
+        ]
+      },
+      "properties": {
+        "id": "147641",
+        "call_sign": "K239BG",
+        "frequency": "95.7  MHz",
+        "service": "FX",
+        "owner": "LEIGHTON ENTERPRISES, INC.",
+        "city": "GRAND FORKS",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.360944,
+          48.755
+        ]
+      },
+      "properties": {
+        "id": "35212",
+        "call_sign": "KLME",
+        "frequency": "95.7  MHz",
+        "service": "FM",
+        "owner": "KNDK, INC.",
+        "city": "LANGDON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.917111,
+          46.725278
+        ]
+      },
+      "properties": {
+        "id": "164305",
+        "call_sign": "KQLZ",
+        "frequency": "95.7  MHz",
+        "service": "FM",
+        "owner": "P&A MEDIA LLC",
+        "city": "NEW ENGLAND",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.292222,
+          46.358611
+        ]
+      },
+      "properties": {
+        "id": "49932",
+        "call_sign": "K240CJ",
+        "frequency": "95.9  MHz",
+        "service": "FX",
+        "owner": "I3G MEDIA, INC.",
+        "city": "LAMOURE",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.984111,
+          48.047806
+        ]
+      },
+      "properties": {
+        "id": "10510",
+        "call_sign": "KYYZ",
+        "frequency": "96.1  MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "WILLISTON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.984111,
+          48.047806
+        ]
+      },
+      "properties": {
+        "id": "10510",
+        "call_sign": "KYYZ",
+        "frequency": "96.1  MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "WILLISTON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9065,
+          46.876556
+        ]
+      },
+      "properties": {
+        "id": "133106",
+        "call_sign": "KNDS-LP",
+        "frequency": "96.3  MHz",
+        "service": "FL",
+        "owner": "ALLIANCE FOR THE ARTS AND HUMANITIES",
+        "city": "FARGO",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.012028,
+          46.93525
+        ]
+      },
+      "properties": {
+        "id": "200075",
+        "call_sign": "K242CZ",
+        "frequency": "96.3  MHz",
+        "service": "FX",
+        "owner": "I3G MEDIA, INC.",
+        "city": "VALLEY CITY",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.796528,
+          46.59
+        ]
+      },
+      "properties": {
+        "id": "43221",
+        "call_sign": "KBYZ",
+        "frequency": "96.5  MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "BISMARCK",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.053472,
+          47.980278
+        ]
+      },
+      "properties": {
+        "id": "56710",
+        "call_sign": "KQZZ",
+        "frequency": "96.7  MHz",
+        "service": "FM",
+        "owner": "I3G MEDIA, INC.",
+        "city": "CRARY",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.718167,
+          46.879722
+        ]
+      },
+      "properties": {
+        "id": "141985",
+        "call_sign": "K246AM",
+        "frequency": "97.1  MHz",
+        "service": "FX",
+        "owner": "I3G MEDIA, INC.",
+        "city": "JAMESTOWN",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.341833,
+          48.050556
+        ]
+      },
+      "properties": {
+        "id": "55680",
+        "call_sign": "KYYX",
+        "frequency": "97.1  MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "MINOT",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.43475,
+          48.053083
+        ]
+      },
+      "properties": {
+        "id": "55680",
+        "call_sign": "KYYX",
+        "frequency": "97.1  MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "MINOT",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.796528,
+          46.59
+        ]
+      },
+      "properties": {
+        "id": "31176",
+        "call_sign": "KKCT",
+        "frequency": "97.5  MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "BISMARCK",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.195083,
+          47.009972
+        ]
+      },
+      "properties": {
+        "id": "49772",
+        "call_sign": "KFNW-FM",
+        "frequency": "97.9  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF NORTHWESTERN-ST. PAUL",
+        "city": "FARGO",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.889444,
+          46.802
+        ]
+      },
+      "properties": {
+        "id": "49772",
+        "call_sign": "KFNW-FM",
+        "frequency": "97.9  MHz",
+        "service": "FS",
+        "owner": "UNIVERSITY OF NORTHWESTERN-ST. PAUL",
+        "city": "FARGO",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.421,
+          48.254167
+        ]
+      },
+      "properties": {
+        "id": "133549",
+        "call_sign": "KOWW-LP",
+        "frequency": "98.1  MHz",
+        "service": "FL",
+        "owner": "POINTE OF VIEW INSTITUTE",
+        "city": "BURLINGTON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.036778,
+          47.093889
+        ]
+      },
+      "properties": {
+        "id": "68625",
+        "call_sign": "KXGT",
+        "frequency": "98.3  MHz",
+        "service": "FM",
+        "owner": "I3G MEDIA, INC.",
+        "city": "CARRINGTON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.802306,
+          46.817472
+        ]
+      },
+      "properties": {
+        "id": "202080",
+        "call_sign": "K252GC",
+        "frequency": "98.3  MHz",
+        "service": "FX",
+        "owner": "REAL PRESENCE RADIO",
+        "city": "FARGO",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.043139,
+          47.960694
+        ]
+      },
+      "properties": {
+        "id": "762370",
+        "call_sign": "KQYZ",
+        "frequency": "98.5  MHz",
+        "service": "FM",
+        "owner": "VALLEY BROADCASTING, LLC",
+        "city": "EMERADO",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.001889,
+          48.058639
+        ]
+      },
+      "properties": {
+        "id": "190377",
+        "call_sign": "KXWI",
+        "frequency": "98.5  MHz",
+        "service": "FM",
+        "owner": "P&A MEDIA LLC",
+        "city": "WILLISTON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.796528,
+          46.59
+        ]
+      },
+      "properties": {
+        "id": "15967",
+        "call_sign": "KACL",
+        "frequency": "98.7  MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "BISMARCK",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.366389,
+          48.785833
+        ]
+      },
+      "properties": {
+        "id": "200261",
+        "call_sign": "K254DC",
+        "frequency": "98.7  MHz",
+        "service": "FX",
+        "owner": "KNDK, INC.",
+        "city": "LANGDON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.755694,
+          48.840833
+        ]
+      },
+      "properties": {
+        "id": "192804",
+        "call_sign": "KXYM-LP",
+        "frequency": "98.9  MHz",
+        "service": "FL",
+        "owner": "TWO HEARTS RADIO",
+        "city": "BELCOURT",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.351194,
+          47.499167
+        ]
+      },
+      "properties": {
+        "id": "201107",
+        "call_sign": "K255DG",
+        "frequency": "98.9  MHz",
+        "service": "FX",
+        "owner": "KMSR, INC.",
+        "city": "MAYVILLE",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.732417,
+          46.935833
+        ]
+      },
+      "properties": {
+        "id": "57740",
+        "call_sign": "KCAD",
+        "frequency": "99.1  MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "DICKINSON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.732417,
+          46.935833
+        ]
+      },
+      "properties": {
+        "id": "57740",
+        "call_sign": "KCAD",
+        "frequency": "99.1  MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "DICKINSON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.918333,
+          47.756111
+        ]
+      },
+      "properties": {
+        "id": "203281",
+        "call_sign": "K258DT",
+        "frequency": "99.5  MHz",
+        "service": "FX",
+        "owner": "THREE WAY BROADCASTING",
+        "city": "HARVEY",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.785111,
+          46.805528
+        ]
+      },
+      "properties": {
+        "id": "2203",
+        "call_sign": "K259AF",
+        "frequency": "99.7  MHz",
+        "service": "FX",
+        "owner": "IHM LICENSES, LLC",
+        "city": "BISMARCK",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.845667,
+          48.111667
+        ]
+      },
+      "properties": {
+        "id": "149629",
+        "call_sign": "K259CV",
+        "frequency": "99.7  MHz",
+        "service": "FX",
+        "owner": "DOUBLE Z BROADCASTING, INC.",
+        "city": "DEVILS LAKE",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.765417,
+          46.923639
+        ]
+      },
+      "properties": {
+        "id": "192815",
+        "call_sign": "KZEB-LP",
+        "frequency": "99.7  MHz",
+        "service": "FL",
+        "owner": "HOPE AND TRUTH RADIO",
+        "city": "JAMESTOWN",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.43475,
+          48.053083
+        ]
+      },
+      "properties": {
+        "id": "34996",
+        "call_sign": "KMXA-FM",
+        "frequency": "99.9  MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "MINOT",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.43475,
+          48.053083
+        ]
+      },
+      "properties": {
+        "id": "34996",
+        "call_sign": "KMXA-FM",
+        "frequency": "99.9  MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "MINOT",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.084556,
+          47.428583
+        ]
+      },
+      "properties": {
+        "id": "200072",
+        "call_sign": "K261EW",
+        "frequency": "100.1 MHz",
+        "service": "FX",
+        "owner": "I3G MEDIA, INC.",
+        "city": "CARRINGTON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.711222,
+          46.818583
+        ]
+      },
+      "properties": {
+        "id": "202888",
+        "call_sign": "K261FC",
+        "frequency": "100.1 MHz",
+        "service": "FX",
+        "owner": "CHESTERMAN COMMUNICATIONS OF JAMESTOWN, INC.",
+        "city": "JAMESTOWN",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.202944,
+          47.303056
+        ]
+      },
+      "properties": {
+        "id": "195708",
+        "call_sign": "KXRF-LP",
+        "frequency": "100.3 MHz",
+        "service": "FL",
+        "owner": "THE PRAIRIE CENTER BROADCASTING",
+        "city": "DODGE",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.089528,
+          46.123
+        ]
+      },
+      "properties": {
+        "id": "202155",
+        "call_sign": "K262DH",
+        "frequency": "100.3 MHz",
+        "service": "FX",
+        "owner": "I3G MEDIA, INC.",
+        "city": "OAKES",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.499556,
+          46.44525
+        ]
+      },
+      "properties": {
+        "id": "148405",
+        "call_sign": "K263AP",
+        "frequency": "100.5 MHz",
+        "service": "FX",
+        "owner": "RADIO 74 INTERNATIONALE",
+        "city": "MANDAN",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.434611,
+          48.053889
+        ]
+      },
+      "properties": {
+        "id": "184822",
+        "call_sign": "KNDL",
+        "frequency": "100.7 MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "BERTHOLD",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.434611,
+          48.053889
+        ]
+      },
+      "properties": {
+        "id": "184822",
+        "call_sign": "KNDL",
+        "frequency": "100.7 MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "BERTHOLD",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.775667,
+          46.84025
+        ]
+      },
+      "properties": {
+        "id": "133428",
+        "call_sign": "KLBE-LP",
+        "frequency": "100.7 MHz",
+        "service": "FL",
+        "owner": "NEW SONG COMMUNITY CHURCH",
+        "city": "BISMARCK",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.789611,
+          46.880417
+        ]
+      },
+      "properties": {
+        "id": "201571",
+        "call_sign": "K264CV",
+        "frequency": "100.7 MHz",
+        "service": "FX",
+        "owner": "STARRDAK, INC.",
+        "city": "DICKINSON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.972028,
+          47.14525
+        ]
+      },
+      "properties": {
+        "id": "77951",
+        "call_sign": "KLDQ",
+        "frequency": "100.7 MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "HARWOOD",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.449222,
+          48.398028
+        ]
+      },
+      "properties": {
+        "id": "34474",
+        "call_sign": "KAUJ",
+        "frequency": "100.9 MHz",
+        "service": "FM",
+        "owner": "SIMMONS BROADCASTING, INC.",
+        "city": "GRAFTON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.308694,
+          46.939167
+        ]
+      },
+      "properties": {
+        "id": "60498",
+        "call_sign": "KQDJ-FM",
+        "frequency": "101.1 MHz",
+        "service": "FM",
+        "owner": "I3G MEDIA, INC.",
+        "city": "VALLEY CITY",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.001889,
+          48.058639
+        ]
+      },
+      "properties": {
+        "id": "56970",
+        "call_sign": "KDSR",
+        "frequency": "101.1 MHz",
+        "service": "FM",
+        "owner": "P&A MEDIA LLC",
+        "city": "WILLISTON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.039222,
+          47.886639
+        ]
+      },
+      "properties": {
+        "id": "134933",
+        "call_sign": "KOBT-LP",
+        "frequency": "101.3 MHz",
+        "service": "FL",
+        "owner": "GRAND FORKS CHRISTIAN BROADCASTING",
+        "city": "GRAND FORKS",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.694028,
+          46.941944
+        ]
+      },
+      "properties": {
+        "id": "2210",
+        "call_sign": "KSSS",
+        "frequency": "101.5 MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "BISMARCK",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.694028,
+          46.941944
+        ]
+      },
+      "properties": {
+        "id": "2210",
+        "call_sign": "KSSS",
+        "frequency": "101.5 MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "BISMARCK",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.334861,
+          48.851667
+        ]
+      },
+      "properties": {
+        "id": "16903",
+        "call_sign": "KBTO",
+        "frequency": "101.9 MHz",
+        "service": "FM",
+        "owner": "PROGRAMMERS BROADCASTING, INC.",
+        "city": "BOTTINEAU",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.195083,
+          47.009972
+        ]
+      },
+      "properties": {
+        "id": "34422",
+        "call_sign": "KRWK",
+        "frequency": "101.9 MHz",
+        "service": "FM",
+        "owner": "MIDWEST COMMUNICATIONS, INC.",
+        "city": "FARGO",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.818667,
+          46.864111
+        ]
+      },
+      "properties": {
+        "id": "34422",
+        "call_sign": "KRWK",
+        "frequency": "101.9 MHz",
+        "service": "FS",
+        "owner": "MIDWEST COMMUNICATIONS, INC.",
+        "city": "FARGO",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.619167,
+          46.693056
+        ]
+      },
+      "properties": {
+        "id": "189545",
+        "call_sign": "KZZQ",
+        "frequency": "101.9 MHz",
+        "service": "FM",
+        "owner": "REAL PRESENCE RADIO",
+        "city": "RICHARDTON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.619167,
+          46.693056
+        ]
+      },
+      "properties": {
+        "id": "189545",
+        "call_sign": "KZZQ",
+        "frequency": "101.9 MHz",
+        "service": "FM",
+        "owner": "REAL PRESENCE RADIO",
+        "city": "RICHARDTON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.641556,
+          45.959722
+        ]
+      },
+      "properties": {
+        "id": "165977",
+        "call_sign": "KZRN",
+        "frequency": "102.3 MHz",
+        "service": "FM",
+        "owner": "SIDESTREAM MEDIA, LLC",
+        "city": "HETTINGER",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.774722,
+          46.827222
+        ]
+      },
+      "properties": {
+        "id": "196087",
+        "call_sign": "KUAK-LP",
+        "frequency": "102.5 MHz",
+        "service": "FL",
+        "owner": "DAKOTA MEDIA ACCESS",
+        "city": "BISMARCK",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.933444,
+          47.98775
+        ]
+      },
+      "properties": {
+        "id": "15271",
+        "call_sign": "KDVL",
+        "frequency": "102.5 MHz",
+        "service": "FM",
+        "owner": "DOUBLE Z BROADCASTING, INC.",
+        "city": "DEVILS LAKE",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.933444,
+          47.98775
+        ]
+      },
+      "properties": {
+        "id": "15271",
+        "call_sign": "KDVL",
+        "frequency": "102.5 MHz",
+        "service": "FM",
+        "owner": "DOUBLE Z BROADCASTING, INC.",
+        "city": "DEVILS LAKE",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.889444,
+          46.802
+        ]
+      },
+      "properties": {
+        "id": "202255",
+        "call_sign": "K273DJ",
+        "frequency": "102.5 MHz",
+        "service": "FX",
+        "owner": "UNIVERSITY OF NORTHWESTERN-ST. PAUL",
+        "city": "WEST FARGO",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.979889,
+          46.463333
+        ]
+      },
+      "properties": {
+        "id": "29897",
+        "call_sign": "K274CC",
+        "frequency": "102.7 MHz",
+        "service": "FX",
+        "owner": "UNIVERSITY OF NORTHWESTERN-ST. PAUL",
+        "city": "NEW ENGLAND",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.012028,
+          46.93525
+        ]
+      },
+      "properties": {
+        "id": "141988",
+        "call_sign": "K274BH",
+        "frequency": "102.7 MHz",
+        "service": "FX",
+        "owner": "I3G MEDIA, INC.",
+        "city": "VALLEY CITY",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.340167,
+          48.051111
+        ]
+      },
+      "properties": {
+        "id": "162321",
+        "call_sign": "KWGO",
+        "frequency": "102.9 MHz",
+        "service": "FM",
+        "owner": "PROGRAMMERS BROADCASTING, INC.",
+        "city": "BURLINGTON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.308694,
+          46.939167
+        ]
+      },
+      "properties": {
+        "id": "164198",
+        "call_sign": "KRVX",
+        "frequency": "103.1 MHz",
+        "service": "FM",
+        "owner": "I3G MEDIA, INC.",
+        "city": "WIMBLEDON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.930361,
+          47.813583
+        ]
+      },
+      "properties": {
+        "id": "202226",
+        "call_sign": "K277DN",
+        "frequency": "103.3 MHz",
+        "service": "FX",
+        "owner": "LEIGHTON ENTERPRISES, INC.",
+        "city": "GRAND FORKS",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.796583,
+          46.589944
+        ]
+      },
+      "properties": {
+        "id": "162267",
+        "call_sign": "KUSB",
+        "frequency": "103.3 MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "HAZELTON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.053472,
+          47.980278
+        ]
+      },
+      "properties": {
+        "id": "17358",
+        "call_sign": "KZZY",
+        "frequency": "103.5 MHz",
+        "service": "FM",
+        "owner": "DOUBLE Z BROADCASTING, INC.",
+        "city": "DEVILS LAKE",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.780167,
+          46.905556
+        ]
+      },
+      "properties": {
+        "id": "135046",
+        "call_sign": "KPAR-LP",
+        "frequency": "103.7 MHz",
+        "service": "FL",
+        "owner": "HIGHER PLAIN MEDIA",
+        "city": "DICKINSON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.325083,
+          47.122194
+        ]
+      },
+      "properties": {
+        "id": "41898",
+        "call_sign": "KZTK",
+        "frequency": "103.9 MHz",
+        "service": "FM",
+        "owner": "VISION MEDIA INCORPORATED",
+        "city": "ARTHUR",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.294333,
+          48.216667
+        ]
+      },
+      "properties": {
+        "id": "135303",
+        "call_sign": "KSAF-LP",
+        "frequency": "104.1 MHz",
+        "service": "FL",
+        "owner": "TRUE LIGHT BROADCASTING, INC.",
+        "city": "MINOT",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.24825,
+          48.321694
+        ]
+      },
+      "properties": {
+        "id": "190440",
+        "call_sign": "KZTW",
+        "frequency": "104.1 MHz",
+        "service": "FM",
+        "owner": "REAL PRESENCE RADIO",
+        "city": "TIOGA",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.412583,
+          47.054139
+        ]
+      },
+      "properties": {
+        "id": "88502",
+        "call_sign": "KFGO-FM",
+        "frequency": "104.7 MHz",
+        "service": "FM",
+        "owner": "MIDWEST COMMUNICATIONS, INC.",
+        "city": "HOPE",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.805944,
+          46.586361
+        ]
+      },
+      "properties": {
+        "id": "9869",
+        "call_sign": "KNDR",
+        "frequency": "104.7 MHz",
+        "service": "FM",
+        "owner": "CENTRAL DAKOTA ENTERPRISES, INC.",
+        "city": "MANDAN",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.872083,
+          46.833611
+        ]
+      },
+      "properties": {
+        "id": "9869",
+        "call_sign": "KNDR",
+        "frequency": "104.7 MHz",
+        "service": "FS",
+        "owner": "CENTRAL DAKOTA ENTERPRISES, INC.",
+        "city": "MANDAN",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.043139,
+          47.931361
+        ]
+      },
+      "properties": {
+        "id": "69724",
+        "call_sign": "K285BG",
+        "frequency": "104.9 MHz",
+        "service": "FX",
+        "owner": "SHINE THE LIGHT, INC.",
+        "city": "GRAND FORKS",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.979833,
+          48.643889
+        ]
+      },
+      "properties": {
+        "id": "56712",
+        "call_sign": "KAOC",
+        "frequency": "105.1 MHz",
+        "service": "FM",
+        "owner": "SIMMONS BROADCASTING, INC.",
+        "city": "CAVALIER",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.434889,
+          48.053056
+        ]
+      },
+      "properties": {
+        "id": "9675",
+        "call_sign": "KZPR",
+        "frequency": "105.3 MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "MINOT",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.43475,
+          48.053083
+        ]
+      },
+      "properties": {
+        "id": "9675",
+        "call_sign": "KZPR",
+        "frequency": "105.3 MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "MINOT",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.351194,
+          47.499167
+        ]
+      },
+      "properties": {
+        "id": "54335",
+        "call_sign": "KMAV-FM",
+        "frequency": "105.5 MHz",
+        "service": "FM",
+        "owner": "KMSR, INC.",
+        "city": "MAYVILLE",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.623056,
+          48.197222
+        ]
+      },
+      "properties": {
+        "id": "785825",
+        "call_sign": "NEW",
+        "frequency": "105.5 MHz",
+        "service": "FL",
+        "owner": "GOLDEN VALLEY BROADCASTING.INC.",
+        "city": "WILLISTON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.588389,
+          47.797472
+        ]
+      },
+      "properties": {
+        "id": "143360",
+        "call_sign": "K289CE",
+        "frequency": "105.7 MHz",
+        "service": "FX",
+        "owner": "GOPHER COMMUNICATIONS COMPANY",
+        "city": "GRAND FORKS",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.990722,
+          46.948056
+        ]
+      },
+      "properties": {
+        "id": "169897",
+        "call_sign": "KDXN",
+        "frequency": "105.7 MHz",
+        "service": "FM",
+        "owner": "GLASSWORKS BROADCASTING, LLC",
+        "city": "SOUTH HEART",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.795417,
+          46.571944
+        ]
+      },
+      "properties": {
+        "id": "166041",
+        "call_sign": "KKBO",
+        "frequency": "105.9 MHz",
+        "service": "FM",
+        "owner": "RADIO BISMARCK MANDAN, LLC",
+        "city": "FLASHER",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.795417,
+          46.571944
+        ]
+      },
+      "properties": {
+        "id": "166041",
+        "call_sign": "KKBO",
+        "frequency": "105.9 MHz",
+        "service": "FM",
+        "owner": "RADIO BISMARCK MANDAN, LLC",
+        "city": "FLASHER",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.795417,
+          46.571944
+        ]
+      },
+      "properties": {
+        "id": "166041",
+        "call_sign": "KKBO",
+        "frequency": "105.9 MHz",
+        "service": "FM",
+        "owner": "RADIO BISMARCK MANDAN, LLC",
+        "city": "FLASHER",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.066444,
+          47.909694
+        ]
+      },
+      "properties": {
+        "id": "195984",
+        "call_sign": "KEQQ-LP",
+        "frequency": "105.9 MHz",
+        "service": "FL",
+        "owner": "GRAND FORKS BIBLE STUDY GROUP",
+        "city": "GRAND FORKS",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.427583,
+          46.744139
+        ]
+      },
+      "properties": {
+        "id": "60188",
+        "call_sign": "KQLX-FM",
+        "frequency": "106.1 MHz",
+        "service": "FM",
+        "owner": "I3G MEDIA, INC.",
+        "city": "LISBON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.763222,
+          47.2875
+        ]
+      },
+      "properties": {
+        "id": "202487",
+        "call_sign": "K293CS",
+        "frequency": "106.5 MHz",
+        "service": "FX",
+        "owner": "DIGITAL SYNDICATE NETWORK, LLC D/B/A DSN RADIO, LLC",
+        "city": "BEULAH",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3925,
+          46.203889
+        ]
+      },
+      "properties": {
+        "id": "29894",
+        "call_sign": "K293BN",
+        "frequency": "106.5 MHz",
+        "service": "FX",
+        "owner": "UNIVERSITY OF NORTHWESTERN-ST. PAUL",
+        "city": "BOWMAN",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.774861,
+          46.827222
+        ]
+      },
+      "properties": {
+        "id": "135691",
+        "call_sign": "KJIT-LP",
+        "frequency": "106.7 MHz",
+        "service": "FL",
+        "owner": "HE WILL PROVIDE RADIO",
+        "city": "BISMARCK",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.693056,
+          46.019722
+        ]
+      },
+      "properties": {
+        "id": "203024",
+        "call_sign": "K294DG",
+        "frequency": "106.7 MHz",
+        "service": "FX",
+        "owner": "RADD MEDIA, LLC",
+        "city": "HETTINGER",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.979833,
+          48.643889
+        ]
+      },
+      "properties": {
+        "id": "49019",
+        "call_sign": "KYTZ",
+        "frequency": "106.7 MHz",
+        "service": "FM",
+        "owner": "SIMMONS BROADCASTING, INC.",
+        "city": "WALHALLA",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.730194,
+          46.918889
+        ]
+      },
+      "properties": {
+        "id": "29896",
+        "call_sign": "K295BR",
+        "frequency": "106.9 MHz",
+        "service": "FX",
+        "owner": "IHM LICENSES, LLC",
+        "city": "DICKINSON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.299056,
+          48.163333
+        ]
+      },
+      "properties": {
+        "id": "20488",
+        "call_sign": "KHTZ",
+        "frequency": "106.9 MHz",
+        "service": "FM",
+        "owner": "RADIODIFFERENTLY, LLC",
+        "city": "MINOT",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.627861,
+          46.546083
+        ]
+      },
+      "properties": {
+        "id": "25533",
+        "call_sign": "KEGK",
+        "frequency": "106.9 MHz",
+        "service": "FM",
+        "owner": "RADIO WAHPETON BRECKENRIDGE, LLC",
+        "city": "WAHPETON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.718167,
+          46.879722
+        ]
+      },
+      "properties": {
+        "id": "200073",
+        "call_sign": "K296HH",
+        "frequency": "107.1 MHz",
+        "service": "FX",
+        "owner": "I3G MEDIA, INC.",
+        "city": "JAMESTOWN",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.765917,
+          46.819139
+        ]
+      },
+      "properties": {
+        "id": "142367",
+        "call_sign": "K297BW",
+        "frequency": "107.3 MHz",
+        "service": "FX",
+        "owner": "MIDWEST COMMUNICATIONS, INC.",
+        "city": "FARGO",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.689861,
+          46.437472
+        ]
+      },
+      "properties": {
+        "id": "200079",
+        "call_sign": "K297BX",
+        "frequency": "107.3 MHz",
+        "service": "FX",
+        "owner": "I3G MEDIA, INC.",
+        "city": "LISBON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.795417,
+          46.571944
+        ]
+      },
+      "properties": {
+        "id": "165952",
+        "call_sign": "KXRV",
+        "frequency": "107.5 MHz",
+        "service": "FM",
+        "owner": "RADIO BISMARCK MANDAN, LLC",
+        "city": "CANNON BALL",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.795417,
+          46.571944
+        ]
+      },
+      "properties": {
+        "id": "165952",
+        "call_sign": "KXRV",
+        "frequency": "107.5 MHz",
+        "service": "FM",
+        "owner": "RADIO BISMARCK MANDAN, LLC",
+        "city": "CANNON BALL",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.029806,
+          47.964417
+        ]
+      },
+      "properties": {
+        "id": "35012",
+        "call_sign": "KJKJ",
+        "frequency": "107.5 MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "GRAND FORKS",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.726833,
+          47.306389
+        ]
+      },
+      "properties": {
+        "id": "140134",
+        "call_sign": "K300BP",
+        "frequency": "107.9 MHz",
+        "service": "FX",
+        "owner": "DAVID L. JUST",
+        "city": "BEULAH",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.113139,
+          47.883028
+        ]
+      },
+      "properties": {
+        "id": "150152",
+        "call_sign": "K300BG",
+        "frequency": "107.9 MHz",
+        "service": "FX",
+        "owner": "LEIGHTON ENTERPRISES, INC.",
+        "city": "GRAND FORKS",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.607861,
+          46.759694
+        ]
+      },
+      "properties": {
+        "id": "47310",
+        "call_sign": "KPFX",
+        "frequency": "107.9 MHz",
+        "service": "FM",
+        "owner": "RADIO FARGO-MOORHEAD, INC.",
+        "city": "KINDRED",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.544,
+          46.853333
+        ]
+      },
+      "properties": {
+        "id": "41426",
+        "call_sign": "KFYR",
+        "frequency": "550   kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "BISMARCK",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.544,
+          46.853333
+        ]
+      },
+      "properties": {
+        "id": "41426",
+        "call_sign": "KFYR",
+        "frequency": "550   kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "BISMARCK",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.709833,
+          46.817472
+        ]
+      },
+      "properties": {
+        "id": "10778",
+        "call_sign": "KSJB",
+        "frequency": "600   kHz",
+        "service": "AM",
+        "owner": "CHESTERMAN COMMUNICATIONS JAMESTOWN, INC.",
+        "city": "JAMESTOWN",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.65075,
+          48.238917
+        ]
+      },
+      "properties": {
+        "id": "10511",
+        "call_sign": "KEYZ",
+        "frequency": "660   kHz",
+        "service": "AM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "WILLISTON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.65075,
+          48.238917
+        ]
+      },
+      "properties": {
+        "id": "10511",
+        "call_sign": "KEYZ",
+        "frequency": "660   kHz",
+        "service": "AM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "WILLISTON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.77625,
+          46.668889
+        ]
+      },
+      "properties": {
+        "id": "2211",
+        "call_sign": "KXMR",
+        "frequency": "710   kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "BISMARCK",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.77625,
+          46.668889
+        ]
+      },
+      "properties": {
+        "id": "2211",
+        "call_sign": "KXMR",
+        "frequency": "710   kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "BISMARCK",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.503694,
+          46.974694
+        ]
+      },
+      "properties": {
+        "id": "135847",
+        "call_sign": "KNFL",
+        "frequency": "740   kHz",
+        "service": "AM",
+        "owner": "MIDWEST COMMUNICATIONS, INC.",
+        "city": "FARGO",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.503694,
+          46.974694
+        ]
+      },
+      "properties": {
+        "id": "135847",
+        "call_sign": "KNFL",
+        "frequency": "740   kHz",
+        "service": "AM",
+        "owner": "MIDWEST COMMUNICATIONS, INC.",
+        "city": "FARGO",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.503694,
+          46.974694
+        ]
+      },
+      "properties": {
+        "id": "135847",
+        "call_sign": "KNFL",
+        "frequency": "740   kHz",
+        "service": "AM",
+        "owner": "MIDWEST COMMUNICATIONS, INC.",
+        "city": "FARGO",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.80175,
+          46.718028
+        ]
+      },
+      "properties": {
+        "id": "34421",
+        "call_sign": "KFGO",
+        "frequency": "790   kHz",
+        "service": "AM",
+        "owner": "MIDWEST COMMUNICATIONS, INC.",
+        "city": "FARGO",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.80175,
+          46.718028
+        ]
+      },
+      "properties": {
+        "id": "34421",
+        "call_sign": "KFGO",
+        "frequency": "790   kHz",
+        "service": "AM",
+        "owner": "MIDWEST COMMUNICATIONS, INC.",
+        "city": "FARGO",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.132583,
+          46.614972
+        ]
+      },
+      "properties": {
+        "id": "60189",
+        "call_sign": "KQLX",
+        "frequency": "890   kHz",
+        "service": "AM",
+        "owner": "I3G MEDIA, INC.",
+        "city": "LISBON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.348778,
+          48.2025
+        ]
+      },
+      "properties": {
+        "id": "55681",
+        "call_sign": "KCJB",
+        "frequency": "910   kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "MINOT",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.348778,
+          48.2025
+        ]
+      },
+      "properties": {
+        "id": "55681",
+        "call_sign": "KCJB",
+        "frequency": "910   kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "MINOT",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.364222,
+          46.646639
+        ]
+      },
+      "properties": {
+        "id": "22126",
+        "call_sign": "WDAY",
+        "frequency": "970   kHz",
+        "service": "AM",
+        "owner": "BAKKEN BEACON MEDIA LLC",
+        "city": "FARGO",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.364222,
+          46.646639
+        ]
+      },
+      "properties": {
+        "id": "22126",
+        "call_sign": "WDAY",
+        "frequency": "970   kHz",
+        "service": "AM",
+        "owner": "BAKKEN BEACON MEDIA LLC",
+        "city": "FARGO",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3665,
+          48.785833
+        ]
+      },
+      "properties": {
+        "id": "35211",
+        "call_sign": "KNDK",
+        "frequency": "1080  kHz",
+        "service": "AM",
+        "owner": "KNDK, INC.",
+        "city": "LANGDON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3665,
+          48.785833
+        ]
+      },
+      "properties": {
+        "id": "35211",
+        "call_sign": "KNDK",
+        "frequency": "1080  kHz",
+        "service": "AM",
+        "owner": "KNDK, INC.",
+        "city": "LANGDON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.934917,
+          48.391139
+        ]
+      },
+      "properties": {
+        "id": "67183",
+        "call_sign": "KTGO",
+        "frequency": "1090  kHz",
+        "service": "AM",
+        "owner": "BAKKEN BEACON MEDIA LLC",
+        "city": "TIOGA",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.934917,
+          48.391139
+        ]
+      },
+      "properties": {
+        "id": "67183",
+        "call_sign": "KTGO",
+        "frequency": "1090  kHz",
+        "service": "AM",
+        "owner": "BAKKEN BEACON MEDIA LLC",
+        "city": "TIOGA",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.736528,
+          46.810278
+        ]
+      },
+      "properties": {
+        "id": "2207",
+        "call_sign": "KBMR",
+        "frequency": "1130  kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "BISMARCK",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.736528,
+          46.810278
+        ]
+      },
+      "properties": {
+        "id": "2207",
+        "call_sign": "KBMR",
+        "frequency": "1130  kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "BISMARCK",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.030361,
+          46.719139
+        ]
+      },
+      "properties": {
+        "id": "49792",
+        "call_sign": "KFNW",
+        "frequency": "1200  kHz",
+        "service": "AM",
+        "owner": "UNIVERSITY OF NORTHWESTERN-ST. PAUL",
+        "city": "WEST FARGO",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.030361,
+          46.719139
+        ]
+      },
+      "properties": {
+        "id": "49792",
+        "call_sign": "KFNW",
+        "frequency": "1200  kHz",
+        "service": "AM",
+        "owner": "UNIVERSITY OF NORTHWESTERN-ST. PAUL",
+        "city": "WEST FARGO",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.089556,
+          46.123028
+        ]
+      },
+      "properties": {
+        "id": "60499",
+        "call_sign": "KDDR",
+        "frequency": "1220  kHz",
+        "service": "AM",
+        "owner": "I3G MEDIA, INC.",
+        "city": "OAKES",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.089556,
+          46.123028
+        ]
+      },
+      "properties": {
+        "id": "60499",
+        "call_sign": "KDDR",
+        "frequency": "1220  kHz",
+        "service": "AM",
+        "owner": "I3G MEDIA, INC.",
+        "city": "OAKES",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.744333,
+          46.8725
+        ]
+      },
+      "properties": {
+        "id": "62361",
+        "call_sign": "KDIX",
+        "frequency": "1230  kHz",
+        "service": "AM",
+        "owner": "STARRDAK, INC.",
+        "city": "DICKINSON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.845667,
+          48.111667
+        ]
+      },
+      "properties": {
+        "id": "15272",
+        "call_sign": "KDLR",
+        "frequency": "1240  kHz",
+        "service": "AM",
+        "owner": "DOUBLE Z BROADCASTING, INC.",
+        "city": "DEVILS LAKE",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.836528,
+          46.810278
+        ]
+      },
+      "properties": {
+        "id": "43223",
+        "call_sign": "KLXX",
+        "frequency": "1270  kHz",
+        "service": "AM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "BISMARCK-MANDAN",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.836528,
+          46.810278
+        ]
+      },
+      "properties": {
+        "id": "43223",
+        "call_sign": "KLXX",
+        "frequency": "1270  kHz",
+        "service": "AM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "BISMARCK-MANDAN",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.025361,
+          47.844139
+        ]
+      },
+      "properties": {
+        "id": "54592",
+        "call_sign": "KNOX",
+        "frequency": "1310  kHz",
+        "service": "AM",
+        "owner": "LEIGHTON ENTERPRISES, INC.",
+        "city": "GRAND FORKS",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.025361,
+          47.844139
+        ]
+      },
+      "properties": {
+        "id": "54592",
+        "call_sign": "KNOX",
+        "frequency": "1310  kHz",
+        "service": "AM",
+        "owner": "LEIGHTON ENTERPRISES, INC.",
+        "city": "GRAND FORKS",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.44925,
+          48.398056
+        ]
+      },
+      "properties": {
+        "id": "34475",
+        "call_sign": "KXPO",
+        "frequency": "1340  kHz",
+        "service": "AM",
+        "owner": "SIMMONS BROADCASTING, INC.",
+        "city": "GRAFTON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.370472,
+          46.18
+        ]
+      },
+      "properties": {
+        "id": "67796",
+        "call_sign": "KPOK",
+        "frequency": "1340  kHz",
+        "service": "AM",
+        "owner": "JAK COMMUNICATIONS, LIMITED LIABILITY COMPANY",
+        "city": "BOWMAN",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.44925,
+          48.398056
+        ]
+      },
+      "properties": {
+        "id": "34475",
+        "call_sign": "KXPO",
+        "frequency": "1340  kHz",
+        "service": "AM",
+        "owner": "SIMMONS BROADCASTING, INC.",
+        "city": "GRAFTON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.113139,
+          47.883028
+        ]
+      },
+      "properties": {
+        "id": "69201",
+        "call_sign": "KWTL",
+        "frequency": "1370  kHz",
+        "service": "AM",
+        "owner": "REAL PRESENCE RADIO",
+        "city": "GRAND FORKS",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.113139,
+          47.883028
+        ]
+      },
+      "properties": {
+        "id": "69201",
+        "call_sign": "KWTL",
+        "frequency": "1370  kHz",
+        "service": "AM",
+        "owner": "REAL PRESENCE RADIO",
+        "city": "GRAND FORKS",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.241139,
+          48.210444
+        ]
+      },
+      "properties": {
+        "id": "9679",
+        "call_sign": "KRRZ",
+        "frequency": "1390  kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "MINOT",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.241139,
+          48.210333
+        ]
+      },
+      "properties": {
+        "id": "9679",
+        "call_sign": "KRRZ",
+        "frequency": "1390  kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "MINOT",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.689278,
+          46.893611
+        ]
+      },
+      "properties": {
+        "id": "68626",
+        "call_sign": "KQDJ",
+        "frequency": "1400  kHz",
+        "service": "AM",
+        "owner": "I3G MEDIA, INC.",
+        "city": "JAMESTOWN",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.763222,
+          47.2875
+        ]
+      },
+      "properties": {
+        "id": "41175",
+        "call_sign": "KDKT",
+        "frequency": "1410  kHz",
+        "service": "AM",
+        "owner": "DIGITAL SYNDICATE NETWORK, LLC",
+        "city": "BEULAH",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.763222,
+          47.2875
+        ]
+      },
+      "properties": {
+        "id": "41175",
+        "call_sign": "KDKT",
+        "frequency": "1410  kHz",
+        "service": "AM",
+        "owner": "DIGITAL SYNDICATE NETWORK, LLC",
+        "city": "BEULAH",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.029806,
+          47.964417
+        ]
+      },
+      "properties": {
+        "id": "20324",
+        "call_sign": "KKXL",
+        "frequency": "1440  kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "GRAND FORKS",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.029806,
+          47.964417
+        ]
+      },
+      "properties": {
+        "id": "20324",
+        "call_sign": "KKXL",
+        "frequency": "1440  kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "GRAND FORKS",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.992361,
+          48.353889
+        ]
+      },
+      "properties": {
+        "id": "57928",
+        "call_sign": "KZZJ",
+        "frequency": "1450  kHz",
+        "service": "AM",
+        "owner": "RUGBY BROADCASTERS, INC.",
+        "city": "RUGBY",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.830167,
+          46.848889
+        ]
+      },
+      "properties": {
+        "id": "71870",
+        "call_sign": "KLTC",
+        "frequency": "1460  kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "DICKINSON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.830167,
+          46.848889
+        ]
+      },
+      "properties": {
+        "id": "71870",
+        "call_sign": "KLTC",
+        "frequency": "1460  kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "DICKINSON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.918722,
+          47.756389
+        ]
+      },
+      "properties": {
+        "id": "53309",
+        "call_sign": "KHND",
+        "frequency": "1470  kHz",
+        "service": "AM",
+        "owner": "THREE WAY BROADCASTING, INC.",
+        "city": "HARVEY",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.918722,
+          47.756389
+        ]
+      },
+      "properties": {
+        "id": "53309",
+        "call_sign": "KHND",
+        "frequency": "1470  kHz",
+        "service": "AM",
+        "owner": "THREE WAY BROADCASTING, INC.",
+        "city": "HARVEY",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.017611,
+          46.913306
+        ]
+      },
+      "properties": {
+        "id": "60497",
+        "call_sign": "KOVC",
+        "frequency": "1490  kHz",
+        "service": "AM",
+        "owner": "I3G MEDIA, INC.",
+        "city": "VALLEY CITY",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.692944,
+          46.019722
+        ]
+      },
+      "properties": {
+        "id": "27100",
+        "call_sign": "KNDC",
+        "frequency": "1490  kHz",
+        "service": "AM",
+        "owner": "RADD MEDIA, LLC",
+        "city": "HETTINGER",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.351194,
+          47.499167
+        ]
+      },
+      "properties": {
+        "id": "54336",
+        "call_sign": "KMSR",
+        "frequency": "1520  kHz",
+        "service": "AM",
+        "owner": "KMSR, INC.",
+        "city": "NORTHWOOD",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.084556,
+          47.428611
+        ]
+      },
+      "properties": {
+        "id": "68632",
+        "call_sign": "KDAK",
+        "frequency": "1600  kHz",
+        "service": "AM",
+        "owner": "I3G MEDIA, INC.",
+        "city": "CARRINGTON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.084556,
+          47.428611
+        ]
+      },
+      "properties": {
+        "id": "68632",
+        "call_sign": "KDAK",
+        "frequency": "1600  kHz",
+        "service": "AM",
+        "owner": "I3G MEDIA, INC.",
+        "city": "CARRINGTON",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.58425,
+          46.975806
+        ]
+      },
+      "properties": {
+        "id": "87146",
+        "call_sign": "KQWB",
+        "frequency": "1660  kHz",
+        "service": "AM",
+        "owner": "RADIO FARGO-MOORHEAD, INC.",
+        "city": "WEST FARGO",
+        "state": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.58425,
+          46.975806
+        ]
+      },
+      "properties": {
+        "id": "87146",
+        "call_sign": "KQWB",
+        "frequency": "1660  kHz",
+        "service": "AM",
+        "owner": "RADIO FARGO-MOORHEAD, INC.",
+        "city": "WEST FARGO",
+        "state": "ND"
+      }
+    }
+  ],
+  "metadata": {
+    "cities": [
+      "ARTHUR",
+      "BEACH",
+      "BELCOURT",
+      "BELFIELD",
+      "BERTHOLD",
+      "BEULAH",
+      "BISMARCK",
+      "BISMARCK-MANDAN",
+      "BOTTINEAU",
+      "BOWDON",
+      "BOWMAN",
+      "BURLINGTON",
+      "CANNON BALL",
+      "CARRINGTON",
+      "CAVALIER",
+      "CRARY",
+      "DEVILS LAKE",
+      "DICKINSON",
+      "DODGE",
+      "EMERADO",
+      "FARGO",
+      "FLASHER",
+      "FORT TOTTEN",
+      "FOUR BEARS",
+      "GRAFTON",
+      "GRAND FORKS",
+      "HARVEY",
+      "HARWOOD",
+      "HAZELTON",
+      "HETTINGER",
+      "HOPE",
+      "HORACE",
+      "JAMESTOWN",
+      "KINDRED",
+      "LAMOURE",
+      "LANGDON",
+      "LINCOLN",
+      "LISBON",
+      "MANDAN",
+      "MAYVILLE",
+      "MINOT",
+      "MOFFIT - LINCOLN",
+      "NEW ENGLAND",
+      "NORTHWOOD",
+      "OAKES",
+      "RICHARDTON",
+      "RUGBY",
+      "SOUTH HEART",
+      "ST. JOHN",
+      "TIOGA",
+      "VALLEY CITY",
+      "VELVA",
+      "WAHPETON",
+      "WALHALLA",
+      "WATFORD CITY",
+      "WEST FARGO",
+      "WILLISTON",
+      "WIMBLEDON"
+    ],
+    "frequencies": [
+      "88.1  MHz",
+      "88.3  MHz",
+      "88.5  MHz",
+      "88.7  MHz",
+      "88.9  MHz",
+      "89.1  MHz",
+      "89.3  MHz",
+      "89.5  MHz",
+      "89.7  MHz",
+      "89.9  MHz",
+      "90.1  MHz",
+      "90.5  MHz",
+      "90.7  MHz",
+      "90.9  MHz",
+      "91.1  MHz",
+      "91.3  MHz",
+      "91.5  MHz",
+      "91.7  MHz",
+      "91.9  MHz",
+      "92.1  MHz",
+      "92.5  MHz",
+      "92.7  MHz",
+      "92.9  MHz",
+      "93.1  MHz",
+      "93.3  MHz",
+      "93.7  MHz",
+      "93.9  MHz",
+      "94.1  MHz",
+      "94.5  MHz",
+      "94.7  MHz",
+      "94.9  MHz",
+      "95.3  MHz",
+      "95.5  MHz",
+      "95.7  MHz",
+      "95.9  MHz",
+      "96.1  MHz",
+      "96.3  MHz",
+      "96.5  MHz",
+      "96.7  MHz",
+      "97.1  MHz",
+      "97.5  MHz",
+      "97.9  MHz",
+      "98.1  MHz",
+      "98.3  MHz",
+      "98.5  MHz",
+      "98.7  MHz",
+      "98.9  MHz",
+      "99.1  MHz",
+      "99.5  MHz",
+      "99.7  MHz",
+      "99.9  MHz",
+      "100.1 MHz",
+      "100.3 MHz",
+      "100.5 MHz",
+      "100.7 MHz",
+      "100.9 MHz",
+      "101.1 MHz",
+      "101.3 MHz",
+      "101.5 MHz",
+      "101.9 MHz",
+      "102.3 MHz",
+      "102.5 MHz",
+      "102.7 MHz",
+      "102.9 MHz",
+      "103.1 MHz",
+      "103.3 MHz",
+      "103.5 MHz",
+      "103.7 MHz",
+      "103.9 MHz",
+      "104.1 MHz",
+      "104.7 MHz",
+      "104.9 MHz",
+      "105.1 MHz",
+      "105.3 MHz",
+      "105.5 MHz",
+      "105.7 MHz",
+      "105.9 MHz",
+      "106.1 MHz",
+      "106.5 MHz",
+      "106.7 MHz",
+      "106.9 MHz",
+      "107.1 MHz",
+      "107.3 MHz",
+      "107.5 MHz",
+      "107.9 MHz",
+      "550   kHz",
+      "600   kHz",
+      "660   kHz",
+      "710   kHz",
+      "740   kHz",
+      "790   kHz",
+      "890   kHz",
+      "910   kHz",
+      "970   kHz",
+      "1080  kHz",
+      "1090  kHz",
+      "1130  kHz",
+      "1200  kHz",
+      "1220  kHz",
+      "1230  kHz",
+      "1240  kHz",
+      "1270  kHz",
+      "1310  kHz",
+      "1340  kHz",
+      "1370  kHz",
+      "1390  kHz",
+      "1400  kHz",
+      "1410  kHz",
+      "1440  kHz",
+      "1450  kHz",
+      "1460  kHz",
+      "1470  kHz",
+      "1490  kHz",
+      "1520  kHz",
+      "1600  kHz",
+      "1660  kHz"
+    ],
+    "owners": [
+      "ALLIANCE FOR THE ARTS AND HUMANITIES",
+      "AMERICAN CHRISTIAN RADIO, INC.",
+      "AMERICAN FAMILY ASSOCIATION",
+      "BAKKEN BEACON MEDIA LLC",
+      "BAKKEN BEACON MEDIA, LLC",
+      "BIBLE BROADCASTING NETWORK, INC.",
+      "BISMARCK ADVENTIST EDUCATION STATION",
+      "BISMARCK EDUCATIONAL PRAYER ASSOCIATION",
+      "CALVARY CHAPEL MINOT",
+      "CENTRAL DAKOTA ENTERPRISES, INC.",
+      "CHESTERMAN COMMUNICATIONS JAMESTOWN, INC.",
+      "CHESTERMAN COMMUNICATIONS OF JAMESTOWN, INC.",
+      "CSN INTERNATIONAL",
+      "DAKOTA HEALING JOURNEY, INC.",
+      "DAKOTA MEDIA ACCESS",
+      "DAVID L. JUST",
+      "DIGITAL SYNDICATE NETWORK, LLC",
+      "DIGITAL SYNDICATE NETWORK, LLC D/B/A DSN RADIO, LLC",
+      "DOUBLE Z BROADCASTING, INC.",
+      "EDUCATIONAL MEDIA FOUNDATION",
+      "FARGO BAPTIST CHURCH",
+      "FORT BERTHOLD COMMUNICATIONS ENTERPRISES",
+      "GLASSWORKS BROADCASTING, LLC",
+      "GOLDEN VALLEY BROADCASTING.INC.",
+      "GOPHER COMMUNICATIONS COMPANY",
+      "GRAND FORKS BIBLE STUDY GROUP",
+      "GRAND FORKS CHRISTIAN BROADCASTING",
+      "HE WILL PROVIDE RADIO",
+      "HI-LINE RADIO FELLOWSHIP, INC.",
+      "HIGHER PLAIN MEDIA",
+      "HOPE AND TRUTH RADIO",
+      "I3G MEDIA, INC.",
+      "IHM LICENSES, LLC",
+      "IN HIS PRESENCE MINISTRIES",
+      "JAK COMMUNICATIONS, LIMITED LIABILITY COMPANY",
+      "K-LOVE, INC.",
+      "KEYA, INC.",
+      "KMSR, INC.",
+      "KNDK, INC.",
+      "LEIGHTON ENTERPRISES, INC.",
+      "MIDWEST COMMUNICATIONS, INC.",
+      "MINOT STATE UNIVERSITY",
+      "NEW SONG COMMUNITY CHURCH",
+      "NORTH DAKOTA STATE UNIVERSITY",
+      "P&A MEDIA LLC",
+      "POINTE OF VIEW INSTITUTE",
+      "PRAIRIE PUBLIC BROADCASTING, INC.",
+      "PRAIRIE WEST DEVELOPMENT FOUNDATION, INC,",
+      "PROGRAMMERS BROADCASTING, INC.",
+      "RADD MEDIA, LLC",
+      "RADIO 74 INTERNATIONALE",
+      "RADIO BISMARCK MANDAN, LLC",
+      "RADIO FARGO-MOORHEAD, INC.",
+      "RADIO WAHPETON BRECKENRIDGE, LLC",
+      "RADIODIFFERENTLY, LLC",
+      "REAL PRESENCE RADIO",
+      "RUGBY BROADCASTERS, INC.",
+      "RUGBY BROADCASTERS, INCORPORATED",
+      "SHINE THE LIGHT, INC.",
+      "SIDESTREAM MEDIA, LLC",
+      "SIMMONS BROADCASTING, INC.",
+      "STARRDAK, INC.",
+      "THE PEOPLES PRESS PROJECT",
+      "THE PRAIRIE CENTER BROADCASTING",
+      "THREE WAY BROADCASTING",
+      "THREE WAY BROADCASTING, INC.",
+      "TOWNSQUARE LICENSE, LLC",
+      "TRUE LIGHT BROADCASTING, INC.",
+      "TWO HEARTS RADIO",
+      "UNIVERSITY OF NORTHWESTERN - ST. PAUL",
+      "UNIVERSITY OF NORTHWESTERN-ST. PAUL",
+      "VALLEY BROADCASTING, LLC",
+      "VISION MEDIA INCORPORATED"
+    ],
+    "services": [
+      "AM",
+      "FL",
+      "FM",
+      "FS",
+      "FX"
+    ]
+  }
+}

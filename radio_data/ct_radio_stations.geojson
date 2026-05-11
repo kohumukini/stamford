@@ -1,0 +1,5248 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.657583,
+          41.553417
+        ]
+      },
+      "properties": {
+        "id": "71537",
+        "call_sign": "WESU",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "WESLEYAN",
+        "city": "MIDDLETOWN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.253167,
+          41.318972
+        ]
+      },
+      "properties": {
+        "id": "43531",
+        "call_sign": "WMNR",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "TOWN OF MONROE, CONNECTICUT",
+        "city": "MONROE",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.253167,
+          41.318972
+        ]
+      },
+      "properties": {
+        "id": "43531",
+        "call_sign": "WMNR",
+        "frequency": "88.1  MHz",
+        "service": "FS",
+        "owner": "TOWN OF MONROE, CONNECTICUT",
+        "city": "MONROE",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.274444,
+          41.341639
+        ]
+      },
+      "properties": {
+        "id": "43531",
+        "call_sign": "WMNR",
+        "frequency": "88.1  MHz",
+        "service": "FS",
+        "owner": "TOWN OF MONROE, CONNECTICUT",
+        "city": "MONROE",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4865,
+          41.68175
+        ]
+      },
+      "properties": {
+        "id": "768354",
+        "call_sign": "WDSK",
+        "frequency": "88.3  MHz",
+        "service": "FM",
+        "owner": "FINE ARTS RADIO, INC.",
+        "city": "SOUTH KENT",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.259278,
+          41.158972
+        ]
+      },
+      "properties": {
+        "id": "20456",
+        "call_sign": "WVOF",
+        "frequency": "88.5  MHz",
+        "service": "FM",
+        "owner": "FAIRFIELD UNIVERSITY",
+        "city": "FAIRFIELD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.526222,
+          41.047028
+        ]
+      },
+      "properties": {
+        "id": "13619",
+        "call_sign": "WEDW-FM",
+        "frequency": "88.5  MHz",
+        "service": "FM",
+        "owner": "CONNECTICUT PUBLIC BROADCASTING, INC",
+        "city": "STAMFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.960639,
+          41.291472
+        ]
+      },
+      "properties": {
+        "id": "69070",
+        "call_sign": "WNHU",
+        "frequency": "88.7  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF NEW HAVEN",
+        "city": "WEST HAVEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.832056,
+          41.703722
+        ]
+      },
+      "properties": {
+        "id": "62175",
+        "call_sign": "WJMJ",
+        "frequency": "88.9  MHz",
+        "service": "FM",
+        "owner": "ST. THOMAS SEMINARY",
+        "city": "HARTFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.993972,
+          41.752583
+        ]
+      },
+      "properties": {
+        "id": "62175",
+        "call_sign": "WJMJ",
+        "frequency": "88.9  MHz",
+        "service": "FS",
+        "owner": "ST. THOMAS SEMINARY",
+        "city": "HARTFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.167278,
+          41.519806
+        ]
+      },
+      "properties": {
+        "id": "13618",
+        "call_sign": "WPKT",
+        "frequency": "89.1  MHz",
+        "service": "FM",
+        "owner": "CONNECTICUT PUBLIC BROADCASTING, INC.",
+        "city": "NORWICH",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.972417,
+          41.349667
+        ]
+      },
+      "properties": {
+        "id": "123260",
+        "call_sign": "W206BW",
+        "frequency": "89.1  MHz",
+        "service": "FX",
+        "owner": "CONNECTICUT PUBLIC BROADCASTING, INC.",
+        "city": "WESTVILLE",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.690917,
+          41.75175
+        ]
+      },
+      "properties": {
+        "id": "68255",
+        "call_sign": "WRTC-FM",
+        "frequency": "89.3  MHz",
+        "service": "FM",
+        "owner": "TRUSTEES OF TRINITY COLLEGE",
+        "city": "HARTFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.203583,
+          41.994417
+        ]
+      },
+      "properties": {
+        "id": "92857",
+        "call_sign": "WSGG",
+        "frequency": "89.3  MHz",
+        "service": "FM",
+        "owner": "REVIVAL CHRISTIAN MINISTRIES, INC.",
+        "city": "NORFOLK",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.185111,
+          41.278972
+        ]
+      },
+      "properties": {
+        "id": "73886",
+        "call_sign": "WPKN",
+        "frequency": "89.5  MHz",
+        "service": "FM",
+        "owner": "WPKN, INC.",
+        "city": "BRIDGEPORT",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.463694,
+          41.962028
+        ]
+      },
+      "properties": {
+        "id": "71340",
+        "call_sign": "WDJW",
+        "frequency": "89.7  MHz",
+        "service": "FM",
+        "owner": "WDJW-SOMERS HIGH SCHOOL",
+        "city": "SOMERS",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.694528,
+          41.796472
+        ]
+      },
+      "properties": {
+        "id": "26311",
+        "call_sign": "WQTQ",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "HARTFORD BOARD OF EDUCATION",
+        "city": "HARTFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.163389,
+          41.802611
+        ]
+      },
+      "properties": {
+        "id": "66472",
+        "call_sign": "WAPJ",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "TORRINGTON COMMUNITY RADIO FOUNDATION, INC.",
+        "city": "TORRINGTON",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.112889,
+          41.362028
+        ]
+      },
+      "properties": {
+        "id": "43530",
+        "call_sign": "WRXC",
+        "frequency": "90.1  MHz",
+        "service": "FM",
+        "owner": "TOWN OF MONROE, CONNECTICUT",
+        "city": "SHELTON",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4865,
+          41.68175
+        ]
+      },
+      "properties": {
+        "id": "61119",
+        "call_sign": "WGSK",
+        "frequency": "90.1  MHz",
+        "service": "FM",
+        "owner": "TOWN OF MONROE, CONNECTICUT",
+        "city": "SOUTH KENT",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4865,
+          41.68175
+        ]
+      },
+      "properties": {
+        "id": "61119",
+        "call_sign": "WGSK",
+        "frequency": "90.1  MHz",
+        "service": "FM",
+        "owner": "TOWN OF MONROE, CONNECTICUT",
+        "city": "SOUTH KENT",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4865,
+          41.68175
+        ]
+      },
+      "properties": {
+        "id": "61119",
+        "call_sign": "WGSK",
+        "frequency": "90.1  MHz",
+        "service": "FS",
+        "owner": "TOWN OF MONROE, CONNECTICUT",
+        "city": "SOUTH KENT",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.526111,
+          41.046944
+        ]
+      },
+      "properties": {
+        "id": "58518",
+        "call_sign": "W211AI",
+        "frequency": "90.1  MHz",
+        "service": "FX",
+        "owner": "SACRED HEART UNIVERSITY, INC.",
+        "city": "STAMFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.216472,
+          41.683444
+        ]
+      },
+      "properties": {
+        "id": "18298",
+        "call_sign": "WECS",
+        "frequency": "90.1  MHz",
+        "service": "FM",
+        "owner": "EASTERN CONNECTICUT STATE UNIVERSITY",
+        "city": "WILLIMANTIC",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.328167,
+          41.172028
+        ]
+      },
+      "properties": {
+        "id": "72035",
+        "call_sign": "WWPT",
+        "frequency": "90.3  MHz",
+        "service": "FM",
+        "owner": "WESTPORT CT. BOARD OF EDUCATION",
+        "city": "WESTPORT",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.84425,
+          41.56175
+        ]
+      },
+      "properties": {
+        "id": "13627",
+        "call_sign": "WNPR",
+        "frequency": "90.5  MHz",
+        "service": "FM",
+        "owner": "CONNECTICUT PUBLIC BROADCASTING, INC.",
+        "city": "MERIDEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.441194,
+          41.802556
+        ]
+      },
+      "properties": {
+        "id": "767765",
+        "call_sign": "WKGG",
+        "frequency": "90.9  MHz",
+        "service": "FM",
+        "owner": "REVIVAL CHRISTIAN MINISTRIES, INC.",
+        "city": "BOLTON",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.107306,
+          41.3815
+        ]
+      },
+      "properties": {
+        "id": "13621",
+        "call_sign": "WCNI",
+        "frequency": "90.9  MHz",
+        "service": "FM",
+        "owner": "CONNECTICUT COLLEGE COMMUNITY RADIO, INC.",
+        "city": "NEW LONDON",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.107278,
+          41.381472
+        ]
+      },
+      "properties": {
+        "id": "13621",
+        "call_sign": "WCNI",
+        "frequency": "90.9  MHz",
+        "service": "FM",
+        "owner": "CONNECTICUT COLLEGE COMMUNITY RADIO, INC.",
+        "city": "NEW LONDON",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.185111,
+          41.278972
+        ]
+      },
+      "properties": {
+        "id": "58515",
+        "call_sign": "WSHU-FM",
+        "frequency": "91.1  MHz",
+        "service": "FM",
+        "owner": "SACRED HEART UNIVERSITY, INC.",
+        "city": "FAIRFIELD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.805083,
+          41.77425
+        ]
+      },
+      "properties": {
+        "id": "68986",
+        "call_sign": "WWUH",
+        "frequency": "91.3  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF HARTFORD",
+        "city": "WEST HARTFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.658278,
+          41.288611
+        ]
+      },
+      "properties": {
+        "id": "43527",
+        "call_sign": "WGRS",
+        "frequency": "91.5  MHz",
+        "service": "FM",
+        "owner": "TOWN OF MONROE, CONNECTICUT",
+        "city": "GUILFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.658278,
+          41.288611
+        ]
+      },
+      "properties": {
+        "id": "43527",
+        "call_sign": "WGRS",
+        "frequency": "91.5  MHz",
+        "service": "FS",
+        "owner": "TOWN OF MONROE, CONNECTICUT",
+        "city": "GUILFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.354,
+          41.736472
+        ]
+      },
+      "properties": {
+        "id": "77590",
+        "call_sign": "W218AV",
+        "frequency": "91.5  MHz",
+        "service": "FX",
+        "owner": "TOWN OF MONROE, CONNECTICUT",
+        "city": "WARREN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.486778,
+          41.395083
+        ]
+      },
+      "properties": {
+        "id": "71786",
+        "call_sign": "WXCI",
+        "frequency": "91.7  MHz",
+        "service": "FM",
+        "owner": "WESTERN CONNECTICUT STATE UNIVERSITY",
+        "city": "DANBURY",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.259528,
+          41.814
+        ]
+      },
+      "properties": {
+        "id": "65451",
+        "call_sign": "WHUS",
+        "frequency": "91.7  MHz",
+        "service": "FM",
+        "owner": "THE BOARD OF TRUSTEES, THE UNIVERSITY OF CONNECTICUT",
+        "city": "STORRS",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.250944,
+          41.148139
+        ]
+      },
+      "properties": {
+        "id": "43526",
+        "call_sign": "W220AC",
+        "frequency": "91.9  MHz",
+        "service": "FX",
+        "owner": "TOWN OF MONROE, CONNECTICUT",
+        "city": "FAIRFIELD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.128972,
+          41.275917
+        ]
+      },
+      "properties": {
+        "id": "90445",
+        "call_sign": "W220CF",
+        "frequency": "91.9  MHz",
+        "service": "FX",
+        "owner": "TOWN OF MONROE, CONNECTICUT",
+        "city": "HUNTINGTON",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.746278,
+          41.513778
+        ]
+      },
+      "properties": {
+        "id": "90254",
+        "call_sign": "W220CE",
+        "frequency": "91.9  MHz",
+        "service": "FX",
+        "owner": "TOWN OF MONROE, CONNECTICUT",
+        "city": "MIDDLEFIELD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.495667,
+          41.192306
+        ]
+      },
+      "properties": {
+        "id": "62148",
+        "call_sign": "WSLX",
+        "frequency": "91.9  MHz",
+        "service": "FM",
+        "owner": "ST. LUKE'S FOUNDATION, INC.",
+        "city": "NEW CANAAN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.454,
+          41.892306
+        ]
+      },
+      "properties": {
+        "id": "173310",
+        "call_sign": "WHDD-FM",
+        "frequency": "91.9  MHz",
+        "service": "FM",
+        "owner": "TRI-STATE PUBLIC COMMUNICATIONS, INC.",
+        "city": "SHARON",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.79675,
+          41.796778
+        ]
+      },
+      "properties": {
+        "id": "90480",
+        "call_sign": "W220CH",
+        "frequency": "91.9  MHz",
+        "service": "FX",
+        "owner": "TOWN OF MONROE, CONNECTICUT",
+        "city": "WEST HARTFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.042583,
+          41.495917
+        ]
+      },
+      "properties": {
+        "id": "15397",
+        "call_sign": "W221CQ",
+        "frequency": "92.1  MHz",
+        "service": "FX",
+        "owner": "DANBURY COMMUNITY RADIO, INC.",
+        "city": "NAUGATUCK, ETC.",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.844528,
+          41.563139
+        ]
+      },
+      "properties": {
+        "id": "74205",
+        "call_sign": "WWYZ",
+        "frequency": "92.5  MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "WATERBURY",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.844556,
+          41.563167
+        ]
+      },
+      "properties": {
+        "id": "74205",
+        "call_sign": "WWYZ",
+        "frequency": "92.5  MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "WATERBURY",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.098583,
+          41.350833
+        ]
+      },
+      "properties": {
+        "id": "194354",
+        "call_sign": "WDUP-LP",
+        "frequency": "92.9  MHz",
+        "service": "FL",
+        "owner": "HP-NL COMMUNICATIONS, INC.",
+        "city": "NEW LONDON",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.945333,
+          41.433806
+        ]
+      },
+      "properties": {
+        "id": "58602",
+        "call_sign": "W226AG",
+        "frequency": "93.1  MHz",
+        "service": "FX",
+        "owner": "ST. THOMAS SEMINARY",
+        "city": "HAMDEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.422889,
+          41.395639
+        ]
+      },
+      "properties": {
+        "id": "15393",
+        "call_sign": "WFAR",
+        "frequency": "93.3  MHz",
+        "service": "FM",
+        "owner": "DANBURY COMMUNITY RADIO, INC.",
+        "city": "DANBURY",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.711472,
+          41.419528
+        ]
+      },
+      "properties": {
+        "id": "58517",
+        "call_sign": "W227AJ",
+        "frequency": "93.3  MHz",
+        "service": "FX",
+        "owner": "SACRED HEART UNIVERSITY, INC.",
+        "city": "NORTHFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.844556,
+          41.562333
+        ]
+      },
+      "properties": {
+        "id": "1900",
+        "call_sign": "WZMX",
+        "frequency": "93.7  MHz",
+        "service": "FM",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "HARTFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.832056,
+          41.703722
+        ]
+      },
+      "properties": {
+        "id": "1900",
+        "call_sign": "WZMX",
+        "frequency": "93.7  MHz",
+        "service": "FS",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "HARTFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.804972,
+          41.774167
+        ]
+      },
+      "properties": {
+        "id": "1900",
+        "call_sign": "WZMX",
+        "frequency": "93.7  MHz",
+        "service": "FS",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "HARTFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.844556,
+          41.562333
+        ]
+      },
+      "properties": {
+        "id": "1900",
+        "call_sign": "WZMX",
+        "frequency": "93.7  MHz",
+        "service": "FS",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "HARTFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.445944,
+          41.37425
+        ]
+      },
+      "properties": {
+        "id": "156264",
+        "call_sign": "W231DJ",
+        "frequency": "94.1  MHz",
+        "service": "FX",
+        "owner": "THE BERKSHIRE BROADCASTING CORPORATION",
+        "city": "DANBURY",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.796667,
+          41.796667
+        ]
+      },
+      "properties": {
+        "id": "139521",
+        "call_sign": "W231CZ",
+        "frequency": "94.1  MHz",
+        "service": "FX",
+        "owner": "K-LOVE, INC.",
+        "city": "HARTFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.972611,
+          41.349806
+        ]
+      },
+      "properties": {
+        "id": "74322",
+        "call_sign": "WYBC-FM",
+        "frequency": "94.3  MHz",
+        "service": "FM",
+        "owner": "YALE BROADCASTING COMPANY, INC.",
+        "city": "NEW HAVEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.972583,
+          41.34975
+        ]
+      },
+      "properties": {
+        "id": "74322",
+        "call_sign": "WYBC-FM",
+        "frequency": "94.3  MHz",
+        "service": "FS",
+        "owner": "YALE BROADCASTING COMPANY, INC.",
+        "city": "NEW HAVEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.753139,
+          41.62175
+        ]
+      },
+      "properties": {
+        "id": "4826",
+        "call_sign": "WERB",
+        "frequency": "94.5  MHz",
+        "service": "FM",
+        "owner": "BERLIN BOARD OF EDUCATION",
+        "city": "BERLIN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.445944,
+          41.37425
+        ]
+      },
+      "properties": {
+        "id": "156274",
+        "call_sign": "W233CF",
+        "frequency": "94.5  MHz",
+        "service": "FX",
+        "owner": "THE BERKSHIRE BROADCASTING CORPORATION",
+        "city": "DANBURY",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.076528,
+          41.552722
+        ]
+      },
+      "properties": {
+        "id": "202751",
+        "call_sign": "W233DB",
+        "frequency": "94.5  MHz",
+        "service": "FX",
+        "owner": "HALL COMMUNICATIONS, INC.",
+        "city": "NORWICH",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.610639,
+          42.10925
+        ]
+      },
+      "properties": {
+        "id": "36543",
+        "call_sign": "WMAS-FM",
+        "frequency": "94.7  MHz",
+        "service": "FM",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "ENFIELD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.397569,
+          41.309831
+        ]
+      },
+      "properties": {
+        "id": "83375",
+        "call_sign": "W234DS",
+        "frequency": "94.7  MHz",
+        "service": "FX",
+        "owner": "TOWN OF MONROE, CONNECTICUT",
+        "city": "OLD SAYBROOK",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.786611,
+          40.859722
+        ]
+      },
+      "properties": {
+        "id": "793365",
+        "call_sign": "WXBK-FM3",
+        "frequency": "94.7  MHz",
+        "service": "FB",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "STAMFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.428861,
+          41.493528
+        ]
+      },
+      "properties": {
+        "id": "15391",
+        "call_sign": "WRKI",
+        "frequency": "95.1  MHz",
+        "service": "FM",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "BROOKFIELD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.79675,
+          41.796778
+        ]
+      },
+      "properties": {
+        "id": "140073",
+        "call_sign": "W237EO",
+        "frequency": "95.3  MHz",
+        "service": "FX",
+        "owner": "BLOUNT MASSCOM, INC.",
+        "city": "BLOOMFIELD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.215361,
+          41.683444
+        ]
+      },
+      "properties": {
+        "id": "140714",
+        "call_sign": "W237EL",
+        "frequency": "95.3  MHz",
+        "service": "FX",
+        "owner": "HALL COMMUNICATIONS, INC.",
+        "city": "WILLIMANTIC",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.843722,
+          41.5615
+        ]
+      },
+      "properties": {
+        "id": "53384",
+        "call_sign": "WKSS",
+        "frequency": "95.7  MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "HARTFORD-MERIDEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.843694,
+          41.561472
+        ]
+      },
+      "properties": {
+        "id": "53384",
+        "call_sign": "WKSS",
+        "frequency": "95.7  MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "HARTFORD-MERIDEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.434556,
+          41.115667
+        ]
+      },
+      "properties": {
+        "id": "14379",
+        "call_sign": "WICC-FM",
+        "frequency": "95.9  MHz",
+        "service": "FS",
+        "owner": "CONNOISSEUR MEDIA LICENSES, LLC",
+        "city": "NORWALK",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.434556,
+          41.115667
+        ]
+      },
+      "properties": {
+        "id": "14379",
+        "call_sign": "WICC-FM",
+        "frequency": "95.9  MHz",
+        "service": "FM",
+        "owner": "CONNOISSEUR MEDIA LICENSES, LLC",
+        "city": "SOUTHPORT",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.423917,
+          41.395889
+        ]
+      },
+      "properties": {
+        "id": "143515",
+        "call_sign": "W241CA",
+        "frequency": "96.1  MHz",
+        "service": "FX",
+        "owner": "SACRED HEART UNIVERSITY, INC.",
+        "city": "DANBURY",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.843889,
+          41.562222
+        ]
+      },
+      "properties": {
+        "id": "140557",
+        "call_sign": "W241CG",
+        "frequency": "96.1  MHz",
+        "service": "FX",
+        "owner": "RED WOLF BROADCASTING CORPORATION",
+        "city": "SOUTHINGTON",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.805111,
+          41.774278
+        ]
+      },
+      "properties": {
+        "id": "66465",
+        "call_sign": "WTIC-FM",
+        "frequency": "96.5  MHz",
+        "service": "FM",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "HARTFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.805083,
+          41.77425
+        ]
+      },
+      "properties": {
+        "id": "66465",
+        "call_sign": "WTIC-FM",
+        "frequency": "96.5  MHz",
+        "service": "FS",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "HARTFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.832056,
+          41.703722
+        ]
+      },
+      "properties": {
+        "id": "66465",
+        "call_sign": "WTIC-FM",
+        "frequency": "96.5  MHz",
+        "service": "FS",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "HARTFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.804972,
+          41.774167
+        ]
+      },
+      "properties": {
+        "id": "66465",
+        "call_sign": "WTIC-FM",
+        "frequency": "96.5  MHz",
+        "service": "FS",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "HARTFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.766306,
+          41.669333
+        ]
+      },
+      "properties": {
+        "id": "193314",
+        "call_sign": "WPRF-LP",
+        "frequency": "96.9  MHz",
+        "service": "FL",
+        "owner": "LA NUEVA RADIO RESTAURACION 1620 AM INC",
+        "city": "NEW BRITAIN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.951361,
+          41.422833
+        ]
+      },
+      "properties": {
+        "id": "202570",
+        "call_sign": "W245DK",
+        "frequency": "96.9  MHz",
+        "service": "FX",
+        "owner": "IHM LICENSES, LLC",
+        "city": "NEW HAVEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.441194,
+          41.802889
+        ]
+      },
+      "properties": {
+        "id": "82412",
+        "call_sign": "W246CC",
+        "frequency": "97.1  MHz",
+        "service": "FX",
+        "owner": "RED WOLF BROADCASTING CORPORATION",
+        "city": "BOLTON",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.895083,
+          41.902611
+        ]
+      },
+      "properties": {
+        "id": "200386",
+        "call_sign": "W246DN",
+        "frequency": "97.1  MHz",
+        "service": "FX",
+        "owner": "OSBREY BROADCASTING COMPANY",
+        "city": "PUTNAM",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.163389,
+          41.802583
+        ]
+      },
+      "properties": {
+        "id": "37906",
+        "call_sign": "WZBG",
+        "frequency": "97.3  MHz",
+        "service": "FM",
+        "owner": "RED WOLF BROADCASTING CORPORATION",
+        "city": "LITCHFIELD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.388333,
+          41.3275
+        ]
+      },
+      "properties": {
+        "id": "202185",
+        "call_sign": "W247DE",
+        "frequency": "97.3  MHz",
+        "service": "FX",
+        "owner": "CROSSROADS COMMUNICATIONS OF OLD SAYBROOK, LLC",
+        "city": "OLD SAYBROOK",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.388333,
+          41.3275
+        ]
+      },
+      "properties": {
+        "id": "202185",
+        "call_sign": "W247DE",
+        "frequency": "97.3  MHz",
+        "service": "FX",
+        "owner": "CROSSROADS COMMUNICATIONS OF OLD SAYBROOK, LLC",
+        "city": "OLD SAYBROOK",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.534833,
+          41.713972
+        ]
+      },
+      "properties": {
+        "id": "201696",
+        "call_sign": "W248CZ",
+        "frequency": "97.5  MHz",
+        "service": "FX",
+        "owner": "TRI-STATE PUBLIC COMMUNICATIONS, INC.",
+        "city": "KENT",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.678139,
+          41.853417
+        ]
+      },
+      "properties": {
+        "id": "139032",
+        "call_sign": "W248CR",
+        "frequency": "97.5  MHz",
+        "service": "FX",
+        "owner": "CONDUIT COMMUNICATIONS, INC",
+        "city": "WINDSOR",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.103389,
+          41.474528
+        ]
+      },
+      "properties": {
+        "id": "72346",
+        "call_sign": "WCTY",
+        "frequency": "97.7  MHz",
+        "service": "FM",
+        "owner": "HALL COMMUNICATIONS, INC.",
+        "city": "NORWICH",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.103389,
+          41.474528
+        ]
+      },
+      "properties": {
+        "id": "72346",
+        "call_sign": "WCTY",
+        "frequency": "97.7  MHz",
+        "service": "FS",
+        "owner": "HALL COMMUNICATIONS, INC.",
+        "city": "NORWICH",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.162333,
+          41.840639
+        ]
+      },
+      "properties": {
+        "id": "147304",
+        "call_sign": "W249CW",
+        "frequency": "97.7  MHz",
+        "service": "FX",
+        "owner": "CONNECTICUT PUBLIC BROADCASTING, INC.",
+        "city": "TORRINGTON",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.844528,
+          41.563139
+        ]
+      },
+      "properties": {
+        "id": "203226",
+        "call_sign": "W249DY",
+        "frequency": "97.7  MHz",
+        "service": "FX",
+        "owner": "WATR RADIO, LLC",
+        "city": "WATERBURY",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.428722,
+          41.493417
+        ]
+      },
+      "properties": {
+        "id": "147329",
+        "call_sign": "W250CH",
+        "frequency": "97.9  MHz",
+        "service": "FX",
+        "owner": "THE BERKSHIRE BROADCASTING CORPORATION",
+        "city": "NEW MILFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.67675,
+          41.76675
+        ]
+      },
+      "properties": {
+        "id": "46965",
+        "call_sign": "WUCS",
+        "frequency": "97.9  MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "WINDSOR LOCKS",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.905806,
+          41.419694
+        ]
+      },
+      "properties": {
+        "id": "54311",
+        "call_sign": "WQAQ",
+        "frequency": "98.1  MHz",
+        "service": "FM",
+        "owner": "QUINNIPIAC UNIVERSITY",
+        "city": "HAMDEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.572333,
+          41.918972
+        ]
+      },
+      "properties": {
+        "id": "67776",
+        "call_sign": "WKZE-FM",
+        "frequency": "98.1  MHz",
+        "service": "FM",
+        "owner": "FM PILOT, LLC",
+        "city": "SALISBURY",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.445944,
+          41.37425
+        ]
+      },
+      "properties": {
+        "id": "4822",
+        "call_sign": "WDAQ",
+        "frequency": "98.3  MHz",
+        "service": "FM",
+        "owner": "THE BERKSHIRE BROADCASTING CORP.",
+        "city": "DANBURY",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.973139,
+          41.29675
+        ]
+      },
+      "properties": {
+        "id": "43528",
+        "call_sign": "W252AS",
+        "frequency": "98.3  MHz",
+        "service": "FX",
+        "owner": "TOWN OF MONROE, CONNECTICUT",
+        "city": "NEW HAVEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.976583,
+          41.297639
+        ]
+      },
+      "properties": {
+        "id": "43528",
+        "call_sign": "W252AS",
+        "frequency": "98.3  MHz",
+        "service": "FX",
+        "owner": "TOWN OF MONROE, CONNECTICUT",
+        "city": "NEW HAVEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.215361,
+          41.683444
+        ]
+      },
+      "properties": {
+        "id": "66179",
+        "call_sign": "WILI-FM",
+        "frequency": "98.3  MHz",
+        "service": "FM",
+        "owner": "HALL COMMUNICATIONS, INC.",
+        "city": "WILLIMANTIC",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.843889,
+          41.562222
+        ]
+      },
+      "properties": {
+        "id": "139930",
+        "call_sign": "W253BQ",
+        "frequency": "98.5  MHz",
+        "service": "FX",
+        "owner": "CO-CHANNEL COMMUNICATIONS LLC",
+        "city": "MERIDEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.663972,
+          41.843917
+        ]
+      },
+      "properties": {
+        "id": "192238",
+        "call_sign": "WGZO-LP",
+        "frequency": "98.7  MHz",
+        "service": "FL",
+        "owner": "CONNECTICUT VALLEY HISPANIC OUTREACH",
+        "city": "BLOOMFIELD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.069806,
+          41.385111
+        ]
+      },
+      "properties": {
+        "id": "25406",
+        "call_sign": "WNLC",
+        "frequency": "98.7  MHz",
+        "service": "FM",
+        "owner": "HALL COMMUNICATIONS, INC.",
+        "city": "EAST LYME",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.951222,
+          41.422861
+        ]
+      },
+      "properties": {
+        "id": "46968",
+        "call_sign": "WPLR",
+        "frequency": "99.1  MHz",
+        "service": "FM",
+        "owner": "CONNOISSEUR MEDIA LICENSES, LLC",
+        "city": "NEW HAVEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9515,
+          41.422861
+        ]
+      },
+      "properties": {
+        "id": "46968",
+        "call_sign": "WPLR",
+        "frequency": "99.1  MHz",
+        "service": "FS",
+        "owner": "CONNOISSEUR MEDIA LICENSES, LLC",
+        "city": "NEW HAVEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.951222,
+          41.423167
+        ]
+      },
+      "properties": {
+        "id": "46968",
+        "call_sign": "WPLR",
+        "frequency": "99.1  MHz",
+        "service": "FS",
+        "owner": "CONNOISSEUR MEDIA LICENSES, LLC",
+        "city": "NEW HAVEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.951222,
+          41.422861
+        ]
+      },
+      "properties": {
+        "id": "46968",
+        "call_sign": "WPLR",
+        "frequency": "99.1  MHz",
+        "service": "FS",
+        "owner": "CONNOISSEUR MEDIA LICENSES, LLC",
+        "city": "NEW HAVEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.017611,
+          41.569806
+        ]
+      },
+      "properties": {
+        "id": "139348",
+        "call_sign": "W258AL",
+        "frequency": "99.5  MHz",
+        "service": "FX",
+        "owner": "RED WOLF BROADCASTING CORPORATION",
+        "city": "CLINTON",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.523333,
+          41.655833
+        ]
+      },
+      "properties": {
+        "id": "778124",
+        "call_sign": "WRZS-LP",
+        "frequency": "99.5  MHz",
+        "service": "FL",
+        "owner": "TRUE LIFE MINISTRY",
+        "city": "HARTFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.104222,
+          41.475083
+        ]
+      },
+      "properties": {
+        "id": "156163",
+        "call_sign": "W258BI",
+        "frequency": "99.5  MHz",
+        "service": "FX",
+        "owner": "RED WOLF BROADCASTING CORPORATION",
+        "city": "NEW LONDON",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.259528,
+          41.814
+        ]
+      },
+      "properties": {
+        "id": "13611",
+        "call_sign": "W258AC",
+        "frequency": "99.5  MHz",
+        "service": "FX",
+        "owner": "CONNECTICUT PUBLIC BROADCASTING, INC",
+        "city": "STORRS",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.185111,
+          41.278972
+        ]
+      },
+      "properties": {
+        "id": "48721",
+        "call_sign": "WEZN-FM",
+        "frequency": "99.9  MHz",
+        "service": "FM",
+        "owner": "CONNOISSEUR MEDIA LICENSES, LLC",
+        "city": "BRIDGEPORT",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.185111,
+          41.278972
+        ]
+      },
+      "properties": {
+        "id": "48721",
+        "call_sign": "WEZN-FM",
+        "frequency": "99.9  MHz",
+        "service": "FS",
+        "owner": "CONNOISSEUR MEDIA LICENSES, LLC",
+        "city": "BRIDGEPORT",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.702861,
+          41.759361
+        ]
+      },
+      "properties": {
+        "id": "92957",
+        "call_sign": "W261BU",
+        "frequency": "100.1 MHz",
+        "service": "FX",
+        "owner": "REVIVAL CHRISTIAN MINISTRIES, INC.",
+        "city": "TALCOTTVILLE",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.832056,
+          41.703722
+        ]
+      },
+      "properties": {
+        "id": "1910",
+        "call_sign": "WRCH",
+        "frequency": "100.5 MHz",
+        "service": "FM",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "NEW BRITAIN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.832056,
+          41.703722
+        ]
+      },
+      "properties": {
+        "id": "1910",
+        "call_sign": "WRCH",
+        "frequency": "100.5 MHz",
+        "service": "FS",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "NEW BRITAIN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.832028,
+          41.703694
+        ]
+      },
+      "properties": {
+        "id": "1910",
+        "call_sign": "WRCH",
+        "frequency": "100.5 MHz",
+        "service": "FS",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "NEW BRITAIN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.804972,
+          41.774167
+        ]
+      },
+      "properties": {
+        "id": "1910",
+        "call_sign": "WRCH",
+        "frequency": "100.5 MHz",
+        "service": "FS",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "NEW BRITAIN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.67675,
+          41.76675
+        ]
+      },
+      "properties": {
+        "id": "140333",
+        "call_sign": "W265EB",
+        "frequency": "100.9 MHz",
+        "service": "FX",
+        "owner": "IHM LICENSES, LLC",
+        "city": "HARTFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.972417,
+          41.349667
+        ]
+      },
+      "properties": {
+        "id": "139897",
+        "call_sign": "W265DB",
+        "frequency": "100.9 MHz",
+        "service": "FX",
+        "owner": "IHM LICENSES, LLC",
+        "city": "MILBROOK",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.140889,
+          41.440917
+        ]
+      },
+      "properties": {
+        "id": "48547",
+        "call_sign": "WKNL",
+        "frequency": "100.9 MHz",
+        "service": "FM",
+        "owner": "HALL COMMUNICATIONS, INC.",
+        "city": "NEW LONDON",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.140889,
+          41.440917
+        ]
+      },
+      "properties": {
+        "id": "48547",
+        "call_sign": "WKNL",
+        "frequency": "100.9 MHz",
+        "service": "FS",
+        "owner": "HALL COMMUNICATIONS, INC.",
+        "city": "NEW LONDON",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.140889,
+          41.440917
+        ]
+      },
+      "properties": {
+        "id": "48547",
+        "call_sign": "WKNL",
+        "frequency": "100.9 MHz",
+        "service": "FS",
+        "owner": "HALL COMMUNICATIONS, INC.",
+        "city": "NEW LONDON",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.786611,
+          40.859722
+        ]
+      },
+      "properties": {
+        "id": "793368",
+        "call_sign": "WCBS-FM3",
+        "frequency": "101.1 MHz",
+        "service": "FB",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "STAMFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.945389,
+          41.433694
+        ]
+      },
+      "properties": {
+        "id": "11930",
+        "call_sign": "WKCI-FM",
+        "frequency": "101.3 MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "HAMDEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.945389,
+          41.433694
+        ]
+      },
+      "properties": {
+        "id": "11930",
+        "call_sign": "WKCI-FM",
+        "frequency": "101.3 MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "HAMDEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.951222,
+          41.422861
+        ]
+      },
+      "properties": {
+        "id": "11930",
+        "call_sign": "WKCI-FM",
+        "frequency": "101.3 MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "HAMDEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.128306,
+          41.645806
+        ]
+      },
+      "properties": {
+        "id": "155793",
+        "call_sign": "W269ED",
+        "frequency": "101.7 MHz",
+        "service": "FX",
+        "owner": "RED WOLF BROADCASTING",
+        "city": "MONTVILLE",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.809833,
+          41.716222
+        ]
+      },
+      "properties": {
+        "id": "143539",
+        "call_sign": "W269DE",
+        "frequency": "101.7 MHz",
+        "service": "FX",
+        "owner": "RELEVANT RADIO, INC.",
+        "city": "NEW BRITAIN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.972611,
+          41.349806
+        ]
+      },
+      "properties": {
+        "id": "139339",
+        "call_sign": "W270DL",
+        "frequency": "101.9 MHz",
+        "service": "FX",
+        "owner": "K. W. DOLMAR BROADCASTING CO. INC.",
+        "city": "MILFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.11425,
+          41.353083
+        ]
+      },
+      "properties": {
+        "id": "79107",
+        "call_sign": "W270DZ",
+        "frequency": "101.9 MHz",
+        "service": "FX",
+        "owner": "TOWN OF MONROE, CONNECTICUT",
+        "city": "NEW LONDON",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.185111,
+          41.278972
+        ]
+      },
+      "properties": {
+        "id": "156144",
+        "call_sign": "W273EB",
+        "frequency": "102.1 MHz",
+        "service": "FX",
+        "owner": "SUN SIGNALS LLC",
+        "city": "BRIDGEPORT",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.972333,
+          41.349528
+        ]
+      },
+      "properties": {
+        "id": "138034",
+        "call_sign": "W272DO",
+        "frequency": "102.3 MHz",
+        "service": "FX",
+        "owner": "RED WOLF BROADCASTING CORPORATION",
+        "city": "NEW HAVEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.837,
+          41.406472
+        ]
+      },
+      "properties": {
+        "id": "60251",
+        "call_sign": "WMOS",
+        "frequency": "102.3 MHz",
+        "service": "FM",
+        "owner": "RADIO LICENSE HOLDING CBC, LLC",
+        "city": "STONINGTON",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.831944,
+          41.703611
+        ]
+      },
+      "properties": {
+        "id": "202641",
+        "call_sign": "W273DS",
+        "frequency": "102.5 MHz",
+        "service": "FX",
+        "owner": "RED WOLF BROADCASTING CORPORATION",
+        "city": "MERIDEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.453167,
+          41.241472
+        ]
+      },
+      "properties": {
+        "id": "156144",
+        "call_sign": "W273EB",
+        "frequency": "102.5 MHz",
+        "service": "FX",
+        "owner": "SUN SIGNALS LLC",
+        "city": "WESTPORT",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.844,
+          41.562333
+        ]
+      },
+      "properties": {
+        "id": "7718",
+        "call_sign": "WDRC-FM",
+        "frequency": "102.9 MHz",
+        "service": "FM",
+        "owner": "RED WOLF BROADCASTING CORPORATION",
+        "city": "HARTFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.844,
+          41.562333
+        ]
+      },
+      "properties": {
+        "id": "7718",
+        "call_sign": "WDRC-FM",
+        "frequency": "102.9 MHz",
+        "service": "FS",
+        "owner": "RED WOLF BROADCASTING CORPORATION",
+        "city": "HARTFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.844,
+          41.562333
+        ]
+      },
+      "properties": {
+        "id": "7718",
+        "call_sign": "WDRC-FM",
+        "frequency": "102.9 MHz",
+        "service": "FS",
+        "owner": "RED WOLF BROADCASTING CORPORATION",
+        "city": "HARTFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.668167,
+          41.05175
+        ]
+      },
+      "properties": {
+        "id": "158099",
+        "call_sign": "W276BV",
+        "frequency": "103.1 MHz",
+        "service": "FX",
+        "owner": "SUN SIGNALS LLC",
+        "city": "GREENWICH",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.526111,
+          41.046944
+        ]
+      },
+      "properties": {
+        "id": "200235",
+        "call_sign": "W276DY",
+        "frequency": "103.1 MHz",
+        "service": "FX",
+        "owner": "SACRED HEART UNIVERSITY, INCORPORATED",
+        "city": "STAMFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.217056,
+          41.166194
+        ]
+      },
+      "properties": {
+        "id": "200726",
+        "call_sign": "W277DP",
+        "frequency": "103.3 MHz",
+        "service": "FX",
+        "owner": "TRIGNITION MEDIA, LLC",
+        "city": "BRIDGEPORT",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.67675,
+          41.766778
+        ]
+      },
+      "properties": {
+        "id": "202640",
+        "call_sign": "W277DT",
+        "frequency": "103.3 MHz",
+        "service": "FX",
+        "owner": "RED WOLF BROADCASTING CORPORATION",
+        "city": "HARTFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.572333,
+          41.918972
+        ]
+      },
+      "properties": {
+        "id": "54785",
+        "call_sign": "WQQQ",
+        "frequency": "103.3 MHz",
+        "service": "FM",
+        "owner": "WAMC",
+        "city": "SHARON",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.04,
+          41.455833
+        ]
+      },
+      "properties": {
+        "id": "788112",
+        "call_sign": "NEW",
+        "frequency": "103.3 MHz",
+        "service": "FL",
+        "owner": "LATINO OUTREACH OF CONNECTICUT, INC.",
+        "city": "WATERBURY",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.896917,
+          41.327306
+        ]
+      },
+      "properties": {
+        "id": "196790",
+        "call_sign": "WONH-LP",
+        "frequency": "103.5 MHz",
+        "service": "FL",
+        "owner": "PEQUENAS LIGAS HISPANAS DE NEW HAVEN INC",
+        "city": "NEW HAVEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.913417,
+          41.342028
+        ]
+      },
+      "properties": {
+        "id": "194974",
+        "call_sign": "WNHH-LP",
+        "frequency": "103.5 MHz",
+        "service": "FL",
+        "owner": "ONLINE JOURNALISM PROJECT, INC.",
+        "city": "NEW HAVEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.821194,
+          41.903139
+        ]
+      },
+      "properties": {
+        "id": "193144",
+        "call_sign": "WSIM-LP",
+        "frequency": "103.5 MHz",
+        "service": "FL",
+        "owner": "SIMSBURY FIRE DISTRICT",
+        "city": "SIMSBURY",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.445944,
+          41.37425
+        ]
+      },
+      "properties": {
+        "id": "153813",
+        "call_sign": "W279CI",
+        "frequency": "103.7 MHz",
+        "service": "FX",
+        "owner": "CONNECTICUT PUBLIC BROADCASTING INC.",
+        "city": "DANBURY",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.74625,
+          41.513722
+        ]
+      },
+      "properties": {
+        "id": "201173",
+        "call_sign": "W279EK",
+        "frequency": "103.7 MHz",
+        "service": "FX",
+        "owner": "CROSSROADS COMMUNICATIONS, LLC",
+        "city": "MIDDLETOWN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.434278,
+          41.115167
+        ]
+      },
+      "properties": {
+        "id": "202426",
+        "call_sign": "W280FX",
+        "frequency": "103.9 MHz",
+        "service": "FX",
+        "owner": "VERITAS CATHOLIC NETWORK, INC.",
+        "city": "NORWALK",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.844278,
+          41.561778
+        ]
+      },
+      "properties": {
+        "id": "74279",
+        "call_sign": "WMRQ-FM",
+        "frequency": "104.1 MHz",
+        "service": "FM",
+        "owner": "RED WOLF BROADCASTING CORPORATION",
+        "city": "WATERBURY",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.201222,
+          41.219528
+        ]
+      },
+      "properties": {
+        "id": "15398",
+        "call_sign": "W283BS",
+        "frequency": "104.5 MHz",
+        "service": "FX",
+        "owner": "RED WOLF BROADCASTING CORPORATION",
+        "city": "BRIDGEPORT",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.104222,
+          41.475083
+        ]
+      },
+      "properties": {
+        "id": "147684",
+        "call_sign": "W283BW",
+        "frequency": "104.5 MHz",
+        "service": "FX",
+        "owner": "CO-CHANNEL COMMUNICATIONS LLC",
+        "city": "NEW LONDON",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.051944,
+          41.758611
+        ]
+      },
+      "properties": {
+        "id": "202639",
+        "call_sign": "W283DO",
+        "frequency": "104.5 MHz",
+        "service": "FX",
+        "owner": "RED WOLF BROADCASTING CORPORATION",
+        "city": "TORRINGTON",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.658417,
+          41.505083
+        ]
+      },
+      "properties": {
+        "id": "13634",
+        "call_sign": "WIHS",
+        "frequency": "104.9 MHz",
+        "service": "FM",
+        "owner": "CONNECTICUT RADIO FELLOWSHIP, INC.",
+        "city": "MIDDLETOWN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.112889,
+          41.362028
+        ]
+      },
+      "properties": {
+        "id": "156042",
+        "call_sign": "W286CL",
+        "frequency": "105.1 MHz",
+        "service": "FX",
+        "owner": "TOWN OF MONROE, CONNECTICUT",
+        "city": "SHELTON",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.121194,
+          41.801194
+        ]
+      },
+      "properties": {
+        "id": "158594",
+        "call_sign": "W286AP",
+        "frequency": "105.1 MHz",
+        "service": "FX",
+        "owner": "TORRINGTON COMMUNITY RADIO FOUNDATION, INC.",
+        "city": "TORRINGTON",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.557028,
+          41.776222
+        ]
+      },
+      "properties": {
+        "id": "138539",
+        "call_sign": "W287CS",
+        "frequency": "105.3 MHz",
+        "service": "FX",
+        "owner": "GOIS BROADCASTING OF CONNECTICUT, LLC",
+        "city": "MANCHESTER",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.250944,
+          41.148139
+        ]
+      },
+      "properties": {
+        "id": "156169",
+        "call_sign": "W287AZ",
+        "frequency": "105.3 MHz",
+        "service": "FX",
+        "owner": "TOWN OF MONROE, CONNECTICUT",
+        "city": "SOUTHPORT",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.993417,
+          41.67925
+        ]
+      },
+      "properties": {
+        "id": "196980",
+        "call_sign": "WJYC-LP",
+        "frequency": "105.3 MHz",
+        "service": "FL",
+        "owner": "RIVERSIDE BAPTIST CHURCH",
+        "city": "TERRYVILLE",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.446222,
+          41.405083
+        ]
+      },
+      "properties": {
+        "id": "128387",
+        "call_sign": "WDBY-FM1",
+        "frequency": "105.5 MHz",
+        "service": "FB",
+        "owner": "TOWNSQUARE LICENSE, LLC",
+        "city": "BROOKFIELD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.069806,
+          41.384833
+        ]
+      },
+      "properties": {
+        "id": "10455",
+        "call_sign": "WQGN-FM",
+        "frequency": "105.5 MHz",
+        "service": "FM",
+        "owner": "RADIO LICENSE HOLDING CBC, LLC",
+        "city": "GROTON",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.972583,
+          41.34975
+        ]
+      },
+      "properties": {
+        "id": "201538",
+        "call_sign": "W288DV",
+        "frequency": "105.5 MHz",
+        "service": "FX",
+        "owner": "YALE BROADCASTING COMPANY, INC.",
+        "city": "NEW HAVEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.434278,
+          41.115167
+        ]
+      },
+      "properties": {
+        "id": "24109",
+        "call_sign": "W288DL",
+        "frequency": "105.5 MHz",
+        "service": "FX",
+        "owner": "SUN SIGNALS LLC",
+        "city": "STAMFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.844556,
+          41.563167
+        ]
+      },
+      "properties": {
+        "id": "72144",
+        "call_sign": "WHCN",
+        "frequency": "105.9 MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "HARTFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.844528,
+          41.563139
+        ]
+      },
+      "properties": {
+        "id": "72144",
+        "call_sign": "WHCN",
+        "frequency": "105.9 MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "HARTFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.018694,
+          41.517861
+        ]
+      },
+      "properties": {
+        "id": "200742",
+        "call_sign": "W292FI",
+        "frequency": "106.3 MHz",
+        "service": "FX",
+        "owner": "TRIGNITION MEDIA, LLC",
+        "city": "WATERBURY",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.053333,
+          41.391528
+        ]
+      },
+      "properties": {
+        "id": "143438",
+        "call_sign": "W293AU",
+        "frequency": "106.5 MHz",
+        "service": "FX",
+        "owner": "SACRED HEART UNIVERSITY, INC.",
+        "city": "DERBY",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.023694,
+          41.462056
+        ]
+      },
+      "properties": {
+        "id": "55404",
+        "call_sign": "WBMW",
+        "frequency": "106.5 MHz",
+        "service": "FS",
+        "owner": "RED WOLF BROADCASTING CORPORATION",
+        "city": "LEDYARD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.00175,
+          41.434278
+        ]
+      },
+      "properties": {
+        "id": "55404",
+        "call_sign": "WBMW",
+        "frequency": "106.5 MHz",
+        "service": "FM",
+        "owner": "RED WOLF BROADCASTING CORPORATION",
+        "city": "PAWCATUCK",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.797333,
+          41.796778
+        ]
+      },
+      "properties": {
+        "id": "25072",
+        "call_sign": "WCCC",
+        "frequency": "106.9 MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "HARTFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.79675,
+          41.796778
+        ]
+      },
+      "properties": {
+        "id": "25072",
+        "call_sign": "WCCC",
+        "frequency": "106.9 MHz",
+        "service": "FS",
+        "owner": "K-LOVE, INC.",
+        "city": "HARTFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.928694,
+          41.303417
+        ]
+      },
+      "properties": {
+        "id": "62174",
+        "call_sign": "W296AO",
+        "frequency": "107.1 MHz",
+        "service": "FX",
+        "owner": "ST. THOMAS SEMINARY",
+        "city": "NEW HAVEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.164722,
+          41.160833
+        ]
+      },
+      "properties": {
+        "id": "202762",
+        "call_sign": "W297CP",
+        "frequency": "107.3 MHz",
+        "service": "FX",
+        "owner": "CONNOISSEUR MEDIA LICENSES, LLC",
+        "city": "BRIDGEPORT",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.445944,
+          41.37425
+        ]
+      },
+      "properties": {
+        "id": "156167",
+        "call_sign": "W297AN",
+        "frequency": "107.3 MHz",
+        "service": "FX",
+        "owner": "THE BERKSHIRE BROADCASTING CORPORATION",
+        "city": "DANBURY",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.67675,
+          41.76675
+        ]
+      },
+      "properties": {
+        "id": "138550",
+        "call_sign": "W297BT",
+        "frequency": "107.3 MHz",
+        "service": "FX",
+        "owner": "TRIGNITION MEDIA, LLC",
+        "city": "HARTFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.67675,
+          41.76675
+        ]
+      },
+      "properties": {
+        "id": "138550",
+        "call_sign": "W297BT",
+        "frequency": "107.3 MHz",
+        "service": "FX",
+        "owner": "TRIGNITION MEDIA, LLC",
+        "city": "NEW BRITAIN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.91075,
+          41.81125
+        ]
+      },
+      "properties": {
+        "id": "194718",
+        "call_sign": "WWMM-LP",
+        "frequency": "107.5 MHz",
+        "service": "FL",
+        "owner": "HUCKLEBERRY HILL MUSIC SOCIETY INC.",
+        "city": "COLLINSVILLE",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.004142,
+          41.770742
+        ]
+      },
+      "properties": {
+        "id": "194718",
+        "call_sign": "WWMM-LP",
+        "frequency": "107.5 MHz",
+        "service": "FL",
+        "owner": "HUCKLEBERRY HILL MUSIC SOCIETY INC.",
+        "city": "COLLINSVILLE",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.020278,
+          41.488056
+        ]
+      },
+      "properties": {
+        "id": "788094",
+        "call_sign": "NEW",
+        "frequency": "107.5 MHz",
+        "service": "FL",
+        "owner": "LA VOZ DE LA VERDAD INC.",
+        "city": "NAUGATUCK",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.819722,
+          41.316944
+        ]
+      },
+      "properties": {
+        "id": "194592",
+        "call_sign": "WNHA-LP",
+        "frequency": "107.5 MHz",
+        "service": "FL",
+        "owner": "ALMA RADIO INC.",
+        "city": "NEW HAVEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.58425,
+          41.973417
+        ]
+      },
+      "properties": {
+        "id": "127007",
+        "call_sign": "WACC-LP",
+        "frequency": "107.7 MHz",
+        "service": "FL",
+        "owner": "ASNUNTUCK COMMUNITY COLLEGE",
+        "city": "ENFIELD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.763139,
+          41.693417
+        ]
+      },
+      "properties": {
+        "id": "9867",
+        "call_sign": "WFCS",
+        "frequency": "107.7 MHz",
+        "service": "FM",
+        "owner": "CENTRAL CONNECTICUT STATE UNIVERSITY",
+        "city": "NEW BRITAIN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.185111,
+          41.278972
+        ]
+      },
+      "properties": {
+        "id": "71389",
+        "call_sign": "WEBE",
+        "frequency": "107.9 MHz",
+        "service": "FM",
+        "owner": "CONNOISSEUR MEDIA LICENSES, LLC",
+        "city": "WESTPORT",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.185111,
+          41.278972
+        ]
+      },
+      "properties": {
+        "id": "71389",
+        "call_sign": "WEBE",
+        "frequency": "107.9 MHz",
+        "service": "FS",
+        "owner": "CONNOISSEUR MEDIA LICENSES, LLC",
+        "city": "WESTPORT",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.164278,
+          41.160083
+        ]
+      },
+      "properties": {
+        "id": "72345",
+        "call_sign": "WICC",
+        "frequency": "600   kHz",
+        "service": "AM",
+        "owner": "CONNOISSEUR MEDIA LICENSES, LLC",
+        "city": "BRIDGEPORT",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.164278,
+          41.160083
+        ]
+      },
+      "properties": {
+        "id": "72345",
+        "call_sign": "WICC",
+        "frequency": "600   kHz",
+        "service": "AM",
+        "owner": "CONNOISSEUR MEDIA LICENSES, LLC",
+        "city": "BRIDGEPORT",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.051222,
+          41.757889
+        ]
+      },
+      "properties": {
+        "id": "13716",
+        "call_sign": "WSNG",
+        "frequency": "610   kHz",
+        "service": "AM",
+        "owner": "RED WOLF BROADCASTING CORPORATION",
+        "city": "TORRINGTON",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.051222,
+          41.757889
+        ]
+      },
+      "properties": {
+        "id": "13716",
+        "call_sign": "WSNG",
+        "frequency": "610   kHz",
+        "service": "AM",
+        "owner": "RED WOLF BROADCASTING CORPORATION",
+        "city": "TORRINGTON",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.113722,
+          41.346194
+        ]
+      },
+      "properties": {
+        "id": "54481",
+        "call_sign": "WADS",
+        "frequency": "690   kHz",
+        "service": "AM",
+        "owner": "RADIO AMOR, INC.",
+        "city": "ANSONIA",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.445944,
+          41.37425
+        ]
+      },
+      "properties": {
+        "id": "65456",
+        "call_sign": "WLAD",
+        "frequency": "800   kHz",
+        "service": "AM",
+        "owner": "THE BERKSHIRE BROADCASTING CORP.",
+        "city": "DANBURY",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.445944,
+          41.37425
+        ]
+      },
+      "properties": {
+        "id": "65456",
+        "call_sign": "WLAD",
+        "frequency": "800   kHz",
+        "service": "AM",
+        "owner": "THE BERKSHIRE BROADCASTING CORP.",
+        "city": "DANBURY",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.72925,
+          41.686222
+        ]
+      },
+      "properties": {
+        "id": "26314",
+        "call_sign": "WRYM",
+        "frequency": "840   kHz",
+        "service": "AM",
+        "owner": "TRIGNITION MEDIA, LLC",
+        "city": "NEW BRITAIN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.72925,
+          41.686222
+        ]
+      },
+      "properties": {
+        "id": "26314",
+        "call_sign": "WRYM",
+        "frequency": "840   kHz",
+        "service": "AM",
+        "owner": "TRIGNITION MEDIA, LLC",
+        "city": "NEW BRITAIN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.487333,
+          41.290917
+        ]
+      },
+      "properties": {
+        "id": "66327",
+        "call_sign": "WAXB",
+        "frequency": "850   kHz",
+        "service": "AM",
+        "owner": "HUDSON VALLEY PUBLIC RADIO, INC.",
+        "city": "RIDGEFIELD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.487333,
+          41.290917
+        ]
+      },
+      "properties": {
+        "id": "66327",
+        "call_sign": "WAXB",
+        "frequency": "850   kHz",
+        "service": "AM",
+        "owner": "HUDSON VALLEY PUBLIC RADIO, INC.",
+        "city": "RIDGEFIELD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.809833,
+          41.716222
+        ]
+      },
+      "properties": {
+        "id": "1911",
+        "call_sign": "WLAT",
+        "frequency": "910   kHz",
+        "service": "AM",
+        "owner": "RELEVANT RADIO, INC.",
+        "city": "NEW BRITAIN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.809833,
+          41.716222
+        ]
+      },
+      "properties": {
+        "id": "1911",
+        "call_sign": "WLAT",
+        "frequency": "910   kHz",
+        "service": "AM",
+        "owner": "RELEVANT RADIO, INC.",
+        "city": "NEW BRITAIN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.428722,
+          41.493139
+        ]
+      },
+      "properties": {
+        "id": "15389",
+        "call_sign": "WINE",
+        "frequency": "940   kHz",
+        "service": "AM",
+        "owner": "INTERNATIONAL CHURCH OF THE GRACE OF GOD, INC.",
+        "city": "BROOKFIELD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.428722,
+          41.493139
+        ]
+      },
+      "properties": {
+        "id": "15389",
+        "call_sign": "WINE",
+        "frequency": "940   kHz",
+        "service": "AM",
+        "owner": "INTERNATIONAL CHURCH OF THE GRACE OF GOD, INC.",
+        "city": "BROOKFIELD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.937056,
+          42.370639
+        ]
+      },
+      "properties": {
+        "id": "11933",
+        "call_sign": "WELI",
+        "frequency": "960   kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "NEW HAVEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.937056,
+          41.370667
+        ]
+      },
+      "properties": {
+        "id": "11933",
+        "call_sign": "WELI",
+        "frequency": "960   kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "NEW HAVEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.069806,
+          41.384833
+        ]
+      },
+      "properties": {
+        "id": "10454",
+        "call_sign": "WXLM",
+        "frequency": "980   kHz",
+        "service": "AM",
+        "owner": "RADIO LICENSE HOLDING CBC, LLC",
+        "city": "GROTON",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.069806,
+          41.384833
+        ]
+      },
+      "properties": {
+        "id": "10454",
+        "call_sign": "WXLM",
+        "frequency": "980   kHz",
+        "service": "AM",
+        "owner": "RADIO LICENSE HOLDING CBC, LLC",
+        "city": "GROTON",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.883167,
+          41.583167
+        ]
+      },
+      "properties": {
+        "id": "73352",
+        "call_sign": "WNTY",
+        "frequency": "990   kHz",
+        "service": "AM",
+        "owner": "RED WOLF BROADCASTING CORPORATION",
+        "city": "SOUTHINGTON",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.883167,
+          41.583167
+        ]
+      },
+      "properties": {
+        "id": "73352",
+        "call_sign": "WNTY",
+        "frequency": "990   kHz",
+        "service": "AM",
+        "owner": "RED WOLF BROADCASTING CORPORATION",
+        "city": "SOUTHINGTON",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.523722,
+          41.976472
+        ]
+      },
+      "properties": {
+        "id": "67774",
+        "call_sign": "WHDD",
+        "frequency": "1020  kHz",
+        "service": "AM",
+        "owner": "TRI-STATE PUBLIC COMMUNICATIONS, INC.",
+        "city": "SHARON",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.523722,
+          41.976472
+        ]
+      },
+      "properties": {
+        "id": "67774",
+        "call_sign": "WHDD",
+        "frequency": "1020  kHz",
+        "service": "AM",
+        "owner": "TRI-STATE PUBLIC COMMUNICATIONS, INC.",
+        "city": "SHARON",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.804833,
+          41.777611
+        ]
+      },
+      "properties": {
+        "id": "66464",
+        "call_sign": "WTIC",
+        "frequency": "1080  kHz",
+        "service": "AM",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "HARTFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.804833,
+          41.777611
+        ]
+      },
+      "properties": {
+        "id": "66464",
+        "call_sign": "WTIC",
+        "frequency": "1080  kHz",
+        "service": "AM",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "HARTFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.947056,
+          41.658167
+        ]
+      },
+      "properties": {
+        "id": "13630",
+        "call_sign": "WPRX",
+        "frequency": "1120  kHz",
+        "service": "AM",
+        "owner": "NIEVEZQUEZ PRODUCTIONS, INC.",
+        "city": "BRISTOL",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.947056,
+          41.658167
+        ]
+      },
+      "properties": {
+        "id": "13630",
+        "call_sign": "WPRX",
+        "frequency": "1120  kHz",
+        "service": "AM",
+        "owner": "NIEVEZQUEZ PRODUCTIONS, INC.",
+        "city": "BRISTOL",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.619806,
+          41.557333
+        ]
+      },
+      "properties": {
+        "id": "54678",
+        "call_sign": "WMRD",
+        "frequency": "1150  kHz",
+        "service": "AM",
+        "owner": "CROSSROADS COMMUNICATIONS, LLC",
+        "city": "MIDDLETOWN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.619806,
+          41.557333
+        ]
+      },
+      "properties": {
+        "id": "54678",
+        "call_sign": "WMRD",
+        "frequency": "1150  kHz",
+        "service": "AM",
+        "owner": "CROSSROADS COMMUNICATIONS, LLC",
+        "city": "MIDDLETOWN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.483972,
+          41.868722
+        ]
+      },
+      "properties": {
+        "id": "20826",
+        "call_sign": "WCTF",
+        "frequency": "1170  kHz",
+        "service": "AM",
+        "owner": "LOAM MEDIA, INC.",
+        "city": "VERNON",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.483972,
+          41.868722
+        ]
+      },
+      "properties": {
+        "id": "20826",
+        "call_sign": "WCTF",
+        "frequency": "1170  kHz",
+        "service": "AM",
+        "owner": "LOAM MEDIA, INC.",
+        "city": "VERNON",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.951667,
+          41.37725
+        ]
+      },
+      "properties": {
+        "id": "42658",
+        "call_sign": "WATX",
+        "frequency": "1220  kHz",
+        "service": "AM",
+        "owner": "CLARK MEDIA, LLC",
+        "city": "HAMDEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.928444,
+          41.377306
+        ]
+      },
+      "properties": {
+        "id": "42658",
+        "call_sign": "WATX",
+        "frequency": "1220  kHz",
+        "service": "AM",
+        "owner": "CLARK MEDIA, LLC",
+        "city": "HAMDEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.928444,
+          41.377306
+        ]
+      },
+      "properties": {
+        "id": "42658",
+        "call_sign": "WATX",
+        "frequency": "1220  kHz",
+        "service": "AM",
+        "owner": "CLARK MEDIA, LLC",
+        "city": "HAMDEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.557028,
+          41.776222
+        ]
+      },
+      "properties": {
+        "id": "36684",
+        "call_sign": "WNEZ",
+        "frequency": "1230  kHz",
+        "service": "AM",
+        "owner": "GOIS BROADCASTING OF CONNECTICUT, LLC",
+        "city": "MANCHESTER",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.557028,
+          41.776222
+        ]
+      },
+      "properties": {
+        "id": "36684",
+        "call_sign": "WNEZ",
+        "frequency": "1230  kHz",
+        "service": "AM",
+        "owner": "GOIS BROADCASTING OF CONNECTICUT, LLC",
+        "city": "MANCHESTER",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.055944,
+          41.566472
+        ]
+      },
+      "properties": {
+        "id": "40678",
+        "call_sign": "WWCO",
+        "frequency": "1240  kHz",
+        "service": "AM",
+        "owner": "TRIGNITION MEDIA, LLC",
+        "city": "WATERBURY",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.390111,
+          41.128167
+        ]
+      },
+      "properties": {
+        "id": "43126",
+        "call_sign": "WSHU",
+        "frequency": "1260  kHz",
+        "service": "AM",
+        "owner": "SACRED HEART UNIVERSITY, INC.",
+        "city": "WESTPORT",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.390111,
+          41.128167
+        ]
+      },
+      "properties": {
+        "id": "43126",
+        "call_sign": "WSHU",
+        "frequency": "1260  kHz",
+        "service": "AM",
+        "owner": "SACRED HEART UNIVERSITY, INC.",
+        "city": "WESTPORT",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.79675,
+          41.796778
+        ]
+      },
+      "properties": {
+        "id": "25073",
+        "call_sign": "WNWW",
+        "frequency": "1290  kHz",
+        "service": "AM",
+        "owner": "UNIVERSITY OF NORTHWESTERN-ST.PAUL",
+        "city": "WEST HARTFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.79675,
+          41.796778
+        ]
+      },
+      "properties": {
+        "id": "25073",
+        "call_sign": "WNWW",
+        "frequency": "1290  kHz",
+        "service": "AM",
+        "owner": "UNIVERSITY OF NORTHWESTERN-ST.PAUL",
+        "city": "WEST HARTFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.946222,
+          41.287861
+        ]
+      },
+      "properties": {
+        "id": "11920",
+        "call_sign": "WAVZ",
+        "frequency": "1300  kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "NEW HAVEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.946222,
+          41.287861
+        ]
+      },
+      "properties": {
+        "id": "11920",
+        "call_sign": "WAVZ",
+        "frequency": "1300  kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "NEW HAVEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.946222,
+          41.287861
+        ]
+      },
+      "properties": {
+        "id": "11920",
+        "call_sign": "WAVZ",
+        "frequency": "1300  kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "NEW HAVEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.946222,
+          41.287861
+        ]
+      },
+      "properties": {
+        "id": "11920",
+        "call_sign": "WAVZ",
+        "frequency": "1300  kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "NEW HAVEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.075639,
+          41.552889
+        ]
+      },
+      "properties": {
+        "id": "72347",
+        "call_sign": "WICH",
+        "frequency": "1310  kHz",
+        "service": "AM",
+        "owner": "HALL COMMUNICATIONS, INC.",
+        "city": "NORWICH",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.075639,
+          41.552889
+        ]
+      },
+      "properties": {
+        "id": "72347",
+        "call_sign": "WICH",
+        "frequency": "1310  kHz",
+        "service": "AM",
+        "owner": "HALL COMMUNICATIONS, INC.",
+        "city": "NORWICH",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.030667,
+          41.53675
+        ]
+      },
+      "properties": {
+        "id": "71102",
+        "call_sign": "WATR",
+        "frequency": "1320  kHz",
+        "service": "AM",
+        "owner": "WATR RADIO, LLC",
+        "city": "WATERBURY",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.030667,
+          41.53675
+        ]
+      },
+      "properties": {
+        "id": "71102",
+        "call_sign": "WATR",
+        "frequency": "1320  kHz",
+        "service": "AM",
+        "owner": "WATR RADIO, LLC",
+        "city": "WATERBURY",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.952889,
+          41.292583
+        ]
+      },
+      "properties": {
+        "id": "72820",
+        "call_sign": "WYBC",
+        "frequency": "1340  kHz",
+        "service": "AM",
+        "owner": "YALE BROADCASTING COMPANY, INC.",
+        "city": "NEW HAVEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.952889,
+          41.292583
+        ]
+      },
+      "properties": {
+        "id": "72820",
+        "call_sign": "WYBC",
+        "frequency": "1340  kHz",
+        "service": "AM",
+        "owner": "YALE BROADCASTING COMPANY, INC.",
+        "city": "NEW HAVEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.894806,
+          41.902889
+        ]
+      },
+      "properties": {
+        "id": "24112",
+        "call_sign": "WINY",
+        "frequency": "1350  kHz",
+        "service": "AM",
+        "owner": "OSBREY BROADCASTING COMPANY",
+        "city": "PUTNAM",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.434556,
+          41.115083
+        ]
+      },
+      "properties": {
+        "id": "14378",
+        "call_sign": "WNLK",
+        "frequency": "1350  kHz",
+        "service": "AM",
+        "owner": "VERITAS CATHOLIC NETWORK, INC.",
+        "city": "NORWALK",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.894806,
+          41.902889
+        ]
+      },
+      "properties": {
+        "id": "24112",
+        "call_sign": "WINY",
+        "frequency": "1350  kHz",
+        "service": "AM",
+        "owner": "OSBREY BROADCASTING COMPANY",
+        "city": "PUTNAM",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.434556,
+          41.115083
+        ]
+      },
+      "properties": {
+        "id": "14378",
+        "call_sign": "WNLK",
+        "frequency": "1350  kHz",
+        "service": "AM",
+        "owner": "VERITAS CATHOLIC NETWORK, INC.",
+        "city": "NORWALK",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.695639,
+          41.813167
+        ]
+      },
+      "properties": {
+        "id": "7711",
+        "call_sign": "WDRC",
+        "frequency": "1360  kHz",
+        "service": "AM",
+        "owner": "RED WOLF BROADCASTING CORPORATION",
+        "city": "HARTFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.696194,
+          41.813167
+        ]
+      },
+      "properties": {
+        "id": "7711",
+        "call_sign": "WDRC",
+        "frequency": "1360  kHz",
+        "service": "AM",
+        "owner": "RED WOLF BROADCASTING CORPORATION",
+        "city": "HARTFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.054556,
+          41.510667
+        ]
+      },
+      "properties": {
+        "id": "8517",
+        "call_sign": "WFNW",
+        "frequency": "1380  kHz",
+        "service": "AM",
+        "owner": "CANDIDO CARRELO",
+        "city": "NAUGATUCK",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.054556,
+          41.510667
+        ]
+      },
+      "properties": {
+        "id": "8517",
+        "call_sign": "WFNW",
+        "frequency": "1380  kHz",
+        "service": "AM",
+        "owner": "CANDIDO CARRELO",
+        "city": "NAUGATUCK",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.18925,
+          41.715111
+        ]
+      },
+      "properties": {
+        "id": "66180",
+        "call_sign": "WILI",
+        "frequency": "1400  kHz",
+        "service": "AM",
+        "owner": "HALL COMMUNICATIONS, INC.",
+        "city": "WILLIMANTIC",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.526222,
+          41.047028
+        ]
+      },
+      "properties": {
+        "id": "10660",
+        "call_sign": "WSTC",
+        "frequency": "1400  kHz",
+        "service": "AM",
+        "owner": "SACRED HEART UNIVERSITY, INCORPORATED",
+        "city": "STAMFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.18925,
+          41.715111
+        ]
+      },
+      "properties": {
+        "id": "66180",
+        "call_sign": "WILI",
+        "frequency": "1400  kHz",
+        "service": "AM",
+        "owner": "HALL COMMUNICATIONS, INC.",
+        "city": "WILLIMANTIC",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.526222,
+          41.047028
+        ]
+      },
+      "properties": {
+        "id": "10660",
+        "call_sign": "WSTC",
+        "frequency": "1400  kHz",
+        "service": "AM",
+        "owner": "SACRED HEART UNIVERSITY, INCORPORATED",
+        "city": "STAMFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.751472,
+          41.692889
+        ]
+      },
+      "properties": {
+        "id": "37232",
+        "call_sign": "WPOP",
+        "frequency": "1410  kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "HARTFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.751472,
+          41.692889
+        ]
+      },
+      "properties": {
+        "id": "37232",
+        "call_sign": "WPOP",
+        "frequency": "1410  kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "HARTFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.388694,
+          41.327333
+        ]
+      },
+      "properties": {
+        "id": "16418",
+        "call_sign": "WLIS",
+        "frequency": "1420  kHz",
+        "service": "AM",
+        "owner": "CROSSROADS COMMUNICATIONS OF OLD SAYBROOK, LLC",
+        "city": "OLD SAYBROOK",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.388694,
+          41.327333
+        ]
+      },
+      "properties": {
+        "id": "16418",
+        "call_sign": "WLIS",
+        "frequency": "1420  kHz",
+        "service": "AM",
+        "owner": "CROSSROADS COMMUNICATIONS OF OLD SAYBROOK, LLC",
+        "city": "OLD SAYBROOK",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.201778,
+          41.219528
+        ]
+      },
+      "properties": {
+        "id": "54553",
+        "call_sign": "WCUM",
+        "frequency": "1450  kHz",
+        "service": "AM",
+        "owner": "TRIGNITION MEDIA, LLC",
+        "city": "BRIDGEPORT",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8015,
+          41.554
+        ]
+      },
+      "properties": {
+        "id": "1220",
+        "call_sign": "WBOM",
+        "frequency": "1470  kHz",
+        "service": "AM",
+        "owner": "RED WOLF BROADCASTING CORPORATION",
+        "city": "MERIDEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8015,
+          41.554
+        ]
+      },
+      "properties": {
+        "id": "1220",
+        "call_sign": "WBOM",
+        "frequency": "1470  kHz",
+        "service": "AM",
+        "owner": "RED WOLF BROADCASTING CORPORATION",
+        "city": "MERIDEN",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.678139,
+          41.852889
+        ]
+      },
+      "properties": {
+        "id": "26302",
+        "call_sign": "WKND",
+        "frequency": "1480  kHz",
+        "service": "AM",
+        "owner": "GOIS BROADCASTING OF CONNECTICUT, LLC",
+        "city": "WINDSOR",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.678139,
+          41.852889
+        ]
+      },
+      "properties": {
+        "id": "26302",
+        "call_sign": "WKND",
+        "frequency": "1480  kHz",
+        "service": "AM",
+        "owner": "GOIS BROADCASTING OF CONNECTICUT, LLC",
+        "city": "WINDSOR",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.632639,
+          41.027028
+        ]
+      },
+      "properties": {
+        "id": "65674",
+        "call_sign": "WGCH",
+        "frequency": "1490  kHz",
+        "service": "AM",
+        "owner": "GREENWICH E-RADIO LLC",
+        "city": "GREENWICH",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.100944,
+          41.192583
+        ]
+      },
+      "properties": {
+        "id": "33246",
+        "call_sign": "WFIF",
+        "frequency": "1500  kHz",
+        "service": "AM",
+        "owner": "K.W. DOLMAR BROADCASTING CO., INC.",
+        "city": "MILFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.100944,
+          41.192583
+        ]
+      },
+      "properties": {
+        "id": "33246",
+        "call_sign": "WFIF",
+        "frequency": "1510  kHz",
+        "service": "AM",
+        "owner": "K.W. DOLMAR BROADCASTING CO., INC.",
+        "city": "MILFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.100944,
+          41.192583
+        ]
+      },
+      "properties": {
+        "id": "33246",
+        "call_sign": "WFIF",
+        "frequency": "1510  kHz",
+        "service": "AM",
+        "owner": "K.W. DOLMAR BROADCASTING CO., INC.",
+        "city": "MILFORD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.733139,
+          41.863167
+        ]
+      },
+      "properties": {
+        "id": "37804",
+        "call_sign": "WSDK",
+        "frequency": "1550  kHz",
+        "service": "AM",
+        "owner": "BLOUNT MASSCOM, INC.",
+        "city": "BLOOMFIELD",
+        "state": "CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.733139,
+          41.863167
+        ]
+      },
+      "properties": {
+        "id": "37804",
+        "call_sign": "WSDK",
+        "frequency": "1550  kHz",
+        "service": "AM",
+        "owner": "BLOUNT MASSCOM, INC.",
+        "city": "BLOOMFIELD",
+        "state": "CT"
+      }
+    }
+  ],
+  "metadata": {
+    "cities": [
+      "ANSONIA",
+      "BERLIN",
+      "BLOOMFIELD",
+      "BOLTON",
+      "BRIDGEPORT",
+      "BRISTOL",
+      "BROOKFIELD",
+      "CLINTON",
+      "COLLINSVILLE",
+      "DANBURY",
+      "DERBY",
+      "EAST LYME",
+      "ENFIELD",
+      "FAIRFIELD",
+      "GREENWICH",
+      "GROTON",
+      "GUILFORD",
+      "HAMDEN",
+      "HARTFORD",
+      "HARTFORD-MERIDEN",
+      "HUNTINGTON",
+      "KENT",
+      "LEDYARD",
+      "LITCHFIELD",
+      "MANCHESTER",
+      "MERIDEN",
+      "MIDDLEFIELD",
+      "MIDDLETOWN",
+      "MILBROOK",
+      "MILFORD",
+      "MONROE",
+      "MONTVILLE",
+      "NAUGATUCK",
+      "NAUGATUCK, ETC.",
+      "NEW BRITAIN",
+      "NEW CANAAN",
+      "NEW HAVEN",
+      "NEW LONDON",
+      "NEW MILFORD",
+      "NORFOLK",
+      "NORTHFORD",
+      "NORWALK",
+      "NORWICH",
+      "OLD SAYBROOK",
+      "PAWCATUCK",
+      "PUTNAM",
+      "RIDGEFIELD",
+      "SALISBURY",
+      "SHARON",
+      "SHELTON",
+      "SIMSBURY",
+      "SOMERS",
+      "SOUTH KENT",
+      "SOUTHINGTON",
+      "SOUTHPORT",
+      "STAMFORD",
+      "STONINGTON",
+      "STORRS",
+      "TALCOTTVILLE",
+      "TERRYVILLE",
+      "TORRINGTON",
+      "VERNON",
+      "WARREN",
+      "WATERBURY",
+      "WEST HARTFORD",
+      "WEST HAVEN",
+      "WESTPORT",
+      "WESTVILLE",
+      "WILLIMANTIC",
+      "WINDSOR",
+      "WINDSOR LOCKS"
+    ],
+    "frequencies": [
+      "88.1  MHz",
+      "88.3  MHz",
+      "88.5  MHz",
+      "88.7  MHz",
+      "88.9  MHz",
+      "89.1  MHz",
+      "89.3  MHz",
+      "89.5  MHz",
+      "89.7  MHz",
+      "89.9  MHz",
+      "90.1  MHz",
+      "90.3  MHz",
+      "90.5  MHz",
+      "90.9  MHz",
+      "91.1  MHz",
+      "91.3  MHz",
+      "91.5  MHz",
+      "91.7  MHz",
+      "91.9  MHz",
+      "92.1  MHz",
+      "92.5  MHz",
+      "92.9  MHz",
+      "93.1  MHz",
+      "93.3  MHz",
+      "93.7  MHz",
+      "94.1  MHz",
+      "94.3  MHz",
+      "94.5  MHz",
+      "94.7  MHz",
+      "95.1  MHz",
+      "95.3  MHz",
+      "95.7  MHz",
+      "95.9  MHz",
+      "96.1  MHz",
+      "96.5  MHz",
+      "96.9  MHz",
+      "97.1  MHz",
+      "97.3  MHz",
+      "97.5  MHz",
+      "97.7  MHz",
+      "97.9  MHz",
+      "98.1  MHz",
+      "98.3  MHz",
+      "98.5  MHz",
+      "98.7  MHz",
+      "99.1  MHz",
+      "99.5  MHz",
+      "99.9  MHz",
+      "100.1 MHz",
+      "100.5 MHz",
+      "100.9 MHz",
+      "101.1 MHz",
+      "101.3 MHz",
+      "101.7 MHz",
+      "101.9 MHz",
+      "102.1 MHz",
+      "102.3 MHz",
+      "102.5 MHz",
+      "102.9 MHz",
+      "103.1 MHz",
+      "103.3 MHz",
+      "103.5 MHz",
+      "103.7 MHz",
+      "103.9 MHz",
+      "104.1 MHz",
+      "104.5 MHz",
+      "104.9 MHz",
+      "105.1 MHz",
+      "105.3 MHz",
+      "105.5 MHz",
+      "105.9 MHz",
+      "106.3 MHz",
+      "106.5 MHz",
+      "106.9 MHz",
+      "107.1 MHz",
+      "107.3 MHz",
+      "107.5 MHz",
+      "107.7 MHz",
+      "107.9 MHz",
+      "600   kHz",
+      "610   kHz",
+      "690   kHz",
+      "800   kHz",
+      "840   kHz",
+      "850   kHz",
+      "910   kHz",
+      "940   kHz",
+      "960   kHz",
+      "980   kHz",
+      "990   kHz",
+      "1020  kHz",
+      "1080  kHz",
+      "1120  kHz",
+      "1150  kHz",
+      "1170  kHz",
+      "1220  kHz",
+      "1230  kHz",
+      "1240  kHz",
+      "1260  kHz",
+      "1290  kHz",
+      "1300  kHz",
+      "1310  kHz",
+      "1320  kHz",
+      "1340  kHz",
+      "1350  kHz",
+      "1360  kHz",
+      "1380  kHz",
+      "1400  kHz",
+      "1410  kHz",
+      "1420  kHz",
+      "1450  kHz",
+      "1470  kHz",
+      "1480  kHz",
+      "1490  kHz",
+      "1500  kHz",
+      "1510  kHz",
+      "1550  kHz"
+    ],
+    "owners": [
+      "ALMA RADIO INC.",
+      "ASNUNTUCK COMMUNITY COLLEGE",
+      "AUDACY LICENSE, LLC",
+      "BERLIN BOARD OF EDUCATION",
+      "BLOUNT MASSCOM, INC.",
+      "CANDIDO CARRELO",
+      "CENTRAL CONNECTICUT STATE UNIVERSITY",
+      "CLARK MEDIA, LLC",
+      "CO-CHANNEL COMMUNICATIONS LLC",
+      "CONDUIT COMMUNICATIONS, INC",
+      "CONNECTICUT COLLEGE COMMUNITY RADIO, INC.",
+      "CONNECTICUT PUBLIC BROADCASTING INC.",
+      "CONNECTICUT PUBLIC BROADCASTING, INC",
+      "CONNECTICUT PUBLIC BROADCASTING, INC.",
+      "CONNECTICUT RADIO FELLOWSHIP, INC.",
+      "CONNECTICUT VALLEY HISPANIC OUTREACH",
+      "CONNOISSEUR MEDIA LICENSES, LLC",
+      "CROSSROADS COMMUNICATIONS OF OLD SAYBROOK, LLC",
+      "CROSSROADS COMMUNICATIONS, LLC",
+      "DANBURY COMMUNITY RADIO, INC.",
+      "EASTERN CONNECTICUT STATE UNIVERSITY",
+      "FAIRFIELD UNIVERSITY",
+      "FINE ARTS RADIO, INC.",
+      "FM PILOT, LLC",
+      "GOIS BROADCASTING OF CONNECTICUT, LLC",
+      "GREENWICH E-RADIO LLC",
+      "HALL COMMUNICATIONS, INC.",
+      "HARTFORD BOARD OF EDUCATION",
+      "HP-NL COMMUNICATIONS, INC.",
+      "HUCKLEBERRY HILL MUSIC SOCIETY INC.",
+      "HUDSON VALLEY PUBLIC RADIO, INC.",
+      "IHM LICENSES, LLC",
+      "INTERNATIONAL CHURCH OF THE GRACE OF GOD, INC.",
+      "K-LOVE, INC.",
+      "K. W. DOLMAR BROADCASTING CO. INC.",
+      "K.W. DOLMAR BROADCASTING CO., INC.",
+      "LA NUEVA RADIO RESTAURACION 1620 AM INC",
+      "LA VOZ DE LA VERDAD INC.",
+      "LATINO OUTREACH OF CONNECTICUT, INC.",
+      "LOAM MEDIA, INC.",
+      "NIEVEZQUEZ PRODUCTIONS, INC.",
+      "ONLINE JOURNALISM PROJECT, INC.",
+      "OSBREY BROADCASTING COMPANY",
+      "PEQUENAS LIGAS HISPANAS DE NEW HAVEN INC",
+      "QUINNIPIAC UNIVERSITY",
+      "RADIO AMOR, INC.",
+      "RADIO LICENSE HOLDING CBC, LLC",
+      "RED WOLF BROADCASTING",
+      "RED WOLF BROADCASTING CORPORATION",
+      "RELEVANT RADIO, INC.",
+      "REVIVAL CHRISTIAN MINISTRIES, INC.",
+      "RIVERSIDE BAPTIST CHURCH",
+      "SACRED HEART UNIVERSITY, INC.",
+      "SACRED HEART UNIVERSITY, INCORPORATED",
+      "SIMSBURY FIRE DISTRICT",
+      "ST. LUKE'S FOUNDATION, INC.",
+      "ST. THOMAS SEMINARY",
+      "SUN SIGNALS LLC",
+      "THE BERKSHIRE BROADCASTING CORP.",
+      "THE BERKSHIRE BROADCASTING CORPORATION",
+      "THE BOARD OF TRUSTEES, THE UNIVERSITY OF CONNECTICUT",
+      "TORRINGTON COMMUNITY RADIO FOUNDATION, INC.",
+      "TOWN OF MONROE, CONNECTICUT",
+      "TOWNSQUARE LICENSE, LLC",
+      "TRI-STATE PUBLIC COMMUNICATIONS, INC.",
+      "TRIGNITION MEDIA, LLC",
+      "TRUE LIFE MINISTRY",
+      "TRUSTEES OF TRINITY COLLEGE",
+      "UNIVERSITY OF HARTFORD",
+      "UNIVERSITY OF NEW HAVEN",
+      "UNIVERSITY OF NORTHWESTERN-ST.PAUL",
+      "VERITAS CATHOLIC NETWORK, INC.",
+      "WAMC",
+      "WATR RADIO, LLC",
+      "WDJW-SOMERS HIGH SCHOOL",
+      "WESLEYAN",
+      "WESTERN CONNECTICUT STATE UNIVERSITY",
+      "WESTPORT CT. BOARD OF EDUCATION",
+      "WPKN, INC.",
+      "YALE BROADCASTING COMPANY, INC."
+    ],
+    "services": [
+      "AM",
+      "FB",
+      "FL",
+      "FM",
+      "FS",
+      "FX"
+    ]
+  }
+}

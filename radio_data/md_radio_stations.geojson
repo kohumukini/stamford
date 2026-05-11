@@ -1,0 +1,6560 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.657472,
+          39.3315
+        ]
+      },
+      "properties": {
+        "id": "65753",
+        "call_sign": "WYPR",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "WYPR LICENSE HOLDING LLC",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.499722,
+          39.492056
+        ]
+      },
+      "properties": {
+        "id": "32360",
+        "call_sign": "WYPF",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "WYPR LICENSE HOLDING, LLC",
+        "city": "FREDERICK",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.372444,
+          38.145417
+        ]
+      },
+      "properties": {
+        "id": "172973",
+        "call_sign": "WGWS",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "CSN INTERNATIONAL, INC.",
+        "city": "ST. MARY'S CITY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.372444,
+          38.145417
+        ]
+      },
+      "properties": {
+        "id": "172973",
+        "call_sign": "WGWS",
+        "frequency": "88.1  MHz",
+        "service": "FM",
+        "owner": "CSN INTERNATIONAL, INC.",
+        "city": "ST. MARY'S CITY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.900833,
+          39.580083
+        ]
+      },
+      "properties": {
+        "id": "176201",
+        "call_sign": "WLVV",
+        "frequency": "88.3  MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "MIDLAND",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.290472,
+          38.386778
+        ]
+      },
+      "properties": {
+        "id": "81959",
+        "call_sign": "WGBZ",
+        "frequency": "88.3  MHz",
+        "service": "FM",
+        "owner": "ATLANTIC GATEWAY COMMUNICATIONS, INC.",
+        "city": "OCEAN CITY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4705,
+          38.272611
+        ]
+      },
+      "properties": {
+        "id": "92130",
+        "call_sign": "W204CL",
+        "frequency": "88.7  MHz",
+        "service": "FX",
+        "owner": "GRACE MISSIONARY BAPTIST CHURCHD/B/A GRACE CHRISTIAN SCHOOL",
+        "city": "LEXINGTON PARK",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.378917,
+          39.407306
+        ]
+      },
+      "properties": {
+        "id": "88144",
+        "call_sign": "W204BA",
+        "frequency": "88.7  MHz",
+        "service": "FX",
+        "owner": "GRACE MISSIONARY BAPTIST CHURCH",
+        "city": "OAKLAND",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.586611,
+          39.342028
+        ]
+      },
+      "properties": {
+        "id": "43794",
+        "call_sign": "WEAA",
+        "frequency": "88.9  MHz",
+        "service": "FM",
+        "owner": "MORGAN STATE UNIVERSITY",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.40275,
+          39.418167
+        ]
+      },
+      "properties": {
+        "id": "90076",
+        "call_sign": "W205BL",
+        "frequency": "88.9  MHz",
+        "service": "FX",
+        "owner": "GREATER WASHINGTON EDUCATIONAL TELECOMMUNICATIONS ASSOCIATION, INC.",
+        "city": "FREDERICK",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.402556,
+          39.417917
+        ]
+      },
+      "properties": {
+        "id": "90076",
+        "call_sign": "W205BL",
+        "frequency": "88.9  MHz",
+        "service": "FX",
+        "owner": "GREATER WASHINGTON EDUCATIONAL TELECOMMUNICATIONS ASSOCIATION, INC.",
+        "city": "FREDERICK",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.664917,
+          38.284833
+        ]
+      },
+      "properties": {
+        "id": "91849",
+        "call_sign": "W206AY",
+        "frequency": "89.1  MHz",
+        "service": "FX",
+        "owner": "CSN INTERNATIONAL",
+        "city": "FRUITLAND",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.513611,
+          39.696472
+        ]
+      },
+      "properties": {
+        "id": "25103",
+        "call_sign": "WGMS",
+        "frequency": "89.1  MHz",
+        "service": "FM",
+        "owner": "GREATER WASHINGTON EDUCATIONAL TELECOMMUNICATIONS ASSN.",
+        "city": "HAGERSTOWN",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.154944,
+          39.7215
+        ]
+      },
+      "properties": {
+        "id": "173256",
+        "call_sign": "WRSM",
+        "frequency": "89.1  MHz",
+        "service": "FM",
+        "owner": "CALVARY CHAPEL OF MARLTON",
+        "city": "RISING SUN",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.753944,
+          38.511722
+        ]
+      },
+      "properties": {
+        "id": "777890",
+        "call_sign": "WVWA-LP",
+        "frequency": "89.1  MHz",
+        "service": "FL",
+        "owner": "RIVERTON RADIO PROJECT ASSOCIATION",
+        "city": "RIVERTON",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.583056,
+          38.666667
+        ]
+      },
+      "properties": {
+        "id": "58660",
+        "call_sign": "WSCL",
+        "frequency": "89.5  MHz",
+        "service": "FM",
+        "owner": "SALISBURY UNIVERSITY",
+        "city": "SALISBURY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.583056,
+          38.666667
+        ]
+      },
+      "properties": {
+        "id": "58660",
+        "call_sign": "WSCL",
+        "frequency": "89.5  MHz",
+        "service": "FM",
+        "owner": "SALISBURY UNIVERSITY",
+        "city": "SALISBURY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.626111,
+          38.349083
+        ]
+      },
+      "properties": {
+        "id": "173705",
+        "call_sign": "WXMD",
+        "frequency": "89.7  MHz",
+        "service": "FM",
+        "owner": "REDEEMER BROADCASTING, INC.",
+        "city": "CALIFORNIA",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.603028,
+          39.402889
+        ]
+      },
+      "properties": {
+        "id": "67461",
+        "call_sign": "WTMD",
+        "frequency": "89.7  MHz",
+        "service": "FM",
+        "owner": "WYPR LICENSE HOLDING, LLC",
+        "city": "TOWSON",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.86325,
+          39.593167
+        ]
+      },
+      "properties": {
+        "id": "39897",
+        "call_sign": "WOEL-FM",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "MARANATHA BIBLE INSTITUTE, INC.",
+        "city": "ELKTON",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.356639,
+          39.683972
+        ]
+      },
+      "properties": {
+        "id": "43919",
+        "call_sign": "WMTB-FM",
+        "frequency": "89.9  MHz",
+        "service": "FM",
+        "owner": "MOUNT SAINT MARY'S COLLEGE, INCORPORATED",
+        "city": "EMMITSBURG",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.600472,
+          38.405111
+        ]
+      },
+      "properties": {
+        "id": "78890",
+        "call_sign": "W210CC",
+        "frequency": "89.9  MHz",
+        "service": "FX",
+        "owner": "PENSACOLA CHRISTIAN COLLEGE, INC.",
+        "city": "SALISBURY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.058056,
+          38.642111
+        ]
+      },
+      "properties": {
+        "id": "765908",
+        "call_sign": "WFHW",
+        "frequency": "90.3  MHz",
+        "service": "FM",
+        "owner": "MID-SHORE COMMUNITY RADIO, INC.",
+        "city": "CAMBRIDGE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.091694,
+          39.703972
+        ]
+      },
+      "properties": {
+        "id": "26528",
+        "call_sign": "WAIJ",
+        "frequency": "90.3  MHz",
+        "service": "FM",
+        "owner": "AMERICAN FAMILY ASSOCIATION",
+        "city": "GRANTSVILLE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.604083,
+          38.407889
+        ]
+      },
+      "properties": {
+        "id": "58655",
+        "call_sign": "WDIH",
+        "frequency": "90.3  MHz",
+        "service": "FM",
+        "owner": "SALISBURY EDUCATIONAL B/C FOUNDATION",
+        "city": "SALISBURY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.943333,
+          38.983056
+        ]
+      },
+      "properties": {
+        "id": "69019",
+        "call_sign": "WMUC-FM",
+        "frequency": "90.5  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF MARYLAND",
+        "city": "COLLEGE PARK",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.96525,
+          39.659528
+        ]
+      },
+      "properties": {
+        "id": "9723",
+        "call_sign": "WCRH",
+        "frequency": "90.5  MHz",
+        "service": "FM",
+        "owner": "CEDAR RIDGE CHILDREN'S HOME & SCHOOL, INC",
+        "city": "WILLIAMSPORT",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.857444,
+          39.648861
+        ]
+      },
+      "properties": {
+        "id": "9723",
+        "call_sign": "WCRH",
+        "frequency": "90.5  MHz",
+        "service": "FS",
+        "owner": "CEDAR RIDGE CHILDREN'S HOME & SCHOOL, INC",
+        "city": "WILLIAMSPORT",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.090222,
+          39.282028
+        ]
+      },
+      "properties": {
+        "id": "6057",
+        "call_sign": "WKHS",
+        "frequency": "90.5  MHz",
+        "service": "FM",
+        "owner": "BOARD OF EDUCATION OF KENT COUNTY",
+        "city": "WORTON",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16825,
+          38.501778
+        ]
+      },
+      "properties": {
+        "id": "83090",
+        "call_sign": "WSDL",
+        "frequency": "90.7  MHz",
+        "service": "FM",
+        "owner": "SALISBURY UNIVERSITY",
+        "city": "OCEAN CITY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.279667,
+          39.556194
+        ]
+      },
+      "properties": {
+        "id": "26024",
+        "call_sign": "WHFC",
+        "frequency": "91.1  MHz",
+        "service": "FM",
+        "owner": "HARFORD COMMUNITY COLLEGE",
+        "city": "BEL AIR",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.498306,
+          39.493972
+        ]
+      },
+      "properties": {
+        "id": "9725",
+        "call_sign": "W216CM",
+        "frequency": "91.1  MHz",
+        "service": "FX",
+        "owner": "CEDAR RIDGE CHILDREN'S HOME & SCHOOL, INC",
+        "city": "FREDERICK",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.681861,
+          38.210389
+        ]
+      },
+      "properties": {
+        "id": "69082",
+        "call_sign": "WESM",
+        "frequency": "91.3  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY OF MARYLAND, EASTERN SHORE",
+        "city": "PRINCESS ANNE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.730806,
+          39.3865
+        ]
+      },
+      "properties": {
+        "id": "3654",
+        "call_sign": "WBJC",
+        "frequency": "91.5  MHz",
+        "service": "FM",
+        "owner": "BALTIMORE CITY COMMUNITY COLLEGE",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.730806,
+          39.3865
+        ]
+      },
+      "properties": {
+        "id": "3654",
+        "call_sign": "WBJC",
+        "frequency": "91.5  MHz",
+        "service": "FS",
+        "owner": "BALTIMORE CITY COMMUNITY COLLEGE",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.730806,
+          39.3865
+        ]
+      },
+      "properties": {
+        "id": "3654",
+        "call_sign": "WBJC",
+        "frequency": "91.5  MHz",
+        "service": "FS",
+        "owner": "BALTIMORE CITY COMMUNITY COLLEGE",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.287778,
+          39.41
+        ]
+      },
+      "properties": {
+        "id": "768113",
+        "call_sign": "WKGI",
+        "frequency": "91.5  MHz",
+        "service": "FM",
+        "owner": "BROADCAST EDUCATIONAL COMMUNICATIONS, INC.",
+        "city": "DEER PARK",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.699139,
+          39.460917
+        ]
+      },
+      "properties": {
+        "id": "122334",
+        "call_sign": "WZXH",
+        "frequency": "91.7  MHz",
+        "service": "FM",
+        "owner": "FOUR RIVERS COMMUNITY BROADCASTING CORP.",
+        "city": "HAGERSTOWN",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.075139,
+          38.568667
+        ]
+      },
+      "properties": {
+        "id": "762627",
+        "call_sign": "WHCP-FM",
+        "frequency": "91.7  MHz",
+        "service": "FM",
+        "owner": "MID-SHORE COMMUNITY RADIO, INC.",
+        "city": "TRAPPE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.075139,
+          38.568667
+        ]
+      },
+      "properties": {
+        "id": "762627",
+        "call_sign": "WHCP-FM",
+        "frequency": "91.7  MHz",
+        "service": "FS",
+        "owner": "MID-SHORE COMMUNITY RADIO, INC.",
+        "city": "TRAPPE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.897778,
+          39.58175
+        ]
+      },
+      "properties": {
+        "id": "22791",
+        "call_sign": "WFWM",
+        "frequency": "91.9  MHz",
+        "service": "FM",
+        "owner": "UNIVERSITY SYSTEM OF MARYLAND",
+        "city": "FROSTBURG",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.600556,
+          38.405
+        ]
+      },
+      "properties": {
+        "id": "93022",
+        "call_sign": "W220CT",
+        "frequency": "91.9  MHz",
+        "service": "FX",
+        "owner": "PRIORITY RADIO, INC.",
+        "city": "SALISBURY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.131639,
+          38.891778
+        ]
+      },
+      "properties": {
+        "id": "12460",
+        "call_sign": "WGTS",
+        "frequency": "91.9  MHz",
+        "service": "FM",
+        "owner": "ATLANTIC GATEWAY COMMUNICATIONS, INC.",
+        "city": "TAKOMA PARK",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.131639,
+          38.891778
+        ]
+      },
+      "properties": {
+        "id": "12460",
+        "call_sign": "WGTS",
+        "frequency": "91.9  MHz",
+        "service": "FM",
+        "owner": "ATLANTIC GATEWAY COMMUNICATIONS, INC.",
+        "city": "TAKOMA PARK",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.000806,
+          38.98675
+        ]
+      },
+      "properties": {
+        "id": "12460",
+        "call_sign": "WGTS",
+        "frequency": "91.9  MHz",
+        "service": "FS",
+        "owner": "ATLANTIC GATEWAY COMMUNICATIONS, INC.",
+        "city": "TAKOMA PARK",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.114278,
+          38.976583
+        ]
+      },
+      "properties": {
+        "id": "12460",
+        "call_sign": "WGTS",
+        "frequency": "91.9  MHz",
+        "service": "FS",
+        "owner": "ATLANTIC GATEWAY COMMUNICATIONS, INC.",
+        "city": "TAKOMA PARK",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.666361,
+          39.338444
+        ]
+      },
+      "properties": {
+        "id": "68827",
+        "call_sign": "WERQ-FM",
+        "frequency": "92.3  MHz",
+        "service": "FM",
+        "owner": "RADIO ONE LICENSES, LLC",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.666917,
+          39.339
+        ]
+      },
+      "properties": {
+        "id": "68827",
+        "call_sign": "WERQ-FM",
+        "frequency": "92.3  MHz",
+        "service": "FS",
+        "owner": "RADIO ONE LICENSES, LLC",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.528083,
+          39.444806
+        ]
+      },
+      "properties": {
+        "id": "49936",
+        "call_sign": "WKTQ",
+        "frequency": "92.3  MHz",
+        "service": "FM",
+        "owner": "BROADCAST COMMUNICATIONS, INC.",
+        "city": "OAKLAND",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.664361,
+          38.143167
+        ]
+      },
+      "properties": {
+        "id": "60884",
+        "call_sign": "WNKZ-FM",
+        "frequency": "92.5  MHz",
+        "service": "FM",
+        "owner": "THE BRIDGE OF HOPE, INC.",
+        "city": "POCOMOKE CITY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5225,
+          38.984167
+        ]
+      },
+      "properties": {
+        "id": "154276",
+        "call_sign": "W224EM",
+        "frequency": "92.7  MHz",
+        "service": "FX",
+        "owner": "COLONIAL RADIO GROUP OF WILLIAMSPORT, LLC",
+        "city": "ANNAPOLIS",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.672778,
+          39.272222
+        ]
+      },
+      "properties": {
+        "id": "192734",
+        "call_sign": "WVTO-LP",
+        "frequency": "92.7  MHz",
+        "service": "FL",
+        "owner": "THE BENEDICTINE SOCIETY OF BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.981861,
+          39.383944
+        ]
+      },
+      "properties": {
+        "id": "192736",
+        "call_sign": "WSJF-LP",
+        "frequency": "92.7  MHz",
+        "service": "FL",
+        "owner": "ST. JOSEPH'S, SYKESVILLE, ROMAN CATHOLIC CONGREGATION, INC",
+        "city": "ELDERSBURG",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.773417,
+          38.649806
+        ]
+      },
+      "properties": {
+        "id": "43277",
+        "call_sign": "WPRS",
+        "frequency": "92.7  MHz",
+        "service": "FM",
+        "owner": "RADIO ONE LICENSES, LLC",
+        "city": "PRINCE FREDERICK",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.015833,
+          39.113056
+        ]
+      },
+      "properties": {
+        "id": "154276",
+        "call_sign": "W224EM",
+        "frequency": "92.7  MHz",
+        "service": "FX",
+        "owner": "COLONIAL RADIO GROUP OF WILLIAMSPORT, LLC",
+        "city": "WYE MILLS",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.826944,
+          38.484444
+        ]
+      },
+      "properties": {
+        "id": "787861",
+        "call_sign": "WVCI-LP",
+        "frequency": "92.9  MHz",
+        "service": "FL",
+        "owner": "COMMUNITY INFORMATICS INSTITUTE",
+        "city": "VIENNA",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.754444,
+          39.287222
+        ]
+      },
+      "properties": {
+        "id": "47747",
+        "call_sign": "WPOC",
+        "frequency": "93.1  MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.649417,
+          39.336222
+        ]
+      },
+      "properties": {
+        "id": "47747",
+        "call_sign": "WPOC",
+        "frequency": "93.1  MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.507222,
+          38.970361
+        ]
+      },
+      "properties": {
+        "id": "154359",
+        "call_sign": "W228ER",
+        "frequency": "93.5  MHz",
+        "service": "FX",
+        "owner": "CORTONA MEDIA LLC",
+        "city": "ANNAPOLIS",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.507222,
+          38.970361
+        ]
+      },
+      "properties": {
+        "id": "154359",
+        "call_sign": "W228ER",
+        "frequency": "93.5  MHz",
+        "service": "FX",
+        "owner": "CORTONA MEDIA LLC",
+        "city": "ANNAPOLIS",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.649417,
+          39.336222
+        ]
+      },
+      "properties": {
+        "id": "193908",
+        "call_sign": "WTTZ-LP",
+        "frequency": "93.5  MHz",
+        "service": "FL",
+        "owner": "STATE OF MARYLAND, MDOT, MARYLAND TRANSIT ADMINISTRATION",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.022361,
+          39.362917
+        ]
+      },
+      "properties": {
+        "id": "202926",
+        "call_sign": "W228EI",
+        "frequency": "93.5  MHz",
+        "service": "FX",
+        "owner": "HILLTOP COMMUNICATIONS, LLC",
+        "city": "ELDERSBURG",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.500556,
+          39.418167
+        ]
+      },
+      "properties": {
+        "id": "20687",
+        "call_sign": "W228AM",
+        "frequency": "93.5  MHz",
+        "service": "FX",
+        "owner": "MANNING BROADCASTING, INC.",
+        "city": "FREDERICK",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.046639,
+          39.042333
+        ]
+      },
+      "properties": {
+        "id": "138906",
+        "call_sign": "W228DI",
+        "frequency": "93.5  MHz",
+        "service": "FX",
+        "owner": "WASHINGTON DC FCC LICENSE SUB, LLC",
+        "city": "SILVER SPRING",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.218889,
+          38.331667
+        ]
+      },
+      "properties": {
+        "id": "787849",
+        "call_sign": "WTFB-LP",
+        "frequency": "94.1  MHz",
+        "service": "FL",
+        "owner": "WE HEART BERLIN, INC.",
+        "city": "BERLIN",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.674972,
+          39.255278
+        ]
+      },
+      "properties": {
+        "id": "155491",
+        "call_sign": "W232CL",
+        "frequency": "94.3  MHz",
+        "service": "FX",
+        "owner": "AMERICAN FM ASSOCIATES, INC.",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.996083,
+          38.741278
+        ]
+      },
+      "properties": {
+        "id": "779280",
+        "call_sign": "WEMA-LP",
+        "frequency": "94.3  MHz",
+        "service": "FL",
+        "owner": "STRATEGIC MUSIC PARTNERSHIPS, INC.",
+        "city": "FORT WASHINGTON",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.498611,
+          39.493889
+        ]
+      },
+      "properties": {
+        "id": "139260",
+        "call_sign": "W232DG",
+        "frequency": "94.3  MHz",
+        "service": "FX",
+        "owner": "MANNING BROADCASTING, INC.",
+        "city": "FREDERICK",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.202194,
+          39.036778
+        ]
+      },
+      "properties": {
+        "id": "141566",
+        "call_sign": "W232DE",
+        "frequency": "94.3  MHz",
+        "service": "FX",
+        "owner": "WIN RADIO BROADCASTING CORPORATION",
+        "city": "POTOMAC",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.056611,
+          38.630389
+        ]
+      },
+      "properties": {
+        "id": "14774",
+        "call_sign": "WINX-FM",
+        "frequency": "94.3  MHz",
+        "service": "FM",
+        "owner": "WBOC, INC.",
+        "city": "ST. MICHAELS",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.010278,
+          38.974639
+        ]
+      },
+      "properties": {
+        "id": "195180",
+        "call_sign": "WOWD-LP",
+        "frequency": "94.3  MHz",
+        "service": "FL",
+        "owner": "TAKOMA RADIO, INC.",
+        "city": "TAKOMA PARK",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.252528,
+          38.361528
+        ]
+      },
+      "properties": {
+        "id": "198742",
+        "call_sign": "WKHI",
+        "frequency": "94.5  MHz",
+        "service": "FM",
+        "owner": "THE VOICE RADIO, LLC",
+        "city": "NEWARK",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.104694,
+          38.963694
+        ]
+      },
+      "properties": {
+        "id": "9619",
+        "call_sign": "WIAD",
+        "frequency": "94.7  MHz",
+        "service": "FM",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "BETHESDA",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.114139,
+          38.9765
+        ]
+      },
+      "properties": {
+        "id": "9619",
+        "call_sign": "WIAD",
+        "frequency": "94.7  MHz",
+        "service": "FS",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "BETHESDA",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.063778,
+          38.388722
+        ]
+      },
+      "properties": {
+        "id": "138390",
+        "call_sign": "W235DD",
+        "frequency": "94.9  MHz",
+        "service": "FX",
+        "owner": "THE BRIDGE OF HOPE, INC.",
+        "city": "OCEAN CITY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.674389,
+          39.255917
+        ]
+      },
+      "properties": {
+        "id": "52353",
+        "call_sign": "WRBS-FM",
+        "frequency": "95.1  MHz",
+        "service": "FM",
+        "owner": "PETER AND JOHN RADIO FELLOWSHIP, INC.",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.287667,
+          39.410056
+        ]
+      },
+      "properties": {
+        "id": "201283",
+        "call_sign": "W236DI",
+        "frequency": "95.1  MHz",
+        "service": "FX",
+        "owner": "BROADCAST COMMUNICATIONS, INC.",
+        "city": "OAKLAND",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.910806,
+          38.863722
+        ]
+      },
+      "properties": {
+        "id": "28632",
+        "call_sign": "WPGC-FM",
+        "frequency": "95.5  MHz",
+        "service": "FM",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "MORNINGSIDE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.910806,
+          38.863722
+        ]
+      },
+      "properties": {
+        "id": "28632",
+        "call_sign": "WPGC-FM",
+        "frequency": "95.5  MHz",
+        "service": "FS",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "MORNINGSIDE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.092194,
+          38.935917
+        ]
+      },
+      "properties": {
+        "id": "28632",
+        "call_sign": "WPGC-FM",
+        "frequency": "95.5  MHz",
+        "service": "FS",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "MORNINGSIDE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.910806,
+          38.863722
+        ]
+      },
+      "properties": {
+        "id": "28632",
+        "call_sign": "WPGC-FM",
+        "frequency": "95.5  MHz",
+        "service": "FS",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "MORNINGSIDE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.092083,
+          38.936278
+        ]
+      },
+      "properties": {
+        "id": "28632",
+        "call_sign": "WPGC-FM",
+        "frequency": "95.5  MHz",
+        "service": "FS",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "MORNINGSIDE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.537972,
+          38.076778
+        ]
+      },
+      "properties": {
+        "id": "154039",
+        "call_sign": "W238BY",
+        "frequency": "95.5  MHz",
+        "service": "FX",
+        "owner": "THE VOICE RADIO, LLC",
+        "city": "POCOMOKE CITY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.568278,
+          39.204528
+        ]
+      },
+      "properties": {
+        "id": "54710",
+        "call_sign": "WWIN-FM",
+        "frequency": "95.9  MHz",
+        "service": "FM",
+        "owner": "RADIO ONE LICENSES, LLC",
+        "city": "GLEN BURNIE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.287667,
+          39.410056
+        ]
+      },
+      "properties": {
+        "id": "64662",
+        "call_sign": "WKTZ-FM",
+        "frequency": "95.9  MHz",
+        "service": "FM",
+        "owner": "BROADCAST COMMUNICATIONS, INC.",
+        "city": "LOCH LYNN HEIGHTS",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.139361,
+          38.422333
+        ]
+      },
+      "properties": {
+        "id": "4674",
+        "call_sign": "WKZP",
+        "frequency": "95.9  MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "WEST OCEAN CITY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.78,
+          39.605083
+        ]
+      },
+      "properties": {
+        "id": "50058",
+        "call_sign": "WICL",
+        "frequency": "95.9  MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "WILLIAMSPORT",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.169444,
+          39.710083
+        ]
+      },
+      "properties": {
+        "id": "145549",
+        "call_sign": "W242AR",
+        "frequency": "96.3  MHz",
+        "service": "FX",
+        "owner": "SPLENDOR OF TRUTH RADIO, INC.",
+        "city": "HANCOCK",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.293361,
+          39.403972
+        ]
+      },
+      "properties": {
+        "id": "22792",
+        "call_sign": "W242AD",
+        "frequency": "96.3  MHz",
+        "service": "FX",
+        "owner": "FROSTBURG STATE UNIVERSITY",
+        "city": "OAKLAND",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.65825,
+          38.375389
+        ]
+      },
+      "properties": {
+        "id": "124825",
+        "call_sign": "WXSU-LP",
+        "frequency": "96.3  MHz",
+        "service": "FL",
+        "owner": "SALISBURY UNIVERSITY",
+        "city": "SALISBURY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.680194,
+          38.198167
+        ]
+      },
+      "properties": {
+        "id": "88405",
+        "call_sign": "WCTG",
+        "frequency": "96.5  MHz",
+        "service": "FM",
+        "owner": "GSB MEDIA, LLC",
+        "city": "WEST POCOMOKE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.649417,
+          39.336222
+        ]
+      },
+      "properties": {
+        "id": "138103",
+        "call_sign": "W244DA",
+        "frequency": "96.7  MHz",
+        "service": "FX",
+        "owner": "BEST MEDIA, INC.",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.556889,
+          39.398417
+        ]
+      },
+      "properties": {
+        "id": "138103",
+        "call_sign": "W244DA",
+        "frequency": "96.7  MHz",
+        "service": "FX",
+        "owner": "BEST MEDIA, INC.",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.092889,
+          38.956167
+        ]
+      },
+      "properties": {
+        "id": "11668",
+        "call_sign": "WCEI-FM",
+        "frequency": "96.7  MHz",
+        "service": "FM",
+        "owner": "WBOC, INC.",
+        "city": "EASTON",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.081889,
+          38.770667
+        ]
+      },
+      "properties": {
+        "id": "11668",
+        "call_sign": "WCEI-FM",
+        "frequency": "96.7  MHz",
+        "service": "FS",
+        "owner": "WBOC, INC.",
+        "city": "EASTON",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.73775,
+          39.617583
+        ]
+      },
+      "properties": {
+        "id": "23469",
+        "call_sign": "WDLD",
+        "frequency": "96.7  MHz",
+        "service": "FM",
+        "owner": "ALPHA MEDIA LICENSEE LLC",
+        "city": "HALFWAY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.157222,
+          39.101944
+        ]
+      },
+      "properties": {
+        "id": "196784",
+        "call_sign": "WQER-LP",
+        "frequency": "96.7  MHz",
+        "service": "FL",
+        "owner": "CHINESE AMERICAN COMMUNITY CONNECTION, INC.",
+        "city": "ROCKVILLE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.886944,
+          39.60175
+        ]
+      },
+      "properties": {
+        "id": "26529",
+        "call_sign": "WZTM",
+        "frequency": "97.1  MHz",
+        "service": "FM",
+        "owner": "SOLID FOUNDATION BROADCASTING CORPORATION",
+        "city": "FROSTBURG",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.252417,
+          38.3615
+        ]
+      },
+      "properties": {
+        "id": "53490",
+        "call_sign": "WAVD",
+        "frequency": "97.1  MHz",
+        "service": "FM",
+        "owner": "FM RADIO LICENSES, LLC",
+        "city": "OCEAN PINES",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.252417,
+          38.3615
+        ]
+      },
+      "properties": {
+        "id": "53490",
+        "call_sign": "WAVD",
+        "frequency": "97.1  MHz",
+        "service": "FS",
+        "owner": "FM RADIO LICENSES, LLC",
+        "city": "OCEAN PINES",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.650528,
+          39.334833
+        ]
+      },
+      "properties": {
+        "id": "154229",
+        "call_sign": "W248AO",
+        "frequency": "97.5  MHz",
+        "service": "FX",
+        "owner": "CALVARY CHAPEL OF MARLTON",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.694722,
+          38.222667
+        ]
+      },
+      "properties": {
+        "id": "791292",
+        "call_sign": "WKTT-FM1",
+        "frequency": "97.5  MHz",
+        "service": "FB",
+        "owner": "ROJO BROADCASTING, LLC",
+        "city": "PRINCESS ANNE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.687667,
+          38.171472
+        ]
+      },
+      "properties": {
+        "id": "791295",
+        "call_sign": "WKTT-FM4",
+        "frequency": "97.5  MHz",
+        "service": "FB",
+        "owner": "ROJO BROADCASTING, LLC",
+        "city": "PRINCESS ANNE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.694722,
+          38.222667
+        ]
+      },
+      "properties": {
+        "id": "791293",
+        "call_sign": "WKTT-FM2",
+        "frequency": "97.5  MHz",
+        "service": "FB",
+        "owner": "ROJO BROADCASTING, LLC",
+        "city": "PRINCESS ANNE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.687667,
+          38.171472
+        ]
+      },
+      "properties": {
+        "id": "791294",
+        "call_sign": "WKTT-FM3",
+        "frequency": "97.5  MHz",
+        "service": "FB",
+        "owner": "ROJO BROADCASTING, LLC",
+        "city": "PRINCESS ANNE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.618667,
+          38.360389
+        ]
+      },
+      "properties": {
+        "id": "53489",
+        "call_sign": "WKTT",
+        "frequency": "97.5  MHz",
+        "service": "FM",
+        "owner": "ROJO BROADCASTING, LLC",
+        "city": "SALISBURY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5605,
+          38.282917
+        ]
+      },
+      "properties": {
+        "id": "61314",
+        "call_sign": "WMDM",
+        "frequency": "97.7  MHz",
+        "service": "FM",
+        "owner": "SOMAR COMMUNICATIONS, INC.",
+        "city": "LEXINGTON PARK",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.650556,
+          39.334722
+        ]
+      },
+      "properties": {
+        "id": "65693",
+        "call_sign": "WIYY",
+        "frequency": "97.9  MHz",
+        "service": "FM",
+        "owner": "HEARST STATIONS INC.",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.650556,
+          39.334722
+        ]
+      },
+      "properties": {
+        "id": "65693",
+        "call_sign": "WIYY",
+        "frequency": "97.9  MHz",
+        "service": "FS",
+        "owner": "HEARST STATIONS INC.",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.650528,
+          39.334833
+        ]
+      },
+      "properties": {
+        "id": "65693",
+        "call_sign": "WIYY",
+        "frequency": "97.9  MHz",
+        "service": "FS",
+        "owner": "HEARST STATIONS INC.",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.751028,
+          38.029278
+        ]
+      },
+      "properties": {
+        "id": "27438",
+        "call_sign": "WBEY-FM",
+        "frequency": "97.9  MHz",
+        "service": "FM",
+        "owner": "GSB MEDIA, LLC",
+        "city": "CRISFIELD",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.751972,
+          39.646194
+        ]
+      },
+      "properties": {
+        "id": "201298",
+        "call_sign": "W250CM",
+        "frequency": "97.9  MHz",
+        "service": "FX",
+        "owner": "FM RADIO LICENSES, LLC",
+        "city": "CUMBERLAND",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.805278,
+          39.138056
+        ]
+      },
+      "properties": {
+        "id": "785428",
+        "call_sign": "WXQA-LP",
+        "frequency": "98.3  MHz",
+        "service": "FL",
+        "owner": "SHORE COMMUNITY BROADCASTING INC.",
+        "city": "BARCLAY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.440778,
+          39.237028
+        ]
+      },
+      "properties": {
+        "id": "154302",
+        "call_sign": "W252BR",
+        "frequency": "98.3  MHz",
+        "service": "FX",
+        "owner": "CHESAPEAKE MEDIA PARTNERS",
+        "city": "EDGEMERE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.774944,
+          38.413722
+        ]
+      },
+      "properties": {
+        "id": "60776",
+        "call_sign": "WSMD-FM",
+        "frequency": "98.3  MHz",
+        "service": "FM",
+        "owner": "SOMAR COMMUNICATIONS, INC.",
+        "city": "MECHANICSVILLE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.169444,
+          39.71
+        ]
+      },
+      "properties": {
+        "id": "778891",
+        "call_sign": "WSPL-LP",
+        "frequency": "98.7  MHz",
+        "service": "FL",
+        "owner": "SPLENDOR OF TRUTH RADIO, INC",
+        "city": "HANCOCK",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.710556,
+          39.626778
+        ]
+      },
+      "properties": {
+        "id": "145088",
+        "call_sign": "W255CP",
+        "frequency": "98.9  MHz",
+        "service": "FX",
+        "owner": "MANNING BROADCASTING, INC.",
+        "city": "HAGERSTOWN",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.627694,
+          38.300111
+        ]
+      },
+      "properties": {
+        "id": "13673",
+        "call_sign": "WSBY-FM",
+        "frequency": "98.9  MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "SALISBURY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.739972,
+          39.030111
+        ]
+      },
+      "properties": {
+        "id": "72177",
+        "call_sign": "WDCH-FM",
+        "frequency": "99.1  MHz",
+        "service": "FM",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "BOWIE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.656639,
+          38.996222
+        ]
+      },
+      "properties": {
+        "id": "72177",
+        "call_sign": "WDCH-FM",
+        "frequency": "99.1  MHz",
+        "service": "FS",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "BOWIE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.656917,
+          38.996222
+        ]
+      },
+      "properties": {
+        "id": "72177",
+        "call_sign": "WDCH-FM",
+        "frequency": "99.1  MHz",
+        "service": "FS",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "BOWIE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.910833,
+          38.863611
+        ]
+      },
+      "properties": {
+        "id": "72177",
+        "call_sign": "WDCH-FM",
+        "frequency": "99.1  MHz",
+        "service": "FS",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "BOWIE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.966389,
+          39.658889
+        ]
+      },
+      "properties": {
+        "id": "780359",
+        "call_sign": "WMQF-LP",
+        "frequency": "99.3  MHz",
+        "service": "FL",
+        "owner": "MARY QUEEN OF THE TRIUMPH RADIO INC",
+        "city": "CLEAR SPRING",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.804444,
+          39.645333
+        ]
+      },
+      "properties": {
+        "id": "177584",
+        "call_sign": "WDZN-FM1",
+        "frequency": "99.5  MHz",
+        "service": "FB",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "CUMBERLAND",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.710556,
+          39.626778
+        ]
+      },
+      "properties": {
+        "id": "141670",
+        "call_sign": "W258DA",
+        "frequency": "99.5  MHz",
+        "service": "FX",
+        "owner": "FOUR RIVERS COMMUNITY BROADCASTING CORP.",
+        "city": "HAGERSTOWN",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96175,
+          39.674944
+        ]
+      },
+      "properties": {
+        "id": "166026",
+        "call_sign": "WDZN",
+        "frequency": "99.5  MHz",
+        "service": "FM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "MIDLAND",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.06825,
+          38.388444
+        ]
+      },
+      "properties": {
+        "id": "194742",
+        "call_sign": "WPSB-LP",
+        "frequency": "99.5  MHz",
+        "service": "FL",
+        "owner": "TOWN OF OCEAN CITY",
+        "city": "OCEAN CITY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3555,
+          39.438417
+        ]
+      },
+      "properties": {
+        "id": "154111",
+        "call_sign": "W260BV",
+        "frequency": "99.9  MHz",
+        "service": "FX",
+        "owner": "M-10 BROADCASTING, INC.",
+        "city": "ABERDEEN",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.778083,
+          39.634528
+        ]
+      },
+      "properties": {
+        "id": "78609",
+        "call_sign": "W260BP",
+        "frequency": "99.9  MHz",
+        "service": "FX",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "CUMBERLAND",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.499167,
+          39.500111
+        ]
+      },
+      "properties": {
+        "id": "31139",
+        "call_sign": "WFRE",
+        "frequency": "99.9  MHz",
+        "service": "FM",
+        "owner": "DAVIS MEDIA, LLC",
+        "city": "FREDERICK",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.499167,
+          39.5
+        ]
+      },
+      "properties": {
+        "id": "31139",
+        "call_sign": "WFRE",
+        "frequency": "99.9  MHz",
+        "service": "FS",
+        "owner": "DAVIS MEDIA, LLC",
+        "city": "FREDERICK",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.715403,
+          38.415361
+        ]
+      },
+      "properties": {
+        "id": "778368",
+        "call_sign": "WBPN-LP",
+        "frequency": "99.9  MHz",
+        "service": "FL",
+        "owner": "GOSPEL LIGHT BAPTIST CHURCH",
+        "city": "MECHANICSVILLE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.139361,
+          38.422333
+        ]
+      },
+      "properties": {
+        "id": "74179",
+        "call_sign": "WWFG",
+        "frequency": "99.9  MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "OCEAN CITY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.15075,
+          38.335389
+        ]
+      },
+      "properties": {
+        "id": "74179",
+        "call_sign": "WWFG",
+        "frequency": "99.9  MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "OCEAN CITY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.608556,
+          39.28675
+        ]
+      },
+      "properties": {
+        "id": "59981",
+        "call_sign": "W261CD",
+        "frequency": "100.1 MHz",
+        "service": "FX",
+        "owner": "SHAMROCK COMMUNICATIONS, INC.",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.944444,
+          39.591944
+        ]
+      },
+      "properties": {
+        "id": "154145",
+        "call_sign": "W261EE",
+        "frequency": "100.1 MHz",
+        "service": "FX",
+        "owner": "SWEET TEA RADIO, LLC",
+        "city": "CHESAPEAKE CITY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.979611,
+          39.084639
+        ]
+      },
+      "properties": {
+        "id": "20542",
+        "call_sign": "W261AE",
+        "frequency": "100.1 MHz",
+        "service": "FX",
+        "owner": "HOMETOWN MULTIMEDIA, LLC",
+        "city": "CHESTERVILLE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.175194,
+          38.381222
+        ]
+      },
+      "properties": {
+        "id": "193877",
+        "call_sign": "WWOP-LP",
+        "frequency": "100.3 MHz",
+        "service": "FL",
+        "owner": "TOWN OF OCEAN CITY",
+        "city": "OCEAN CITY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.850722,
+          38.898056
+        ]
+      },
+      "properties": {
+        "id": "141359",
+        "call_sign": "W263CW",
+        "frequency": "100.5 MHz",
+        "service": "FX",
+        "owner": "POSITIVE ALTERNATIVE RADIO, INC.",
+        "city": "DENTON",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.710556,
+          39.626778
+        ]
+      },
+      "properties": {
+        "id": "141628",
+        "call_sign": "W263CR",
+        "frequency": "100.5 MHz",
+        "service": "FX",
+        "owner": "MANNING BROADCASTING INC.",
+        "city": "HALFWAY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6,
+          38.367778
+        ]
+      },
+      "properties": {
+        "id": "194108",
+        "call_sign": "WRBY-LP",
+        "frequency": "100.5 MHz",
+        "service": "FL",
+        "owner": "REBIRTH INC.",
+        "city": "SALISBURY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.605139,
+          38.368056
+        ]
+      },
+      "properties": {
+        "id": "194108",
+        "call_sign": "WRBY-LP",
+        "frequency": "100.5 MHz",
+        "service": "FL",
+        "owner": "REBIRTH INC.",
+        "city": "SALISBURY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.559722,
+          38.282222
+        ]
+      },
+      "properties": {
+        "id": "202822",
+        "call_sign": "W264DR",
+        "frequency": "100.7 MHz",
+        "service": "FX",
+        "owner": "SOMAR COMMUNICATIONS, INC.",
+        "city": "LEXINGTON PARK",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.779694,
+          39.447333
+        ]
+      },
+      "properties": {
+        "id": "59985",
+        "call_sign": "WZBA",
+        "frequency": "100.7 MHz",
+        "service": "FM",
+        "owner": "SHAMROCK COMMUNICATIONS, INC.",
+        "city": "WESTMINSTER",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.86025,
+          39.6165
+        ]
+      },
+      "properties": {
+        "id": "59985",
+        "call_sign": "WZBA",
+        "frequency": "100.7 MHz",
+        "service": "FS",
+        "owner": "SHAMROCK COMMUNICATIONS, INC.",
+        "city": "WESTMINSTER",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.79575,
+          39.594556
+        ]
+      },
+      "properties": {
+        "id": "141390",
+        "call_sign": "W265BG",
+        "frequency": "100.9 MHz",
+        "service": "FX",
+        "owner": "PRIORITY RADIO, INC.",
+        "city": "ELKTON",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.888556,
+          38.624556
+        ]
+      },
+      "properties": {
+        "id": "2417",
+        "call_sign": "WAAI",
+        "frequency": "100.9 MHz",
+        "service": "FM",
+        "owner": "WBOC, INC.",
+        "city": "HURLOCK",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.322139,
+          38.215944
+        ]
+      },
+      "properties": {
+        "id": "88291",
+        "call_sign": "WICO-FM",
+        "frequency": "101.1 MHz",
+        "service": "FM",
+        "owner": "GSB MEDIA, LLC",
+        "city": "SNOW HILL",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.078361,
+          39.382861
+        ]
+      },
+      "properties": {
+        "id": "19717",
+        "call_sign": "WWPN",
+        "frequency": "101.1 MHz",
+        "service": "FM",
+        "owner": "STUDIO C, LLC",
+        "city": "WESTERNPORT",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.650556,
+          39.334722
+        ]
+      },
+      "properties": {
+        "id": "154255",
+        "call_sign": "W268BA",
+        "frequency": "101.5 MHz",
+        "service": "FX",
+        "owner": "HEARST STATIONS INC.",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.554417,
+          39.418722
+        ]
+      },
+      "properties": {
+        "id": "28637",
+        "call_sign": "WLIF",
+        "frequency": "101.9 MHz",
+        "service": "FM",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.650556,
+          39.334722
+        ]
+      },
+      "properties": {
+        "id": "28637",
+        "call_sign": "WLIF",
+        "frequency": "101.9 MHz",
+        "service": "FS",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.650556,
+          39.334722
+        ]
+      },
+      "properties": {
+        "id": "28637",
+        "call_sign": "WLIF",
+        "frequency": "101.9 MHz",
+        "service": "FS",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.554417,
+          39.418722
+        ]
+      },
+      "properties": {
+        "id": "28637",
+        "call_sign": "WLIF",
+        "frequency": "101.9 MHz",
+        "service": "FS",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.650556,
+          39.334722
+        ]
+      },
+      "properties": {
+        "id": "28637",
+        "call_sign": "WLIF",
+        "frequency": "101.9 MHz",
+        "service": "FS",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.741917,
+          39.643917
+        ]
+      },
+      "properties": {
+        "id": "144777",
+        "call_sign": "W271AT",
+        "frequency": "102.1 MHz",
+        "service": "FX",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "CUMBERLAND",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.741917,
+          39.643944
+        ]
+      },
+      "properties": {
+        "id": "144777",
+        "call_sign": "W271AT",
+        "frequency": "102.1 MHz",
+        "service": "FX",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "CUMBERLAND",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.710556,
+          39.626778
+        ]
+      },
+      "properties": {
+        "id": "155478",
+        "call_sign": "W271BV",
+        "frequency": "102.1 MHz",
+        "service": "FX",
+        "owner": "MANNING BROADCASTING, INC",
+        "city": "HAGERSTOWN",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.666306,
+          39.338222
+        ]
+      },
+      "properties": {
+        "id": "154196",
+        "call_sign": "W272BJ",
+        "frequency": "102.3 MHz",
+        "service": "FX",
+        "owner": "CHESAPEAKE MEDIA PARTNERS",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.092194,
+          38.936222
+        ]
+      },
+      "properties": {
+        "id": "54712",
+        "call_sign": "WMMJ",
+        "frequency": "102.3 MHz",
+        "service": "FM",
+        "owner": "RADIO ONE LICENSES, LLC",
+        "city": "BETHESDA",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.081361,
+          38.940111
+        ]
+      },
+      "properties": {
+        "id": "54712",
+        "call_sign": "WMMJ",
+        "frequency": "102.3 MHz",
+        "service": "FS",
+        "owner": "RADIO ONE LICENSES, LLC",
+        "city": "BETHESDA",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.003861,
+          38.955389
+        ]
+      },
+      "properties": {
+        "id": "54712",
+        "call_sign": "WMMJ",
+        "frequency": "102.3 MHz",
+        "service": "FS",
+        "owner": "RADIO ONE LICENSES, LLC",
+        "city": "BETHESDA",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.088556,
+          39.226472
+        ]
+      },
+      "properties": {
+        "id": "154196",
+        "call_sign": "W272BJ",
+        "frequency": "102.3 MHz",
+        "service": "FX",
+        "owner": "CHESAPEAKE MEDIA PARTNERS",
+        "city": "FAIRLEE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.022472,
+          39.577333
+        ]
+      },
+      "properties": {
+        "id": "141642",
+        "call_sign": "W272CX",
+        "frequency": "102.3 MHz",
+        "service": "FX",
+        "owner": "HILLTOP COMMUNICATIONS, LLC",
+        "city": "WESTMINSTER",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.654167,
+          38.113056
+        ]
+      },
+      "properties": {
+        "id": "39894",
+        "call_sign": "WBOC-FM",
+        "frequency": "102.5 MHz",
+        "service": "FM",
+        "owner": "WBOC, INC.",
+        "city": "PRINCESS ANNE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.730806,
+          39.386472
+        ]
+      },
+      "properties": {
+        "id": "63778",
+        "call_sign": "WQSR",
+        "frequency": "102.7 MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.649417,
+          39.336222
+        ]
+      },
+      "properties": {
+        "id": "63778",
+        "call_sign": "WQSR",
+        "frequency": "102.7 MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.614944,
+          38.367611
+        ]
+      },
+      "properties": {
+        "id": "60777",
+        "call_sign": "WKIK",
+        "frequency": "102.9 MHz",
+        "service": "FM",
+        "owner": "SOMAR COMMUNICATIONS, INC.",
+        "city": "CALIFORNIA",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.616389,
+          38.360833
+        ]
+      },
+      "properties": {
+        "id": "202562",
+        "call_sign": "W275CX",
+        "frequency": "102.9 MHz",
+        "service": "FX",
+        "owner": "THE VOICE RADIO, LLC",
+        "city": "SALISBURY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.778944,
+          39.674611
+        ]
+      },
+      "properties": {
+        "id": "202628",
+        "call_sign": "W276DQ",
+        "frequency": "103.1 MHz",
+        "service": "FX",
+        "owner": "CUMBERLAND BROADCASTING COMPANY",
+        "city": "CUMBERLAND",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.178278,
+          38.943722
+        ]
+      },
+      "properties": {
+        "id": "70351",
+        "call_sign": "WRHS",
+        "frequency": "103.1 MHz",
+        "service": "FM",
+        "owner": "PETER AND JOHN RADIO FELLOWSHIP INC.",
+        "city": "GRASONVILLE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.381667,
+          39.693889
+        ]
+      },
+      "properties": {
+        "id": "781585",
+        "call_sign": "WJOS-LP",
+        "frequency": "103.1 MHz",
+        "service": "FL",
+        "owner": "SAINT JOSEPH PROTECTOR OF FAMILIES RADIO, INC.",
+        "city": "LITTLE ORLEANS",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.500556,
+          39.418167
+        ]
+      },
+      "properties": {
+        "id": "3728",
+        "call_sign": "WAFY",
+        "frequency": "103.1 MHz",
+        "service": "FM",
+        "owner": "MANNING BROADCASTING INC.",
+        "city": "MIDDLETOWN",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.500806,
+          39.418139
+        ]
+      },
+      "properties": {
+        "id": "3728",
+        "call_sign": "WAFY",
+        "frequency": "103.1 MHz",
+        "service": "FS",
+        "owner": "MANNING BROADCASTING INC.",
+        "city": "MIDDLETOWN",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.500806,
+          39.418139
+        ]
+      },
+      "properties": {
+        "id": "3728",
+        "call_sign": "WAFY",
+        "frequency": "103.1 MHz",
+        "service": "FS",
+        "owner": "MANNING BROADCASTING INC.",
+        "city": "MIDDLETOWN",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.89975,
+          39.580917
+        ]
+      },
+      "properties": {
+        "id": "9724",
+        "call_sign": "W278BL",
+        "frequency": "103.5 MHz",
+        "service": "FX",
+        "owner": "CEDAR RIDGE CHILDREN'S HOME & SCHOOL, INC",
+        "city": "CUMBERLAND, ETC.",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.101611,
+          39.564556
+        ]
+      },
+      "properties": {
+        "id": "53488",
+        "call_sign": "WXCY-FM",
+        "frequency": "103.7 MHz",
+        "service": "FM",
+        "owner": "WBOC, INC.",
+        "city": "HAVRE DE GRACE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.118556,
+          39.565389
+        ]
+      },
+      "properties": {
+        "id": "53488",
+        "call_sign": "WXCY-FM",
+        "frequency": "103.7 MHz",
+        "service": "FS",
+        "owner": "WBOC, INC.",
+        "city": "HAVRE DE GRACE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.31575,
+          38.382889
+        ]
+      },
+      "properties": {
+        "id": "47107",
+        "call_sign": "WRDE-FM",
+        "frequency": "103.9 MHz",
+        "service": "FM",
+        "owner": "WBOC, INC.",
+        "city": "BERLIN",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.494972,
+          39.464806
+        ]
+      },
+      "properties": {
+        "id": "47105",
+        "call_sign": "WTLP",
+        "frequency": "103.9 MHz",
+        "service": "FM",
+        "owner": "WASHINGTON DC FCC LICENSE SUB, LLC",
+        "city": "BRADDOCK HEIGHTS",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.494972,
+          39.464806
+        ]
+      },
+      "properties": {
+        "id": "47105",
+        "call_sign": "WTLP",
+        "frequency": "103.9 MHz",
+        "service": "FS",
+        "owner": "WASHINGTON DC FCC LICENSE SUB, LLC",
+        "city": "BRADDOCK HEIGHTS",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.843861,
+          38.618833
+        ]
+      },
+      "properties": {
+        "id": "74212",
+        "call_sign": "WLNO",
+        "frequency": "104.1 MHz",
+        "service": "FM",
+        "owner": "RADIO ONE LICENSES, LLC",
+        "city": "WALDORF",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.003861,
+          38.955389
+        ]
+      },
+      "properties": {
+        "id": "74212",
+        "call_sign": "WLNO",
+        "frequency": "104.1 MHz",
+        "service": "FS",
+        "owner": "RADIO ONE LICENSES, LLC",
+        "city": "WALDORF",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.843861,
+          38.618722
+        ]
+      },
+      "properties": {
+        "id": "74212",
+        "call_sign": "WLNO",
+        "frequency": "104.1 MHz",
+        "service": "FS",
+        "owner": "RADIO ONE LICENSES, LLC",
+        "city": "WALDORF",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.649417,
+          39.336222
+        ]
+      },
+      "properties": {
+        "id": "8684",
+        "call_sign": "WZFT",
+        "frequency": "104.3 MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.599972,
+          39.314
+        ]
+      },
+      "properties": {
+        "id": "8684",
+        "call_sign": "WZFT",
+        "frequency": "104.3 MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.449972,
+          39.429278
+        ]
+      },
+      "properties": {
+        "id": "8684",
+        "call_sign": "WZFT",
+        "frequency": "104.3 MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.649417,
+          39.336222
+        ]
+      },
+      "properties": {
+        "id": "8684",
+        "call_sign": "WZFT",
+        "frequency": "104.3 MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.725556,
+          39.667861
+        ]
+      },
+      "properties": {
+        "id": "200409",
+        "call_sign": "W282CR",
+        "frequency": "104.3 MHz",
+        "service": "FX",
+        "owner": "HAGERSTOWN BROADCASTING COMPANY",
+        "city": "HAGERSTOWN",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.591861,
+          38.385944
+        ]
+      },
+      "properties": {
+        "id": "152275",
+        "call_sign": "W282AW",
+        "frequency": "104.3 MHz",
+        "service": "FX",
+        "owner": "WBOC, INC.",
+        "city": "SALISBURY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.287667,
+          39.410056
+        ]
+      },
+      "properties": {
+        "id": "61304",
+        "call_sign": "WKHJ",
+        "frequency": "104.5 MHz",
+        "service": "FM",
+        "owner": "BROADCAST COMMUNICATIONS, INC.",
+        "city": "MOUNTAIN LAKE PARK",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.367,
+          39.393389
+        ]
+      },
+      "properties": {
+        "id": "61304",
+        "call_sign": "WKHJ",
+        "frequency": "104.5 MHz",
+        "service": "FS",
+        "owner": "BROADCAST COMMUNICATIONS, INC.",
+        "city": "MOUNTAIN LAKE PARK",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.454222,
+          38.979028
+        ]
+      },
+      "properties": {
+        "id": "192596",
+        "call_sign": "WYZT-LP",
+        "frequency": "104.7 MHz",
+        "service": "FL",
+        "owner": "MARYLAND HALL FOR THE CREATIVE ARTS, INC",
+        "city": "ANNAPOLIS",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.454222,
+          38.979028
+        ]
+      },
+      "properties": {
+        "id": "192596",
+        "call_sign": "WYZT-LP",
+        "frequency": "104.7 MHz",
+        "service": "FL",
+        "owner": "MARYLAND HALL FOR THE CREATIVE ARTS, INC",
+        "city": "ANNAPOLIS",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.51275,
+          39.696472
+        ]
+      },
+      "properties": {
+        "id": "25827",
+        "call_sign": "WRYS",
+        "frequency": "104.7 MHz",
+        "service": "FM",
+        "owner": "PETER AND JOHN RADIO FELLOWSHIP, INC.",
+        "city": "HAGERSTOWN",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.190833,
+          39.508611
+        ]
+      },
+      "properties": {
+        "id": "146400",
+        "call_sign": "W284BE",
+        "frequency": "104.7 MHz",
+        "service": "FX",
+        "owner": "SWEET TEA RADIO, LLC",
+        "city": "HAVRE DE GRACE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.101611,
+          39.564556
+        ]
+      },
+      "properties": {
+        "id": "146400",
+        "call_sign": "W284BE",
+        "frequency": "104.7 MHz",
+        "service": "FX",
+        "owner": "SWEET TEA RADIO, LLC",
+        "city": "HAVRE DE GRACE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.291278,
+          38.387611
+        ]
+      },
+      "properties": {
+        "id": "28166",
+        "call_sign": "WQHQ",
+        "frequency": "104.7 MHz",
+        "service": "FM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "OCEAN CITY-SALISBURY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.290556,
+          38.386667
+        ]
+      },
+      "properties": {
+        "id": "28166",
+        "call_sign": "WQHQ",
+        "frequency": "104.7 MHz",
+        "service": "FS",
+        "owner": "IHM LICENSES, LLC",
+        "city": "OCEAN CITY-SALISBURY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7875,
+          38.759889
+        ]
+      },
+      "properties": {
+        "id": "779197",
+        "call_sign": "WAGC-LP",
+        "frequency": "104.7 MHz",
+        "service": "FL",
+        "owner": "ARTSGROUP INCORPORATED",
+        "city": "UPPER MARLBORO",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.554417,
+          39.418722
+        ]
+      },
+      "properties": {
+        "id": "154214",
+        "call_sign": "W285EJ",
+        "frequency": "104.9 MHz",
+        "service": "FX",
+        "owner": "CALVARY CHAPEL OF MARLTON",
+        "city": "WHITE MARSH",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.055444,
+          38.420111
+        ]
+      },
+      "properties": {
+        "id": "150318",
+        "call_sign": "W286BB",
+        "frequency": "105.1 MHz",
+        "service": "FX",
+        "owner": "WBOC, INC.",
+        "city": "OCEAN PINES",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.965028,
+          39.683528
+        ]
+      },
+      "properties": {
+        "id": "71869",
+        "call_sign": "WFRB-FM",
+        "frequency": "105.3 MHz",
+        "service": "FM",
+        "owner": "FM RADIO LICENSES, LLC",
+        "city": "FROSTBURG",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.598806,
+          38.407333
+        ]
+      },
+      "properties": {
+        "id": "28167",
+        "call_sign": "WLDW",
+        "frequency": "105.5 MHz",
+        "service": "FM",
+        "owner": "K-LOVE, INC.",
+        "city": "SALISBURY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.548583,
+          39.324
+        ]
+      },
+      "properties": {
+        "id": "1916",
+        "call_sign": "WJZ-FM",
+        "frequency": "105.7 MHz",
+        "service": "FM",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "CATONSVILLE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.548556,
+          39.324
+        ]
+      },
+      "properties": {
+        "id": "1916",
+        "call_sign": "WJZ-FM",
+        "frequency": "105.7 MHz",
+        "service": "FS",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "CATONSVILLE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.650556,
+          39.334722
+        ]
+      },
+      "properties": {
+        "id": "1916",
+        "call_sign": "WJZ-FM",
+        "frequency": "105.7 MHz",
+        "service": "FS",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "CATONSVILLE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.899444,
+          39.581194
+        ]
+      },
+      "properties": {
+        "id": "71867",
+        "call_sign": "W289BR",
+        "frequency": "105.7 MHz",
+        "service": "FX",
+        "owner": "FM RADIO LICENSES, LLC",
+        "city": "CUMBERLAND",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.650528,
+          39.334833
+        ]
+      },
+      "properties": {
+        "id": "141926",
+        "call_sign": "W291BA",
+        "frequency": "106.1 MHz",
+        "service": "FX",
+        "owner": "CALVARY CHAPEL OF MARLTON",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.899444,
+          39.581139
+        ]
+      },
+      "properties": {
+        "id": "74083",
+        "call_sign": "WRQE",
+        "frequency": "106.1 MHz",
+        "service": "FM",
+        "owner": "FM RADIO LICENSES, LLC",
+        "city": "CUMBERLAND",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.537972,
+          38.076778
+        ]
+      },
+      "properties": {
+        "id": "67576",
+        "call_sign": "WBBX",
+        "frequency": "106.1 MHz",
+        "service": "FM",
+        "owner": "VINCO MEDIA, LLC",
+        "city": "POCOMOKE CITY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.188972,
+          38.483833
+        ]
+      },
+      "properties": {
+        "id": "46940",
+        "call_sign": "WCEM-FM",
+        "frequency": "106.3 MHz",
+        "service": "FM",
+        "owner": "WBOC, INC.",
+        "city": "CAMBRIDGE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.499972,
+          39.494806
+        ]
+      },
+      "properties": {
+        "id": "201172",
+        "call_sign": "W292FR",
+        "frequency": "106.3 MHz",
+        "service": "FX",
+        "owner": "MANNING BROADCASTING, INC.",
+        "city": "FREDERICK",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.650556,
+          39.334722
+        ]
+      },
+      "properties": {
+        "id": "74196",
+        "call_sign": "WWMX",
+        "frequency": "106.5 MHz",
+        "service": "FM",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5545,
+          39.418611
+        ]
+      },
+      "properties": {
+        "id": "74196",
+        "call_sign": "WWMX",
+        "frequency": "106.5 MHz",
+        "service": "FS",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.650556,
+          39.334722
+        ]
+      },
+      "properties": {
+        "id": "74196",
+        "call_sign": "WWMX",
+        "frequency": "106.5 MHz",
+        "service": "FS",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.219167,
+          38.315
+        ]
+      },
+      "properties": {
+        "id": "787905",
+        "call_sign": "WTRA-LP",
+        "frequency": "106.5 MHz",
+        "service": "FL",
+        "owner": "FAITH BAPTIST CHURCH OF BERLIN, MARYLAND",
+        "city": "BERLIN",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.569361,
+          38.053167
+        ]
+      },
+      "properties": {
+        "id": "202559",
+        "call_sign": "W293DN",
+        "frequency": "106.5 MHz",
+        "service": "FX",
+        "owner": "THE WATERS GROUP, LLC",
+        "city": "POCOMOKE CITY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.899444,
+          39.581194
+        ]
+      },
+      "properties": {
+        "id": "201202",
+        "call_sign": "W294CF",
+        "frequency": "106.7 MHz",
+        "service": "FX",
+        "owner": "FM RADIO LICENSES, LLC",
+        "city": "FROSTBURG",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.491111,
+          39.311667
+        ]
+      },
+      "properties": {
+        "id": "20834",
+        "call_sign": "W295BX",
+        "frequency": "106.9 MHz",
+        "service": "FX",
+        "owner": "LOAM MEDIA, INC.",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.088556,
+          39.226472
+        ]
+      },
+      "properties": {
+        "id": "141573",
+        "call_sign": "W295CJ",
+        "frequency": "106.9 MHz",
+        "service": "FX",
+        "owner": "CALVARY CHAPEL OF MARLTON",
+        "city": "CHESTERTOWN",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.611389,
+          39.499278
+        ]
+      },
+      "properties": {
+        "id": "39806",
+        "call_sign": "WWEG",
+        "frequency": "106.9 MHz",
+        "service": "FM",
+        "owner": "MANNING BROADCASTING INC.",
+        "city": "MYERSVILLE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.196861,
+          38.327611
+        ]
+      },
+      "properties": {
+        "id": "29564",
+        "call_sign": "WYPO",
+        "frequency": "106.9 MHz",
+        "service": "FM",
+        "owner": "WYPR LICENSE HOLDING LLC",
+        "city": "OCEAN CITY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.74575,
+          38.767333
+        ]
+      },
+      "properties": {
+        "id": "51149",
+        "call_sign": "WTDK",
+        "frequency": "107.1 MHz",
+        "service": "FM",
+        "owner": "WBOC, INC.",
+        "city": "FEDERALSBURG",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.858111,
+          37.979694
+        ]
+      },
+      "properties": {
+        "id": "191707",
+        "call_sign": "WBYC-LP",
+        "frequency": "107.3 MHz",
+        "service": "FL",
+        "owner": "THE SOMERSET COUNTY ARTS COUNCIL",
+        "city": "CRISFIELD",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.073278,
+          39.589556
+        ]
+      },
+      "properties": {
+        "id": "124828",
+        "call_sign": "WMVK-LP",
+        "frequency": "107.3 MHz",
+        "service": "FL",
+        "owner": "STATE OF MARYLAND, MDOT, MARYLAND TRANSIT ADMN.",
+        "city": "PERRYVILLE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.073417,
+          39.589528
+        ]
+      },
+      "properties": {
+        "id": "124828",
+        "call_sign": "WMVK-LP",
+        "frequency": "107.3 MHz",
+        "service": "FL",
+        "owner": "STATE OF MARYLAND, MDOT, MARYLAND TRANSIT ADMN.",
+        "city": "PERRYVILLE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.348472,
+          39.534861
+        ]
+      },
+      "properties": {
+        "id": "86135",
+        "call_sign": "W298CG",
+        "frequency": "107.5 MHz",
+        "service": "FX",
+        "owner": "SHAMROCK COMMUNICATIONS, INC.",
+        "city": "BEL AIR",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.414361,
+          38.383444
+        ]
+      },
+      "properties": {
+        "id": "4107",
+        "call_sign": "WGBG-FM",
+        "frequency": "107.7 MHz",
+        "service": "FM",
+        "owner": "WBOC, INC.",
+        "city": "FRUITLAND",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.656639,
+          38.996111
+        ]
+      },
+      "properties": {
+        "id": "20983",
+        "call_sign": "WLZL",
+        "frequency": "107.9 MHz",
+        "service": "FM",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "COLLEGE PARK",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.656639,
+          38.996222
+        ]
+      },
+      "properties": {
+        "id": "20983",
+        "call_sign": "WLZL",
+        "frequency": "107.9 MHz",
+        "service": "FS",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "COLLEGE PARK",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.910833,
+          38.863611
+        ]
+      },
+      "properties": {
+        "id": "20983",
+        "call_sign": "WLZL",
+        "frequency": "107.9 MHz",
+        "service": "FS",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "COLLEGE PARK",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.056306,
+          38.4165
+        ]
+      },
+      "properties": {
+        "id": "123612",
+        "call_sign": "WEES-LP",
+        "frequency": "107.9 MHz",
+        "service": "FL",
+        "owner": "EDINBORO EARLY SCHOOL, INC.",
+        "city": "OCEAN CITY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.569361,
+          38.053167
+        ]
+      },
+      "properties": {
+        "id": "5347",
+        "call_sign": "WGOP",
+        "frequency": "540   kHz",
+        "service": "AM",
+        "owner": "THE WATERS GROUP, LLC",
+        "city": "POCOMOKE CITY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.569361,
+          38.053167
+        ]
+      },
+      "properties": {
+        "id": "5347",
+        "call_sign": "WGOP",
+        "frequency": "540   kHz",
+        "service": "AM",
+        "owner": "THE WATERS GROUP, LLC",
+        "city": "POCOMOKE CITY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.965028,
+          39.683528
+        ]
+      },
+      "properties": {
+        "id": "71868",
+        "call_sign": "WFRB",
+        "frequency": "560   kHz",
+        "service": "AM",
+        "owner": "FM RADIO LICENSES, LLC",
+        "city": "FROSTBURG",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.965028,
+          39.683528
+        ]
+      },
+      "properties": {
+        "id": "71868",
+        "call_sign": "WFRB",
+        "frequency": "560   kHz",
+        "service": "AM",
+        "owner": "FM RADIO LICENSES, LLC",
+        "city": "FROSTBURG",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.303583,
+          39.134278
+        ]
+      },
+      "properties": {
+        "id": "11846",
+        "call_sign": "WWRC",
+        "frequency": "570   kHz",
+        "service": "AM",
+        "owner": "SALEM COMMUNICATIONS HOLDING CORPORATION",
+        "city": "BETHESDA",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.303583,
+          39.134278
+        ]
+      },
+      "properties": {
+        "id": "11846",
+        "call_sign": "WWRC",
+        "frequency": "570   kHz",
+        "service": "AM",
+        "owner": "SALEM COMMUNICATIONS HOLDING CORPORATION",
+        "city": "BETHESDA",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.761361,
+          39.429833
+        ]
+      },
+      "properties": {
+        "id": "63777",
+        "call_sign": "WCAO",
+        "frequency": "600   kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.85775,
+          39.374278
+        ]
+      },
+      "properties": {
+        "id": "4759",
+        "call_sign": "WCBM",
+        "frequency": "680   kHz",
+        "service": "AM",
+        "owner": "WCBM MARYLAND, INC.",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.85775,
+          39.374278
+        ]
+      },
+      "properties": {
+        "id": "4759",
+        "call_sign": "WCBM",
+        "frequency": "680   kHz",
+        "service": "AM",
+        "owner": "WCBM MARYLAND, INC.",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.323861,
+          39.457611
+        ]
+      },
+      "properties": {
+        "id": "19235",
+        "call_sign": "WDMV",
+        "frequency": "700   kHz",
+        "service": "AM",
+        "owner": "BIRACH BROADCASTING CORPORATION",
+        "city": "WALKERSVILLE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.491083,
+          39.311778
+        ]
+      },
+      "properties": {
+        "id": "1913",
+        "call_sign": "WBMD",
+        "frequency": "750   kHz",
+        "service": "AM",
+        "owner": "RELEVANT RADIO, INC.",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.507472,
+          38.970389
+        ]
+      },
+      "properties": {
+        "id": "70352",
+        "call_sign": "WYRE",
+        "frequency": "810   kHz",
+        "service": "AM",
+        "owner": "CORTONA MEDIA LLC",
+        "city": "ANNAPOLIS",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.471944,
+          39.411778
+        ]
+      },
+      "properties": {
+        "id": "47104",
+        "call_sign": "WSHE",
+        "frequency": "820   kHz",
+        "service": "AM",
+        "owner": "WASHINGTON DC FCC LICENSE SUB, LLC",
+        "city": "FREDERICK",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.471944,
+          39.411778
+        ]
+      },
+      "properties": {
+        "id": "47104",
+        "call_sign": "WSHE",
+        "frequency": "820   kHz",
+        "service": "AM",
+        "owner": "WASHINGTON DC FCC LICENSE SUB, LLC",
+        "city": "FREDERICK",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.852444,
+          38.898167
+        ]
+      },
+      "properties": {
+        "id": "4131",
+        "call_sign": "WKDI",
+        "frequency": "840   kHz",
+        "service": "AM",
+        "owner": "POSITIVE ALTERNATIVE RADIO, INC.",
+        "city": "DENTON",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.49025,
+          39.312056
+        ]
+      },
+      "properties": {
+        "id": "43864",
+        "call_sign": "WFSI",
+        "frequency": "860   kHz",
+        "service": "AM",
+        "owner": "LOAM MEDIA, INC.",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.49025,
+          39.312056
+        ]
+      },
+      "properties": {
+        "id": "43864",
+        "call_sign": "WFSI",
+        "frequency": "860   kHz",
+        "service": "AM",
+        "owner": "LOAM MEDIA, INC.",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.838306,
+          39.082611
+        ]
+      },
+      "properties": {
+        "id": "28279",
+        "call_sign": "WACA",
+        "frequency": "900   kHz",
+        "service": "AM",
+        "owner": "ACR MEDIA, INC.",
+        "city": "LAUREL",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.838306,
+          39.082611
+        ]
+      },
+      "properties": {
+        "id": "28279",
+        "call_sign": "WACA",
+        "frequency": "900   kHz",
+        "service": "AM",
+        "owner": "ACR MEDIA, INC.",
+        "city": "LAUREL",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.461083,
+          39.415389
+        ]
+      },
+      "properties": {
+        "id": "31136",
+        "call_sign": "WFMD",
+        "frequency": "930   kHz",
+        "service": "AM",
+        "owner": "DAVIS MEDIA, LLC",
+        "city": "FREDERICK",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.461083,
+          39.415389
+        ]
+      },
+      "properties": {
+        "id": "31136",
+        "call_sign": "WFMD",
+        "frequency": "930   kHz",
+        "service": "AM",
+        "owner": "DAVIS MEDIA, LLC",
+        "city": "FREDERICK",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.202194,
+          39.036778
+        ]
+      },
+      "properties": {
+        "id": "59711",
+        "call_sign": "WCTN",
+        "frequency": "950   kHz",
+        "service": "AM",
+        "owner": "WIN RADIO BROADCASTING CORPORATION",
+        "city": "POTOMAC-CABIN JOHN",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.202194,
+          39.036778
+        ]
+      },
+      "properties": {
+        "id": "59711",
+        "call_sign": "WCTN",
+        "frequency": "950   kHz",
+        "service": "AM",
+        "owner": "WIN RADIO BROADCASTING CORPORATION",
+        "city": "POTOMAC-CABIN JOHN",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.623528,
+          38.429
+        ]
+      },
+      "properties": {
+        "id": "28165",
+        "call_sign": "WTGM",
+        "frequency": "960   kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "SALISBURY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.623528,
+          38.429
+        ]
+      },
+      "properties": {
+        "id": "28165",
+        "call_sign": "WTGM",
+        "frequency": "960   kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "SALISBURY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.193556,
+          39.509833
+        ]
+      },
+      "properties": {
+        "id": "39550",
+        "call_sign": "WAMD",
+        "frequency": "970   kHz",
+        "service": "AM",
+        "owner": "SWEET TEA RADIO, LLC",
+        "city": "ABERDEEN",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.193556,
+          39.509833
+        ]
+      },
+      "properties": {
+        "id": "39550",
+        "call_sign": "WAMD",
+        "frequency": "970   kHz",
+        "service": "AM",
+        "owner": "SWEET TEA RADIO, LLC",
+        "city": "ABERDEEN",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.568861,
+          39.301778
+        ]
+      },
+      "properties": {
+        "id": "54711",
+        "call_sign": "WOLB",
+        "frequency": "1010  kHz",
+        "service": "AM",
+        "owner": "RADIO ONE LICENSES, LLC",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.568861,
+          39.301778
+        ]
+      },
+      "properties": {
+        "id": "54711",
+        "call_sign": "WOLB",
+        "frequency": "1010  kHz",
+        "service": "AM",
+        "owner": "RADIO ONE LICENSES, LLC",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.81775,
+          38.565667
+        ]
+      },
+      "properties": {
+        "id": "71245",
+        "call_sign": "WWGB",
+        "frequency": "1030  kHz",
+        "service": "AM",
+        "owner": "GOOD BODY MEDIA, LLC",
+        "city": "INDIAN HEAD",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.398111,
+          39.392333
+        ]
+      },
+      "properties": {
+        "id": "49935",
+        "call_sign": "WMSG",
+        "frequency": "1050  kHz",
+        "service": "AM",
+        "owner": "BROADCAST COMMUNICATIONS, INC.",
+        "city": "OAKLAND",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.046083,
+          39.042056
+        ]
+      },
+      "properties": {
+        "id": "8673",
+        "call_sign": "WHFS",
+        "frequency": "1050  kHz",
+        "service": "AM",
+        "owner": "WASHINGTON DC FCC LICENSE SUB, LLC",
+        "city": "SILVER SPRING",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.398111,
+          39.392333
+        ]
+      },
+      "properties": {
+        "id": "49935",
+        "call_sign": "WMSG",
+        "frequency": "1050  kHz",
+        "service": "AM",
+        "owner": "BROADCAST COMMUNICATIONS, INC.",
+        "city": "OAKLAND",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.046083,
+          39.042056
+        ]
+      },
+      "properties": {
+        "id": "8673",
+        "call_sign": "WHFS",
+        "frequency": "1050  kHz",
+        "service": "AM",
+        "owner": "WASHINGTON DC FCC LICENSE SUB, LLC",
+        "city": "SILVER SPRING",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.772194,
+          39.375944
+        ]
+      },
+      "properties": {
+        "id": "65679",
+        "call_sign": "WBAL",
+        "frequency": "1090  kHz",
+        "service": "AM",
+        "owner": "HEARST STATIONS INC.",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.772194,
+          39.375944
+        ]
+      },
+      "properties": {
+        "id": "65679",
+        "call_sign": "WBAL",
+        "frequency": "1090  kHz",
+        "service": "AM",
+        "owner": "HEARST STATIONS INC.",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.21525,
+          39.187889
+        ]
+      },
+      "properties": {
+        "id": "4643",
+        "call_sign": "WMET",
+        "frequency": "1160  kHz",
+        "service": "AM",
+        "owner": "LA PROMESA FOUNDATION",
+        "city": "GAITHERSBURG",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.21525,
+          39.187889
+        ]
+      },
+      "properties": {
+        "id": "4643",
+        "call_sign": "WMET",
+        "frequency": "1160  kHz",
+        "service": "AM",
+        "owner": "LA PROMESA FOUNDATION",
+        "city": "GAITHERSBURG",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.568861,
+          39.301778
+        ]
+      },
+      "properties": {
+        "id": "25527",
+        "call_sign": "WFOA",
+        "frequency": "1230  kHz",
+        "service": "AM",
+        "owner": "BMAX MEDIA LLC",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.741972,
+          39.643972
+        ]
+      },
+      "properties": {
+        "id": "49381",
+        "call_sign": "WCMD",
+        "frequency": "1230  kHz",
+        "service": "AM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "CUMBERLAND",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.741972,
+          39.643972
+        ]
+      },
+      "properties": {
+        "id": "49381",
+        "call_sign": "WCMD",
+        "frequency": "1230  kHz",
+        "service": "AM",
+        "owner": "WEST VIRGINIA RADIO CORPORATION",
+        "city": "CUMBERLAND",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.568861,
+          39.301778
+        ]
+      },
+      "properties": {
+        "id": "25527",
+        "call_sign": "WFOA",
+        "frequency": "1230  kHz",
+        "service": "AM",
+        "owner": "BMAX MEDIA LLC",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.724722,
+          39.66675
+        ]
+      },
+      "properties": {
+        "id": "25828",
+        "call_sign": "WJEJ",
+        "frequency": "1240  kHz",
+        "service": "AM",
+        "owner": "HAGERSTOWN BROADCASTING COMPANY",
+        "city": "HAGERSTOWN",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.77975,
+          39.674528
+        ]
+      },
+      "properties": {
+        "id": "14717",
+        "call_sign": "WCBC",
+        "frequency": "1270  kHz",
+        "service": "AM",
+        "owner": "CUMBERLAND BROADCASTING COMPANY",
+        "city": "CUMBERLAND",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.77975,
+          39.674528
+        ]
+      },
+      "properties": {
+        "id": "14717",
+        "call_sign": "WCBC",
+        "frequency": "1270  kHz",
+        "service": "AM",
+        "owner": "CUMBERLAND BROADCASTING COMPANY",
+        "city": "CUMBERLAND",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.769972,
+          39.333444
+        ]
+      },
+      "properties": {
+        "id": "28636",
+        "call_sign": "WJZ",
+        "frequency": "1300  kHz",
+        "service": "AM",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.769972,
+          39.333444
+        ]
+      },
+      "properties": {
+        "id": "28636",
+        "call_sign": "WJZ",
+        "frequency": "1300  kHz",
+        "service": "AM",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.616306,
+          38.360944
+        ]
+      },
+      "properties": {
+        "id": "53485",
+        "call_sign": "WJKI",
+        "frequency": "1320  kHz",
+        "service": "AM",
+        "owner": "THE VOICE RADIO, LLC",
+        "city": "SALISBURY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.616306,
+          38.360944
+        ]
+      },
+      "properties": {
+        "id": "53485",
+        "call_sign": "WJKI",
+        "frequency": "1320  kHz",
+        "service": "AM",
+        "owner": "THE VOICE RADIO, LLC",
+        "city": "SALISBURY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.118556,
+          39.565389
+        ]
+      },
+      "properties": {
+        "id": "35120",
+        "call_sign": "WHGM",
+        "frequency": "1330  kHz",
+        "service": "AM",
+        "owner": "SWEET TEA RADIO, LLC",
+        "city": "HAVRE DE GRACE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.118861,
+          39.56575
+        ]
+      },
+      "properties": {
+        "id": "35120",
+        "call_sign": "WHGM",
+        "frequency": "1330  kHz",
+        "service": "AM",
+        "owner": "SWEET TEA RADIO, LLC",
+        "city": "HAVRE DE GRACE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.118861,
+          39.56575
+        ]
+      },
+      "properties": {
+        "id": "35120",
+        "call_sign": "WHGM",
+        "frequency": "1330  kHz",
+        "service": "AM",
+        "owner": "SWEET TEA RADIO, LLC",
+        "city": "HAVRE DE GRACE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.118556,
+          39.565389
+        ]
+      },
+      "properties": {
+        "id": "35120",
+        "call_sign": "WHGM",
+        "frequency": "1330  kHz",
+        "service": "AM",
+        "owner": "SWEET TEA RADIO, LLC",
+        "city": "HAVRE DE GRACE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.118861,
+          39.56575
+        ]
+      },
+      "properties": {
+        "id": "35120",
+        "call_sign": "WHGM",
+        "frequency": "1330  kHz",
+        "service": "AM",
+        "owner": "SWEET TEA RADIO, LLC",
+        "city": "HAVRE DE GRACE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.118861,
+          39.56575
+        ]
+      },
+      "properties": {
+        "id": "35120",
+        "call_sign": "WHGM",
+        "frequency": "1330  kHz",
+        "service": "AM",
+        "owner": "SWEET TEA RADIO, LLC",
+        "city": "HAVRE DE GRACE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.35525,
+          39.439833
+        ]
+      },
+      "properties": {
+        "id": "27691",
+        "call_sign": "WQLL",
+        "frequency": "1370  kHz",
+        "service": "AM",
+        "owner": "M-10 BROADCASTING, INC.",
+        "city": "PIKESVILLE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.77525,
+          39.408167
+        ]
+      },
+      "properties": {
+        "id": "27691",
+        "call_sign": "WQLL",
+        "frequency": "1370  kHz",
+        "service": "AM",
+        "owner": "M-10 BROADCASTING, INC.",
+        "city": "PIKESVILLE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.896083,
+          38.869278
+        ]
+      },
+      "properties": {
+        "id": "73306",
+        "call_sign": "WZHF",
+        "frequency": "1390  kHz",
+        "service": "AM",
+        "owner": "WAY BROADCASTING LICENSEE, LLC",
+        "city": "CAPITOL HEIGHTS",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.896083,
+          38.869278
+        ]
+      },
+      "properties": {
+        "id": "73306",
+        "call_sign": "WZHF",
+        "frequency": "1390  kHz",
+        "service": "AM",
+        "owner": "WAY BROADCASTING LICENSEE, LLC",
+        "city": "CAPITOL HEIGHTS",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.568861,
+          39.301778
+        ]
+      },
+      "properties": {
+        "id": "54709",
+        "call_sign": "WWIN",
+        "frequency": "1400  kHz",
+        "service": "AM",
+        "owner": "RADIO ONE LICENSES, LLC",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.568861,
+          39.301778
+        ]
+      },
+      "properties": {
+        "id": "54709",
+        "call_sign": "WWIN",
+        "frequency": "1400  kHz",
+        "service": "AM",
+        "owner": "RADIO ONE LICENSES, LLC",
+        "city": "BALTIMORE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.737778,
+          39.617583
+        ]
+      },
+      "properties": {
+        "id": "23466",
+        "call_sign": "WHAG",
+        "frequency": "1410  kHz",
+        "service": "AM",
+        "owner": "ALPHA MEDIA LICENSEE LLC",
+        "city": "HALFWAY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.737778,
+          39.617583
+        ]
+      },
+      "properties": {
+        "id": "23466",
+        "call_sign": "WHAG",
+        "frequency": "1410  kHz",
+        "service": "AM",
+        "owner": "ALPHA MEDIA LICENSEE LLC",
+        "city": "HALFWAY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.522194,
+          38.983444
+        ]
+      },
+      "properties": {
+        "id": "19554",
+        "call_sign": "WNAV",
+        "frequency": "1430  kHz",
+        "service": "AM",
+        "owner": "VICTORY MEDIA OF MARYLAND, LLC",
+        "city": "ANNAPOLIS",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.522194,
+          38.983444
+        ]
+      },
+      "properties": {
+        "id": "19554",
+        "call_sign": "WNAV",
+        "frequency": "1430  kHz",
+        "service": "AM",
+        "owner": "VICTORY MEDIA OF MARYLAND, LLC",
+        "city": "ANNAPOLIS",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.751972,
+          39.646139
+        ]
+      },
+      "properties": {
+        "id": "74082",
+        "call_sign": "WTBO",
+        "frequency": "1450  kHz",
+        "service": "AM",
+        "owner": "FM RADIO LICENSES, LLC",
+        "city": "CUMBERLAND",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.402778,
+          39.627056
+        ]
+      },
+      "properties": {
+        "id": "10538",
+        "call_sign": "WTHU",
+        "frequency": "1450  kHz",
+        "service": "AM",
+        "owner": "CHRISTIAN RADIO COALITION, INC.",
+        "city": "THURMONT",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.751972,
+          39.646139
+        ]
+      },
+      "properties": {
+        "id": "74082",
+        "call_sign": "WTBO",
+        "frequency": "1450  kHz",
+        "service": "AM",
+        "owner": "FM RADIO LICENSES, LLC",
+        "city": "CUMBERLAND",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.402778,
+          39.627056
+        ]
+      },
+      "properties": {
+        "id": "10538",
+        "call_sign": "WTHU",
+        "frequency": "1450  kHz",
+        "service": "AM",
+        "owner": "CHRISTIAN RADIO COALITION, INC.",
+        "city": "THURMONT",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.081611,
+          38.770389
+        ]
+      },
+      "properties": {
+        "id": "11667",
+        "call_sign": "WKHZ",
+        "frequency": "1460  kHz",
+        "service": "AM",
+        "owner": "RADIO BROADCAST COMMUNICATIONS, INC.",
+        "city": "EASTON",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.081611,
+          38.770389
+        ]
+      },
+      "properties": {
+        "id": "11667",
+        "call_sign": "WKHZ",
+        "frequency": "1460  kHz",
+        "service": "AM",
+        "owner": "RADIO BROADCAST COMMUNICATIONS, INC.",
+        "city": "EASTON",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.022472,
+          39.577333
+        ]
+      },
+      "properties": {
+        "id": "59975",
+        "call_sign": "WTTR",
+        "frequency": "1470  kHz",
+        "service": "AM",
+        "owner": "HILLTOP COMMUNICATIONS, LLC",
+        "city": "WESTMINSTER",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.646306,
+          38.391778
+        ]
+      },
+      "properties": {
+        "id": "13672",
+        "call_sign": "WJDY",
+        "frequency": "1470  kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "SALISBURY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.022472,
+          39.577333
+        ]
+      },
+      "properties": {
+        "id": "59975",
+        "call_sign": "WTTR",
+        "frequency": "1470  kHz",
+        "service": "AM",
+        "owner": "HILLTOP COMMUNICATIONS, LLC",
+        "city": "WESTMINSTER",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.646306,
+          38.391778
+        ]
+      },
+      "properties": {
+        "id": "13672",
+        "call_sign": "WJDY",
+        "frequency": "1470  kHz",
+        "service": "AM",
+        "owner": "IHM LICENSES, LLC",
+        "city": "SALISBURY",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.710833,
+          39.626472
+        ]
+      },
+      "properties": {
+        "id": "39807",
+        "call_sign": "WARK",
+        "frequency": "1490  kHz",
+        "service": "AM",
+        "owner": "MANNING BROADCASTING INC.",
+        "city": "HAGERSTOWN",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.088556,
+          39.2265
+        ]
+      },
+      "properties": {
+        "id": "34030",
+        "call_sign": "WCTR",
+        "frequency": "1530  kHz",
+        "service": "AM",
+        "owner": "HOMETOWN MULTIMEDIA, LLC",
+        "city": "CHESTERTOWN",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.088556,
+          39.2265
+        ]
+      },
+      "properties": {
+        "id": "34030",
+        "call_sign": "WCTR",
+        "frequency": "1530  kHz",
+        "service": "AM",
+        "owner": "HOMETOWN MULTIMEDIA, LLC",
+        "city": "CHESTERTOWN",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.029139,
+          39.014
+        ]
+      },
+      "properties": {
+        "id": "38439",
+        "call_sign": "WDON",
+        "frequency": "1540  kHz",
+        "service": "AM",
+        "owner": "RENOVACION MEDIA GROUP",
+        "city": "WHEATON",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.029139,
+          39.014
+        ]
+      },
+      "properties": {
+        "id": "38439",
+        "call_sign": "WDON",
+        "frequency": "1540  kHz",
+        "service": "AM",
+        "owner": "RENOVACION MEDIA GROUP",
+        "city": "WHEATON",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.795778,
+          39.594556
+        ]
+      },
+      "properties": {
+        "id": "21621",
+        "call_sign": "WSRY",
+        "frequency": "1550  kHz",
+        "service": "AM",
+        "owner": "PRIORITY RADIO, INC.",
+        "city": "ELKTON",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.795778,
+          39.594556
+        ]
+      },
+      "properties": {
+        "id": "21621",
+        "call_sign": "WSRY",
+        "frequency": "1550  kHz",
+        "service": "AM",
+        "owner": "PRIORITY RADIO, INC.",
+        "city": "ELKTON",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.556083,
+          39.417889
+        ]
+      },
+      "properties": {
+        "id": "25523",
+        "call_sign": "WNST",
+        "frequency": "1570  kHz",
+        "service": "AM",
+        "owner": "NASTY 1570 SPORTS, LLC",
+        "city": "TOWSON",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.556083,
+          39.417889
+        ]
+      },
+      "properties": {
+        "id": "25523",
+        "call_sign": "WNST",
+        "frequency": "1570  kHz",
+        "service": "AM",
+        "owner": "NASTY 1570 SPORTS, LLC",
+        "city": "TOWSON",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.896083,
+          38.869278
+        ]
+      },
+      "properties": {
+        "id": "28638",
+        "call_sign": "WJFK",
+        "frequency": "1580  kHz",
+        "service": "AM",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "MORNINGSIDE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.896083,
+          38.869278
+        ]
+      },
+      "properties": {
+        "id": "28638",
+        "call_sign": "WJFK",
+        "frequency": "1580  kHz",
+        "service": "AM",
+        "owner": "AUDACY LICENSE, LLC",
+        "city": "MORNINGSIDE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.621917,
+          39.176778
+        ]
+      },
+      "properties": {
+        "id": "19673",
+        "call_sign": "WFBR",
+        "frequency": "1590  kHz",
+        "service": "AM",
+        "owner": "WAY BROADCASTING LICENSEE, LLC",
+        "city": "GLEN BURNIE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.778889,
+          39.806472
+        ]
+      },
+      "properties": {
+        "id": "39494",
+        "call_sign": "WHGT",
+        "frequency": "1590  kHz",
+        "service": "AM",
+        "owner": "WHGT CHRISTIAN RADIO, LLC",
+        "city": "MAUGANSVILLE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.621917,
+          39.176778
+        ]
+      },
+      "properties": {
+        "id": "19673",
+        "call_sign": "WFBR",
+        "frequency": "1590  kHz",
+        "service": "AM",
+        "owner": "WAY BROADCASTING LICENSEE, LLC",
+        "city": "GLEN BURNIE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.778889,
+          39.806472
+        ]
+      },
+      "properties": {
+        "id": "39494",
+        "call_sign": "WHGT",
+        "frequency": "1590  kHz",
+        "service": "AM",
+        "owner": "WHGT CHRISTIAN RADIO, LLC",
+        "city": "MAUGANSVILLE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.151639,
+          39.097611
+        ]
+      },
+      "properties": {
+        "id": "54506",
+        "call_sign": "WLXE",
+        "frequency": "1600  kHz",
+        "service": "AM",
+        "owner": "MULTICULTURAL RADIO BROADCASTING LICENSEE, LLC",
+        "city": "ROCKVILLE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.151639,
+          39.097611
+        ]
+      },
+      "properties": {
+        "id": "54506",
+        "call_sign": "WLXE",
+        "frequency": "1600  kHz",
+        "service": "AM",
+        "owner": "MULTICULTURAL RADIO BROADCASTING LICENSEE, LLC",
+        "city": "ROCKVILLE",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5605,
+          38.282917
+        ]
+      },
+      "properties": {
+        "id": "87109",
+        "call_sign": "WPTX",
+        "frequency": "1690  kHz",
+        "service": "AM",
+        "owner": "SOMAR COMMUNICATIONS, INC.",
+        "city": "LEXINGTON PARK",
+        "state": "MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5605,
+          38.282917
+        ]
+      },
+      "properties": {
+        "id": "87109",
+        "call_sign": "WPTX",
+        "frequency": "1690  kHz",
+        "service": "AM",
+        "owner": "SOMAR COMMUNICATIONS, INC.",
+        "city": "LEXINGTON PARK",
+        "state": "MD"
+      }
+    }
+  ],
+  "metadata": {
+    "cities": [
+      "ABERDEEN",
+      "ANNAPOLIS",
+      "BALTIMORE",
+      "BARCLAY",
+      "BEL AIR",
+      "BERLIN",
+      "BETHESDA",
+      "BOWIE",
+      "BRADDOCK HEIGHTS",
+      "CALIFORNIA",
+      "CAMBRIDGE",
+      "CAPITOL HEIGHTS",
+      "CATONSVILLE",
+      "CHESAPEAKE CITY",
+      "CHESTERTOWN",
+      "CHESTERVILLE",
+      "CLEAR SPRING",
+      "COLLEGE PARK",
+      "CRISFIELD",
+      "CUMBERLAND",
+      "CUMBERLAND, ETC.",
+      "DEER PARK",
+      "DENTON",
+      "EASTON",
+      "EDGEMERE",
+      "ELDERSBURG",
+      "ELKTON",
+      "EMMITSBURG",
+      "FAIRLEE",
+      "FEDERALSBURG",
+      "FORT WASHINGTON",
+      "FREDERICK",
+      "FROSTBURG",
+      "FRUITLAND",
+      "GAITHERSBURG",
+      "GLEN BURNIE",
+      "GRANTSVILLE",
+      "GRASONVILLE",
+      "HAGERSTOWN",
+      "HALFWAY",
+      "HANCOCK",
+      "HAVRE DE GRACE",
+      "HURLOCK",
+      "INDIAN HEAD",
+      "LAUREL",
+      "LEXINGTON PARK",
+      "LITTLE ORLEANS",
+      "LOCH LYNN HEIGHTS",
+      "MAUGANSVILLE",
+      "MECHANICSVILLE",
+      "MIDDLETOWN",
+      "MIDLAND",
+      "MORNINGSIDE",
+      "MOUNTAIN LAKE PARK",
+      "MYERSVILLE",
+      "NEWARK",
+      "OAKLAND",
+      "OCEAN CITY",
+      "OCEAN CITY-SALISBURY",
+      "OCEAN PINES",
+      "PERRYVILLE",
+      "PIKESVILLE",
+      "POCOMOKE CITY",
+      "POTOMAC",
+      "POTOMAC-CABIN JOHN",
+      "PRINCE FREDERICK",
+      "PRINCESS ANNE",
+      "RISING SUN",
+      "RIVERTON",
+      "ROCKVILLE",
+      "SALISBURY",
+      "SILVER SPRING",
+      "SNOW HILL",
+      "ST. MARY'S CITY",
+      "ST. MICHAELS",
+      "TAKOMA PARK",
+      "THURMONT",
+      "TOWSON",
+      "TRAPPE",
+      "UPPER MARLBORO",
+      "VIENNA",
+      "WALDORF",
+      "WALKERSVILLE",
+      "WEST OCEAN CITY",
+      "WEST POCOMOKE",
+      "WESTERNPORT",
+      "WESTMINSTER",
+      "WHEATON",
+      "WHITE MARSH",
+      "WILLIAMSPORT",
+      "WORTON",
+      "WYE MILLS"
+    ],
+    "frequencies": [
+      "88.1  MHz",
+      "88.3  MHz",
+      "88.7  MHz",
+      "88.9  MHz",
+      "89.1  MHz",
+      "89.5  MHz",
+      "89.7  MHz",
+      "89.9  MHz",
+      "90.3  MHz",
+      "90.5  MHz",
+      "90.7  MHz",
+      "91.1  MHz",
+      "91.3  MHz",
+      "91.5  MHz",
+      "91.7  MHz",
+      "91.9  MHz",
+      "92.3  MHz",
+      "92.5  MHz",
+      "92.7  MHz",
+      "92.9  MHz",
+      "93.1  MHz",
+      "93.5  MHz",
+      "94.1  MHz",
+      "94.3  MHz",
+      "94.5  MHz",
+      "94.7  MHz",
+      "94.9  MHz",
+      "95.1  MHz",
+      "95.5  MHz",
+      "95.9  MHz",
+      "96.3  MHz",
+      "96.5  MHz",
+      "96.7  MHz",
+      "97.1  MHz",
+      "97.5  MHz",
+      "97.7  MHz",
+      "97.9  MHz",
+      "98.3  MHz",
+      "98.7  MHz",
+      "98.9  MHz",
+      "99.1  MHz",
+      "99.3  MHz",
+      "99.5  MHz",
+      "99.9  MHz",
+      "100.1 MHz",
+      "100.3 MHz",
+      "100.5 MHz",
+      "100.7 MHz",
+      "100.9 MHz",
+      "101.1 MHz",
+      "101.5 MHz",
+      "101.9 MHz",
+      "102.1 MHz",
+      "102.3 MHz",
+      "102.5 MHz",
+      "102.7 MHz",
+      "102.9 MHz",
+      "103.1 MHz",
+      "103.5 MHz",
+      "103.7 MHz",
+      "103.9 MHz",
+      "104.1 MHz",
+      "104.3 MHz",
+      "104.5 MHz",
+      "104.7 MHz",
+      "104.9 MHz",
+      "105.1 MHz",
+      "105.3 MHz",
+      "105.5 MHz",
+      "105.7 MHz",
+      "106.1 MHz",
+      "106.3 MHz",
+      "106.5 MHz",
+      "106.7 MHz",
+      "106.9 MHz",
+      "107.1 MHz",
+      "107.3 MHz",
+      "107.5 MHz",
+      "107.7 MHz",
+      "107.9 MHz",
+      "540   kHz",
+      "560   kHz",
+      "570   kHz",
+      "600   kHz",
+      "680   kHz",
+      "700   kHz",
+      "750   kHz",
+      "810   kHz",
+      "820   kHz",
+      "840   kHz",
+      "860   kHz",
+      "900   kHz",
+      "930   kHz",
+      "950   kHz",
+      "960   kHz",
+      "970   kHz",
+      "1010  kHz",
+      "1030  kHz",
+      "1050  kHz",
+      "1090  kHz",
+      "1160  kHz",
+      "1230  kHz",
+      "1240  kHz",
+      "1270  kHz",
+      "1300  kHz",
+      "1320  kHz",
+      "1330  kHz",
+      "1370  kHz",
+      "1390  kHz",
+      "1400  kHz",
+      "1410  kHz",
+      "1430  kHz",
+      "1450  kHz",
+      "1460  kHz",
+      "1470  kHz",
+      "1490  kHz",
+      "1530  kHz",
+      "1540  kHz",
+      "1550  kHz",
+      "1570  kHz",
+      "1580  kHz",
+      "1590  kHz",
+      "1600  kHz",
+      "1690  kHz"
+    ],
+    "owners": [
+      "ACR MEDIA, INC.",
+      "ALPHA MEDIA LICENSEE LLC",
+      "AMERICAN FAMILY ASSOCIATION",
+      "AMERICAN FM ASSOCIATES, INC.",
+      "ARTSGROUP INCORPORATED",
+      "ATLANTIC GATEWAY COMMUNICATIONS, INC.",
+      "AUDACY LICENSE, LLC",
+      "BALTIMORE CITY COMMUNITY COLLEGE",
+      "BEST MEDIA, INC.",
+      "BIRACH BROADCASTING CORPORATION",
+      "BMAX MEDIA LLC",
+      "BOARD OF EDUCATION OF KENT COUNTY",
+      "BROADCAST COMMUNICATIONS, INC.",
+      "BROADCAST EDUCATIONAL COMMUNICATIONS, INC.",
+      "CALVARY CHAPEL OF MARLTON",
+      "CEDAR RIDGE CHILDREN'S HOME & SCHOOL, INC",
+      "CHESAPEAKE MEDIA PARTNERS",
+      "CHINESE AMERICAN COMMUNITY CONNECTION, INC.",
+      "CHRISTIAN RADIO COALITION, INC.",
+      "COLONIAL RADIO GROUP OF WILLIAMSPORT, LLC",
+      "COMMUNITY INFORMATICS INSTITUTE",
+      "CORTONA MEDIA LLC",
+      "CSN INTERNATIONAL",
+      "CSN INTERNATIONAL, INC.",
+      "CUMBERLAND BROADCASTING COMPANY",
+      "DAVIS MEDIA, LLC",
+      "EDINBORO EARLY SCHOOL, INC.",
+      "FAITH BAPTIST CHURCH OF BERLIN, MARYLAND",
+      "FM RADIO LICENSES, LLC",
+      "FOUR RIVERS COMMUNITY BROADCASTING CORP.",
+      "FROSTBURG STATE UNIVERSITY",
+      "GOOD BODY MEDIA, LLC",
+      "GOSPEL LIGHT BAPTIST CHURCH",
+      "GRACE MISSIONARY BAPTIST CHURCH",
+      "GRACE MISSIONARY BAPTIST CHURCHD/B/A GRACE CHRISTIAN SCHOOL",
+      "GREATER WASHINGTON EDUCATIONAL TELECOMMUNICATIONS ASSN.",
+      "GREATER WASHINGTON EDUCATIONAL TELECOMMUNICATIONS ASSOCIATION, INC.",
+      "GSB MEDIA, LLC",
+      "HAGERSTOWN BROADCASTING COMPANY",
+      "HARFORD COMMUNITY COLLEGE",
+      "HEARST STATIONS INC.",
+      "HILLTOP COMMUNICATIONS, LLC",
+      "HOMETOWN MULTIMEDIA, LLC",
+      "IHM LICENSES, LLC",
+      "K-LOVE, INC.",
+      "LA PROMESA FOUNDATION",
+      "LOAM MEDIA, INC.",
+      "M-10 BROADCASTING, INC.",
+      "MANNING BROADCASTING INC.",
+      "MANNING BROADCASTING, INC",
+      "MANNING BROADCASTING, INC.",
+      "MARANATHA BIBLE INSTITUTE, INC.",
+      "MARY QUEEN OF THE TRIUMPH RADIO INC",
+      "MARYLAND HALL FOR THE CREATIVE ARTS, INC",
+      "MID-SHORE COMMUNITY RADIO, INC.",
+      "MORGAN STATE UNIVERSITY",
+      "MOUNT SAINT MARY'S COLLEGE, INCORPORATED",
+      "MULTICULTURAL RADIO BROADCASTING LICENSEE, LLC",
+      "NASTY 1570 SPORTS, LLC",
+      "PENSACOLA CHRISTIAN COLLEGE, INC.",
+      "PETER AND JOHN RADIO FELLOWSHIP INC.",
+      "PETER AND JOHN RADIO FELLOWSHIP, INC.",
+      "POSITIVE ALTERNATIVE RADIO, INC.",
+      "PRIORITY RADIO, INC.",
+      "RADIO BROADCAST COMMUNICATIONS, INC.",
+      "RADIO ONE LICENSES, LLC",
+      "REBIRTH INC.",
+      "REDEEMER BROADCASTING, INC.",
+      "RELEVANT RADIO, INC.",
+      "RENOVACION MEDIA GROUP",
+      "RIVERTON RADIO PROJECT ASSOCIATION",
+      "ROJO BROADCASTING, LLC",
+      "SAINT JOSEPH PROTECTOR OF FAMILIES RADIO, INC.",
+      "SALEM COMMUNICATIONS HOLDING CORPORATION",
+      "SALISBURY EDUCATIONAL B/C FOUNDATION",
+      "SALISBURY UNIVERSITY",
+      "SHAMROCK COMMUNICATIONS, INC.",
+      "SHORE COMMUNITY BROADCASTING INC.",
+      "SOLID FOUNDATION BROADCASTING CORPORATION",
+      "SOMAR COMMUNICATIONS, INC.",
+      "SPLENDOR OF TRUTH RADIO, INC",
+      "SPLENDOR OF TRUTH RADIO, INC.",
+      "ST. JOSEPH'S, SYKESVILLE, ROMAN CATHOLIC CONGREGATION, INC",
+      "STATE OF MARYLAND, MDOT, MARYLAND TRANSIT ADMINISTRATION",
+      "STATE OF MARYLAND, MDOT, MARYLAND TRANSIT ADMN.",
+      "STRATEGIC MUSIC PARTNERSHIPS, INC.",
+      "STUDIO C, LLC",
+      "SWEET TEA RADIO, LLC",
+      "TAKOMA RADIO, INC.",
+      "THE BENEDICTINE SOCIETY OF BALTIMORE CITY",
+      "THE BRIDGE OF HOPE, INC.",
+      "THE SOMERSET COUNTY ARTS COUNCIL",
+      "THE VOICE RADIO, LLC",
+      "THE WATERS GROUP, LLC",
+      "TOWN OF OCEAN CITY",
+      "UNIVERSITY OF MARYLAND",
+      "UNIVERSITY OF MARYLAND, EASTERN SHORE",
+      "UNIVERSITY SYSTEM OF MARYLAND",
+      "VICTORY MEDIA OF MARYLAND, LLC",
+      "VINCO MEDIA, LLC",
+      "WASHINGTON DC FCC LICENSE SUB, LLC",
+      "WAY BROADCASTING LICENSEE, LLC",
+      "WBOC, INC.",
+      "WCBM MARYLAND, INC.",
+      "WE HEART BERLIN, INC.",
+      "WEST VIRGINIA RADIO CORPORATION",
+      "WHGT CHRISTIAN RADIO, LLC",
+      "WIN RADIO BROADCASTING CORPORATION",
+      "WYPR LICENSE HOLDING LLC",
+      "WYPR LICENSE HOLDING, LLC"
+    ],
+    "services": [
+      "AM",
+      "FB",
+      "FL",
+      "FM",
+      "FS",
+      "FX"
+    ]
+  }
+}
