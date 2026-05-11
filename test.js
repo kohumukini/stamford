@@ -36,6 +36,22 @@ L.control.zoom({
 // 2. UI Transitions & Animations
 // ==========================================
 
+// Defining Filters
+let activeFilters = {
+    city: "", 
+    service: "", 
+    owner: ""
+}
+
+function applyFilters(feature) {
+    return Object.entries(activeFilters).every(([type, filterValue]) => {
+        if (!filterValue || filterValue === "--ALL--") return true; 
+
+        const actualValue = STATION_MAP[type](feature); 
+        return String(actualValue).toLowerCase() === String(filterValue).toLowerCase(); 
+    })
+}
+
 // Filter Transitions 
 let reveals = document.querySelectorAll(".reveal");
 
@@ -77,21 +93,21 @@ const STATION_MAP = {
     frequency: (f) => f.properties.frequency, 
     status: (f) => f.properties.status,
     owner: (f) => f.properties.owner,
-    service: (f) => f.properties.owner,
+    service: (f) => f.properties.service,
 }
 
 // ==========================================
 // 4. Station Search & Dropdown Logic
 // ==========================================
 
-const data = []; 
+let licenseeData; 
 const limit = 8; 
 
 const input = document.getElementById("station-search");
 const list = document.getElementById("station-list"); 
 
 function displayList(filterText = "") {
-    const filteredData = data.filter(item => item.toLowerCase().includes(filterText.toLowerCase())); 
+    const filteredData = licenseeData.filter(item => item.toLowerCase().includes(filterText.toLowerCase())); 
 
     let topEightResults = filteredData.slice(0, limit);
     
@@ -106,6 +122,7 @@ function displayList(filterText = "") {
             li.onclick = () => {
                 input.value = listItem; 
                 list.classList.add('hidden'); 
+                onFilterChange("owner", listItem)
             };
             list.appendChild(li); 
         });
@@ -134,6 +151,35 @@ let stations = null;
 let showMarkers = false; 
 let activeCircle = null; 
 
+function updateMapFilters() {
+    if (!stations) return; 
+    
+    if (locationMarkersLayer && map.hasLayer(locationMarkersLayer)) {
+        map.removeLayer(locationMarkersLayer); 
+    }
+
+    locationMarkersLayer = L.geoJSON(stations, {
+            filter: applyFilters,
+            onEachFeature: function (feature, layer) {
+                layer.bindPopup(
+                    `
+                    <strong>${STATION_MAP.call_sign(feature)}</strong><br>
+                    ${STATION_MAP.city(feature)}, ${STATION_MAP.state(feature)}<br>
+                    ${STATION_MAP.owner(feature)}<br>
+                    ${STATION_MAP.frequency(feature)} ${STATION_MAP.service(feature)}
+                    `
+                );
+            }
+        }); 
+
+    locationMarkersLayer.addTo(map);
+}
+
+function onFilterChange(filterKey, newValue) {
+    activeFilters[filterKey] = newValue; 
+    updateMapFilters(); 
+}
+
 function showLocations() {
     locationMarkersLayer.addTo(map); 
     console.log("Location Markers added successfully!");
@@ -157,7 +203,7 @@ function hideMarkers() {
 }
 
 /**
- * @important Set to focus Washington state
+ * @important Set to focus Ohio state
  */
 
 function toggleMarkers() {
@@ -165,7 +211,7 @@ function toggleMarkers() {
         hideMarkers(); 
     } else {
         showLocations(); 
-        map.flyTo([47.4, -121.5], 7);
+        map.flyTo([40.361667, -82.741667], 7);
     }
 }
 
@@ -173,37 +219,23 @@ function toggleMarkers() {
 // 6. Data Loading & Execution
 // ==========================================
 
-const allCities = new Set(); 
-const allFrequencies = new Set(); 
-const allServices = new Set(); 
-const allOwners = new Set(); 
-
 async function loadData() { 
-    const filePath = './radio_data/wa_radio_stations.geojson'; 
+    const filePath = './radio_data/oh_radio_stations.geojson'; 
 
     try {
         const response = await fetch(filePath); 
         
-        if (!response.ok) {
-            throw new Error(`HTTP Error! Status: ${response.status}`); 
-        }
+        if (!response.ok) throw new Error(`HTTP Error! Status: ${response.status}`); 
 
         stations = await response.json(); 
 
-        stations.features.forEach(station, () => {
-            const city = STATION_MAP.city(station); 
-            const frequency = STATION_MAP.frequency(station);
-            const service = STATION_MAP.service(station); 
-            const owner = STATION_MAP.owner(station); 
+        licenseeData = stations.metadata?.owners || []; 
+        licenseeData.unshift("--ALL--");
 
-            if (city) allCities.add(city); 
-            if (frequency) allFrequencies.add(frequency); 
-            if (service) allServices.add(service); 
-            if (owner) allOwners.add(owner); 
+        updateMapFilters(); 
 
-        })
-
-        locationMarkersLayer.addData(stations); 
+        locationMarkersLayer.addData(stations);
+        locationMarkersLayer.addTo(map);  
         console.log("GeoJSON data loaded and added to layer successfully!");
         
     } catch (error) {
@@ -212,7 +244,3 @@ async function loadData() {
 }
 
 loadData(); 
-
-// Path discovery call
-
-console.log(stations); 
