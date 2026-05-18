@@ -130,14 +130,14 @@ def main():
     print("Starting FCC station scraper")
 
     VALID_STATES = ["AL","AK","AZ","AR","CA","CO","CT","DE","FL","GA","HI","ID","IL","IN","IA","KS","KY","LA","ME","MD","MA","MI","MN","MS","MO","MT","NE","NV","NH","NJ","NM","NY","NC","ND","OH","OK","OR","PA","RI","SC","SD","TN","TX","UT","VT","VA","WA","WV","WI","WY"]
-
+    
     combinedGeoJson = {
         "type": "FeatureCollection",
         "features": [], 
         "metadata": {}, 
     } 
     
-    unique_cities = set()
+    unique_cities = {}
     unique_owners = set()
     unique_frequencies = set()
     unique_services = set()
@@ -164,9 +164,20 @@ def main():
             all_stations = fm_stations + am_stations
             print(f"Total stations found: {len(all_stations)}")
 
+            seen_ids = set()
+            unique_stations = []
+            for station in all_stations: 
+                if station['facility_id'] not in seen_ids: 
+                    seen_ids.add(station['facility_id'])
+                    unique_stations.append(station)
+            all_stations = unique_stations
+            
             #Build GeoJson structure
             for station in all_stations:
-                unique_cities.add(station["city"])
+                if station['state'] not in unique_cities: 
+                    unique_cities[station['state']] = set()
+                unique_cities[station['state']].add(station['city'])
+                
                 unique_frequencies.add(station["frequency"])
                 unique_owners.add(station["owner"])
                 unique_services.add(station["service"])
@@ -202,10 +213,11 @@ def main():
             continue
                 
     combinedGeoJson["metadata"] = {
-        "cities": sorted(list(unique_cities)), 
+        "cities": { state: sorted(list(cities)) for state, cities in unique_cities.items() },
         "frequencies": sorted(list(unique_frequencies), key = clean_frequency), 
         "owners": sorted(list(unique_owners)),
-        "services": sorted(list(unique_services))
+        "services": sorted(list(unique_services)),
+        "states": sorted(list(VALID_STATES)),
     }
 
     #Save to file

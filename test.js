@@ -49,8 +49,8 @@ let activeFilters = { ...DEFAULT_FILTERS, service: [] };
 function applyFilters(feature) {
     return Object.entries(activeFilters).every(([type, filterValue]) => {
         if (Array.isArray(filterValue) && filterValue.length === 0) return true;
-        
         if (!filterValue || filterValue === "--ALL--") return true; 
+        if (!STATION_MAP[type]) return true; 
 
         const actualValue = STATION_MAP[type](feature); 
 
@@ -116,45 +116,74 @@ const STATION_MAP = {
 // ==========================================
 
 let licenseeData; 
-const limit = 8; 
+const limit = 12; 
 
-const input = document.getElementById("station-search");
+const stationInput = document.getElementById("station-search");
 const stateInput = document.getElementById("state-search");
-const cityInput = document.getElementById("city-search")
-const list = document.getElementById("station-list"); 
+const cityInput = document.getElementById("city-search");
+const stationList = document.getElementById("station-list"); 
+const stateList = document.getElementById("state-list"); 
+const cityList = document.getElementById("city-list");
 
-function displayList(filterText = "") {
-    const filteredData = licenseeData.filter(item => item.toLowerCase().includes(filterText.toLowerCase())); 
+function displayList(listElement, inputElement, data, filterText = "", onSelect) {
+    const filteredData = data.filter(item => item.toLowerCase().includes(filterText.toLowerCase()));
+    const topResults = filteredData.slice(0, limit); 
 
-    let topEightResults = filteredData.slice(0, limit);
-    
-    list.innerHTML = ""; 
+    listElement.innerHTML = ""; 
 
-    if (topEightResults.length > 0) {
-        // Reveals the list
-        list.classList.remove("hidden"); 
-        topEightResults.forEach(listItem => {
-            let li = document.createElement('li'); 
+    if (topResults.length > 0) {
+        listElement.classList.remove("hidden"); 
+        topResults.forEach(listItem => {
+            let li = document.createElement("li"); 
             li.textContent = listItem; 
             li.addEventListener("mousedown", () => {
-                input.value = listItem; 
-                list.classList.add('hidden'); 
-                onFilterChange("owner", listItem)
+                inputElement.value = listItem; 
+                listElement.classList.add("hidden");
+                onSelect(listItem)
             });
-            list.appendChild(li); 
+
+            listElement.appendChild(li);
         });
     } else {
-        list.classList.add('hidden'); 
+        listElement.classList.add('hidden');
     }
 }
 
-input.addEventListener('input', (event) => displayList(event.target.value)); 
+stationInput.addEventListener('input', (e) => {
+    if (!stationData) return;
+    displayList(stationList, stationInput, stationData, e.target.value, (selected) => onFilterChange("owner", selected));
+});
+
+stateInput.addEventListener('input', (e) => {
+    if (!stateData) return;
+    displayList(stateList, stateInput, stateData, e.target.value, (selected) => onStateSelect(selected));
+});
+
+cityInput.addEventListener('input', (e) => {
+    if (!cityData) return;
+    displayList(cityList, cityInput, cityData, e.target.value, (selected) => onFilterChange("city", selected));
+});
 
 document.addEventListener('click', (event) => {
-    if (event.target !== input && event.target !== list) {
-        list.classList.add('hidden'); 
+    const inputs = [stationInput, stateInput, cityInput];
+    const lists = [stationList, stateList, cityList];
+
+    lists.forEach((list, i) => {
+        if (event.target !== inputs[i] && event.target !== list) {
+            list.classList.add('hidden');
+        }
+    });
+});
+
+function setCheckbox(id, value, checked) {
+    document.getElementById(id).checked = checked; 
+    if (checked && !activeFilters.service.includes(value)) {
+        activeFilters.service.push(value); 
+    } else if (!checked) {
+        const index = activeFilters.service.indexOf(value); 
+        if (index > -1) activeFilters.service.splice(index, 1);
     }
-})
+}
 
 // ==========================================
 // 4.5 Radio Station Service
@@ -257,7 +286,15 @@ function clearFilters() {
     checkBoxes.forEach(checkbox => {
         checkbox.checked = false; 
     })
-    input.value = ""; 
+    stationInput.value = ""; 
+    stateInput.value = ""; 
+    cityInput.value = ""; 
+
+    document.getElementById("radio-am").checked = true;
+    activeFilters.service = ["AM"];
+
+    onStateSelect("OH");
+    stateInput.value = "OH";
     updateMapFilters(); 
 }
 
@@ -275,6 +312,16 @@ function hideMarkers() {
     if (map) {
         map.flyTo([40, -95.46], 5);
     } 
+}
+
+function onStateSelect(state) {
+    if (state != "--ALL--") {
+        cityData = geoJsonData.metadata?.cities[state] || []; 
+    } else {
+        cityData = geoJsonData.metadata?.cities || [];
+    }
+    cityInput.value = "";
+    onFilterChange("state", state);
 }
 
 /**
@@ -307,13 +354,19 @@ async function loadData() {
 
         geoJsonData = await response.json(); 
 
-        licenseeData = geoJsonData.metadata?.owners || []; 
-        licenseeData.unshift("--ALL--");
+        stationData = geoJsonData.metadata?.owners || []; 
+        stationData = [...new Set(stationData)];
+        stationData.unshift("--ALL--");
+
+        stateData = geoJsonData.metadata?.states || []; 
+        stateData = [...new Set(stateData)];
+        stateData.unshift("--ALL--")
+
+        cityData = geoJsonData.metadata?.cities['OH'] || []; 
+        cityData.unshift("--ALL--");
 
         clearFilters(); 
-        document.getElementById("radio-am").checked = true; 
-        onFilterChange("service", "AM", "array"); 
-        onFilterChange("state", "OH");
+        console.log(activeFilters);
         toggleMarkers();
 
         console.log("GeoJSON data loaded and added to layer successfully!");
