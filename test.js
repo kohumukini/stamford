@@ -340,6 +340,15 @@ function toggleMarkers() {
     }
 }
 
+function toggleRadius() {
+    const toggleButton = document.getElementById("toggle-radius"); 
+    if (activeCircle && map.hasLayer(activeCircle)) {
+        map.removeLayer(activeCircle);
+    } else {
+        map.addLayer(activeCircle); 
+    }
+}
+
 // ==========================================
 // 6. Data Loading & Execution
 // ==========================================

@@ -64,16 +64,16 @@ header nav ul li {
     border-radius: 8px; 
 }
 
-header nav ul li a, #reset-button { 
+header nav ul li a, #reset-button, #toggle-radius { 
     text-decoration: none; 
     color: var(--text-primary);
 }
 
-header nav ul li a:hover, #reset-button:hover {
+header nav ul li a:hover, #reset-button:hover, #toggle-radius:hover {
     color: white; 
 }
 
-header nav ul li:hover, #reset-button:hover {
+header nav ul li:hover, #reset-button:hover, #toggle-radius:hover {
     transition: all 0.3s ease-out; 
     transform: scale(1.1);
     background-color: var(--p48-pink);
@@ -82,7 +82,7 @@ header nav ul li:hover, #reset-button:hover {
     box-shadow: var(--neon);
 }
 
-header nav ul li:active, #reset-button:active {
+header nav ul li:active, #reset-button:active, #toggle-radius:active {
     transform: scale(0.9); 
 }
 
@@ -273,7 +273,7 @@ fieldset input {
     margin: .5rem; 
 }
 
-#reset-button {
+#toggle-radius, #reset-button {
     width: 100%; 
     padding: 8px;
     margin: 10px 0; 
