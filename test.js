@@ -38,13 +38,18 @@ L.control.zoom({
 
 // Defining Filters
 const DEFAULT_FILTERS = {
-    city: "", 
+    city: [], 
     service: [], 
-    owner: "", 
-    state: ""
+    owner: ["K-LOVE, INC."], 
+    state: []
 }
 
-let activeFilters = { ...DEFAULT_FILTERS, service: [] };
+let activeFilters = {
+    city: [], 
+    service: [], 
+    owner: ["K-LOVE, INC."], 
+    state: []
+};
 
 function applyFilters(feature) {
     return Object.entries(activeFilters).every(([type, filterValue]) => {
@@ -198,12 +203,12 @@ checkBoxes.forEach(checkbox => {
             console.log(`${e.target.nextElementSibling.textContent.trim()} was checked`);
 
             if (!activeFilters["service"].includes(checkBoxText)) {
-                onFilterChange("service", checkBoxText, "array");
+                onFilterChange("service", checkBoxText);
             }            
         } else {
             console.log(`${e.target.nextElementSibling.textContent.trim()} was checked`);
             if (activeFilters["service"].includes(checkBoxText)) {
-                onFilterChange("service", checkBoxText, "array", true);
+                onFilterChange("service", checkBoxText, true);
             }          
         }
     });
@@ -218,7 +223,8 @@ checkBoxes.forEach(checkbox => {
  */ 
 let geoJsonData = null;
 let showMarkers = false; 
-let activeCircle = null
+let activeCircle = null;
+let currentLatLngData = [];
 
 const locationMarkersLayer = L.geoJSON(null, {
     filter: feature => applyFilters(feature), 
@@ -244,6 +250,8 @@ const locationMarkersLayer = L.geoJSON(null, {
             ${STATION_MAP.owner(feature)}<br>
             ${STATION_MAP.frequency(feature)} ${STATION_MAP.service(feature)}
         `);
+
+        currentLatLngData.push({ latlng: STATION_MAP.latlng(feature), layer });
     }
 }).addTo(map); 
 
@@ -259,43 +267,41 @@ function updateMapFilters() {
     }
 
     if (showMarkers) {
+        currentLatLngData = [];
         locationMarkersLayer.addData(geoJsonData); 
     }
 }
 
-function onFilterChange(filterKey, newValue, type = null, clear = null) {
-    if (type == "array") {
-        if (clear) {
-            const index = activeFilters[filterKey].indexOf(newValue); 
-            activeFilters[filterKey].splice(index, 1); 
-        } else {
-            activeFilters[filterKey].push(newValue); 
-        }
-        
-        updateMapFilters();
-        return; 
-    } 
-
-    activeFilters[filterKey] = newValue; 
-    updateMapFilters(); 
+function onFilterChange(filterKey, newValue, clear = false) {
+    if (clear) {
+        const index = activeFilters[filterKey].indexOf(newValue); 
+        activeFilters[filterKey].splice(index, 1); 
+    } else {
+        activeFilters[filterKey].push(newValue); 
+    }
+    updateMapFilters();
+    return; 
 }
 
 function clearFilters() {
-    activeFilters = { ...DEFAULT_FILTERS, service: [] }; 
-
+    activeFilters = {
+        city: [], 
+        service: [], 
+        owner: ["K-LOVE, INC."], 
+        state: []
+    };
     checkBoxes.forEach(checkbox => {
         checkbox.checked = false; 
     })
-    stationInput.value = ""; 
+    stationInput.value = "K-LOVE, INC."; 
     stateInput.value = ""; 
     cityInput.value = ""; 
 
-    document.getElementById("radio-am").checked = true;
-    activeFilters.service = ["AM"];
-
-    onStateSelect("OH");
-    stateInput.value = "OH";
+    onStateSelect("--ALL--");
+    stateInput.value = "--ALL--";
     updateMapFilters(); 
+
+    map.flyTo([40, -95.46], 5)
 }
 
 function showLocations() {
@@ -315,13 +321,16 @@ function hideMarkers() {
 }
 
 function onStateSelect(state) {
-    if (state != "--ALL--") {
-        cityData = geoJsonData.metadata?.cities[state] || []; 
+    if (state === "--ALL--") {
+        cityData = [...new Set(Object.values(geoJsonData.metadata?.cities || {}).flat())];
+        activeFilters.state = []; 
     } else {
-        cityData = geoJsonData.metadata?.cities || [];
+        cityData = geoJsonData.metadata?.cities[state] || [];
+        onFilterChange("state", state);
     }
-    cityInput.value = "";
-    onFilterChange("state", state);
+    cityData.unshift("--ALL--"); 
+    cityInput.value = ""; 
+    updateMapFilters();
 }
 
 /**
@@ -335,7 +344,6 @@ function toggleMarkers() {
         toggleButton.textContent = "Show Plots"
     } else {
         showLocations(); 
-        map.flyTo([40.361667, -82.741667], 7);
         toggleButton.textContent = "Hide Plots"
     }
 }
@@ -347,6 +355,44 @@ function toggleRadius() {
     } else {
         map.addLayer(activeCircle); 
     }
+}
+
+// 5.5 Other Utility Functions
+function haversineDistance(latlng1, latlng2) {
+    const R = 6371; // Earth radius in kilometers
+    const toRadians = (degree) => (degree * Math.PI) / 180;
+
+    const dLat = toRadians(latlng2[0] - latlng1[0]);
+    const dLng = toRadians(latlng2[1] - latlng1[1]);
+
+    const rlat1 = toRadians(latlng1[0]);
+    const rlat2 = toRadians(latlng2[0]);
+
+    const a = Math.sin(dLat / 2) ** 2 +
+              Math.cos(rlat1) * Math.cos(rlat2) *
+              Math.sin(dLng / 2) ** 2;
+
+    const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+
+    return R * c; // Distance in kilometers
+}
+
+function findNearestStation() {
+    let nearestStation = null; 
+    let minDistance = Infinity; 
+    const { lat, lng } = map.getCenter();
+    const userLatLng = [lat, lng];
+
+    currentLatLngData.forEach(({ latlng, layer }) => {
+        const distance = haversineDistance(userLatLng, latlng);
+        if (distance < minDistance) {
+            minDistance = distance;
+            nearestStation = { latlng, layer };
+        }
+    });
+    
+    map.flyTo(nearestStation.latlng, 9);
+    nearestStation.layer.openPopup(); 
 }
 
 // ==========================================
@@ -371,7 +417,7 @@ async function loadData() {
         stateData = [...new Set(stateData)];
         stateData.unshift("--ALL--")
 
-        cityData = geoJsonData.metadata?.cities['OH'] || []; 
+        cityData = [...new Set(Object.values(geoJsonData.metadata?.cities || {}).flat())];
         cityData.unshift("--ALL--");
 
         clearFilters(); 
