@@ -29,7 +29,7 @@ L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
 const legend = L.control({ position: "bottomright" }); 
 
 L.control.zoom({
-    position: 'topright'
+    position: 'bottomright'
 }).addTo(map); 
 
 // ==========================================
@@ -60,7 +60,7 @@ function applyFilters(feature) {
         const actualValue = STATION_MAP[type](feature); 
 
         if (Array.isArray(filterValue)) {
-            return filterValue.includes(String(actualValue).toUpperCase());
+            return filterValue.map(v => v.toUpperCase()).includes(String(actualValue).toUpperCase());
         }
 
         return String(actualValue).toLowerCase() === String(filterValue).toLowerCase(); 
@@ -90,6 +90,37 @@ const filterBarToggle = document.getElementById("filter-toggle");
 filterBarToggle.addEventListener('click', () => {
     filterBar.classList.toggle('open');
 });
+
+const activeFilterBar = document.getElementById("active-filters");
+const activeFilterToggle = document.getElementById("active-filter-toggle");
+
+activeFilterToggle.addEventListener('click', () => {
+    activeFilterBar.classList.toggle('open-right');
+});
+
+// Active Filter Chips
+const CHIPS_CONFIG = {
+    owner: document.querySelector(".active-stations-list"),
+    state: document.querySelector(".active-states-list"),
+    city: document.querySelector(".active-cities-list")
+}
+
+function renderFilterChips() {
+    Object.entries(CHIPS_CONFIG).forEach(([filterKey, listEl]) => {
+        if (!listEl) {
+            console.error(`CHIPS_CONFIG: no element found for key "${filterKey}"`);
+            return;
+        }
+        listEl.innerHTML = ''; 
+
+        activeFilters[filterKey].forEach(value => {
+            const li = document.createElement('li'); 
+            li.className = 'filter-chip'; 
+            li.innerHTML = li.innerHTML = `<span>${value}</span> <button onclick="onFilterChange('${filterKey}', '${value}', true)">✕</button>`; 
+            listEl.append(li); 
+        });
+    });
+}
 
 // ==========================================
 // 3. Data Processing Utilities
@@ -273,14 +304,23 @@ function updateMapFilters() {
 }
 
 function onFilterChange(filterKey, newValue, clear = false) {
+    if (newValue === "--ALL--") {
+        activeFilters[filterKey] = [];
+        updateMapFilters();
+        renderFilterChips();
+        return;
+    }
+
     if (clear) {
-        const index = activeFilters[filterKey].indexOf(newValue); 
-        activeFilters[filterKey].splice(index, 1); 
+        const index = activeFilters[filterKey].indexOf(newValue);
+        activeFilters[filterKey].splice(index, 1);
     } else {
-        activeFilters[filterKey].push(newValue); 
+        if (!activeFilters[filterKey].includes(newValue)) {
+            activeFilters[filterKey].push(newValue);
+        }
     }
     updateMapFilters();
-    return; 
+    renderFilterChips();
 }
 
 function clearFilters() {
@@ -300,6 +340,7 @@ function clearFilters() {
     onStateSelect("--ALL--");
     stateInput.value = "--ALL--";
     updateMapFilters(); 
+    renderFilterChips();
 
     map.flyTo([40, -95.46], 5)
 }
@@ -418,7 +459,6 @@ async function loadData() {
         stateData.unshift("--ALL--")
 
         cityData = [...new Set(Object.values(geoJsonData.metadata?.cities || {}).flat())];
-        cityData.unshift("--ALL--");
 
         clearFilters(); 
         console.log(activeFilters);
