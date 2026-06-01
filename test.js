@@ -29,7 +29,7 @@ L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
 const legend = L.control({ position: "bottomright" }); 
 
 L.control.zoom({
-    position: 'topright'
+    position: 'bottomright'
 }).addTo(map); 
 
 // ==========================================
@@ -38,13 +38,18 @@ L.control.zoom({
 
 // Defining Filters
 const DEFAULT_FILTERS = {
-    city: "", 
+    city: [], 
     service: [], 
-    owner: "", 
-    state: ""
+    owner: ["K-LOVE, INC."], 
+    state: []
 }
 
-let activeFilters = { ...DEFAULT_FILTERS, service: [] };
+let activeFilters = {
+    city: [], 
+    service: [], 
+    owner: ["K-LOVE, INC."], 
+    state: []
+};
 
 function applyFilters(feature) {
     return Object.entries(activeFilters).every(([type, filterValue]) => {
@@ -55,7 +60,7 @@ function applyFilters(feature) {
         const actualValue = STATION_MAP[type](feature); 
 
         if (Array.isArray(filterValue)) {
-            return filterValue.includes(String(actualValue).toUpperCase());
+            return filterValue.map(v => v.toUpperCase()).includes(String(actualValue).toUpperCase());
         }
 
         return String(actualValue).toLowerCase() === String(filterValue).toLowerCase(); 
@@ -85,6 +90,37 @@ const filterBarToggle = document.getElementById("filter-toggle");
 filterBarToggle.addEventListener('click', () => {
     filterBar.classList.toggle('open');
 });
+
+const activeFilterBar = document.getElementById("active-filters");
+const activeFilterToggle = document.getElementById("active-filter-toggle");
+
+activeFilterToggle.addEventListener('click', () => {
+    activeFilterBar.classList.toggle('open-right');
+});
+
+// Active Filter Chips
+const CHIPS_CONFIG = {
+    owner: document.querySelector(".active-stations-list"),
+    state: document.querySelector(".active-states-list"),
+    city: document.querySelector(".active-cities-list")
+}
+
+function renderFilterChips() {
+    Object.entries(CHIPS_CONFIG).forEach(([filterKey, listEl]) => {
+        if (!listEl) {
+            console.error(`CHIPS_CONFIG: no element found for key "${filterKey}"`);
+            return;
+        }
+        listEl.innerHTML = ''; 
+
+        activeFilters[filterKey].forEach(value => {
+            const li = document.createElement('li'); 
+            li.className = 'filter-chip'; 
+            li.innerHTML = li.innerHTML = `<span title="Remove Filter"><button onclick="onFilterChange('${filterKey}', '${value}', true)">✕</button></span> <span>${value}</span>`; 
+            listEl.append(li); 
+        });
+    });
+}
 
 // ==========================================
 // 3. Data Processing Utilities
@@ -198,12 +234,12 @@ checkBoxes.forEach(checkbox => {
             console.log(`${e.target.nextElementSibling.textContent.trim()} was checked`);
 
             if (!activeFilters["service"].includes(checkBoxText)) {
-                onFilterChange("service", checkBoxText, "array");
+                onFilterChange("service", checkBoxText);
             }            
         } else {
             console.log(`${e.target.nextElementSibling.textContent.trim()} was checked`);
             if (activeFilters["service"].includes(checkBoxText)) {
-                onFilterChange("service", checkBoxText, "array", true);
+                onFilterChange("service", checkBoxText, true);
             }          
         }
     });
@@ -218,7 +254,8 @@ checkBoxes.forEach(checkbox => {
  */ 
 let geoJsonData = null;
 let showMarkers = false; 
-let activeCircle = null
+let activeCircle = null;
+let currentLatLngData = [];
 
 const locationMarkersLayer = L.geoJSON(null, {
     filter: feature => applyFilters(feature), 
@@ -244,6 +281,8 @@ const locationMarkersLayer = L.geoJSON(null, {
             ${STATION_MAP.owner(feature)}<br>
             ${STATION_MAP.frequency(feature)} ${STATION_MAP.service(feature)}
         `);
+
+        currentLatLngData.push({ latlng: STATION_MAP.latlng(feature), layer });
     }
 }).addTo(map); 
 
@@ -259,43 +298,51 @@ function updateMapFilters() {
     }
 
     if (showMarkers) {
+        currentLatLngData = [];
         locationMarkersLayer.addData(geoJsonData); 
     }
 }
 
-function onFilterChange(filterKey, newValue, type = null, clear = null) {
-    if (type == "array") {
-        if (clear) {
-            const index = activeFilters[filterKey].indexOf(newValue); 
-            activeFilters[filterKey].splice(index, 1); 
-        } else {
-            activeFilters[filterKey].push(newValue); 
-        }
-        
+function onFilterChange(filterKey, newValue, clear = false) {
+    if (newValue === "--ALL--") {
+        activeFilters[filterKey] = [];
         updateMapFilters();
-        return; 
-    } 
+        renderFilterChips();
+        return;
+    }
 
-    activeFilters[filterKey] = newValue; 
-    updateMapFilters(); 
+    if (clear) {
+        const index = activeFilters[filterKey].indexOf(newValue);
+        activeFilters[filterKey].splice(index, 1);
+    } else {
+        if (!activeFilters[filterKey].includes(newValue)) {
+            activeFilters[filterKey].push(newValue);
+        }
+    }
+    updateMapFilters();
+    renderFilterChips();
 }
 
 function clearFilters() {
-    activeFilters = { ...DEFAULT_FILTERS, service: [] }; 
-
+    activeFilters = {
+        city: [], 
+        service: [], 
+        owner: ["K-LOVE, INC."], 
+        state: []
+    };
     checkBoxes.forEach(checkbox => {
         checkbox.checked = false; 
     })
-    stationInput.value = ""; 
+    stationInput.value = "K-LOVE, INC."; 
     stateInput.value = ""; 
     cityInput.value = ""; 
 
-    document.getElementById("radio-am").checked = true;
-    activeFilters.service = ["AM"];
-
-    onStateSelect("OH");
-    stateInput.value = "OH";
+    onStateSelect("--ALL--");
+    stateInput.value = "--ALL--";
     updateMapFilters(); 
+    renderFilterChips();
+
+    map.flyTo([40, -95.46], 5)
 }
 
 function showLocations() {
@@ -315,13 +362,16 @@ function hideMarkers() {
 }
 
 function onStateSelect(state) {
-    if (state != "--ALL--") {
-        cityData = geoJsonData.metadata?.cities[state] || []; 
+    if (state === "--ALL--") {
+        cityData = [...new Set(Object.values(geoJsonData.metadata?.cities || {}).flat())];
+        activeFilters.state = []; 
     } else {
-        cityData = geoJsonData.metadata?.cities || [];
+        cityData = geoJsonData.metadata?.cities[state] || [];
+        onFilterChange("state", state);
     }
-    cityInput.value = "";
-    onFilterChange("state", state);
+    cityData.unshift("--ALL--"); 
+    cityInput.value = ""; 
+    updateMapFilters();
 }
 
 /**
@@ -335,9 +385,55 @@ function toggleMarkers() {
         toggleButton.textContent = "Show Plots"
     } else {
         showLocations(); 
-        map.flyTo([40.361667, -82.741667], 7);
         toggleButton.textContent = "Hide Plots"
     }
+}
+
+function toggleRadius() {
+    const toggleButton = document.getElementById("toggle-radius"); 
+    if (activeCircle && map.hasLayer(activeCircle)) {
+        map.removeLayer(activeCircle);
+    } else {
+        map.addLayer(activeCircle); 
+    }
+}
+
+// 5.5 Other Utility Functions
+function haversineDistance(latlng1, latlng2) {
+    const R = 6371; // Earth radius in kilometers
+    const toRadians = (degree) => (degree * Math.PI) / 180;
+
+    const dLat = toRadians(latlng2[0] - latlng1[0]);
+    const dLng = toRadians(latlng2[1] - latlng1[1]);
+
+    const rlat1 = toRadians(latlng1[0]);
+    const rlat2 = toRadians(latlng2[0]);
+
+    const a = Math.sin(dLat / 2) ** 2 +
+              Math.cos(rlat1) * Math.cos(rlat2) *
+              Math.sin(dLng / 2) ** 2;
+
+    const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+
+    return R * c; // Distance in kilometers
+}
+
+function findNearestStation() {
+    let nearestStation = null; 
+    let minDistance = Infinity; 
+    const { lat, lng } = map.getCenter();
+    const userLatLng = [lat, lng];
+
+    currentLatLngData.forEach(({ latlng, layer }) => {
+        const distance = haversineDistance(userLatLng, latlng);
+        if (distance < minDistance) {
+            minDistance = distance;
+            nearestStation = { latlng, layer };
+        }
+    });
+    
+    map.flyTo(nearestStation.latlng, 9);
+    nearestStation.layer.openPopup(); 
 }
 
 // ==========================================
@@ -362,8 +458,7 @@ async function loadData() {
         stateData = [...new Set(stateData)];
         stateData.unshift("--ALL--")
 
-        cityData = geoJsonData.metadata?.cities['OH'] || []; 
-        cityData.unshift("--ALL--");
+        cityData = [...new Set(Object.values(geoJsonData.metadata?.cities || {}).flat())];
 
         clearFilters(); 
         console.log(activeFilters);

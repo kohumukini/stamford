@@ -64,16 +64,16 @@ header nav ul li {
     border-radius: 8px; 
 }
 
-header nav ul li a, #reset-button { 
+header nav ul li a, #reset-button, .utility-button { 
     text-decoration: none; 
     color: var(--text-primary);
 }
 
-header nav ul li a:hover, #reset-button:hover {
+header nav ul li a:hover, #reset-button:hover, .utility-button:hover {
     color: white; 
 }
 
-header nav ul li:hover, #reset-button:hover {
+header nav ul li:hover, #reset-button:hover, .utility-button:hover {
     transition: all 0.3s ease-out; 
     transform: scale(1.1);
     background-color: var(--p48-pink);
@@ -82,11 +82,11 @@ header nav ul li:hover, #reset-button:hover {
     box-shadow: var(--neon);
 }
 
-header nav ul li:active, #reset-button:active {
+header nav ul li:active, #reset-button:active, .utility-button:active {
     transform: scale(0.9); 
 }
 
-/* Main Styling */
+/* Styling */
 main {
     overflow: hidden;
     height: calc(100vh - 70px); 
@@ -109,25 +109,61 @@ aside {
     z-index: 1000;
     background: #FFFFFF; 
     position: fixed;   
-    left: -320px; 
     padding: 40px 15px;
-    transition: left 0.4s cubic-bezier(0.4, 0, 0.2, 1);
-    transition: left 0.5s ease-out; 
-    border-bottom-right-radius: 10px; 
-    border-top-right-radius: 10px; 
     top: 70px; 
     overflow-y: scroll; 
-    scrollbar-width: none; 
+}
+
+#filter-bar {
+    left: -320px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    transition: left 0.5s ease-out; 
     overflow-x: visible; 
+}
+
+#active-filters {
+    width: 300px;
+    height: calc(50vh - 70px);
+    position: fixed;
+    right: -300px;
+    top: 70px;
+    background: #FFFFFF;
+    z-index: 1000;
+    padding: 20px 15px;
+    transition: right 0.5s ease-out;
+    overflow-y: auto;
+    border-radius: 10px; 
+    box-shadow: 5px 4px 20px 2px rgba(0,0,0,0.3);
+    display: flex; 
+    flex-direction: column; 
+    justify-content: space-between;
+    align-items: center;
+}
+
+#active-filters.open-right {
+    right: 40px;
+}
+
+.active-section {
+    margin-bottom: 20px;
+}
+
+.active-section h2 {
+    font-size: 0.75em;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--text-secondary);
+    margin-bottom: 8px;
 }
 
 /* Collapsible Aside */ 
 
-aside.open {
+#filter-bar.open {
     left: 0; 
 }
 
-.toggle-button {
+#filter-toggle.toggle-button {
     position: fixed;  
     left: 0;          
     top: 90px;        
@@ -147,7 +183,29 @@ aside.open {
     z-index: 1001;  
 }
 
-aside.open ~ .toggle-button {
+#active-filter-toggle.toggle-button {
+    position: fixed; 
+    right: 0; 
+    top: 240px; 
+    width: 40px; 
+    height: 50px; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    border: none; 
+    color: white; 
+    background: var(--p48-blue); 
+    cursor: pointer; 
+    border-radius: 12px 0 0 12px;
+    font-size: 1.8em;
+    box-shadow: 5px 0 10px rgba(31, 42, 138, 0.2);
+    transition: right 0.5s ease-out;  
+    z-index: 1001; 
+}
+
+#active-filters.open-right ~ #active-filter-toggle { right: 340px; }
+
+#filter-bar.open ~ #filter-toggle.toggle-button {
     left: 320px; 
 }
 
@@ -156,9 +214,9 @@ aside.open ~ .toggle-button {
     transition: transform 0.5s; 
 }
 
-aside.open ~ .toggle-button .arrow {
-    transform: rotate(180deg);
-}
+#filter-bar.open ~ #filter-toggle .arrow { transform: rotate(180deg); }
+
+#active-filters.open-right ~ #active-filter-toggle .arrow { transform: rotate(180deg); }
 
 /* Collapsible Filters Styling */
 .section-reveal {
@@ -273,7 +331,7 @@ fieldset input {
     margin: .5rem; 
 }
 
-#reset-button {
+#reset-button, .utility-button {
     width: 100%; 
     padding: 8px;
     margin: 10px 0; 
@@ -284,4 +342,29 @@ fieldset input {
     border: 1px solid #E0E0E0;
     background: var(--light-bg);
     border-radius: 8px;
+}
+
+/* Active Filters Styling */ 
+.active-section li {
+    list-style-type: none;  
+    text-align: center; 
+    font-weight: bold;  
+}
+
+.active-section button {
+    color: var(--text-primary); 
+    padding: 3px; 
+    font-weight: bold; 
+    border: none; 
+    border-radius: 5px; 
+}
+
+.active-section button:hover {
+    cursor: pointer; 
+    background-color: var(--p48-pink);
+    border: 2px solid var(--p48-blue); 
+    box-shadow: var(--neon); 
+    color: white; 
+    transform: scale(1.1); 
+    transition: all 0.3s ease-out; 
 }
