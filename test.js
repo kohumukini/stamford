@@ -116,7 +116,7 @@ function renderFilterChips() {
         activeFilters[filterKey].forEach(value => {
             const li = document.createElement('li'); 
             li.className = 'filter-chip'; 
-            li.innerHTML = li.innerHTML = `<span>${value}</span> <button onclick="onFilterChange('${filterKey}', '${value}', true)">✕</button>`; 
+            li.innerHTML = li.innerHTML = `<span title="Remove Filter"><button onclick="onFilterChange('${filterKey}', '${value}', true)">✕</button></span> <span>${value}</span>`; 
             listEl.append(li); 
         });
     });

@@ -343,3 +343,28 @@ fieldset input {
     background: var(--light-bg);
     border-radius: 8px;
 }
+
+/* Active Filters Styling */ 
+.active-section li {
+    list-style-type: none;  
+    text-align: center; 
+    font-weight: bold;  
+}
+
+.active-section button {
+    color: var(--text-primary); 
+    padding: 3px; 
+    font-weight: bold; 
+    border: none; 
+    border-radius: 5px; 
+}
+
+.active-section button:hover {
+    cursor: pointer; 
+    background-color: var(--p48-pink);
+    border: 2px solid var(--p48-blue); 
+    box-shadow: var(--neon); 
+    color: white; 
+    transform: scale(1.1); 
+    transition: all 0.3s ease-out; 
+}
