@@ -124,7 +124,7 @@ aside {
 
 #active-filters {
     width: 300px;
-    height: calc(50vh - 70px);
+    height: 300px;
     position: fixed;
     right: -300px;
     top: 70px;
@@ -367,4 +367,32 @@ fieldset input {
     color: white; 
     transform: scale(1.1); 
     transition: all 0.3s ease-out; 
+}
+
+/* style for checkbox */
+.filter-chip {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.filter-chip-label {
+  flex: 1;         
+}
+
+.chip-disabled .filter-chip-label {
+  opacity: 0.45;      
+}
+
+:root {
+    --active-filters-width: 250px;
+    --toggle-width: 40px;
+}
+
+#active-filters {
+    width: var(--active-filters-width);
+}
+
+#active-filters.open-right ~ #active-filter-toggle {
+    right: calc(var(--active-filters-width) + var(--toggle-width));
 }
