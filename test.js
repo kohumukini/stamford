@@ -39,19 +39,43 @@ L.control.zoom({
 // Defining Filters
 const DEFAULT_FILTERS = {
     city: [], 
-    service: [], 
-    owner: ["K-LOVE, INC."], 
+    service: [],
+    owner: ["K-LOVE, INC."],
     state: []
-}
+};
+
+// TESTINGGG
+const disabledFilters = {
+  city: new Set(),
+  service: new Set(),
+  owner: new Set(),
+  state: new Set()
+};
 
 let activeFilters = {
     city: [], 
-    service: [], 
-    owner: ["K-LOVE, INC."], 
+    service: [],
+    owner: ["K-LOVE, INC."],
     state: []
 };
 
 function applyFilters(feature) {
+  return Object.entries(activeFilters).every(([type, filterValue]) => {
+    if (!STATION_MAP[type]) return true;
+
+    if (Array.isArray(filterValue)) {
+      const enabled = filterValue.filter(v => !disabledFilters[type].has(v));
+      if (enabled.length === 0) return true;   // see note below
+      const actual = String(STATION_MAP[type](feature)).toUpperCase();
+      return enabled.map(v => v.toUpperCase()).includes(actual);
+    }
+
+    if (!filterValue || filterValue === "--ALL--") return true;
+    return String(STATION_MAP[type](feature)).toLowerCase() === String(filterValue).toLowerCase();
+  });
+}
+
+/*function applyFilters(feature) {
     return Object.entries(activeFilters).every(([type, filterValue]) => {
         if (Array.isArray(filterValue) && filterValue.length === 0) return true;
         if (!filterValue || filterValue === "--ALL--") return true; 
@@ -65,7 +89,7 @@ function applyFilters(feature) {
 
         return String(actualValue).toLowerCase() === String(filterValue).toLowerCase(); 
     })
-}
+}*/
 
 // Filter Transitions 
 let reveals = document.querySelectorAll(".reveal");
@@ -82,6 +106,33 @@ reveals.forEach(btn => {
         }
     })
 })
+
+window.addEventListener("DOMContentLoaded", () => {
+    // Open left filter bar
+    const filterBar = document.getElementById("filter-bar");
+    filterBar.classList.add("open");
+
+    // Move toggle button to correct position
+    const filterBarToggle = document.getElementById("filter-toggle");
+    filterBarToggle.classList.add("toggle-button");
+
+    // Open right active filters panel
+    const activeFilters = document.getElementById("active-filters");
+    activeFilters.classList.add("open-right");
+
+    // Move right toggle button to correct position
+    const activeFilterToggle = document.getElementById("active-filter-toggle");
+    activeFilterToggle.classList.add("toggle-button");
+});
+
+// Open all collapsible filter sections on page load
+window.addEventListener("DOMContentLoaded", () => {
+    reveals.forEach(btn => {
+        btn.classList.add("active"); // visually mark as open
+        const content = btn.nextElementSibling;
+        content.style.maxHeight = content.scrollHeight + "px"; // expand panel
+    });
+});
 
 // Aside Transition
 const filterBar = document.getElementById("filter-bar");
@@ -106,6 +157,44 @@ const CHIPS_CONFIG = {
 }
 
 function renderFilterChips() {
+  Object.entries(CHIPS_CONFIG).forEach(([filterKey, listEl]) => {
+    if (!listEl) return;
+    listEl.innerHTML = '';
+
+    activeFilters[filterKey].forEach(value => {
+      const li = document.createElement('li');
+      li.className = 'filter-chip';
+
+      const removeBtn = document.createElement('button');
+      removeBtn.textContent = '✕';
+      removeBtn.title = 'Remove Filter';
+      removeBtn.addEventListener('click', () => onFilterChange(filterKey, value, true));
+
+      const label = document.createElement('span');
+      label.className = 'filter-chip-label';
+      label.textContent = value;
+
+      const checkbox = document.createElement('input');
+      checkbox.type = 'checkbox';
+      checkbox.title = 'Toggle Filter';
+      checkbox.checked = !disabledFilters[filterKey].has(value);
+      checkbox.addEventListener('change', () => {
+        if (checkbox.checked) {
+          disabledFilters[filterKey].delete(value);
+        } else {
+          disabledFilters[filterKey].add(value);
+        }
+        li.classList.toggle('chip-disabled', !checkbox.checked);
+        updateMapFilters();   // re-run your map filtering
+      });
+
+      li.append(removeBtn, label, checkbox);
+      listEl.append(li);
+    });
+  });
+}
+
+/*function renderFilterChips() {
     Object.entries(CHIPS_CONFIG).forEach(([filterKey, listEl]) => {
         if (!listEl) {
             console.error(`CHIPS_CONFIG: no element found for key "${filterKey}"`);
@@ -120,7 +209,7 @@ function renderFilterChips() {
             listEl.append(li); 
         });
     });
-}
+}*/
 
 // ==========================================
 // 3. Data Processing Utilities
@@ -326,14 +415,16 @@ function onFilterChange(filterKey, newValue, clear = false) {
 function clearFilters() {
     activeFilters = {
         city: [], 
-        service: [], 
-        owner: ["K-LOVE, INC."], 
+        service: [],
+        owner: ["K-LOVE, INC."],
         state: []
     };
+    
     checkBoxes.forEach(checkbox => {
         checkbox.checked = false; 
     })
-    stationInput.value = "K-LOVE, INC."; 
+
+    stationInput.value = "K-LOVE, INC.";
     stateInput.value = ""; 
     cityInput.value = ""; 
 
